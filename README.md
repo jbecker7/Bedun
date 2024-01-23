@@ -9,5 +9,4 @@ As such, I cobbled together Bedun which, to my knowledge, is the first tool of i
 
 Oh also the `.txt` file of Jerry Norman's dictionary comes from [this repo](https://github.com/purobaburi/manchu-resources) which contains a lot of good stuff. You can find my processed version (which adds Manchu script) saved as `processed_manchu.json`。 Please feel free to use it (and any other part of this project) in any capacity, as it is my hope that more and more accessible resources will lead to better preservation of this great language.
 
-
-
+Please note that this is far from authoritative or perfect. I have already identified multiple small bugs (see issues 😂) and any issues/oddities with the original file were also inherited, e.g. it removed any Chinese in Norman's definitions.
