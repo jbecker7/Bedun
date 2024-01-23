@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'XM_BiaoHei';
+    src: url('fonts/XM_BiaoHei.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_ShuKai';
+    src: url('fonts/XM_ShuKai.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_XingShu';
+    src: url('fonts/XM_XingShu.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_ZhengBai';
+    src: url('fonts/XM_ZhengBai.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_GuFeng';
+    src: url('fonts/XM_GuFeng.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_WenJian';
+    src: url('fonts/XM_WenJian.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_YaBai';
+    src: url('fonts/XM_YaBai.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_ZhengHei';
+    src: url('fonts/XM_ZhengHei.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_LiuYe';
+    src: url('fonts/XM_LiuYe.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_WenQin';
+    src: url('fonts/XM_WenQin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'XM_YingBi';
+    src: url('fonts/XM_YingBi.ttf') format('truetype');
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fa-cog {
+    font-size: 24px;
+    cursor: pointer;
+    color: #777;
+    margin-right: 10px;
+}
+
+#settings {
+    display: inline-block;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+
+#settings.open {
+    display: none;
+}
+
+#font-selector {
+    margin-top: 10px;
+}
+
+.search-container {
+    width: 80%;
+    margin: 20px auto;
+    padding-top: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#search-input {
+    width: 90%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    outline: none;
+}
+
+#search-button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+#search-button:hover {
+    background-color: #444;
+}
+
+label {
+    font-size: 14px;
+    color: #777;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    right: 20px; /* Adjust the right distance as needed */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000;
+    font-family: 'XM_LiuYe', sans-serif !important;
+    font-style: italic;
+}
+
+.popup button {
+    margin-top: 20px;
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.popup button:hover {
+    background-color: #444;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ᠪᡝᡩᡠᠨ Bedun</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/1787593060.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/x-icon" href="aisin.svg">
+</head>
+<body>
+<header>
+    <h1>ᠪᡝᡩᡠᠨ Bedun</h1>
+        <a id="GH" href="https://github.com/jbecker7" target="_blank" rel="noopener noreferrer" style="position: fixed; top: 100px; left: 5%; cursor: pointer; font-size: 24px; color: #333;">
+            <i class="fa-brands fa-github fa-2xl" style="color: #feffff;"></i>
+        </a>
+    <h2>Manchu Dictionary Search Tool</h2>
+    <div id="settings">
+        <i class="fa-solid fa-gear" style="color: #000000;"></i>        <div id="font-selector">
+            <label for="font-select">Select Font:</label>
+            <select id="font-select" onchange="changeFont()">
+                <option value="Arial, sans-serif">Default Font</option>
+                <option value="XM_BiaoHei">XM_BiaoHei</option>
+                <option value="XM_ShuKai">XM_ShuKai</option>
+                <option value="XM_XingShu">XM_XingShu</option>
+                <option value="XM_ZhengBai">XM_ZhengBai</option>
+                <option value="XM_GuFeng">XM_GuFeng</option>
+                <option value="XM_WenJian">XM_WenJian</option>
+                <option value="XM_YaBai">XM_YaBai</option>
+                <option value="XM_ZhengHei">XM_ZhengHei</option>
+                <option value="XM_LiuYe">XM_LiuYe</option>
+                <option value="XM_WenQin">XM_WenQin</option>
+                <option value="XM_YingBi">XM_YingBi</option>
+            </select>
+        </div>
+    </div>
+</header>
+
+<div class="search-container">
+    <input type="text" id="search-input" placeholder="Search for Romanized Manchu, English, or Manchu Script...">
+    <br><br>
+    <button id="search-button" onclick="searchDictionary()">Search</button>
+    <label>
+        <input type="checkbox" id="whole-word-toggle">
+        Search whole word only
+    </label>
+    <br><br>
+    <div id="results"></div>
+</div>
+
+<div class="popup">
+    <button onclick="closePopup()">Close</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
