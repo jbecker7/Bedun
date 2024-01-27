@@ -12,7 +12,9 @@
     font-family: 'XM_XingShu';
     src: url('fonts/XM_XingShu.ttf') format('truetype');
 }
-
+div{
+    text-orientation: unset !important;
+}
 @font-face {
     font-family: 'XM_ZhengBai';
     src: url('fonts/XM_ZhengBai.ttf') format('truetype');
@@ -148,7 +150,7 @@ label {
     display: none;
     position: fixed;
     top: 50%;
-    right: 20px; /* Adjust the right distance as needed */
+    right: 20px; 
     background-color: white;
     border: 1px solid #ccc;
     padding: 20px;

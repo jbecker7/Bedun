@@ -86544,39 +86544,46 @@ const dictionary = {
 let selectedFont = 'sans-serif';
 
 function showVerticalText(manchuText) {
-    const popup = document.createElement('div');
-    popup.style.position = 'fixed';
-    popup.style.top = '60%';
-    popup.style.left = '70%';
-    popup.style.transform = 'translate(-50%, -50%)';
-    popup.style.border = '1px solid black';
-    popup.style.backgroundColor = 'white';
-    popup.style.padding = '30px';
-    popup.style.zIndex = '1000';
+  const popup = document.createElement('div');
+  popup.style.position = 'fixed';
+  popup.style.top = '60%';
+  popup.style.left = '70%';
+  popup.style.transform = 'translate(-50%, -50%)';
+  popup.style.border = '1px solid black';
+  popup.style.backgroundColor = 'white';
+  popup.style.padding = '30px';
+  popup.style.zIndex = '1000';
 
-    const textContainer = document.createElement('div');
-    textContainer.style.writingMode = 'vertical-rl';
-    textContainer.style.textOrientation = 'upright';
-    textContainer.style.webkitWritingMode = 'vertical-rl';
-    textContainer.style.mozWritingMode = 'vertical-rl';
+  const textContainer = document.createElement('div');
 
-    textContainer.textContent = manchuText;
-    textContainer.style.fontSize = '30px';
-    textContainer.style.fontFamily = selectedFont;
-    textContainer.style.marginBottom = '20px'; 
+  const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 
-    popup.appendChild(textContainer);
+  // Apply vertical text styles only if it's not Safari boo Safari
+  if (!isSafari) {
+      textContainer.style.writingMode = 'vertical-rl';
+      textContainer.style.textOrientation = 'upright';
+      textContainer.style.webkitWritingMode = 'vertical-rl';
+      textContainer.style.mozWritingMode = 'vertical-rl';
+  }
 
-    const closeButton = document.createElement('button');
-    closeButton.textContent = 'Close';
-    closeButton.onclick = function() {
-        document.body.removeChild(popup);
-    };
+  textContainer.textContent = manchuText;
+  textContainer.style.fontSize = '30px';
+  textContainer.style.fontFamily = selectedFont; // Ensure selectedFont is defined
+  textContainer.style.marginBottom = '20px'; 
 
-    popup.appendChild(closeButton);
+  popup.appendChild(textContainer);
 
-    document.body.appendChild(popup);
+  const closeButton = document.createElement('button');
+  closeButton.textContent = 'Close';
+  closeButton.onclick = function() {
+      document.body.removeChild(popup);
+  };
+
+  popup.appendChild(closeButton);
+
+  document.body.appendChild(popup);
 }
+
 
 function searchDictionary() {
     const input = document.getElementById('search-input').value.toLowerCase();
@@ -86607,7 +86614,7 @@ function searchDictionary() {
                 <strong>Manchu:</strong> ${manchu} <br>
                 <strong>English:</strong> ${english}<br>
                 <strong>Check Buleku: </strong> <a href="https://buleku.org/detail/${romanized}" target="_blank" rel="noopener noreferrer">here</a><br>
-                <button onclick="showVerticalText('${manchu}')">Show Vertical</button><br><br><br>`;
+                <button onclick="showVerticalText('${manchu}')">Make Larger</button><br><br><br>`;
 
             resultElement.style.border = '1px solid #000'; 
             resultElement.style.padding = '10px'; 
