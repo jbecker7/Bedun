@@ -12,7 +12,7 @@ const dictionary = {
     "the outside edge of a piece of folded paper"
   ],
   "a jijun i acangga": [
-    "ᠠ ᠵᡳᠵᡠᠨ ᡳ ᠠᠴᠠᠨᡤᡤᠠ",
+    "ᠠ ᠵᡳᠵᡠᠨ ᡳ ᠠᠴᠠᠩᡤᠠ",
     "a bronze identification token with raised characters used to gain admittance to a city at night"
   ],
   "a jilgan": [
@@ -20,7 +20,7 @@ const dictionary = {
     "a yang tone in music"
   ],
   "a fa sere onggolo": [
-    "ᠠ ᡶᠠ ᠰᡝᡵᡝ ᠣᠨᡤᡤᠣᠯᠣ",
+    "ᠠ ᡶᠠ ᠰᡝᡵᡝ ᠣᠩᡤᠣᠯᠣ",
     "see afanggala"
   ],
   "a si": [
@@ -88,19 +88,19 @@ const dictionary = {
     "see abtalambi"
   ],
   "abdangga": [
-    "ᠠᠪᡩᠠᠨᡤᡤᠠ",
+    "ᠠᠪᡩᠠᠩᡤᠠ",
     "1. having leaves, leafy 2. folded accordion fashion"
   ],
   "abdangga afaha": [
-    "ᠠᠪᡩᠠᠨᡤᡤᠠ ᠠᡶᠠᡥᠠ",
+    "ᠠᠪᡩᠠᠩᡤᠠ ᠠᡶᠠᡥᠠ",
     "a paper folded accordion fashion"
   ],
   "abdangga bithe": [
-    "ᠠᠪᡩᠠᠨᡤᡤᠠ ᠪᡳᡨᡥᡝ",
+    "ᠠᠪᡩᠠᠩᡤᠠ ᠪᡳᡨᡥᡝ",
     "a document folded accordion fashion"
   ],
   "abdangga fungnehen abdangga moo": [
-    "ᠠᠪᡩᠠᠨᡤᡤᠠ ᡶᡠᠨᡤᠨᡝᡥᡝᠨ ᠠᠪᡩᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠠᠪᡩᠠᠩᡤᠠ ᡶᡠᠩᠨᡝᡥᡝᠨ ᠠᠪᡩᠠᠩᡤᠠ ᠮᠣᠣ",
     "an imperial document on yellow or gold paper the Chinese fan palm"
   ],
   "abdari": [
@@ -140,15 +140,15 @@ const dictionary = {
     "1. sky, heaven 2. weather 3. emperor"
   ],
   "abka be ginggulere yamun bh": [
-    "ᠠᠪᡴᠠ ᠪᡝ ᡤᡳᠨᡤᡤᡠᠯᡝᡵᡝ ᠶᠠᠮᡠᠨ ᠪᡥ",
+    "ᠠᠪᡴᠠ ᠪᡝ ᡤᡳᠩᡤᡠᠯᡝᡵᡝ ᠶᠠᠮᡠᠨ ᠪᡥ",
     "Imperial Board of Astronomy, 223"
   ],
   "abka be ginggulere yamun i aliha hafan bh": [
-    "ᠠᠪᡴᠠ ᠪᡝ ᡤᡳᠨᡤᡤᡠᠯᡝᡵᡝ ᠶᠠᠮᡠᠨ ᡳ ᠠᠯᡳᡥᠠ ᡥᠠᡶᠠᠨ ᠪᡥ",
+    "ᠠᠪᡴᠠ ᠪᡝ ᡤᡳᠩᡤᡠᠯᡝᡵᡝ ᠶᠠᠮᡠᠨ ᡳ ᠠᠯᡳᡥᠠ ᡥᠠᡶᠠᠨ ᠪᡥ",
     "Director of the Imperial Board of Astronomy, 223"
   ],
   "abka be ginggulere yamun i ilihi hafan bh": [
-    "ᠠᠪᡴᠠ ᠪᡝ ᡤᡳᠨᡤᡤᡠᠯᡝᡵᡝ ᠶᠠᠮᡠᠨ ᡳ ᡳᠯᡳᡥᡳ ᡥᠠᡶᠠᠨ ᠪᡥ",
+    "ᠠᠪᡴᠠ ᠪᡝ ᡤᡳᠩᡤᡠᠯᡝᡵᡝ ᠶᠠᠮᡠᠨ ᡳ ᡳᠯᡳᡥᡳ ᡥᠠᡶᠠᠨ ᠪᡥ",
     "Vice-Director of the Imperial Board of Astronomy, 223"
   ],
   "abka heyenehebi": [
@@ -164,11 +164,11 @@ const dictionary = {
     "the sky has become overcast with mist and clouds by nature, naturally, natural a demon of the sky, a scoundrel, a thoroughly mischievous person"
   ],
   "abkai banjibungga enduri": [
-    "ᠠᠪᡴᠠᡳ ᠪᠠᠨᠵᡳᠪᡠᠨᡤᡤᠠ ᡝᠨᡩᡠᡵᡳ",
+    "ᠠᠪᡴᠠᡳ ᠪᠠᠨᠵᡳᠪᡠᠩᡤᠠ ᡝᠨᡩᡠᡵᡳ",
     "the name of the goddess of the sea"
   ],
   "abkai buhungge kiru": [
-    "ᠠᠪᡴᠠᡳ ᠪᡠᡥᡠᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᠠᠪᡴᠠᡳ ᠪᡠᡥᡠᠩᡤᡝ ᡴᡳᡵᡠ",
     "a banner having upon it the symbol of the 'heavenly deer'"
   ],
   "abkai buten": [
@@ -188,7 +188,7 @@ const dictionary = {
     "an imperial punitive expedition"
   ],
   "abkai dengjan": [
-    "ᠠᠪᡴᠠᡳ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠠᠪᡴᠠᡳ ᡩᡝᠩᠵᠠᠨ",
     "a lantern hung on a pole"
   ],
   "abkaai duka be neire mudan": [
@@ -196,7 +196,7 @@ const dictionary = {
     "the music used in rites to honor a new Metropolitan Graduate"
   ],
   "abkai durungga tetun": [
-    "ᠠᠪᡴᠠᡳ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᠠᠪᡴᠠᡳ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "a model of the heavenly bodies"
   ],
   "abkai fejergi": [
@@ -204,7 +204,7 @@ const dictionary = {
     "all under heaven--the world, the universe"
   ],
   "abkai fulingga": [
-    "ᠠᠪᡴᠠᡳ ᡶᡠᠯᡳᠨᡤᡤᠠ",
+    "ᠠᠪᡴᠠᡳ ᡶᡠᠯᡳᠩᡤᠠ",
     "the T'ien-ming reign period, 1616-1626"
   ],
   "abkai han": [
@@ -224,7 +224,7 @@ const dictionary = {
     "the first star of the Great Bear"
   ],
   "abkai imiyangga goloi bolgobure fiyenten": [
-    "ᠠᠪᡴᠠᡳ ᡳᠮᡳᠶᠠᠨᡤᡤᠠ ᡤᠣᠯᠣᡳ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ",
+    "ᠠᠪᡴᠠᡳ ᡳᠮᡳᠶᠠᠩᡤᠠ ᡤᠣᠯᠣᡳ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ",
     "a section of the Bureau of Justice in Mukden"
   ],
   "abkai jui": [
@@ -236,7 +236,7 @@ const dictionary = {
     "a mythical beast--like a horse but with fleshy wings"
   ],
   "abkai moringga kiru": [
-    "ᠠᠪᡴᠠᡳ ᠮᠣᡵᡳᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠠᠪᡴᠠᡳ ᠮᠣᡵᡳᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner having the symbol of the 'heavenly horse' upon it"
   ],
   "abkai sihiyaku": [
@@ -272,7 +272,7 @@ const dictionary = {
     "the North Star"
   ],
   "abkai qang": [
-    "ᠠᠪᡴᠠᡳ qᠠᠨᡤ",
+    "ᠠᠪᡴᠠᡳ qᠠᠩ",
     "an imperial grain depository"
   ],
   "abkai wehiyehe": [
@@ -280,7 +280,7 @@ const dictionary = {
     "the Ch'ien-lung reign period, 1736-1796"
   ],
   "abkai yang": [
-    "ᠠᠪᡴᠠᡳ ᠶᠠᠨᡤ",
+    "ᠠᠪᡴᠠᡳ ᠶᠠᠩ",
     "the sun"
   ],
   "abkambi": [
@@ -344,7 +344,7 @@ const dictionary = {
     "not knowing how it happened"
   ],
   "absi serengge": [
-    "ᠠᠪᠰᡳ ᠰᡝᡵᡝᠨᡤᡤᡝ",
+    "ᠠᠪᠰᡳ ᠰᡝᡵᡝᠩᡤᡝ",
     "what are you saying? nothing of the sort"
   ],
   "absi yabsi": [
@@ -480,7 +480,7 @@ const dictionary = {
     "supply officer"
   ],
   "acabume hvlara falgangga": [
-    "ᠠᠴᠠᠪᡠᠮᡝ ᡥᡡᠯᠠᡵᠠ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ",
+    "ᠠᠴᠠᠪᡠᠮᡝ ᡥᡡᠯᠠᡵᠠ ᡶᠠᠯᡤᠠᠩᡤᠠ",
     "examination reading office"
   ],
   "acabume hvlara hafan": [
@@ -492,7 +492,7 @@ const dictionary = {
     "a tally consisting of two fitting parts"
   ],
   "acabume tuwara bithei kunggeri": [
-    "ᠠᠴᠠᠪᡠᠮᡝ ᡨᡠᠸᠠᡵᠠ ᠪᡳᡨᡥᡝᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠠᠴᠠᠪᡠᠮᡝ ᡨᡠᠸᠠᡵᠠ ᠪᡳᡨᡥᡝᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office for issuing tallies in the Board of War"
   ],
   "acabun": [
@@ -508,23 +508,23 @@ const dictionary = {
     "offering made to the earth god on a hill"
   ],
   "acabungga": [
-    "ᠠᠴᠠᠪᡠᠨᡤᡤᠠ",
+    "ᠠᠴᠠᠪᡠᠩᡤᠠ",
     "united, harmonized, adapted"
   ],
   "acabungga boji": [
-    "ᠠᠴᠠᠪᡠᠨᡤᡤᠠ ᠪᠣᠵᡳ",
+    "ᠠᠴᠠᠪᡠᠩᡤᠠ ᠪᠣᠵᡳ",
     "contract"
   ],
   "acabungga fukjingga hergen": [
-    "ᠠᠴᠠᠪᡠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠠᠴᠠᠪᡠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "an ancient style of Chinese calligraphy"
   ],
   "acabungga inenggi": [
-    "ᠠᠴᠠᠪᡠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠠᠴᠠᠪᡠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "a day on which the yin and yang elements harmonize"
   ],
   "acabungga jungken": [
-    "ᠠᠴᠠᠪᡠᠨᡤᡤᠠ ᠵᡠᠨᡤᡴᡝᠨ",
+    "ᠠᠴᠠᠪᡠᠩᡤᠠ ᠵᡠᠩᡴᡝᠨ",
     "chimes"
   ],
   "acalambi": [
@@ -556,15 +556,15 @@ const dictionary = {
     "to come together in oneplace, to pool together (money)"
   ],
   "acamjangga": [
-    "ᠠᠴᠠᠮᠵᠠᠨᡤᡤᠠ",
+    "ᠠᠴᠠᠮᠵᠠᠩᡤᠠ",
     "composite"
   ],
   "acamjangga besergen": [
-    "ᠠᠴᠠᠮᠵᠠᠨᡤᡤᠠ ᠪᡝᠰᡝᡵᡤᡝᠨ",
+    "ᠠᠴᠠᠮᠵᠠᠩᡤᠠ ᠪᡝᠰᡝᡵᡤᡝᠨ",
     "a large bed composed of a number of individual beds put together"
   ],
   "acamjangga mulan": [
-    "ᠠᠴᠠᠮᠵᠠᠨᡤᡤᠠ ᠮᡠᠯᠠᠨ",
+    "ᠠᠴᠠᠮᠵᠠᠩᡤᠠ ᠮᡠᠯᠠᠨ",
     "a large bench composed of several individual smaller benches"
   ],
   "acan": [
@@ -576,7 +576,7 @@ const dictionary = {
     "Second Class Subprefect,"
   ],
   "acan giranggi": [
-    "ᠠᠴᠠᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᠠᠴᠠᠨ ᡤᡳᡵᠠᠩᡤᡳ",
     "shoulder bone"
   ],
   "acanambi": [
@@ -592,11 +592,11 @@ const dictionary = {
     "to meet together"
   ],
   "acangga": [
-    "ᠠᠴᠠᠨᡤᡤᠠ",
+    "ᠠᠴᠠᠩᡤᠠ",
     "1. harmonious, fitting 2. a tally, an identification token"
   ],
   "acangga inenggi": [
-    "ᠠᠴᠠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠠᠴᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "a day that the heaven's stems, earth's branches, and the five elements all coincide favorably"
   ],
   "acanjimbi": [
@@ -664,11 +664,11 @@ const dictionary = {
     "to load together"
   ],
   "acinggiyabumbi": [
-    "ᠠᠴᡳᠨᡤᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
+    "ᠠᠴᡳᠩᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
     "caus. of acinggiyambi"
   ],
   "acinggiyambi": [
-    "ᠠᠴᡳᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠠᠴᡳᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to move slightly, to"
   ],
   "acu": [
@@ -732,7 +732,7 @@ const dictionary = {
     "an accompanying official"
   ],
   "adabuha wesimbure bithei kunggeri": [
-    "ᠠᡩᠠᠪᡠᡥᠠ ᠸᡝᠰᡳᠮᠪᡠᡵᡝ ᠪᡳᡨᡥᡝᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠠᡩᠠᠪᡠᡥᠠ ᠸᡝᠰᡳᠮᠪᡠᡵᡝ ᠪᡳᡨᡥᡝᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "archives section"
   ],
   "adabume wecembi": [
@@ -780,7 +780,7 @@ const dictionary = {
     "somewhat like"
   ],
   "adalingga": [
-    "ᠠᡩᠠᠯᡳᠨᡤᡤᠠ",
+    "ᠠᡩᠠᠯᡳᠩᡤᠠ",
     "similar"
   ],
   "adalixambi": [
@@ -808,11 +808,11 @@ const dictionary = {
     "Reader of the Academy, 194}"
   ],
   "adaha giyangnara bithei da bh": [
-    "ᠠᡩᠠᡥᠠ ᡤᡳᠶᠠᠨᡤᠨᠠᡵᠠ ᠪᡳᡨᡥᡝᡳ ᡩᠠ ᠪᡥ",
+    "ᠠᡩᠠᡥᠠ ᡤᡳᠶᠠᠩᠨᠠᡵᠠ ᠪᡳᡨᡥᡝᡳ ᡩᠠ ᠪᡥ",
     "Expositor of the Academy, 195"
   ],
   "adaha giyangnara hafan bh": [
-    "ᠠᡩᠠᡥᠠ ᡤᡳᠶᠠᠨᡤᠨᠠᡵᠠ ᡥᠠᡶᠠᠨ ᠪᡥ",
+    "ᠠᡩᠠᡥᠠ ᡤᡳᠶᠠᠩᠨᠠᡵᠠ ᡥᠠᡶᠠᠨ ᠪᡥ",
     "subexpositor, 197"
   ],
   "adaha hafan bh": [
@@ -868,7 +868,7 @@ const dictionary = {
     "lapel"
   ],
   "adasungga": [
-    "ᠠᡩᠠᠰᡠᠨᡤᡤᠠ",
+    "ᠠᡩᠠᠰᡠᠩᡤᠠ",
     "having lapels"
   ],
   "adislambi": [
@@ -932,11 +932,11 @@ const dictionary = {
     "a swarming insect that attacks new grain shoots"
   ],
   "adunggiyabumbi": [
-    "ᠠᡩᡠᠨᡤᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
+    "ᠠᡩᡠᠩᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
     "caus./pass. of adunggiyambi"
   ],
   "adunggiyambi": [
-    "ᠠᡩᡠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠠᡩᡠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to mistreat, to be cruel to"
   ],
   "adurambi": [
@@ -952,7 +952,7 @@ const dictionary = {
     "1. caus. of afambi: 2. to hand over to, to entrust to 3. to commission, to order, to bid"
   ],
   "afabume unggire bithe": [
-    "ᠠᡶᠠᠪᡠᠮᡝ ᡠᠨᡤᡤᡳᡵᡝ ᠪᡳᡨᡥᡝ",
+    "ᠠᡶᠠᠪᡠᠮᡝ ᡠᠩᡤᡳᡵᡝ ᠪᡳᡨᡥᡝ",
     "a document from a higher organ to one of its subordinates"
   ],
   "afaha": [
@@ -1020,11 +1020,11 @@ const dictionary = {
     "to attack together, to fight together"
   ],
   "afanggala": [
-    "ᠠᡶᠠᠨᡤᡤᠠᠯᠠ",
+    "ᠠᡶᠠᠩᡤᠠᠯᠠ",
     "beforehand, prematurely"
   ],
   "afanggala jabdumbi": [
-    "ᠠᡶᠠᠨᡤᡤᠠᠯᠠ ᠵᠠᠪᡩᡠᠮᠪᡳ",
+    "ᠠᡶᠠᠩᡤᠠᠯᠠ ᠵᠠᠪᡩᡠᠮᠪᡳ",
     "to shoot before everyone else on a battue"
   ],
   "afanjimbi": [
@@ -1092,11 +1092,11 @@ const dictionary = {
     "to rain incessantly"
   ],
   "agangga": [
-    "ᠠᡤᠠᠨᡤᡤᠠ",
+    "ᠠᡤᠠᠩᡤᠠ",
     "pertaining to rain"
   ],
   "agangga sara": [
-    "ᠠᡤᠠᠨᡤᡤᠠ ᠰᠠᡵᠠ",
+    "ᠠᡤᠠᠩᡤᠠ ᠰᠠᡵᠠ",
     "an umbrella"
   ],
   "age bh": [
@@ -1108,7 +1108,7 @@ const dictionary = {
     "a swelling found on the larch (Larix leptolepis) that is used as a medicine"
   ],
   "agengge": [
-    "ᠠᡤᡝᠨᡤᡤᡝ",
+    "ᠠᡤᡝᠩᡤᡝ",
     "pertaining to a superior--your, yours"
   ],
   "agese": [
@@ -1160,7 +1160,7 @@ const dictionary = {
     "serving boys and maids"
   ],
   "aha sengse": [
-    "ᠠᡥᠠ ᠰᡝᠨᡤᠰᡝ",
+    "ᠠᡥᠠ ᠰᡝᠩᠰᡝ",
     "lazy slave-girl! a deprecation addressed to a lazy woman"
   ],
   "ahada": [
@@ -1224,15 +1224,15 @@ const dictionary = {
     "according to the difference of age"
   ],
   "ahvngga": [
-    "ᠠᡥᡡᠨᡤᡤᠠ",
+    "ᠠᡥᡡᠩᡤᠠ",
     "eldest, of the first rank, eldest son"
   ],
   "ahvngga enen": [
-    "ᠠᡥᡡᠨᡤᡤᠠ ᡝᠨᡝᠨ",
+    "ᠠᡥᡡᠩᡤᠠ ᡝᠨᡝᠨ",
     "children of the chief wife"
   ],
   "ahvngga jui": [
-    "ᠠᡥᡡᠨᡤᡤᠠ ᠵᡠᡳ",
+    "ᠠᡥᡡᠩᡤᠠ ᠵᡠᡳ",
     "eldest son"
   ],
   "ahvra": [
@@ -1276,7 +1276,7 @@ const dictionary = {
     "in what cyclical year were you born?"
   ],
   "ai baingge": [
-    "ᠠᡳ ᠪᠠᡳᠨᡤᡤᡝ",
+    "ᠠᡳ ᠪᠠᡳᠩᡤᡝ",
     "from where? whence?"
   ],
   "ai baita": [
@@ -1428,7 +1428,7 @@ const dictionary = {
     "to swell"
   ],
   "aibingge": [
-    "ᠠᡳᠪᡳᠨᡤᡤᡝ",
+    "ᠠᡳᠪᡳᠩᡤᡝ",
     "from where?"
   ],
   "aibishvn": [
@@ -1500,7 +1500,7 @@ const dictionary = {
     "a factory for making glazed products"
   ],
   "aiha sirgei dengjan": [
-    "ᠠᡳᡥᠠ ᠰᡳᡵᡤᡝᡳ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠠᡳᡥᠠ ᠰᡳᡵᡤᡝᡳ ᡩᡝᠩᠵᠠᠨ",
     "a lamp or lantern made of glass fiber and mounted on a wooden stand"
   ],
   "aiha xuxu": [
@@ -1592,7 +1592,7 @@ const dictionary = {
     "to go by a roundabout way"
   ],
   "ailungga": [
-    "ᠠᡳᠯᡠᠨᡤᡤᠠ",
+    "ᠠᡳᠯᡠᠩᡤᠠ",
     "elegant, elegantly"
   ],
   "aimaka": [
@@ -1628,11 +1628,11 @@ const dictionary = {
     "chieftain of a native tribe; cf."
   ],
   "aiman i hafan i kunggeri bh 861a": [
-    "ᠠᡳᠮᠠᠨ ᡳ ᡥᠠᡶᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ ᠪᡥ 861ᠠ",
+    "ᠠᡳᠮᠠᠨ ᡳ ᡥᠠᡶᠠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ ᠪᡥ 861ᠠ",
     "section on native administrators; cf."
   ],
   "aiman i minggada bh 861a": [
-    "ᠠᡳᠮᠠᠨ ᡳ ᠮᡳᠨᡤᡤᠠᡩᠠ ᠪᡥ 861ᠠ",
+    "ᠠᡳᠮᠠᠨ ᡳ ᠮᡳᠩᡤᠠᡩᠠ ᠪᡥ 861ᠠ",
     "chieftain of one thousand,"
   ],
   "aiman i selgiyere bilure hafan bh 861a": [
@@ -1644,7 +1644,7 @@ const dictionary = {
     "cf.BH"
   ],
   "aiman i tanggvda bh 861a": [
-    "ᠠᡳᠮᠠᠨ ᡳ ᡨᠠᠨᡤᡤᡡᡩᠠ ᠪᡥ 861ᠠ",
+    "ᠠᡳᠮᠠᠨ ᡳ ᡨᠠᠩᡤᡡᡩᠠ ᠪᡥ 861ᠠ",
     "chieftain of one hundred; cf."
   ],
   "aiman i toktobure bilure hafan bh 861a": [
@@ -1724,7 +1724,7 @@ const dictionary = {
     "lest something happen, fear something will happen"
   ],
   "ainarangge": [
-    "ᠠᡳᠨᠠᡵᠠᠨᡤᡤᡝ",
+    "ᠠᡳᠨᠠᡵᠠᠩᡤᡝ",
     "what is done? sini ere ainarangge? 'what is this that you have done?'"
   ],
   "ainci": [
@@ -1756,7 +1756,7 @@ const dictionary = {
     "1. why? 2. same as ai seine"
   ],
   "aiserengge": [
-    "ᠠᡳᠰᡝᡵᡝᠨᡤᡤᡝ",
+    "ᠠᡳᠰᡝᡵᡝᠩᡤᡝ",
     "what sort of speech? sini ere aiserengge 'what is this you say?'"
   ],
   "aisha": [
@@ -1808,11 +1808,11 @@ const dictionary = {
     "to dispatch funds for assistance"
   ],
   "aisilame benere menggun": [
-    "ᠠᡳᠰᡳᠯᠠᠮᡝ ᠪᡝᠨᡝᡵᡝ ᠮᡝᠨᡤᡤᡠᠨ",
+    "ᠠᡳᠰᡳᠯᠠᠮᡝ ᠪᡝᠨᡝᡵᡝ ᠮᡝᠩᡤᡠᠨ",
     "funds dispatched for assistance"
   ],
   "aisilame bure menggun": [
-    "ᠠᡳᠰᡳᠯᠠᠮᡝ ᠪᡠᡵᡝ ᠮᡝᠨᡤᡤᡠᠨ",
+    "ᠠᡳᠰᡳᠯᠠᠮᡝ ᠪᡠᡵᡝ ᠮᡝᠩᡤᡠᠨ",
     "grant money"
   ],
   "aisilame dasara dooli hafan": [
@@ -1856,7 +1856,7 @@ const dictionary = {
     "to help together, to help one another"
   ],
   "aisilangga bh 656d": [
-    "ᠠᡳᠰᡳᠯᠠᠨᡤᡤᠠ ᠪᡥ 656ᡩ",
+    "ᠠᡳᠰᡳᠯᠠᠩᡤᠠ ᠪᡥ 656ᡩ",
     "colonel of a brigade; cf. 752,"
   ],
   "aisilanjimbi": [
@@ -1888,7 +1888,7 @@ const dictionary = {
     "a sort of red flower whose petals overlap one another like alms bowls"
   ],
   "aisin cangga": [
-    "ᠠᡳᠰᡳᠨ ᠴᠠᠨᡤᡤᠠ",
+    "ᠠᡳᠰᡳᠨ ᠴᠠᠩᡤᠠ",
     "a golden signal bell"
   ],
   "aisin cecike ilha": [
@@ -1904,7 +1904,7 @@ const dictionary = {
     "a golden spittoon"
   ],
   "aisin dengjan ilha": [
-    "ᠠᡳᠰᡳᠨ ᡩᡝᠨᡤᠵᠠᠨ ᡳᠯᡥᠠ",
+    "ᠠᡳᠰᡳᠨ ᡩᡝᠩᠵᠠᠨ ᡳᠯᡥᠠ",
     "same as aisimu ilha"
   ],
   "aisin dere obokv": [
@@ -1936,11 +1936,11 @@ const dictionary = {
     "golden thread"
   ],
   "aisin ilhangga sukv": [
-    "ᠠᡳᠰᡳᠨ ᡳᠯᡥᠠᠨᡤᡤᠠ ᠰᡠᡴᡡ",
+    "ᠠᡳᠰᡳᠨ ᡳᠯᡥᠠᠩᡤᠠ ᠰᡠᡴᡡ",
     "leather decorated with golden flowers"
   ],
   "aisin inggali": [
-    "ᠠᡳᠰᡳᠨ ᡳᠨᡤᡤᠠᠯᡳ",
+    "ᠠᡳᠰᡳᠨ ᡳᠩᡤᠠᠯᡳ",
     "1. golden wagtail 2. a sort of yellow flower"
   ],
   "aisin jalasu": [
@@ -1952,15 +1952,15 @@ const dictionary = {
     "kumquat"
   ],
   "aisin kanggiri": [
-    "ᠠᡳᠰᡳᠨ ᡴᠠᠨᡤᡤᡳᡵᡳ",
+    "ᠠᡳᠰᡳᠨ ᡴᠠᠩᡤᡳᡵᡳ",
     "a small golden bell worn on hats by officials"
   ],
   "aisin lakiyangga hiyan dabukv": [
-    "ᠠᡳᠰᡳᠨ ᠯᠠᡴᡳᠶᠠᠨᡤᡤᠠ ᡥᡳᠶᠠᠨ ᡩᠠᠪᡠᡴᡡ",
+    "ᠠᡳᠰᡳᠨ ᠯᠠᡴᡳᠶᠠᠩᡤᠠ ᡥᡳᠶᠠᠨ ᡩᠠᠪᡠᡴᡡ",
     "a golden warming pan held in the hands"
   ],
   "aisin lashangga ose loho": [
-    "ᠠᡳᠰᡳᠨ ᠯᠠᠰᡥᠠᠨᡤᡤᠠ ᠣᠰᡝ ᠯᠣᡥᠣ",
+    "ᠠᡳᠰᡳᠨ ᠯᠠᠰᡥᠠᠩᡤᠠ ᠣᠰᡝ ᠯᠣᡥᠣ",
     "a gilded Japanese sword"
   ],
   "aisin lujen": [
@@ -1984,7 +1984,7 @@ const dictionary = {
     "the Chinese Trollius"
   ],
   "aisin nikekungge mulan": [
-    "ᠠᡳᠰᡳᠨ ᠨᡳᡴᡝᡴᡠᠨᡤᡤᡝ ᠮᡠᠯᠠᠨ",
+    "ᠠᡳᠰᡳᠨ ᠨᡳᡴᡝᡴᡠᠩᡤᡝ ᠮᡠᠯᠠᠨ",
     "a stool with carved golden dragon decorations"
   ],
   "aisin niyanjan": [
@@ -2008,11 +2008,11 @@ const dictionary = {
     "another name for the chicken"
   ],
   "aisin ujungga garu": [
-    "ᠠᡳᠰᡳᠨ ᡠᠵᡠᠨᡤᡤᠠ ᡤᠠᡵᡠ",
+    "ᠠᡳᠰᡳᠨ ᡠᠵᡠᠩᡤᠠ ᡤᠠᡵᡠ",
     "a golden-headed swan"
   ],
   "aisin ujungga yengguhe": [
-    "ᠠᡳᠰᡳᠨ ᡠᠵᡠᠨᡤᡤᠠ ᠶᡝᠨᡤᡤᡠᡥᡝ",
+    "ᠠᡳᠰᡳᠨ ᡠᠵᡠᠩᡤᠠ ᠶᡝᠩᡤᡠᡥᡝ",
     "a yellow-headed parrot"
   ],
   "aisin usiha": [
@@ -2020,11 +2020,11 @@ const dictionary = {
     "the planet Venus"
   ],
   "aisin usihangga kiru": [
-    "ᠠᡳᠰᡳᠨ ᡠᠰᡳᡥᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠠᡳᠰᡳᠨ ᡠᠰᡳᡥᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner of the imperial escort with the planet Venus depicted upon it"
   ],
   "aisingga": [
-    "ᠠᡳᠰᡳᠨᡤᡤᠠ",
+    "ᠠᡳᠰᡳᠩᡤᠠ",
     "profitable, helpful"
   ],
   "aisirgan": [
@@ -2060,7 +2060,7 @@ const dictionary = {
     "a kind of wild kumquat"
   ],
   "aiyongga ilha": [
-    "ᠠᡳᠶᠣᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᠠᡳᠶᠣᠩᡤᠠ ᡳᠯᡥᠠ",
     "'golden sandflower'"
   ],
   "aja": [
@@ -2160,7 +2160,7 @@ const dictionary = {
     "one of the twenty-four solar divisions of the year--the twenty-first or twenty-second of May"
   ],
   "ajige konggoro niongniyaha": [
-    "ᠠᠵᡳᡤᡝ ᡴᠣᠨᡤᡤᠣᡵᠣ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᠠᠵᡳᡤᡝ ᡴᠣᠩᡤᠣᡵᠣ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "a small yellow wild goose"
   ],
   "ajige kvrcan": [
@@ -2176,11 +2176,11 @@ const dictionary = {
     "care, careful"
   ],
   "ajige nimanggi": [
-    "ᠠᠵᡳᡤᡝ ᠨᡳᠮᠠᠨᡤᡤᡳ",
+    "ᠠᠵᡳᡤᡝ ᠨᡳᠮᠠᠩᡤᡳ",
     "one of the twenty-four solar divisions of the year--the twenty-second or twenty-third of November"
   ],
   "ajige ningge erxembi": [
-    "ᠠᠵᡳᡤᡝ ᠨᡳᠨᡤᡤᡝ ᡝᡵᡧᡝᠮᠪᡳ",
+    "ᠠᠵᡳᡤᡝ ᠨᡳᠩᡤᡝ ᡝᡵᡧᡝᠮᠪᡳ",
     "to get the measles"
   ],
   "ajige niyo coko": [
@@ -2208,7 +2208,7 @@ const dictionary = {
     "elementary school"
   ],
   "ajige yangsimu niyehe": [
-    "ᠠᠵᡳᡤᡝ ᠶᠠᠨᡤᠰᡳᠮᡠ ᠨᡳᠶᡝᡥᡝ",
+    "ᠠᠵᡳᡤᡝ ᠶᠠᠩᠰᡳᠮᡠ ᠨᡳᠶᡝᡥᡝ",
     "small sheldrake"
   ],
   "ajigen": [
@@ -2352,7 +2352,7 @@ const dictionary = {
     "1. firm, strong, dependable 2.trust (for akdan)"
   ],
   "akdun acangga": [
-    "ᠠᡴᡩᡠᠨ ᠠᠴᠠᠨᡤᡤᠠ",
+    "ᠠᡴᡩᡠᠨ ᠠᠴᠠᠩᡤᠠ",
     "a pass consisting of two matching pieces used for admittance to a city at night"
   ],
   "akdun girdan": [
@@ -2360,7 +2360,7 @@ const dictionary = {
     "a silken pennant on which the word akdun was embroidered"
   ],
   "akdun jurgangga sargan jui": [
-    "ᠠᡴᡩᡠᠨ ᠵᡠᡵᡤᠠᠨᡤᡤᠠ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ",
+    "ᠠᡴᡩᡠᠨ ᠵᡠᡵᡤᠠᠩᡤᠠ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ",
     "a woman who after the death of her husband does not remarry"
   ],
   "akdun xargan jui": [
@@ -2372,11 +2372,11 @@ const dictionary = {
     "credentials used by an imperial envoy"
   ],
   "akdungga": [
-    "ᠠᡴᡩᡠᠨᡤᡤᠠ",
+    "ᠠᡴᡩᡠᠩᡤᠠ",
     "firm, solid, enduring"
   ],
   "akdungga furdan": [
-    "ᠠᡴᡩᡠᠨᡤᡤᠠ ᡶᡠᡵᡩᠠᠨ",
+    "ᠠᡴᡩᡠᠩᡤᠠ ᡶᡠᡵᡩᠠᠨ",
     "solid gateway"
   ],
   "ake": [
@@ -2556,7 +2556,7 @@ const dictionary = {
     "utterly complete, there is nothing that isn't reached or completed"
   ],
   "akvngge": [
-    "ᠠᡴᡡᠨᡤᡤᡝ",
+    "ᠠᡴᡡᠩᡤᡝ",
     "that which is not, that which doesn't exist"
   ],
   "akvnjimbi": [
@@ -2632,11 +2632,11 @@ const dictionary = {
     "to report together"
   ],
   "alanggibumbi": [
-    "ᠠᠯᠠᠨᡤᡤᡳᠪᡠᠮᠪᡳ",
+    "ᠠᠯᠠᠩᡤᡳᠪᡠᠮᠪᡳ",
     "caus. of alanggimbi"
   ],
   "alanggimbi": [
-    "ᠠᠯᠠᠨᡤᡤᡳᠮᠪᡳ",
+    "ᠠᠯᠠᠩᡤᡳᠮᠪᡳ",
     "to send to report"
   ],
   "alanjimbi": [
@@ -2768,23 +2768,23 @@ const dictionary = {
     "a wall placed behind the targets"
   ],
   "aldangga": [
-    "ᠠᠯᡩᠠᠨᡤᡤᠠ",
+    "ᠠᠯᡩᠠᠩᡤᠠ",
     "distant (in relationship)"
   ],
   "aldangga dalan": [
-    "ᠠᠯᡩᠠᠨᡤᡤᠠ ᡩᠠᠯᠠᠨ",
+    "ᠠᠯᡩᠠᠩᡤᠠ ᡩᠠᠯᠠᠨ",
     "a dike built far from a shore"
   ],
   "aldangga mukvn": [
-    "ᠠᠯᡩᠠᠨᡤᡤᠠ ᠮᡠᡴᡡᠨ",
+    "ᠠᠯᡩᠠᠩᡤᠠ ᠮᡠᡴᡡᠨ",
     "distant clan"
   ],
   "aldanggai": [
-    "ᠠᠯᡩᠠᠨᡤᡤᠠᡳ",
+    "ᠠᠯᡩᠠᠩᡤᠠᡳ",
     "distantly, from a distance"
   ],
   "aldanggakan": [
-    "ᠠᠯᡩᠠᠨᡤᡤᠠᡴᠠᠨ",
+    "ᠠᠯᡩᠠᠩᡤᠠᡴᠠᠨ",
     "rather distant"
   ],
   "aldarkan": [
@@ -2804,7 +2804,7 @@ const dictionary = {
     "to turn back or stop half-way, to be incomplete, to die young"
   ],
   "aldungga": [
-    "ᠠᠯᡩᡠᠨᡤᡤᠠ",
+    "ᠠᠯᡩᡠᠩᡤᠠ",
     "strange, queer, uncommon, uncanny, ghostly"
   ],
   "alga": [
@@ -2836,11 +2836,11 @@ const dictionary = {
     "to praise, to laud"
   ],
   "algingga": [
-    "ᠠᠯᡤᡳᠨᡤᡤᠠ",
+    "ᠠᠯᡤᡳᠩᡤᠠ",
     "famous, well-known"
   ],
   "algingga jubengge": [
-    "ᠠᠯᡤᡳᠨᡤᡤᠠ ᠵᡠᠪᡝᠨᡤᡤᡝ",
+    "ᠠᠯᡤᡳᠩᡤᠠ ᠵᡠᠪᡝᠩᡤᡝ",
     "boastful, ostentatious"
   ],
   "algintu": [
@@ -2892,11 +2892,11 @@ const dictionary = {
     "to go into a trance (of a shaman)"
   ],
   "alhangga": [
-    "ᠠᠯᡥᠠᠨᡤᡤᠠ",
+    "ᠠᠯᡥᠠᠩᡤᠠ",
     "spotted, speckled"
   ],
   "alhangga .anahvn moo": [
-    "ᠠᠯᡥᠠᠨᡤᡤᠠ ᠉ᠠᠨᠠᡥᡡᠨ ᠮᠣᠣ",
+    "ᠠᠯᡥᠠᠩᡤᠠ ᠉ᠠᠨᠠᡥᡡᠨ ᠮᠣᠣ",
     "spotted nanmu wood"
   ],
   "alhari": [
@@ -2948,7 +2948,7 @@ const dictionary = {
     "pattern, model"
   ],
   "alhvdangga": [
-    "ᠠᠯᡥᡡᡩᠠᠨᡤᡤᠠ",
+    "ᠠᠯᡥᡡᡩᠠᠩᡤᠠ",
     "pertaining to a pattern or model"
   ],
   "alhvdanjimbi": [
@@ -2984,7 +2984,7 @@ const dictionary = {
     "a congratulatory letter presented to the throne"
   ],
   "alibure bithe icihiyara kvnggeri": [
-    "ᠠᠯᡳᠪᡠᡵᡝ ᠪᡳᡨᡥᡝ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᡴᡡᠨᡤᡤᡝᡵᡳ",
+    "ᠠᠯᡳᠪᡠᡵᡝ ᠪᡳᡨᡥᡝ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᡴᡡᠩᡤᡝᡵᡳ",
     "section concerned with handling officials' leave permits and other petitions"
   ],
   "alibure bukdan": [
@@ -3036,7 +3036,7 @@ const dictionary = {
     "Senior President of the Censorate,"
   ],
   "alifi boxoro falgangga bh": [
-    "ᠠᠯᡳᡶᡳ ᠪᠣᡧᠣᡵᠣ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ ᠪᡥ",
+    "ᠠᠯᡳᡶᡳ ᠪᠣᡧᠣᡵᠣ ᡶᠠᠯᡤᠠᠩᡤᠠ ᠪᡥ",
     "Office of Incitement, 493.4"
   ],
   "alifi dasara hafan bh": [
@@ -3168,7 +3168,7 @@ const dictionary = {
     "the mountains have become distinct at dawn"
   ],
   "alin jalgangga moo": [
-    "ᠠᠯᡳᠨ ᠵᠠᠯᡤᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠠᠯᡳᠨ ᠵᠠᠯᡤᠠᠩᡤᠠ ᠮᠣᠣ",
     "tree of heaven (Ailanthus glandulosa)"
   ],
   "alin ulejembi": [
@@ -3240,7 +3240,7 @@ const dictionary = {
     "1. to regret 2. to wait"
   ],
   "aliyasungga": [
-    "ᠠᠯᡳᠶᠠᠰᡠᠨᡤᡤᠠ",
+    "ᠠᠯᡳᠶᠠᠰᡠᠩᡤᠠ",
     "patient, long-suffering"
   ],
   "aljabumbi": [
@@ -3280,7 +3280,7 @@ const dictionary = {
     "descendant"
   ],
   "amaga inenggi": [
-    "ᠠᠮᠠᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠠᠮᠠᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "later, a later day"
   ],
   "amaga jalan": [
@@ -3288,7 +3288,7 @@ const dictionary = {
     "later generation, posterity"
   ],
   "amagangge": [
-    "ᠠᠮᠠᡤᠠᠨᡤᡤᡝ",
+    "ᠠᠮᠠᡤᠠᠩᡤᡝ",
     "that which is later"
   ],
   "amaha": [
@@ -3324,7 +3324,7 @@ const dictionary = {
     "a banner with Mt. Heng depicted on it"
   ],
   "amargi falgangga bh": [
-    "ᠠᠮᠠᡵᡤᡳ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ ᠪᡥ",
+    "ᠠᠮᠠᡵᡤᡳ ᡶᠠᠯᡤᠠᠩᡤᠠ ᠪᡥ",
     "Fifth Subdepartment of the Imperial Equipage Department, 122"
   ],
   "amargi fisembuhe boo": [
@@ -3336,7 +3336,7 @@ const dictionary = {
     "the concluding section of the body of a formal essay"
   ],
   "amargi juwere jekui kvnggeri": [
-    "ᠠᠮᠠᡵᡤᡳ ᠵᡠᠸᡝᡵᡝ ᠵᡝᡴᡠᡳ ᡴᡡᠨᡤᡤᡝᡵᡳ",
+    "ᠠᠮᠠᡵᡤᡳ ᠵᡠᠸᡝᡵᡝ ᠵᡝᡴᡠᡳ ᡴᡡᠩᡤᡝᡵᡳ",
     "a bureau of the Board of Revenue concerned with transporting grain from the south (Yun-nan) to the north"
   ],
   "amargi nahan": [
@@ -3344,7 +3344,7 @@ const dictionary = {
     "the hang on the north side of the room"
   ],
   "amargingge": [
-    "ᠠᠮᠠᡵᡤᡳᠨᡤᡤᡝ",
+    "ᠠᠮᠠᡵᡤᡳᠩᡤᡝ",
     "1. that which comes after"
   ],
   "amari": [
@@ -3412,7 +3412,7 @@ const dictionary = {
     "one of the six tones of the minor scale"
   ],
   "amba erdemungge gurun": [
-    "ᠠᠮᠪᠠ ᡝᡵᡩᡝᠮᡠᠨᡤᡤᡝ ᡤᡠᡵᡠᠨ",
+    "ᠠᠮᠪᠠ ᡝᡵᡩᡝᠮᡠᠩᡤᡝ ᡤᡠᡵᡠᠨ",
     "Germany"
   ],
   "amba garma": [
@@ -3428,11 +3428,11 @@ const dictionary = {
     "the filial piety of the emperor"
   ],
   "amba hiyooxungga": [
-    "ᠠᠮᠪᠠ ᡥᡳᠶᠣᠣᡧᡠᠨᡤᡤᠠ",
+    "ᠠᠮᠪᠠ ᡥᡳᠶᠣᠣᡧᡠᠩᡤᠠ",
     "supremely filial--an epithet of the emperor"
   ],
   "amba holbonggo hooxan": [
-    "ᠠᠮᠪᠠ ᡥᠣᠯᠪᠣᠨᡤᡤᠣ ᡥᠣᠣᡧᠠᠨ",
+    "ᠠᠮᠪᠠ ᡥᠣᠯᠪᠣᠩᡤᠣ ᡥᠣᠣᡧᠠᠨ",
     "paper used for making money that is burned as a sacrifice"
   ],
   "amba hoxo": [
@@ -3448,7 +3448,7 @@ const dictionary = {
     "horsefly"
   ],
   "amba koolingga hafan bh 200b": [
-    "ᠠᠮᠪᠠ ᡴᠣᠣᠯᡳᠨᡤᡤᠠ ᡥᠠᡶᠠᠨ ᠪᡥ 200ᠪ",
+    "ᠠᠮᠪᠠ ᡴᠣᠣᠯᡳᠩᡤᠠ ᡥᠠᡶᠠᠨ ᠪᡥ 200ᠪ",
     "Compiler of the Second Class,"
   ],
   "amba kumun": [
@@ -3468,7 +3468,7 @@ const dictionary = {
     "1. probably, generally, in outline, approximately 2. sketch, outline"
   ],
   "amba nimanggi": [
-    "ᠠᠮᠪᠠ ᠨᡳᠮᠠᠨᡤᡤᡳ",
+    "ᠠᠮᠪᠠ ᠨᡳᠮᠠᠩᡤᡳ",
     "one of the twenty-four divisions of the solar year falling on the seventh or eighth of December"
   ],
   "amba sargan": [
@@ -3500,11 +3500,11 @@ const dictionary = {
     "the great ultimate--the ultimate principle of the universe"
   ],
   "amba toosengge abka": [
-    "ᠠᠮᠪᠠ ᡨᠣᠣᠰᡝᠨᡤᡤᡝ ᠠᠪᡴᠠ",
+    "ᠠᠮᠪᠠ ᡨᠣᠣᠰᡝᠩᡤᡝ ᠠᠪᡴᠠ",
     "mighty heaven"
   ],
   "amba yabungga": [
-    "ᠠᠮᠪᠠ ᠶᠠᠪᡠᠨᡤᡤᠠ",
+    "ᠠᠮᠪᠠ ᠶᠠᠪᡠᠩᡤᠠ",
     "title for a deceased emperor"
   ],
   "amba yali": [
@@ -3512,7 +3512,7 @@ const dictionary = {
     "meat offered and eaten at a sacrifice"
   ],
   "amba yolonggo jahvdai": [
-    "ᠠᠮᠪᠠ ᠶᠣᠯᠣᠨᡤᡤᠣ ᠵᠠᡥᡡᡩᠠᡳ",
+    "ᠠᠮᠪᠠ ᠶᠣᠯᠣᠩᡤᠣ ᠵᠠᡥᡡᡩᠠᡳ",
     "a type of fast war junk"
   ],
   "ambakaliyan": [
@@ -3536,15 +3536,15 @@ const dictionary = {
     "to act haughtily"
   ],
   "ambalinggv": [
-    "ᠠᠮᠪᠠᠯᡳᠨᡤᡤᡡ",
+    "ᠠᠮᠪᠠᠯᡳᠩᡤᡡ",
     "1. huge, imposing, impressive, grand 2. dignified"
   ],
   "ambalinggv alin i alban tacikv bh 87b": [
-    "ᠠᠮᠪᠠᠯᡳᠨᡤᡤᡡ ᠠᠯᡳᠨ ᡳ ᠠᠯᠪᠠᠨ ᡨᠠᠴᡳᡴᡡ ᠪᡥ 87ᠪ",
+    "ᠠᠮᠪᠠᠯᡳᠩᡤᡡ ᠠᠯᡳᠨ ᡳ ᠠᠯᠪᠠᠨ ᡨᠠᠴᡳᡴᡡ ᠪᡥ 87ᠪ",
     "Šchool at the Red Hill,"
   ],
   "ambalinggv munggan": [
-    "ᠠᠮᠪᠠᠯᡳᠨᡤᡤᡡ ᠮᡠᠨᡤᡤᠠᠨ",
+    "ᠠᠮᠪᠠᠯᡳᠩᡤᡡ ᠮᡠᠩᡤᠠᠨ",
     "the mausoleum of the K'ang-hsi emperor"
   ],
   "amban": [
@@ -3560,7 +3560,7 @@ const dictionary = {
     "to do on a large scale"
   ],
   "ambarame giyangnara hafan": [
-    "ᠠᠮᠪᠠᡵᠠᠮᡝ ᡤᡳᠶᠠᠨᡤᠨᠠᡵᠠ ᡥᠠᡶᠠᠨ",
+    "ᠠᠮᠪᠠᡵᠠᠮᡝ ᡤᡳᠶᠠᠩᠨᠠᡵᠠ ᡥᠠᡶᠠᠨ",
     "an official charged with explaining the classics to the emperor"
   ],
   "ambarame simnembi": [
@@ -3636,7 +3636,7 @@ const dictionary = {
     "1. to pursue, to chase, to catch up to 2. to hurry, to rush 3. to act in retrospect, to act posthumously 4. to review (a case) 5. dobori be amcame 'under cover of darkness' 6. to take advantage of 7. to make up for gambling losses"
   ],
   "amcame fungnembi": [
-    "ᠠᠮᠴᠠᠮᡝ ᡶᡠᠨᡤᠨᡝᠮᠪᡳ",
+    "ᠠᠮᠴᠠᠮᡝ ᡶᡠᠩᠨᡝᠮᠪᡳ",
     "to enfeoff post-humously"
   ],
   "amcame gebu bumbi": [
@@ -3656,11 +3656,11 @@ const dictionary = {
     "to go to pursue, to rush (over)"
   ],
   "amcangga": [
-    "ᠠᠮᠴᠠᠨᡤᡤᠠ",
+    "ᠠᠮᠴᠠᠩᡤᠠ",
     "pertaining to pursuit"
   ],
   "amcangga jahvdai": [
-    "ᠠᠮᠴᠠᠨᡤᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
+    "ᠠᠮᠴᠠᠩᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
     "the name of a type of large warship"
   ],
   "amcanjimbi": [
@@ -3800,7 +3800,7 @@ const dictionary = {
     "official in charge of preparing offerings of food and wine"
   ],
   "amsun i janggin": [
-    "ᠠᠮᠰᡠᠨ ᡳ ᠵᠠᠨᡤᡤᡳᠨ",
+    "ᠠᠮᠰᡠᠨ ᡳ ᠵᠠᠩᡤᡳᠨ",
     "an official concerned with the preparation of offerings of food and wine"
   ],
   "amsun i yali": [
@@ -3852,11 +3852,11 @@ const dictionary = {
     "to lose taste, to lose interest"
   ],
   "amtangga": [
-    "ᠠᠮᡨᠠᠨᡤᡤᠠ",
+    "ᠠᠮᡨᠠᠩᡤᠠ",
     "1. tasty, delicious, 2. enjoyable, interesting, fun"
   ],
   "amtanggai": [
-    "ᠠᠮᡨᠠᠨᡤᡤᠠᡳ",
+    "ᠠᠮᡨᠠᠩᡤᠠᡳ",
     "pleasurably"
   ],
   "amtaxambi": [
@@ -3880,7 +3880,7 @@ const dictionary = {
     "to awake from sleep"
   ],
   "amu mangga": [
-    "ᠠᠮᡠ ᠮᠠᠨᡤᡤᠠ",
+    "ᠠᠮᡠ ᠮᠠᠩᡤᠠ",
     "very sleepy"
   ],
   "amu sektu": [
@@ -3904,7 +3904,7 @@ const dictionary = {
     "fond of, intent on, good at,"
   ],
   "amurangga": [
-    "ᠠᠮᡠᡵᠠᠨᡤᡤᠠ",
+    "ᠠᠮᡠᡵᠠᠩᡤᠠ",
     "devotee, one who is fond of something"
   ],
   "amvrgan": [
@@ -3932,7 +3932,7 @@ const dictionary = {
     "to follow what is customary"
   ],
   "an ciktan i tanggin": [
-    "ᠠᠨ ᠴᡳᡴᡨᠠᠨ ᡳ ᡨᠠᠨᡤᡤᡳᠨ",
+    "ᠠᠨ ᠴᡳᡴᡨᠠᠨ ᡳ ᡨᠠᠩᡤᡳᠨ",
     "a hall where the emperor gave instruction or lectured"
   ],
   "an i": [
@@ -4020,7 +4020,7 @@ const dictionary = {
     "nanmu tree (Machilus nanmu.)"
   ],
   "anahvngga gvrung": [
-    "ᠠᠨᠠᡥᡡᠨᡤᡤᠠ ᡤᡡᡵᡠᠨᡤ",
+    "ᠠᠨᠠᡥᡡᠩᡤᠠ ᡤᡡᡵᡠᠩ",
     "an emperor's coffin"
   ],
   "anahvnjambi": [
@@ -4032,7 +4032,7 @@ const dictionary = {
     "modesty, reticence"
   ],
   "anahvnjangga": [
-    "ᠠᠨᠠᡥᡡᠨᠵᠠᠨᡤᡤᠠ",
+    "ᠠᠨᠠᡥᡡᠨᠵᠠᠩᡤᠠ",
     "modest, humble, reticent"
   ],
   "anakv": [
@@ -4092,7 +4092,7 @@ const dictionary = {
     "obsequious, timid, lacking in self-confidence"
   ],
   "anangga": [
-    "ᠠᠨᠠᠨᡤᡤᠠ",
+    "ᠠᠨᠠᠩᡤᠠ",
     "1. a pretext 2. having a pretext"
   ],
   "anashvn": [
@@ -4212,235 +4212,235 @@ const dictionary = {
     "same as anafulambi"
   ],
   "ang": [
-    "ᠠᠨᡤ",
+    "ᠠᠩ",
     "the sound made by camels and donkeys, a scream used in battle"
   ],
   "ang seme afambi": [
-    "ᠠᠨᡤ ᠰᡝᠮᡝ ᠠᡶᠠᠮᠪᡳ",
+    "ᠠᠩ ᠰᡝᠮᡝ ᠠᡶᠠᠮᠪᡳ",
     "to attack while shrieking war whoops"
   ],
   "angga": [
-    "ᠠᠨᡤᡤᠠ",
+    "ᠠᠩᡤᠠ",
     "1. mouth 2. opening, hole 3. pass, gate"
   ],
   "angga acambi": [
-    "ᠠᠨᡤᡤᠠ ᠠᠴᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠠᠴᠠᠮᠪᡳ",
     "to testify in court"
   ],
   "angga aifumbi": [
-    "ᠠᠨᡤᡤᠠ ᠠᡳᡶᡠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠠᡳᡶᡠᠮᠪᡳ",
     "to break one's word"
   ],
   "angga akxun": [
-    "ᠠᠨᡤᡤᠠ ᠠᡴᡧᡠᠨ",
+    "ᠠᠩᡤᠠ ᠠᡴᡧᡠᠨ",
     "abusive, slanderous"
   ],
   "angga aljambi": [
-    "ᠠᠨᡤᡤᠠ ᠠᠯᠵᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠠᠯᠵᠠᠮᠪᡳ",
     "to promise, to agree to"
   ],
   "angga arambi": [
-    "ᠠᠨᡤᡤᠠ ᠠᡵᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠠᡵᠠᠮᠪᡳ",
     "to acknowledge orally"
   ],
   "angga bahambi": [
-    "ᠠᠨᡤᡤᠠ ᠪᠠᡥᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠪᠠᡥᠠᠮᠪᡳ",
     "to obtain a confession"
   ],
   "angga baibi miosiri miosirilambi": [
-    "ᠠᠨᡤᡤᠠ ᠪᠠᡳᠪᡳ ᠮᡳᠣᠰᡳᡵᡳ ᠮᡳᠣᠰᡳᡵᡳᠯᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠪᠠᡳᠪᡳ ᠮᡳᠣᠰᡳᡵᡳ ᠮᡳᠣᠰᡳᡵᡳᠯᠠᠮᠪᡳ",
     "to have a slight smile on one's face constantly"
   ],
   "angga baimbi": [
-    "ᠠᠨᡤᡤᠠ ᠪᠠᡳᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠪᠠᡳᠮᠪᡳ",
     "to interrogate (a criminal)"
   ],
   "angga cakcahvn": [
-    "ᠠᠨᡤᡤᠠ ᠴᠠᡴᠴᠠᡥᡡᠨ",
+    "ᠠᠩᡤᠠ ᠴᠠᡴᠴᠠᡥᡡᠨ",
     "tight-mouthed, hard to control (of horses)"
   ],
   "angga cira": [
-    "ᠠᠨᡤᡤᠠ ᠴᡳᡵᠠ",
+    "ᠠᠩᡤᠠ ᠴᡳᡵᠠ",
     "tight-mouthed (of horses)"
   ],
   "angga cukcuhun": [
-    "ᠠᠨᡤᡤᠠ ᠴᡠᡴᠴᡠᡥᡠᠨ",
+    "ᠠᠩᡤᠠ ᠴᡠᡴᠴᡠᡥᡠᠨ",
     "lips protruded--an expression of annoyance"
   ],
   "angga de gamaha ba akv": [
-    "ᠠᠨᡤᡤᠠ ᡩᡝ ᡤᠠᠮᠠᡥᠠ ᠪᠠ ᠠᡴᡡ",
+    "ᠠᠩᡤᠠ ᡩᡝ ᡤᠠᠮᠠᡥᠠ ᠪᠠ ᠠᡴᡡ",
     "(liquor) has never touched his lips"
   ],
   "angga de gamambi": [
-    "ᠠᠨᡤᡤᠠ ᡩᡝ ᡤᠠᠮᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᡩᡝ ᡤᠠᠮᠠᠮᠪᡳ",
     "to touch the lips--said of liquor"
   ],
   "angga duyen": [
-    "ᠠᠨᡤᡤᠠ ᡩᡠᠶᡝᠨ",
+    "ᠠᠩᡤᠠ ᡩᡠᠶᡝᠨ",
     "weak-mouthed (of horses)"
   ],
   "angga faksi": [
-    "ᠠᠨᡤᡤᠠ ᡶᠠᡴᠰᡳ",
+    "ᠠᠩᡤᠠ ᡶᠠᡴᠰᡳ",
     "clever in speech, glib"
   ],
   "angga fecuhun": [
-    "ᠠᠨᡤᡤᠠ ᡶᡝᠴᡠᡥᡠᠨ",
+    "ᠠᠩᡤᠠ ᡶᡝᠴᡠᡥᡠᠨ",
     "without appetite"
   ],
   "angga fodorombi": [
-    "ᠠᠨᡤᡤᠠ ᡶᠣᡩᠣᡵᠣᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᡶᠣᡩᠣᡵᠣᠮᠪᡳ",
     "to protrude the lips in annoyance"
   ],
   "angga gaimbi": [
-    "ᠠᠨᡤᡤᠠ ᡤᠠᡳᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᡤᠠᡳᠮᠪᡳ",
     "to kiss"
   ],
   "angga gakahvn": [
-    "ᠠᠨᡤᡤᠠ ᡤᠠᡴᠠᡥᡡᠨ",
+    "ᠠᠩᡤᠠ ᡤᠠᡴᠠᡥᡡᠨ",
     "with the mouth gaping"
   ],
   "angga hetumbi": [
-    "ᠠᠨᡤᡤᠠ ᡥᡝᡨᡠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᡥᡝᡨᡠᠮᠪᡳ",
     "to make a living, to scrape along, to get by"
   ],
   "angga hetumbumbi": [
-    "ᠠᠨᡤᡤᠠ ᡥᡝᡨᡠᠮᠪᡠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᡥᡝᡨᡠᠮᠪᡠᠮᠪᡳ",
     "to make a living, to get by"
   ],
   "angga hotohon": [
-    "ᠠᠨᡤᡤᠠ ᡥᠣᡨᠣᡥᠣᠨ",
+    "ᠠᠩᡤᠠ ᡥᠣᡨᠣᡥᠣᠨ",
     "having lips that protrude upward"
   ],
   "angga i anakv": [
-    "ᠠᠨᡤᡤᠠ ᡳ ᠠᠨᠠᡴᡡ",
+    "ᠠᠩᡤᠠ ᡳ ᠠᠨᠠᡴᡡ",
     "a pretext for scandal or gossip"
   ],
   "angga i hobo": [
-    "ᠠᠨᡤᡤᠠ ᡳ ᡥᠣᠪᠣ",
+    "ᠠᠩᡤᠠ ᡳ ᡥᠣᠪᠣ",
     "the corner of the mouth"
   ],
   "angga ici": [
-    "ᠠᠨᡤᡤᠠ ᡳᠴᡳ",
+    "ᠠᠩᡤᠠ ᡳᠴᡳ",
     "not thinking before speaking, fluently, effortlessly (of speech)"
   ],
   "angga isi": [
-    "ᠠᠨᡤᡤᠠ ᡳᠰᡳ",
+    "ᠠᠩᡤᠠ ᡳᠰᡳ",
     "please try some (said when offering food to a guest)"
   ],
   "angga isibumbi": [
-    "ᠠᠨᡤᡤᠠ ᡳᠰᡳᠪᡠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᡳᠰᡳᠪᡠᠮᠪᡳ",
     "to make or let taste first"
   ],
   "angga isimbi": [
-    "ᠠᠨᡤᡤᠠ ᡳᠰᡳᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᡳᠰᡳᠮᠪᡳ",
     "to taste first"
   ],
   "angga jafambi": [
-    "ᠠᠨᡤᡤᠠ ᠵᠠᡶᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠵᠠᡶᠠᠮᠪᡳ",
     "1. to close the mouth 2. to catch a prisoner of war who is to be used as an informer"
   ],
   "angga johimbi": [
-    "ᠠᠨᡤᡤᠠ ᠵᠣᡥᡳᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠵᠣᡥᡳᠮᠪᡳ",
     "the opening (of a boil) shrinks and heals"
   ],
   "angga labdahvn": [
-    "ᠠᠨᡤᡤᠠ ᠯᠠᠪᡩᠠᡥᡡᠨ",
+    "ᠠᠩᡤᠠ ᠯᠠᠪᡩᠠᡥᡡᠨ",
     "having lips that hang downward"
   ],
   "angga mentuhun": [
-    "ᠠᠨᡤᡤᠠ ᠮᡝᠨᡨᡠᡥᡠᠨ",
+    "ᠠᠩᡤᠠ ᠮᡝᠨᡨᡠᡥᡠᠨ",
     "without feeling in the mouth (of horses)"
   ],
   "angga mimimbi": [
-    "ᠠᠨᡤᡤᠠ ᠮᡳᠮᡳᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠮᡳᠮᡳᠮᠪᡳ",
     "to close the mouth"
   ],
   "angga ojombi": [
-    "ᠠᠨᡤᡤᠠ ᠣᠵᠣᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠣᠵᠣᠮᠪᡳ",
     "to kiss"
   ],
   "angga sonjombi": [
-    "ᠠᠨᡤᡤᠠ ᠰᠣᠨᠵᠣᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠰᠣᠨᠵᠣᠮᠪᡳ",
     "to have a craving for odd foods when one is pregnant"
   ],
   "angga sula": [
-    "ᠠᠨᡤᡤᠠ ᠰᡠᠯᠠ",
+    "ᠠᠩᡤᠠ ᠰᡠᠯᠠ",
     "loose-mouthed (of horses)"
   ],
   "angga sulfambi": [
-    "ᠠᠨᡤᡤᠠ ᠰᡠᠯᡶᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᠰᡠᠯᡶᠠᠮᠪᡳ",
     "to migrate to another place because of an insufficiency of food"
   ],
   "angga tucimbi": [
-    "ᠠᠨᡤᡤᠠ ᡨᡠᠴᡳᠮᠪᡳ",
+    "ᠠᠩᡤᠠ ᡨᡠᠴᡳᠮᠪᡳ",
     "to come to a head (of a boil)"
   ],
   "anggai anakv": [
-    "ᠠᠨᡤᡤᠠᡳ ᠠᠨᠠᡴᡡ",
+    "ᠠᠩᡤᠠᡳ ᠠᠨᠠᡴᡡ",
     "pretext for gossip"
   ],
   "anggai dambi": [
-    "ᠠᠨᡤᡤᠠᡳ ᡩᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠᡳ ᡩᠠᠮᠪᡳ",
     "to blow, to puff"
   ],
   "anggai jasimbi": [
-    "ᠠᠨᡤᡤᠠᡳ ᠵᠠᠰᡳᠮᠪᡳ",
+    "ᠠᠩᡤᠠᡳ ᠵᠠᠰᡳᠮᠪᡳ",
     "to transmit by word of mouth, to deliver an oral communication"
   ],
   "anggala": [
-    "ᠠᠨᡤᡤᠠᠯᠠ",
+    "ᠠᠩᡤᠠᠯᠠ",
     "1. population, persons 2. (postposition) in place of, instead of, rather than, not only"
   ],
   "anggalambi": [
-    "ᠠᠨᡤᡤᠠᠯᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠᠯᠠᠮᠪᡳ",
     "to request, to demand"
   ],
   "anggalinggv": [
-    "ᠠᠨᡤᡤᠠᠯᡳᠨᡤᡤᡡ",
+    "ᠠᠩᡤᠠᠯᡳᠩᡤᡡ",
     "fluent, glib"
   ],
   "anggara": [
-    "ᠠᠨᡤᡤᠠᡵᠠ",
+    "ᠠᠩᡤᠠᡵᠠ",
     "a large jar, a container for water"
   ],
   "anggari janggari": [
-    "ᠠᠨᡤᡤᠠᡵᡳ ᠵᠠᠨᡤᡤᠠᡵᡳ",
+    "ᠠᠩᡤᠠᡵᡳ ᠵᠠᠩᡤᠠᡵᡳ",
     "all mixed up, in disarray"
   ],
   "anggasi": [
-    "ᠠᠨᡤᡤᠠᠰᡳ",
+    "ᠠᠩᡤᠠᠰᡳ",
     "widow"
   ],
   "anggasi hehe": [
-    "ᠠᠨᡤᡤᠠᠰᡳ ᡥᡝᡥᡝ",
+    "ᠠᠩᡤᠠᠰᡳ ᡥᡝᡥᡝ",
     "widow"
   ],
   "anggasibumbi": [
-    "ᠠᠨᡤᡤᠠᠰᡳᠪᡠᠮᠪᡳ",
+    "ᠠᠩᡤᠠᠰᡳᠪᡠᠮᠪᡳ",
     "caus. of anggasimbi"
   ],
   "anggasilambi": [
-    "ᠠᠨᡤᡤᠠᠰᡳᠯᠠᠮᠪᡳ",
+    "ᠠᠩᡤᠠᠰᡳᠯᠠᠮᠪᡳ",
     "to be a widow, to preserve widowhood"
   ],
   "anggasimbi": [
-    "ᠠᠨᡤᡤᠠᠰᡳᠮᠪᡳ",
+    "ᠠᠩᡤᠠᠰᡳᠮᠪᡳ",
     "to taste, to try"
   ],
   "anggatu": [
-    "ᠠᠨᡤᡤᠠᡨᡠ",
+    "ᠠᠩᡤᠠᡨᡠ",
     "muzzle for domestic animals"
   ],
   "anggir niyehe": [
-    "ᠠᠨᡤᡤᡳᡵ ᠨᡳᠶᡝᡥᡝ",
+    "ᠠᠩᡤᡳᡵ ᠨᡳᠶᡝᡥᡝ",
     "the ruddy sheldrake (Cascara ferruginea)"
   ],
   "anggiyan": [
-    "ᠠᠨᡤᡤᡳᠶᠠᠨ",
+    "ᠠᠩᡤᡳᠶᠠᠨ",
     "thornback (a type of seafish)"
   ],
   "anggvta": [
-    "ᠠᠨᡤᡤᡡᡨᠠ",
+    "ᠠᠩᡤᡡᡨᠠ",
     "1. muzzle 2. a piece of iron attached to the end of the hilt of a sword"
   ],
   "aniya": [
@@ -4468,11 +4468,11 @@ const dictionary = {
     "for an entire year, a whole year"
   ],
   "aniya i fe inenggi": [
-    "ᠠᠨᡳᠶᠠ ᡳ ᡶᡝ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠠᠨᡳᠶᠠ ᡳ ᡶᡝ ᡳᠨᡝᠩᡤᡳ",
     "the last day of the year"
   ],
   "aniya inenggi": [
-    "ᠠᠨᡳᠶᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠠᠨᡳᠶᠠ ᡳᠨᡝᠩᡤᡳ",
     "New Year's day"
   ],
   "aniya tome": [
@@ -4484,7 +4484,7 @@ const dictionary = {
     "every year"
   ],
   "aniyaingge": [
-    "ᠠᠨᡳᠶᠠᡳᠨᡤᡤᡝ",
+    "ᠠᠨᡳᠶᠠᡳᠩᡤᡝ",
     "pertaining to a (certain) year"
   ],
   "aniyalame": [
@@ -4492,11 +4492,11 @@ const dictionary = {
     "for an entire year, a whole year"
   ],
   "aniyangga": [
-    "ᠠᠨᡳᠶᠠᠨᡤᡤᠠ",
+    "ᠠᠨᡳᠶᠠᠩᡤᠠ",
     "1. pertaining to a certain year in the twelve-year cycle 2. aged"
   ],
   "aniyangga sakda": [
-    "ᠠᠨᡳᠶᠠᠨᡤᡤᠠ ᠰᠠᡴᡩᠠ",
+    "ᠠᠨᡳᠶᠠᠩᡤᠠ ᠰᠠᡴᡩᠠ",
     "an aged man"
   ],
   "anja": [
@@ -4624,7 +4624,7 @@ const dictionary = {
     "adopted, appointed"
   ],
   "araha bayarai jalan i janggin bh": [
-    "ᠠᡵᠠᡥᠠ ᠪᠠᠶᠠᡵᠠᡳ ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᠠᡵᠠᡥᠠ ᠪᠠᠶᠠᡵᠠᡳ ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "an appointed Colonel of the Guards Division, 734"
   ],
   "arandumbi/aranumbi": [
@@ -4644,7 +4644,7 @@ const dictionary = {
     "a seasonable rain, a propitious rain"
   ],
   "arasan agangga kiru": [
-    "ᠠᡵᠠᠰᠠᠨ ᠠᡤᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠠᡵᠠᠰᠠᠨ ᠠᡤᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a gray banner with the symbol of a dragon sewn upon it"
   ],
   "arbun": [
@@ -4664,7 +4664,7 @@ const dictionary = {
     "appearance"
   ],
   "arbun i angga": [
-    "ᠠᡵᠪᡠᠨ ᡳ ᠠᠨᡤᡤᠠ",
+    "ᠠᡵᠪᡠᠨ ᡳ ᠠᠩᡤᠠ",
     "juncture of two rivers"
   ],
   "arbun i ba": [
@@ -4680,11 +4680,11 @@ const dictionary = {
     "Buddhism"
   ],
   "arbungga": [
-    "ᠠᡵᠪᡠᠨᡤᡤᠠ",
+    "ᠠᡵᠪᡠᠩᡤᠠ",
     "possessing form, having good form, pertaining to images"
   ],
   "arbungga tacihiyan": [
-    "ᠠᡵᠪᡠᠨᡤᡤᠠ ᡨᠠᠴᡳᡥᡳᠶᠠᠨ",
+    "ᠠᡵᠪᡠᠩᡤᠠ ᡨᠠᠴᡳᡥᡳᠶᠠᠨ",
     "Buddhism"
   ],
   "arbuxambi": [
@@ -4692,11 +4692,11 @@ const dictionary = {
     "to move, to behave"
   ],
   "arbuxarangge": [
-    "ᠠᡵᠪᡠᡧᠠᡵᠠᠨᡤᡤᡝ",
+    "ᠠᡵᠪᡠᡧᠠᡵᠠᠩᡤᡝ",
     "behavior"
   ],
   "arbuxarangge saikan": [
-    "ᠠᡵᠪᡠᡧᠠᡵᠠᠨᡤᡤᡝ ᠰᠠᡳᡴᠠᠨ",
+    "ᠠᡵᠪᡠᡧᠠᡵᠠᠩᡤᡝ ᠰᠠᡳᡴᠠᠨ",
     "well-behaved"
   ],
   "arbutai": [
@@ -4812,7 +4812,7 @@ const dictionary = {
     "formed a crescent moon"
   ],
   "argangga": [
-    "ᠠᡵᡤᠠᠨᡤᡤᠠ",
+    "ᠠᡵᡤᠠᠩᡤᠠ",
     "crafty, cunning"
   ],
   "argat": [
@@ -4880,7 +4880,7 @@ const dictionary = {
     "lion"
   ],
   "arsalangga": [
-    "ᠠᡵᠰᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠠᡵᠰᠠᠯᠠᠩᡤᠠ",
     "pertaining to the lion, lionlike"
   ],
   "arsarakv": [
@@ -4904,7 +4904,7 @@ const dictionary = {
     "half-white, impure white"
   ],
   "arsari tuwabungga hooxan": [
-    "ᠠᡵᠰᠠᡵᡳ ᡨᡠᠸᠠᠪᡠᠨᡤᡤᠠ ᡥᠣᠣᡧᠠᠨ",
+    "ᠠᡵᠰᠠᡵᡳ ᡨᡠᠸᠠᠪᡠᠩᡤᠠ ᡥᠣᠣᡧᠠᠨ",
     "medium-size paper used for announcements"
   ],
   "arsumbi": [
@@ -4956,7 +4956,7 @@ const dictionary = {
     "hurried, rushed, busy"
   ],
   "asanggi": [
-    "ᠠᠰᠠᠨᡤᡤᡳ",
+    "ᠠᠰᠠᠩᡤᡳ",
     "100 quadrillion, countless, infinite"
   ],
   "asarabumbi": [
@@ -5004,7 +5004,7 @@ const dictionary = {
     "to wear hanging from the belt, to wear hanging from a button on the lapel"
   ],
   "ashara fungkv": [
-    "ᠠᠰᡥᠠᡵᠠ ᡶᡠᠨᡤᡴᡡ",
+    "ᠠᠰᡥᠠᡵᠠ ᡶᡠᠩᡴᡡ",
     "a kerchief carried from the belt"
   ],
   "ashara xusihe": [
@@ -5044,19 +5044,19 @@ const dictionary = {
     "1. to develop wings 2. to become distended on two sides"
   ],
   "ashangga": [
-    "ᠠᠰᡥᠠᠨᡤᡤᠠ",
+    "ᠠᠰᡥᠠᠩᡤᠠ",
     "winged"
   ],
   "ashangga mahala": [
-    "ᠠᠰᡥᠠᠨᡤᡤᠠ ᠮᠠᡥᠠᠯᠠ",
+    "ᠠᠰᡥᠠᠩᡤᠠ ᠮᠠᡥᠠᠯᠠ",
     "an old style hat having long black wings on two sides"
   ],
   "ashangga singgeri": [
-    "ᠠᠰᡥᠠᠨᡤᡤᠠ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠠᠰᡥᠠᠩᡤᠠ ᠰᡳᠩᡤᡝᡵᡳ",
     "bat"
   ],
   "ashangga yerhuwe": [
-    "ᠠᠰᡥᠠᠨᡤᡤᠠ ᠶᡝᡵᡥᡠᠸᡝ",
+    "ᠠᠰᡥᠠᠩᡤᠠ ᠶᡝᡵᡥᡠᠸᡝ",
     "a winged ant, flying ant"
   ],
   "ashargan": [
@@ -5168,7 +5168,7 @@ const dictionary = {
     "to make a small noise"
   ],
   "asukingga": [
-    "ᠠᠰᡠᡴᡳᠨᡤᡤᠠ",
+    "ᠠᠰᡠᡴᡳᠩᡤᠠ",
     "noisy, boisterous"
   ],
   "asumbi": [
@@ -5240,15 +5240,15 @@ const dictionary = {
     "the point of a fish hook"
   ],
   "atanggi": [
-    "ᠠᡨᠠᠨᡤᡤᡳ",
+    "ᠠᡨᠠᠩᡤᡳ",
     "when?"
   ],
   "atanggi bicibe": [
-    "ᠠᡨᠠᠨᡤᡤᡳ ᠪᡳᠴᡳᠪᡝ",
+    "ᠠᡨᠠᠩᡤᡳ ᠪᡳᠴᡳᠪᡝ",
     "no matter when"
   ],
   "atanggi ocibe": [
-    "ᠠᡨᠠᠨᡤᡤᡳ ᠣᠴᡳᠪᡝ",
+    "ᠠᡨᠠᠩᡤᡳ ᠣᠴᡳᠪᡝ",
     "before long, soon"
   ],
   "atarambi": [
@@ -5288,7 +5288,7 @@ const dictionary = {
     "1. to wax, to cover with a wax coating 2. to fester"
   ],
   "ayalaha ilhangga hooxan": [
-    "ᠠᠶᠠᠯᠠᡥᠠ ᡳᠯᡥᠠᠨᡤᡤᠠ ᡥᠣᠣᡧᠠᠨ",
+    "ᠠᠶᠠᠯᠠᡥᠠ ᡳᠯᡥᠠᠩᡤᠠ ᡥᠣᠣᡧᠠᠨ",
     "a kind of flowered paper covered with a layer of wax"
   ],
   "ayambi": [
@@ -5308,7 +5308,7 @@ const dictionary = {
     "Manchurian wapiti--see above"
   ],
   "ayan dengjan": [
-    "ᠠᠶᠠᠨ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠠᠶᠠᠨ ᡩᡝᠩᠵᠠᠨ",
     "candle"
   ],
   "ayan dobokv": [
@@ -5364,7 +5364,7 @@ const dictionary = {
     "a species of weasel"
   ],
   "ayan malanggu": [
-    "ᠠᠶᠠᠨ ᠮᠠᠯᠠᠨᡤᡤᡠ",
+    "ᠠᠶᠠᠨ ᠮᠠᠯᠠᠩᡤᡠ",
     "sesame"
   ],
   "ayan silmen": [
@@ -5428,7 +5428,7 @@ const dictionary = {
     "to give a place to, to give a portion to"
   ],
   "ba dung bh 752f": [
-    "ᠪᠠ ᡩᡠᠨᡤ ᠪᡥ 752ᡶ",
+    "ᠪᠠ ᡩᡠᠩ ᠪᡥ 752ᡶ",
     "Sublieutenant,"
   ],
   "ba i gisun": [
@@ -5464,11 +5464,11 @@ const dictionary = {
     "to leave a vacant place"
   ],
   "ba wang": [
-    "ᠪᠠ ᠸᠠᠨᡤ",
+    "ᠪᠠ ᠸᠠᠩ",
     "hegemon king"
   ],
   "ba wang asu": [
-    "ᠪᠠ ᠸᠠᠨᡤ ᠠᠰᡠ",
+    "ᠪᠠ ᠸᠠᠩ ᠠᠰᡠ",
     "a kind of net for catching fish"
   ],
   "babaci": [
@@ -5492,7 +5492,7 @@ const dictionary = {
     "1. handle on a bucket or basket 2. crupper"
   ],
   "babungga": [
-    "ᠪᠠᠪᡠᠨᡤᡤᠠ",
+    "ᠪᠠᠪᡠᠩᡤᠠ",
     "having a handle"
   ],
   "baci": [
@@ -5540,11 +5540,11 @@ const dictionary = {
     "1. to enlarge, to expand, to propagate 2. caus./pass. of badarambi"
   ],
   "badarambungga": [
-    "ᠪᠠᡩᠠᡵᠠᠮᠪᡠᠨᡤᡤᠠ",
+    "ᠪᠠᡩᠠᡵᠠᠮᠪᡠᠩᡤᠠ",
     "magnifying, enlarging"
   ],
   "badarambungga bulekv": [
-    "ᠪᠠᡩᠠᡵᠠᠮᠪᡠᠨᡤᡤᠠ ᠪᡠᠯᡝᡴᡡ",
+    "ᠪᠠᡩᠠᡵᠠᠮᠪᡠᠩᡤᠠ ᠪᡠᠯᡝᡴᡡ",
     "magnifying glass"
   ],
   "badaran": [
@@ -5552,7 +5552,7 @@ const dictionary = {
     "enlargement, widening, growth"
   ],
   "badarangga doro": [
-    "ᠪᠠᡩᠠᡵᠠᠨᡤᡤᠠ ᡩᠣᡵᠣ",
+    "ᠪᠠᡩᠠᡵᠠᠩᡤᠠ ᡩᠣᡵᠣ",
     "the Kuang-hsu reign period, 1875-1908"
   ],
   "bade": [
@@ -5572,7 +5572,7 @@ const dictionary = {
     "a ship whose stern had the shape of a bushel measure"
   ],
   "badung bh 752f": [
-    "ᠪᠠᡩᡠᠨᡤ ᠪᡥ 752ᡶ",
+    "ᠪᠠᡩᡠᠩ ᠪᡥ 752ᡶ",
     "Sublieutenant,"
   ],
   "bagiyambi": [
@@ -5604,11 +5604,11 @@ const dictionary = {
     "if only it were so!"
   ],
   "bahara songko": [
-    "ᠪᠠᡥᠠᡵᠠ ᠰᠣᠨᡤᡴᠣ",
+    "ᠪᠠᡥᠠᡵᠠ ᠰᠣᠩᡴᠣ",
     "tracks that show that the prey has been wounded"
   ],
   "baharakv songko": [
-    "ᠪᠠᡥᠠᡵᠠᡴᡡ ᠰᠣᠨᡤᡴᠣ",
+    "ᠪᠠᡥᠠᡵᠠᡴᡡ ᠰᠣᠩᡴᠣ",
     "tracks that show that the prey has escaped"
   ],
   "bahana": [
@@ -5664,7 +5664,7 @@ const dictionary = {
     "1. caus. of baimbi 2. to require, to need, to use"
   ],
   "baibungga": [
-    "ᠪᠠᡳᠪᡠᠨᡤᡤᠠ",
+    "ᠪᠠᡳᠪᡠᠩᡤᠠ",
     "provisions"
   ],
   "baicabumbi": [
@@ -5688,7 +5688,7 @@ const dictionary = {
     "Censor, 213"
   ],
   "baicame wakalara kunggeri": [
-    "ᠪᠠᡳᠴᠠᠮᡝ ᠸᠠᡴᠠᠯᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠪᠠᡳᠴᠠᠮᡝ ᠸᠠᡴᠠᠯᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Court of tate Ceremonial that was in charge of fixing punishments for officials who failed to pay a courtesy visit to the court after receiving an imperial favor"
   ],
   "baican": [
@@ -5752,7 +5752,7 @@ const dictionary = {
     "to repay a kindness"
   ],
   "bailingga": [
-    "ᠪᠠᡳᠯᡳᠨᡤᡤᠠ",
+    "ᠪᠠᡳᠯᡳᠩᡤᠠ",
     "merciful, kind"
   ],
   "bailisi": [
@@ -5772,7 +5772,7 @@ const dictionary = {
     "to seek together, to discuss"
   ],
   "baingge": [
-    "ᠪᠠᡳᠨᡤᡤᡝ",
+    "ᠪᠠᡳᠩᡤᡝ",
     "of a certain place"
   ],
   "bainjimbi": [
@@ -5788,7 +5788,7 @@ const dictionary = {
     "without an official position, at leisure"
   ],
   "baising": [
-    "ᠪᠠᡳᠰᡳᠨᡤ",
+    "ᠪᠠᡳᠰᡳᠩ",
     "settlement, village"
   ],
   "baisu": [
@@ -5904,7 +5904,7 @@ const dictionary = {
     "a storehouse for wax and / incense"
   ],
   "baitangga": [
-    "ᠪᠠᡳᡨᠠᠨᡤᡤᠠ",
+    "ᠪᠠᡳᡨᠠᠩᡤᠠ",
     "1. usable, applicable, useful 2. errand boy, handyman, underling"
   ],
   "baitasi bh 212b": [
@@ -5928,7 +5928,7 @@ const dictionary = {
     "a little bit (more), a while"
   ],
   "baji nonggimbi": [
-    "ᠪᠠᠵᡳ ᠨᠣᠨᡤᡤᡳᠮᠪᡳ",
+    "ᠪᠠᠵᡳ ᠨᠣᠩᡤᡳᠮᠪᡳ",
     "to add a little bit more"
   ],
   "baji ome": [
@@ -6028,11 +6028,11 @@ const dictionary = {
     "leader of a squad"
   ],
   "baksangga": [
-    "ᠪᠠᡴᠰᠠᠨᡤᡤᠠ",
+    "ᠪᠠᡴᠰᠠᠩᡤᠠ",
     "1. an ancient Chinese grain measure equaling eight bushels 2. pertaining to a bundle or squad"
   ],
   "baksangga ficakv": [
-    "ᠪᠠᡴᠰᠠᠨᡤᡤᠠ ᡶᡳᠴᠠᡴᡡ",
+    "ᠪᠠᡴᠰᠠᠩᡤᠠ ᡶᡳᠴᠠᡴᡡ",
     "a sheng, a classical Chinese wind instrument"
   ],
   "baksatu bh 752f": [
@@ -6084,15 +6084,15 @@ const dictionary = {
     "extremely rich"
   ],
   "baktangga": [
-    "ᠪᠠᡴᡨᠠᠨᡤᡤᠠ",
+    "ᠪᠠᡴᡨᠠᠩᡤᠠ",
     "containing, encompassing"
   ],
   "baktangga bulekv": [
-    "ᠪᠠᡴᡨᠠᠨᡤᡤᠠ ᠪᡠᠯᡝᡴᡡ",
+    "ᠪᠠᡴᡨᠠᠩᡤᠠ ᠪᡠᠯᡝᡴᡡ",
     "compass"
   ],
   "baktangga iktangga": [
-    "ᠪᠠᡴᡨᠠᠨᡤᡤᠠ ᡳᡴᡨᠠᠨᡤᡤᠠ",
+    "ᠪᠠᡴᡨᠠᠩᡤᠠ ᡳᡴᡨᠠᠩᡤᠠ",
     "implication, hidden meaning"
   ],
   "balai": [
@@ -6240,27 +6240,27 @@ const dictionary = {
     "the shrub Pentapetes phoenicea"
   ],
   "bang": [
-    "ᠪᠠᠨᡤ",
+    "ᠪᠠᠩ",
     "bulletin, notice"
   ],
   "bang yan": [
-    "ᠪᠠᠨᡤ ᠶᠠᠨ",
+    "ᠪᠠᠩ ᠶᠠᠨ",
     "number two in the palace examination"
   ],
   "bangguhe": [
-    "ᠪᠠᠨᡤᡤᡠᡥᡝ",
+    "ᠪᠠᠩᡤᡠᡥᡝ",
     "myna bird"
   ],
   "bangnambi": [
-    "ᠪᠠᠨᡤᠨᠠᠮᠪᡳ",
+    "ᠪᠠᠩᠨᠠᠮᠪᡳ",
     "to accuse someone of doing something wrong"
   ],
   "bangse": [
-    "ᠪᠠᠨᡤᠰᡝ",
+    "ᠪᠠᠩᠰᡝ",
     "night watchman's clapper"
   ],
   "bangtu": [
-    "ᠪᠠᠨᡤᡨᡠ",
+    "ᠪᠠᠩᡨᡠ",
     "1. bracket, support for a rafter 2. a cloud-shaped stirrup"
   ],
   "baniha": [
@@ -6324,7 +6324,7 @@ const dictionary = {
     "indefatigable"
   ],
   "baningga": [
-    "ᠪᠠᠨᡳᠨᡤᡤᠠ",
+    "ᠪᠠᠨᡳᠩᡤᠠ",
     "natural, essential, having form"
   ],
   "banirke eniye": [
@@ -6336,7 +6336,7 @@ const dictionary = {
     "by nature, inborn"
   ],
   "banitaingge": [
-    "ᠪᠠᠨᡳᡨᠠᡳᠨᡤᡤᡝ",
+    "ᠪᠠᠨᡳᡨᠠᡳᠩᡤᡝ",
     "that which has a nature, being alike by nature"
   ],
   "banji": [
@@ -6364,7 +6364,7 @@ const dictionary = {
     "a compendium, a creation, a product"
   ],
   "banjibungga": [
-    "ᠪᠠᠨᠵᡳᠪᡠᠨᡤᡤᠠ",
+    "ᠪᠠᠨᠵᡳᠪᡠᠩᡤᠠ",
     "productive, creative"
   ],
   "banjimbi": [
@@ -6388,7 +6388,7 @@ const dictionary = {
     "natural mother"
   ],
   "banjiha inenggi": [
-    "ᠪᠠᠨᠵᡳᡥᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠪᠠᠨᠵᡳᡥᠠ ᡳᠨᡝᠩᡤᡳ",
     "birthday"
   ],
   "banjire sain": [
@@ -6436,7 +6436,7 @@ const dictionary = {
     "by nature, inborn, naturally; cf. banitai"
   ],
   "banjitai dalangga": [
-    "ᠪᠠᠨᠵᡳᡨᠠᡳ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠪᠠᠨᠵᡳᡨᠠᡳ ᡩᠠᠯᠠᠩᡤᠠ",
     "a natural dike"
   ],
   "banuhvn": [
@@ -6496,11 +6496,11 @@ const dictionary = {
     "a name for the myna"
   ],
   "bardanggi": [
-    "ᠪᠠᡵᡩᠠᠨᡤᡤᡳ",
+    "ᠪᠠᡵᡩᠠᠩᡤᡳ",
     "braggart"
   ],
   "bardanggilambi": [
-    "ᠪᠠᡵᡩᠠᠨᡤᡤᡳᠯᠠᠮᠪᡳ",
+    "ᠪᠠᡵᡩᠠᠩᡤᡳᠯᠠᠮᠪᡳ",
     "to brag, to boast"
   ],
   "bargin": [
@@ -6516,7 +6516,7 @@ const dictionary = {
     "1. to store, to preserve, to protect 2. to take in, to receive, to harvest, to gather, to collect 3. to shave both ends of an arrow shaft"
   ],
   "bargiyafi afabure kunggeri bh": [
-    "ᠪᠠᡵᡤᡳᠶᠠᡶᡳ ᠠᡶᠠᠪᡠᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ ᠪᡥ",
+    "ᠪᠠᡵᡤᡳᠶᠠᡶᡳ ᠠᡶᠠᠪᡠᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ ᠪᡥ",
     "Registry, 251"
   ],
   "bargiyaha temgetu": [
@@ -6524,7 +6524,7 @@ const dictionary = {
     "a confirmation of receipt, a receipt"
   ],
   "bargiyara asarara falgangga bh": [
-    "ᠪᠠᡵᡤᡳᠶᠠᡵᠠ ᠠᠰᠠᡵᠠᡵᠠ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ ᠪᡥ",
+    "ᠪᠠᡵᡤᡳᠶᠠᡵᠠ ᠠᠰᠠᡵᠠᡵᠠ ᡶᠠᠯᡤᠠᠩᡤᠠ ᠪᡥ",
     "Section of Archives, 535"
   ],
   "bargiyara asarara hafan bh 652f": [
@@ -6552,7 +6552,7 @@ const dictionary = {
     "1. to protect, to take care of 2. to bring together in one place 3. to straighten up, to fix up, to put in order 4. to hold back, to dam up"
   ],
   "bargiyatara dalangga": [
-    "ᠪᠠᡵᡤᡳᠶᠠᡨᠠᡵᠠ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠪᠠᡵᡤᡳᠶᠠᡨᠠᡵᠠ ᡩᠠᠯᠠᠩᡤᠠ",
     "a dam"
   ],
   "barin": [
@@ -6628,11 +6628,11 @@ const dictionary = {
     "to make fun of, to deride, to mock"
   ],
   "basunggiyambi": [
-    "ᠪᠠᠰᡠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠪᠠᠰᡠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to talk in one's sleep"
   ],
   "basvnggiyara mangga": [
-    "ᠪᠠᠰᡡᠨᡤᡤᡳᠶᠠᡵᠠ ᠮᠠᠨᡤᡤᠠ",
+    "ᠪᠠᠰᡡᠩᡤᡳᠶᠠᡵᠠ ᠮᠠᠩᡤᠠ",
     "often talks in his sleep"
   ],
   "basunumbi": [
@@ -6672,7 +6672,7 @@ const dictionary = {
     "to be an enemy, to oppose"
   ],
   "batangga": [
-    "ᠪᠠᡨᠠᠨᡤᡤᠠ",
+    "ᠪᠠᡨᠠᠩᡤᠠ",
     "hostile, inimical"
   ],
   "batkalambi": [
@@ -6692,7 +6692,7 @@ const dictionary = {
     "1. brave 2. hero"
   ],
   "baturu kiyangkiyan": [
-    "ᠪᠠᡨᡠᡵᡠ ᡴᡳᠶᠠᠨᡤᡴᡳᠶᠠᠨ",
+    "ᠪᠠᡨᡠᡵᡠ ᡴᡳᠶᠠᠩᡴᡳᠶᠠᠨ",
     "brave and strong"
   ],
   "baturulambi": [
@@ -6700,7 +6700,7 @@ const dictionary = {
     "to be brave, to act bravely"
   ],
   "baturungga": [
-    "ᠪᠠᡨᡠᡵᡠᠨᡤᡤᠠ",
+    "ᠪᠠᡨᡠᡵᡠᠩᡤᠠ",
     "endowed with courage"
   ],
   "bayabumbi": [
@@ -6736,7 +6736,7 @@ const dictionary = {
     "guard, troops on guard duty"
   ],
   "bayarai jalan i janggin bh": [
-    "ᠪᠠᠶᠠᡵᠠᡳ ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᠪᠠᠶᠠᡵᠠᡳ ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Colonel, 734"
   ],
   "bayarai juwan i da bh": [
@@ -6748,7 +6748,7 @@ const dictionary = {
     "barracks of the banner guard northwest of Peking"
   ],
   "bayarai tui janggin bh": [
-    "ᠪᠠᠶᠠᡵᠠᡳ ᡨᡠᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᠪᠠᠶᠠᡵᠠᡳ ᡨᡠᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Captain-General, 734"
   ],
   "bayasa": [
@@ -6856,7 +6856,7 @@ const dictionary = {
     "to form stripes or spots"
   ],
   "bederingge": [
-    "ᠪᡝᡩᡝᡵᡳᠨᡤᡤᡝ",
+    "ᠪᡝᡩᡝᡵᡳᠩᡤᡝ",
     "having spots or stripes"
   ],
   "bedu": [
@@ -6868,7 +6868,7 @@ const dictionary = {
     "sturdy, solidly made"
   ],
   "beging": [
-    "ᠪᡝᡤᡳᠨᡤ",
+    "ᠪᡝᡤᡳᠩ",
     "Peking"
   ],
   "begu": [
@@ -6936,7 +6936,7 @@ const dictionary = {
     "Board of Justice, 438"
   ],
   "beidere jurgan i kungge yamun bh 218a": [
-    "ᠪᡝᡳᡩᡝᡵᡝ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝ ᠶᠠᠮᡠᠨ ᠪᡥ 218ᠠ",
+    "ᠪᡝᡳᡩᡝᡵᡝ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡠᠩᡤᡝ ᠶᠠᠮᡠᠨ ᠪᡥ 218ᠠ",
     "Department of Criminal Cases,"
   ],
   "beidere jurgan i toktoho gisun": [
@@ -7164,7 +7164,7 @@ const dictionary = {
     "ready-made, already prepared, finished"
   ],
   "beleningge": [
-    "ᠪᡝᠯᡝᠨᡳᠨᡤᡤᡝ",
+    "ᠪᡝᠯᡝᠨᡳᠩᡤᡝ",
     "something ready-made, that which is already prepared"
   ],
   "belge": [
@@ -7272,19 +7272,19 @@ const dictionary = {
     "messenger; cf. wesimbure bithei benesi"
   ],
   "bengneli": [
-    "ᠪᡝᠨᡤᠨᡝᠯᡳ",
+    "ᠪᡝᠩᠨᡝᠯᡳ",
     "suddenly, hastily"
   ],
   "bengnembi": [
-    "ᠪᡝᠨᡤᠨᡝᠮᠪᡳ",
+    "ᠪᡝᠩᠨᡝᠮᠪᡳ",
     "to be in haste"
   ],
   "bengsen": [
-    "ᠪᡝᠨᡤᠰᡝᠨ",
+    "ᠪᡝᠩᠰᡝᠨ",
     "talent, capability"
   ],
   "bengsengge": [
-    "ᠪᡝᠨᡤᠰᡝᠨᡤᡤᡝ",
+    "ᠪᡝᠩᠰᡝᠩᡤᡝ",
     "talented (person)"
   ],
   "benjimbi": [
@@ -7408,15 +7408,15 @@ const dictionary = {
     "a drill"
   ],
   "beringga uxiha": [
-    "ᠪᡝᡵᡳᠨᡤᡤᠠ ᡠᡧᡳᡥᠠ",
+    "ᠪᡝᡵᡳᠩᡤᠠ ᡠᡧᡳᡥᠠ",
     "the constellation hu"
   ],
   "beringge": [
-    "ᠪᡝᡵᡳᠨᡤᡤᡝ",
+    "ᠪᡝᡵᡳᠩᡤᡝ",
     "pertaining to archery"
   ],
   "beringge cooha": [
-    "ᠪᡝᡵᡳᠨᡤᡤᡝ ᠴᠣᠣᡥᠠ",
+    "ᠪᡝᡵᡳᠩᡤᡝ ᠴᠣᠣᡥᠠ",
     "archers"
   ],
   "bertebumbi": [
@@ -7516,7 +7516,7 @@ const dictionary = {
     "to sleep with the legs together 2. to pile grain in small piles to allow it to dry 3. to entangle a bird's feet in a snare"
   ],
   "bethengge": [
-    "ᠪᡝᡨᡥᡝᠨᡤᡤᡝ",
+    "ᠪᡝᡨᡥᡝᠩᡤᡝ",
     "having legs"
   ],
   "beye i.": [
@@ -7604,7 +7604,7 @@ const dictionary = {
     "by oneself, independently"
   ],
   "beyeingge": [
-    "ᠪᡝᠶᡝᡳᠨᡤᡤᡝ",
+    "ᠪᡝᠶᡝᡳᠩᡤᡝ",
     "one's own"
   ],
   "beyembi": [
@@ -7652,7 +7652,7 @@ const dictionary = {
     "wild tea"
   ],
   "bigan i ciyanliyang": [
-    "ᠪᡳᡤᠠᠨ ᡳ ᠴᡳᠶᠠᠨᠯᡳᠶᠠᠨᡤ",
+    "ᠪᡳᡤᠠᠨ ᡳ ᠴᡳᠶᠠᠨᠯᡳᠶᠠᠩ",
     "tax on uncultivated land"
   ],
   "bigan i coko": [
@@ -7680,11 +7680,11 @@ const dictionary = {
     "wild grape (Vitis Thunbergii)"
   ],
   "bigan i niongniyaha": [
-    "ᠪᡳᡤᠠᠨ ᡳ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᠪᡳᡤᠠᠨ ᡳ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "the wild goose"
   ],
   "bigan i singgeri": [
-    "ᠪᡳᡤᠠᠨ ᡳ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠪᡳᡤᠠᠨ ᡳ ᠰᡳᠩᡤᡝᡵᡳ",
     "field mouse, vole"
   ],
   "bigan i ulgiyan": [
@@ -7700,7 +7700,7 @@ const dictionary = {
     "a steppe, the wilds, wilderness"
   ],
   "bigan urangga moo": [
-    "ᠪᡳᡤᠠᠨ ᡠᡵᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠪᡳᡤᠠᠨ ᡠᡵᠠᠩᡤᠠ ᠮᠣᠣ",
     "the wild tung tree (Calophyllum inophyllum)"
   ],
   "bigarambi": [
@@ -7760,7 +7760,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "bikita tokdonggo kiru": [
-    "ᠪᡳᡴᡳᡨᠠ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠪᡳᡴᡳᡨᠠ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner with the constellation bikita depicted on it"
   ],
   "bila ilha": [
@@ -7828,7 +7828,7 @@ const dictionary = {
     "same as bilha"
   ],
   "bilgacvngga": [
-    "ᠪᡳᠯᡤᠠᠴᡡᠨᡤᡤᠠ",
+    "ᠪᡳᠯᡤᠠᠴᡡᠩᡤᠠ",
     "same as bilhacungga"
   ],
   "bilgexembi": [
@@ -7844,11 +7844,11 @@ const dictionary = {
     "to clear the throat"
   ],
   "bilha ilenggu i gese amban": [
-    "ᠪᡳᠯᡥᠠ ᡳᠯᡝᠨᡤᡤᡠ ᡳ ᡤᡝᠰᡝ ᠠᠮᠪᠠᠨ",
+    "ᠪᡳᠯᡥᠠ ᡳᠯᡝᠩᡤᡠ ᡳ ᡤᡝᠰᡝ ᠠᠮᠪᠠᠨ",
     "respectful title for members of the Štate Council"
   ],
   "bilhacungga": [
-    "ᠪᡳᠯᡥᠠᠴᡠᠨᡤᡤᠠ",
+    "ᠪᡳᠯᡥᠠᠴᡠᠩᡤᠠ",
     "a glutton"
   ],
   "biljambi": [
@@ -7884,7 +7884,7 @@ const dictionary = {
     "pacification"
   ],
   "bilvngga": [
-    "ᠪᡳᠯᡡᠨᡤᡤᠠ",
+    "ᠪᡳᠯᡡᠩᡤᠠ",
     "pacified"
   ],
   "bilurjambi": [
@@ -7908,35 +7908,35 @@ const dictionary = {
     "betel nut; cf. merseri"
   ],
   "bing biyan": [
-    "ᠪᡳᠨᡤ ᠪᡳᠶᠠᠨ",
+    "ᠪᡳᠩ ᠪᡳᠶᠠᠨ",
     "camphor"
   ],
   "bing biyang": [
-    "ᠪᡳᠨᡤ ᠪᡳᠶᠠᠨᡤ",
+    "ᠪᡳᠩ ᠪᡳᠶᠠᠩ",
     "sound made by the sona or flute"
   ],
   "binggiya": [
-    "ᠪᡳᠨᡤᡤᡳᠶᠠ",
+    "ᠪᡳᠩᡤᡳᠶᠠ",
     "water chestnut"
   ],
   "bingha": [
-    "ᠪᡳᠨᡤᡥᠠ",
+    "ᠪᡳᠩᡥᠠ",
     "the name of a constellation"
   ],
   "bingha toktonggo kirv": [
-    "ᠪᡳᠨᡤᡥᠠ ᡨᠣᡴᡨᠣᠨᡤᡤᠣ ᡴᡳᡵᡡ",
+    "ᠪᡳᠩᡥᠠ ᡨᠣᡴᡨᠣᠩᡤᠣ ᡴᡳᡵᡡ",
     "a banner depicting the constellation bingha"
   ],
   "bingse": [
-    "ᠪᡳᠨᡤᠰᡝ",
+    "ᠪᡳᠩᠰᡝ",
     "steelyard"
   ],
   "bingselembi": [
-    "ᠪᡳᠨᡤᠰᡝᠯᡝᠮᠪᡳ",
+    "ᠪᡳᠩᠰᡝᠯᡝᠮᠪᡳ",
     "to weigh on a steelyard"
   ],
   "bingsikv": [
-    "ᠪᡳᠨᡤᠰᡳᡴᡡ",
+    "ᠪᡳᠩᠰᡳᡴᡡ",
     "autumn cicada"
   ],
   "binxe": [
@@ -7956,7 +7956,7 @@ const dictionary = {
     "river"
   ],
   "bira be kadalara tinggin": [
-    "ᠪᡳᡵᠠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠪᡳᡵᠠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ",
     "office of river management"
   ],
   "birai cargi": [
@@ -7964,11 +7964,11 @@ const dictionary = {
     "the other side of the river"
   ],
   "birai dalin i falgangga": [
-    "ᠪᡳᡵᠠᡳ ᡩᠠᠯᡳᠨ ᡳ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ",
+    "ᠪᡳᡵᠠᡳ ᡩᠠᠯᡳᠨ ᡳ ᡶᠠᠯᡤᠠᠩᡤᠠ",
     "unloading area on a riverbank"
   ],
   "birai dengjan": [
-    "ᠪᡳᡵᠠᡳ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠪᡳᡵᠠᡳ ᡩᡝᠩᠵᠠᠨ",
     "a paper lantern in the form of a lotus used to light the way on a river excursion"
   ],
   "birai ebergi": [
@@ -7984,7 +7984,7 @@ const dictionary = {
     "Director- General ofRiver Conservation,"
   ],
   "birai seremxen i kunggeri": [
-    "ᠪᡳᡵᠠᡳ ᠰᡝᡵᡝᠮᡧᡝᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠪᡳᡵᠠᡳ ᠰᡝᡵᡝᠮᡧᡝᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "section for river control in the Board of Works"
   ],
   "birai weilen i falga": [
@@ -7992,11 +7992,11 @@ const dictionary = {
     "bureau of river works in the Board of Civil Appointments"
   ],
   "birangga": [
-    "ᠪᡳᡵᠠᠨᡤᡤᠠ",
+    "ᠪᡳᡵᠠᠩᡤᠠ",
     "having or pertaining to a river"
   ],
   "birangga kiru": [
-    "ᠪᡳᡵᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠪᡳᡵᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner decorated with the design of a flowing river"
   ],
   "birca hiyan moo": [
@@ -8120,11 +8120,11 @@ const dictionary = {
     "smooth crepe"
   ],
   "bisin eldengge loho": [
-    "ᠪᡳᠰᡳᠨ ᡝᠯᡩᡝᠨᡤᡤᡝ ᠯᠣᡥᠣ",
+    "ᠪᡳᠰᡳᠨ ᡝᠯᡩᡝᠩᡤᡝ ᠯᠣᡥᠣ",
     "a sword with a smooth pommel"
   ],
   "bisin ilhangge kofon suje": [
-    "ᠪᡳᠰᡳᠨ ᡳᠯᡥᠠᠨᡤᡤᡝ ᡴᠣᡶᠣᠨ ᠰᡠᠵᡝ",
+    "ᠪᡳᠰᡳᠨ ᡳᠯᡥᠠᠩᡤᡝ ᡴᠣᡶᠣᠨ ᠰᡠᠵᡝ",
     "a smooth patterned Soochow silk"
   ],
   "bixire": [
@@ -8136,11 +8136,11 @@ const dictionary = {
     "one's whole life"
   ],
   "bisirelengge": [
-    "ᠪᡳᠰᡳᡵᡝᠯᡝᠨᡤᡤᡝ",
+    "ᠪᡳᠰᡳᡵᡝᠯᡝᠩᡤᡝ",
     "all that exists"
   ],
   "bisirengge": [
-    "ᠪᡳᠰᡳᡵᡝᠨᡤᡤᡝ",
+    "ᠪᡳᠰᡳᡵᡝᠩᡤᡝ",
     "having, existing"
   ],
   "bisv": [
@@ -8224,7 +8224,7 @@ const dictionary = {
     "a civil official"
   ],
   "bithei hafan i fungnehen i kunggeri": [
-    "ᠪᡳᡨᡥᡝᡳ ᡥᠠᡶᠠᠨ ᡳ ᡶᡠᠨᡤᠨᡝᡥᡝᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠪᡳᡨᡥᡝᡳ ᡥᠠᡶᠠᠨ ᡳ ᡶᡠᠩᠨᡝᡥᡝᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office in charge of posthumous honors"
   ],
   "bithei hafan i temgetu": [
@@ -8240,7 +8240,7 @@ const dictionary = {
     "Librarian, 639"
   ],
   "bithei joringga": [
-    "ᠪᡳᡨᡥᡝᡳ ᠵᠣᡵᡳᠨᡤᡤᠠ",
+    "ᠪᡳᡨᡥᡝᡳ ᠵᠣᡵᡳᠩᡤᠠ",
     "table of contents"
   ],
   "bithei kuren": [
@@ -8252,7 +8252,7 @@ const dictionary = {
     "scholar, civil official"
   ],
   "bithei xungsi bh i91": [
-    "ᠪᡳᡨᡥᡝᡳ ᡧᡠᠨᡤᠰᡳ ᠪᡥ ᡳ91",
+    "ᠪᡳᡨᡥᡝᡳ ᡧᡠᠩᠰᡳ ᠪᡥ ᡳ91",
     "Member of the National Academy,"
   ],
   "bithei xusai": [
@@ -8280,7 +8280,7 @@ const dictionary = {
     "scribe, secretary, clerk, 293"
   ],
   "bithesi i kunggeri bh": [
-    "ᠪᡳᡨᡥᡝᠰᡳ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ ᠪᡥ",
+    "ᠪᡳᡨᡥᡝᠰᡳ ᡳ ᡴᡠᠩᡤᡝᡵᡳ ᠪᡥ",
     "section of clerks in the Board of Civil Appointments; cf. 293"
   ],
   "bitubumbi i.": [
@@ -8304,7 +8304,7 @@ const dictionary = {
     "along a mountain, via a mountain"
   ],
   "biwanggirit": [
-    "ᠪᡳᠸᠠᠨᡤᡤᡳᡵᡳᡨ",
+    "ᠪᡳᠸᠠᠩᡤᡳᡵᡳᡨ",
     "(Sanskrit vyakarana) exposition, explanation, grammar"
   ],
   "biya": [
@@ -8392,7 +8392,7 @@ const dictionary = {
     "pale, wan"
   ],
   "biyaingge": [
-    "ᠪᡳᠶᠠᡳᠨᡤᡤᡝ",
+    "ᠪᡳᠶᠠᡳᠩᡤᡝ",
     "of a certain month"
   ],
   "biyalame": [
@@ -8400,7 +8400,7 @@ const dictionary = {
     "months long, lasting for months"
   ],
   "biyalanggi": [
-    "ᠪᡳᠶᠠᠯᠠᠨᡤᡤᡳ",
+    "ᠪᡳᠶᠠᠯᠠᠩᡤᡳ",
     "blabbermouth, gossiper"
   ],
   "biyalari ilha": [
@@ -8432,39 +8432,39 @@ const dictionary = {
     "lima bean"
   ],
   "biyangga": [
-    "ᠪᡳᠶᠠᠨᡤᡤᠠ",
+    "ᠪᡳᠶᠠᠩᡤᠠ",
     "moonlike, lunar, round"
   ],
   "biyangga efen": [
-    "ᠪᡳᠶᠠᠨᡤᡤᠠ ᡝᡶᡝᠨ",
+    "ᠪᡳᠶᠠᠩᡤᠠ ᡝᡶᡝᠨ",
     "small round cakes filled with sweetened bean paste eaten at the moon festival, moon cakes"
   ],
   "biyangga fa": [
-    "ᠪᡳᠶᠠᠨᡤᡤᠠ ᡶᠠ",
+    "ᠪᡳᠶᠠᠩᡤᠠ ᡶᠠ",
     "a window in the shape of a full moon"
   ],
   "biyangga inenggi": [
-    "ᠪᡳᠶᠠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠪᡳᠶᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "the I5th of the eighth month--the moon festival"
   ],
   "biyangga longkon": [
-    "ᠪᡳᠶᠠᠨᡤᡤᠠ ᠯᠣᠨᡤᡴᠣᠨ",
+    "ᠪᡳᠶᠠᠩᡤᠠ ᠯᠣᠩᡴᠣᠨ",
     "a round gong"
   ],
   "biyangga tungken": [
-    "ᠪᡳᠶᠠᠨᡤᡤᠠ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᠪᡳᠶᠠᠩᡤᠠ ᡨᡠᠩᡴᡝᠨ",
     "a hand drum in the form of a moon"
   ],
   "biyanggidei": [
-    "ᠪᡳᠶᠠᠨᡤᡤᡳᡩᡝᡳ",
+    "ᠪᡳᠶᠠᠩᡤᡳᡩᡝᡳ",
     "a name for the golden pheasant; cf. junggiri coko"
   ],
   "biyangsiku": [
-    "ᠪᡳᠶᠠᠨᡤᠰᡳᡴᡠ",
+    "ᠪᡳᠶᠠᠩᠰᡳᡴᡠ",
     "cicada"
   ],
   "biyangsiri ilha": [
-    "ᠪᡳᠶᠠᠨᡤᠰᡳᡵᡳ ᡳᠯᡥᠠ",
+    "ᠪᡳᠶᠠᠩᠰᡳᡵᡳ ᡳᠯᡥᠠ",
     "an exotic flower-'cicada's blossom'"
   ],
   "biyantaha": [
@@ -8576,7 +8576,7 @@ const dictionary = {
     "a cliff of red earth"
   ],
   "biyorong seme": [
-    "ᠪᡳᠶᠣᡵᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᠪᡳᠶᠣᡵᠣᠩ ᠰᡝᠮᡝ",
     "slowly, languidly"
   ],
   "bo ho": [
@@ -8616,23 +8616,23 @@ const dictionary = {
     "a storehouse belonging to the Board of Revenue for iron, bronze, incense, wax, paper, etc."
   ],
   "boconggo": [
-    "ᠪᠣᠴᠣᠨᡤᡤᠣ",
+    "ᠪᠣᠴᠣᠩᡤᠣ",
     "colored, brightly colored, colorful"
   ],
   "boconggo arsalangga kiru": [
-    "ᠪᠣᠴᠣᠨᡤᡤᠣ ᠠᡵᠰᠠᠯᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠪᠣᠴᠣᠩᡤᠣ ᠠᡵᠰᠠᠯᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner bearing the likeness of a lion"
   ],
   "boconggo nisiha": [
-    "ᠪᠣᠴᠣᠨᡤᡤᠣ ᠨᡳᠰᡳᡥᠠ",
+    "ᠪᠣᠴᠣᠩᡤᠣ ᠨᡳᠰᡳᡥᠠ",
     "goldfish"
   ],
   "boconggo xugin i iletu kiyoo": [
-    "ᠪᠣᠴᠣᠨᡤᡤᠣ ᡧᡠᡤᡳᠨ ᡳ ᡳᠯᡝᡨᡠ ᡴᡳᠶᠣᠣ",
+    "ᠪᠣᠴᠣᠩᡤᠣ ᡧᡠᡤᡳᠨ ᡳ ᡳᠯᡝᡨᡠ ᡴᡳᠶᠣᠣ",
     "a ceremonial sedan chair painted in many colors"
   ],
   "boconggo ulhvmangga kiru": [
-    "ᠪᠣᠴᠣᠨᡤᡤᠣ ᡠᠯᡥᡡᠮᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠪᠣᠴᠣᠩᡤᠣ ᡠᠯᡥᡡᠮᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner bearing the likeness of a pheasant"
   ],
   "bodi": [
@@ -8668,7 +8668,7 @@ const dictionary = {
     "a small pendant of precious stones worn by officials at court 2. same as bodogon"
   ],
   "bodohonggo": [
-    "ᠪᠣᡩᠣᡥᠣᠨᡤᡤᠣ",
+    "ᠪᠣᡩᠣᡥᠣᠩᡤᠣ",
     "good at strategy, full of plans and ideas"
   ],
   "bodokv": [
@@ -8680,7 +8680,7 @@ const dictionary = {
     "to calculate, to figure 2. to plan 3. to drive animals to a predetermined place"
   ],
   "bodofi bure kunggeri": [
-    "ᠪᠣᡩᠣᡶᡳ ᠪᡠᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠪᠣᡩᠣᡶᡳ ᠪᡠᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "the name of a section in the Board of Revenue"
   ],
   "bodoro boo": [
@@ -8700,11 +8700,11 @@ const dictionary = {
     "calculation, plan, policy, strategy"
   ],
   "bodonggiyambi": [
-    "ᠪᠣᡩᠣᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠪᠣᡩᠣᠩᡤᡳᠶᠠᠮᠪᡳ",
     "the same as bodomimbi"
   ],
   "bodonggo": [
-    "ᠪᠣᡩᠣᠨᡤᡤᠣ",
+    "ᠪᠣᡩᠣᠩᡤᠣ",
     "concerning planning, containing plans"
   ],
   "bodonombi": [
@@ -8792,7 +8792,7 @@ const dictionary = {
     "family, household 2. property"
   ],
   "boigon anggala": [
-    "ᠪᠣᡳᡤᠣᠨ ᠠᠨᡤᡤᠠᠯᠠ",
+    "ᠪᠣᡳᡤᠣᠨ ᠠᠩᡤᠠᠯᠠ",
     "members of a household, family"
   ],
   "boigon i boo": [
@@ -8868,11 +8868,11 @@ const dictionary = {
     "Šaturn"
   ],
   "boihon usihangga kiru": [
-    "ᠪᠣᡳᡥᠣᠨ ᡠᠰᡳᡥᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠪᠣᡳᡥᠣᠨ ᡠᠰᡳᡥᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a yellow banner embroidered with a picture of Saturn"
   ],
   "boingge": [
-    "ᠪᠣᡳᠨᡤᡤᡝ",
+    "ᠪᠣᡳᠩᡤᡝ",
     "see booingge"
   ],
   "boisile": [
@@ -8928,7 +8928,7 @@ const dictionary = {
     "an exotic, pale yellow flower that hangs down like the weeping willow"
   ],
   "bokidangga": [
-    "ᠪᠣᡴᡳᡩᠠᠨᡤᡤᠠ",
+    "ᠪᠣᡴᡳᡩᠠᠩᡤᠠ",
     "having a tassel or fringe"
   ],
   "bokirshvn": [
@@ -8976,7 +8976,7 @@ const dictionary = {
     "1. clean, clear 2. honest, sincere"
   ],
   "bolgo duingge hooxan": [
-    "ᠪᠣᠯᡤᠣ ᡩᡠᡳᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᠪᠣᠯᡤᠣ ᡩᡠᡳᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "a type of paper made from the bark of a tree"
   ],
   "bolgo rican": [
@@ -9084,7 +9084,7 @@ const dictionary = {
     "waves and ripples"
   ],
   "boljonggo": [
-    "ᠪᠣᠯᠵᠣᠨᡤᡤᠣ",
+    "ᠪᠣᠯᠵᠣᠩᡤᠣ",
     "conventional, determined by custom, customary"
   ],
   "bolmin": [
@@ -9172,71 +9172,71 @@ const dictionary = {
     "shrill (like the sound of a broken cymbal)"
   ],
   "bongcilihi": [
-    "ᠪᠣᠨᡤᠴᡳᠯᡳᡥᡳ",
+    "ᠪᠣᠩᠴᡳᠯᡳᡥᡳ",
     "a fish from the Eastern Sea whose flesh and bones resemble those of the roe deer"
   ],
   "bonggibumbi": [
-    "ᠪᠣᠨᡤᡤᡳᠪᡠᠮᠪᡳ",
+    "ᠪᠣᠩᡤᡳᠪᡠᠮᠪᡳ",
     "caus. of bonggimbi"
   ],
   "bonggimbi": [
-    "ᠪᠣᠨᡤᡤᡳᠮᠪᡳ",
+    "ᠪᠣᠩᡤᡳᠮᠪᡳ",
     "to send (away from the speaker)"
   ],
   "bonggo i.": [
-    "ᠪᠣᠨᡤᡤᠣ ᡳ᠉",
+    "ᠪᠣᠩᡤᠣ ᡳ᠉",
     "point, apex 2. first"
   ],
   "bonggo de genembi": [
-    "ᠪᠣᠨᡤᡤᠣ ᡩᡝ ᡤᡝᠨᡝᠮᠪᡳ",
+    "ᠪᠣᠩᡤᠣ ᡩᡝ ᡤᡝᠨᡝᠮᠪᡳ",
     "to go first, to go at the head"
   ],
   "bonggo dosikasi": [
-    "ᠪᠣᠨᡤᡤᠣ ᡩᠣᠰᡳᡴᠠᠰᡳ",
+    "ᠪᠣᠩᡤᠣ ᡩᠣᠰᡳᡴᠠᠰᡳ",
     "number one in the examination for Metropolitan Graduate"
   ],
   "bonggo morin": [
-    "ᠪᠣᠨᡤᡤᠣ ᠮᠣᡵᡳᠨ",
+    "ᠪᠣᠩᡤᠣ ᠮᠣᡵᡳᠨ",
     "outrider, lead horse"
   ],
   "bonggo sonjosi": [
-    "ᠪᠣᠨᡤᡤᠣ ᠰᠣᠨᠵᠣᠰᡳ",
+    "ᠪᠣᠩᡤᠣ ᠰᠣᠨᠵᠣᠰᡳ",
     "number one in the palace examination"
   ],
   "bonggo xusai": [
-    "ᠪᠣᠨᡤᡤᠣ ᡧᡠᠰᠠᡳ",
+    "ᠪᠣᠩᡤᠣ ᡧᡠᠰᠠᡳ",
     "number one in the baccalaureate examination"
   ],
   "bonggo tukiyesi": [
-    "ᠪᠣᠨᡤᡤᠣ ᡨᡠᡴᡳᠶᡝᠰᡳ",
+    "ᠪᠣᠩᡤᠣ ᡨᡠᡴᡳᠶᡝᠰᡳ",
     "number one in the provincial examination"
   ],
   "bongjonggi": [
-    "ᠪᠣᠨᡤᠵᠣᠨᡤᡤᡳ",
+    "ᠪᠣᠩᠵᠣᠩᡤᡳ",
     "a coarse, vulgar person, a lout"
   ],
   "bongko i.": [
-    "ᠪᠣᠨᡤᡴᠣ ᡳ᠉",
+    "ᠪᠣᠩᡴᠣ ᡳ᠉",
     "bud of a flower 2. a wooden cap placed over the point of an arrow"
   ],
   "bongko dalangga": [
-    "ᠪᠣᠨᡤᡴᠣ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠪᠣᠩᡴᠣ ᡩᠠᠯᠠᠩᡤᠠ",
     "a weir built at a fork in a river"
   ],
   "bongko sukiyara duka": [
-    "ᠪᠣᠨᡤᡴᠣ ᠰᡠᡴᡳᠶᠠᡵᠠ ᡩᡠᡴᠠ",
+    "ᠪᠣᠩᡴᠣ ᠰᡠᡴᡳᠶᠠᡵᠠ ᡩᡠᡴᠠ",
     "an ornamental gate in which sections of decorated wood are suspended"
   ],
   "bongkon": [
-    "ᠪᠣᠨᡤᡴᠣᠨ",
+    "ᠪᠣᠩᡴᠣᠨ",
     "yellow side ornaments that hang down on both sides of an official's hat"
   ],
   "bongkonombi": [
-    "ᠪᠣᠨᡤᡴᠣᠨᠣᠮᠪᡳ",
+    "ᠪᠣᠩᡴᠣᠨᠣᠮᠪᡳ",
     "to form a bud"
   ],
   "bongsimu niyehe": [
-    "ᠪᠣᠨᡤᠰᡳᠮᡠ ᠨᡳᠶᡝᡥᡝ",
+    "ᠪᠣᠩᠰᡳᠮᡠ ᠨᡳᠶᡝᡥᡝ",
     "one of the names of the wild duck"
   ],
   "bonio i.": [
@@ -9420,7 +9420,7 @@ const dictionary = {
     "to eat side dishes 2. to offer such dishes to the dead on the eighth day after burial"
   ],
   "booinge": [
-    "ᠪᠣᠣᡳᠨᡤᡝ",
+    "ᠪᠣᠣᡳᠩᡝ",
     "member of the family, belonging or pertaining to a household or family"
   ],
   "boolabumbi": [
@@ -9448,7 +9448,7 @@ const dictionary = {
     "to go to report"
   ],
   "boongga jahvdai": [
-    "ᠪᠣᠣᠨᡤᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
+    "ᠪᠣᠣᠩᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
     "houseboat"
   ],
   "boose": [
@@ -9584,7 +9584,7 @@ const dictionary = {
     "to be narrow at the middle"
   ],
   "boshonggo": [
-    "ᠪᠣᠰᡥᠣᠨᡤᡤᠣ",
+    "ᠪᠣᠰᡥᠣᠩᡤᠣ",
     "having a waist, narrow at the middle, kidney-shaped"
   ],
   "boxo": [
@@ -9596,7 +9596,7 @@ const dictionary = {
     "an archery target made of cloth"
   ],
   "bosongge": [
-    "ᠪᠣᠰᠣᠨᡤᡤᡝ",
+    "ᠪᠣᠰᠣᠩᡤᡝ",
     "made of cloth"
   ],
   "boxoro": [
@@ -9660,7 +9660,7 @@ const dictionary = {
     "caus. of bucembi"
   ],
   "bucehengge": [
-    "ᠪᡠᠴᡝᡥᡝᠨᡤᡤᡝ",
+    "ᠪᡠᠴᡝᡥᡝᠩᡤᡝ",
     "dead person or thing--an oath"
   ],
   "buceli": [
@@ -9804,7 +9804,7 @@ const dictionary = {
     "gristle 2. same as buhe"
   ],
   "buge monggon": [
-    "ᠪᡠᡤᡝ ᠮᠣᠨᡤᡤᠣᠨ",
+    "ᠪᡠᡤᡝ ᠮᠣᠩᡤᠣᠨ",
     "windpipe"
   ],
   "buge muke": [
@@ -9824,7 +9824,7 @@ const dictionary = {
     "wild buffalo"
   ],
   "buha singgeri": [
-    "ᠪᡠᡥᠠ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠪᡠᡥᠠ ᠰᡳᠩᡤᡝᡵᡳ",
     "mole"
   ],
   "buha uihe beri": [
@@ -9908,7 +9908,7 @@ const dictionary = {
     "deer"
   ],
   "buhvngge": [
-    "ᠪᡠᡥᡡᠨᡤᡤᡝ",
+    "ᠪᡠᡥᡡᠩᡤᡝ",
     "deerlike, pertaining to deer"
   ],
   "bujambi": [
@@ -9924,7 +9924,7 @@ const dictionary = {
     "one name for a pheasant"
   ],
   "bujengxy": [
-    "ᠪᡠᠵᡝᠨᡤᡧᠶ",
+    "ᠪᡠᠵᡝᠩᡧᠶ",
     "see dasan: be hafumbure yamun"
   ],
   "bujihilambi": [
@@ -9972,11 +9972,11 @@ const dictionary = {
     "a bend, a fold"
   ],
   "bukdangga": [
-    "ᠪᡠᡴᡩᠠᠨᡤᡤᠠ",
+    "ᠪᡠᡴᡩᠠᠩᡤᠠ",
     "folded, bent"
   ],
   "bukdangga dengjan": [
-    "ᠪᡠᡴᡩᠠᠨᡤᡤᠠ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠪᡠᡴᡩᠠᠩᡤᠠ ᡩᡝᠩᠵᠠᠨ",
     "lantern made of folded paper or cloth"
   ],
   "bukdari": [
@@ -9988,7 +9988,7 @@ const dictionary = {
     "a section of the Printing Office concerned with memorials"
   ],
   "bukdari arara kunggeri": [
-    "ᠪᡠᡴᡩᠠᡵᡳ ᠠᡵᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠪᡠᡴᡩᠠᡵᡳ ᠠᡵᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Court of Colonial Affairs concerned with memorials"
   ],
   "bukdari icihiyakv bh": [
@@ -9996,7 +9996,7 @@ const dictionary = {
     "Compiler, 203"
   ],
   "bukdari icihiyakv i tinggin": [
-    "ᠪᡠᡴᡩᠠᡵᡳ ᡳᠴᡳᡥᡳᠶᠠᡴᡡ ᡳ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠪᡠᡴᡩᠠᡵᡳ ᡳᠴᡳᡥᡳᠶᠠᡴᡡ ᡳ ᡨᡳᠩᡤᡳᠨ",
     ""
   ],
   "bukdari icihiyasi": [
@@ -10016,7 +10016,7 @@ const dictionary = {
     "officer who stamped examination papers"
   ],
   "bukdarun i jumanggi": [
-    "ᠪᡠᡴᡩᠠᡵᡠᠨ ᡳ ᠵᡠᠮᠠᠨᡤᡤᡳ",
+    "ᠪᡠᡴᡩᠠᡵᡠᠨ ᡳ ᠵᡠᠮᠠᠩᡤᡳ",
     "a bag in which examinations were kept"
   ],
   "bukdarun i talgari": [
@@ -10148,15 +10148,15 @@ const dictionary = {
     "was stuck by prickles and thorns"
   ],
   "bula urangga moo": [
-    "ᠪᡠᠯᠠ ᡠᡵᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠪᡠᠯᠠ ᡠᡵᠠᠩᡤᠠ ᠮᠣᠣ",
     "Erythrina indica"
   ],
   "bulangga": [
-    "ᠪᡠᠯᠠᠨᡤᡤᠠ",
+    "ᠪᡠᠯᠠᠩᡤᠠ",
     "having thorns, thorny"
   ],
   "bulangga sogi": [
-    "ᠪᡠᠯᠠᠨᡤᡤᠠ ᠰᠣᡤᡳ",
+    "ᠪᡠᠯᠠᠩᡤᠠ ᠰᠣᡤᡳ",
     "a type of wild vegetable with prickled leaves"
   ],
   "bulari moo": [
@@ -10208,11 +10208,11 @@ const dictionary = {
     "crane (Gnus japonensis)"
   ],
   "bulehengge": [
-    "ᠪᡠᠯᡝᡥᡝᠨᡤᡤᡝ",
+    "ᠪᡠᠯᡝᡥᡝᠩᡤᡝ",
     "cranelike, pertaining to the crane"
   ],
   "bulehengge kiru": [
-    "ᠪᡠᠯᡝᡥᡝᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᠪᡠᠯᡝᡥᡝᠩᡤᡝ ᡴᡳᡵᡠ",
     "a banner bearing an embroidered crane's image"
   ],
   "buleku": [
@@ -10280,7 +10280,7 @@ const dictionary = {
     "to catch food or bait on the surface of the water (of fish)"
   ],
   "buling seme": [
-    "ᠪᡠᠯᡳᠨᡤ ᠰᡝᠮᡝ",
+    "ᠪᡠᠯᡳᠩ ᠰᡝᠮᡝ",
     "startled, dumb-struck"
   ],
   "bulinjambi": [
@@ -10380,23 +10380,23 @@ const dictionary = {
     "warm, neither too hot nor too cold"
   ],
   "bung bung": [
-    "ᠪᡠᠨᡤ ᠪᡠᠨᡤ",
+    "ᠪᡠᠩ ᠪᡠᠩ",
     "the sound of a horn, the sound made by blowing into a conch shell"
   ],
   "bunggimbi": [
-    "ᠪᡠᠨᡤᡤᡳᠮᠪᡳ",
+    "ᠪᡠᠩᡤᡳᠮᠪᡳ",
     "to give as a present"
   ],
   "bungjan": [
-    "ᠪᡠᠨᡤᠵᠠᠨ",
+    "ᠪᡠᠩᠵᠠᠨ",
     "a hunchback"
   ],
   "bungjanambi": [
-    "ᠪᡠᠨᡤᠵᠠᠨᠠᠮᠪᡳ",
+    "ᠪᡠᠩᠵᠠᠨᠠᠮᠪᡳ",
     "to hump the shoulders, to have a hump"
   ],
   "bungnambi": [
-    "ᠪᡠᠨᡤᠨᠠᠮᠪᡳ",
+    "ᠪᡠᠩᠨᠠᠮᠪᡳ",
     "to oppress unjustly"
   ],
   "bunjiha": [
@@ -10440,7 +10440,7 @@ const dictionary = {
     "in disarray"
   ],
   "buranggiyambi": [
-    "ᠪᡠᡵᠠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠪᡠᡵᠠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to cook meat quickly in boiling water, to parboil"
   ],
   "buraxambi": [
@@ -10584,7 +10584,7 @@ const dictionary = {
     "to blind"
   ],
   "busanggiyambi": [
-    "ᠪᡠᠰᠠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠪᡠᠰᠠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to search urgently for something lost"
   ],
   "buxe": [
@@ -10832,7 +10832,7 @@ const dictionary = {
     "an office concerned with miscellaneous small dealings"
   ],
   "buyarame hacin i kunggeri": [
-    "ᠪᡠᠶᠠᡵᠠᠮᡝ ᡥᠠᠴᡳᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠪᡠᠶᠠᡵᠠᠮᡝ ᡥᠠᠴᡳᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "section for miscellaneous business in the Board of Works"
   ],
   "buyarame hafan": [
@@ -10900,7 +10900,7 @@ const dictionary = {
     "tendon, sinew"
   ],
   "ca mangga": [
-    "ᠴᠠ ᠮᠠᠨᡤᡤᠠ",
+    "ᠴᠠ ᠮᠠᠩᡤᠠ",
     "stubborn, not easy to deal with, difficult"
   ],
   "ca yuwan yamun": [
@@ -11048,7 +11048,7 @@ const dictionary = {
     "tea leaves"
   ],
   "cai abdaha i kunggeri": [
-    "ᠴᠠᡳ ᠠᠪᡩᠠᡥᠠ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠴᠠᡳ ᠠᠪᡩᠠᡥᠠ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Board of Rites concerned with matters relating to tea"
   ],
   "cai i boo": [
@@ -11116,7 +11116,7 @@ const dictionary = {
     "a white-speckled eagle"
   ],
   "cakiri xongkon": [
-    "ᠴᠠᡴᡳᡵᡳ ᡧᠣᠨᡤᡴᠣᠨ",
+    "ᠴᠠᡴᡳᡵᡳ ᡧᠣᠩᡴᠣᠨ",
     "a white-speckled falcon"
   ],
   "cakjambi": [
@@ -11164,11 +11164,11 @@ const dictionary = {
     "probably the white chat (Oenanthe oenanthe)"
   ],
   "cakvlu honggon cecike": [
-    "ᠴᠠᡴᡡᠯᡠ ᡥᠣᠨᡤᡤᠣᠨ ᠴᡝᠴᡳᡴᡝ",
+    "ᠴᠠᡴᡡᠯᡠ ᡥᠣᠩᡤᠣᠨ ᠴᡝᠴᡳᡴᡝ",
     "a small bird with a light-yellow head and a white speckled neck"
   ],
   "cakvlu kiongguhe": [
-    "ᠴᠠᡴᡡᠯᡠ ᡴᡳᠣᠨᡤᡤᡠᡥᡝ",
+    "ᠴᠠᡴᡡᠯᡠ ᡴᡳᠣᠩᡤᡠᡥᡝ",
     "the Fukien myna"
   ],
   "cakvlu kurehu": [
@@ -11260,11 +11260,11 @@ const dictionary = {
     "pay office of the Board of Revenues in Mukden"
   ],
   "caliyan i kunggeri": [
-    "ᠴᠠᠯᡳᠶᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠴᠠᠯᡳᠶᠠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "an office of the Board of Revenues"
   ],
   "caliyangga xusai bh 577c, 629a,": [
-    "ᠴᠠᠯᡳᠶᠠᠨᡤᡤᠠ ᡧᡠᠰᠠᡳ ᠪᡥ 577ᠴ᠈ 629ᠠ᠈",
+    "ᠴᠠᠯᡳᠶᠠᠩᡤᠠ ᡧᡠᠰᠠᡳ ᠪᡥ 577ᠴ᠈ 629ᠠ᠈",
     "Stipendiary, 631"
   ],
   "caliyasi": [
@@ -11280,23 +11280,23 @@ const dictionary = {
     "Head Office of Government Granaries at the Capital"
   ],
   "calu i kunggeri": [
-    "ᠴᠠᠯᡠ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠴᠠᠯᡠ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "section on granaries in the Board of Revenues"
   ],
   "calungga": [
-    "ᠴᠠᠯᡠᠨᡤᡤᠠ",
+    "ᠴᠠᠯᡠᠩᡤᠠ",
     "1. pertaining to a granary 2. a grain measure equaling sixteen bushels"
   ],
   "calungga bele": [
-    "ᠴᠠᠯᡠᠨᡤᡤᠠ ᠪᡝᠯᡝ",
+    "ᠴᠠᠯᡠᠩᡤᠠ ᠪᡝᠯᡝ",
     "rice from a granary"
   ],
   "camangga": [
-    "ᠴᠠᠮᠠᠨᡤᡤᠠ",
+    "ᠴᠠᠮᠠᠩᡤᠠ",
     "see ca mangga"
   ],
   "camanggadambi": [
-    "ᠴᠠᠮᠠᠨᡤᡤᠠᡩᠠᠮᠪᡳ",
+    "ᠴᠠᠮᠠᠩᡤᠠᡩᠠᠮᠪᡳ",
     "to be stubborn"
   ],
   "cambi": [
@@ -11348,63 +11348,63 @@ const dictionary = {
     "to sit in meditation"
   ],
   "cananggi": [
-    "ᠴᠠᠨᠠᠨᡤᡤᡳ",
+    "ᠴᠠᠨᠠᠩᡤᡳ",
     "day before yesterday, previously"
   ],
   "cang": [
-    "ᠴᠠᠨᡤ",
+    "ᠴᠠᠩ",
     "1. the autumnal sacrifice 2. sacrificial wine"
   ],
   "cang cang": [
-    "ᠴᠠᠨᡤ ᠴᠠᠨᡤ",
+    "ᠴᠠᠩ ᠴᠠᠩ",
     "the sound of bells"
   ],
   "cang cing": [
-    "ᠴᠠᠨᡤ ᠴᡳᠨᡤ",
+    "ᠴᠠᠩ ᠴᡳᠩ",
     "same as cang cang"
   ],
   "cang seme": [
-    "ᠴᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᠴᠠᠩ ᠰᡝᠮᡝ",
     "hard, fast"
   ],
   "cang seme gecembi": [
-    "ᠴᠠᠨᡤ ᠰᡝᠮᡝ ᡤᡝᠴᡝᠮᠪᡳ",
+    "ᠴᠠᠩ ᠰᡝᠮᡝ ᡤᡝᠴᡝᠮᠪᡳ",
     "to freeze solid"
   ],
   "cang seme mangga": [
-    "ᠴᠠᠨᡤ ᠰᡝᠮᡝ ᠮᠠᠨᡤᡤᠠ",
+    "ᠴᠠᠩ ᠰᡝᠮᡝ ᠮᠠᠩᡤᠠ",
     "very hard"
   ],
   "cangga": [
-    "ᠴᠠᠨᡤᡤᠠ",
+    "ᠴᠠᠩᡤᠠ",
     "a small gong"
   ],
   "canggali": [
-    "ᠴᠠᠨᡤᡤᠠᠯᡳ",
+    "ᠴᠠᠩᡤᠠᠯᡳ",
     "impatient"
   ],
   "canggalimbi": [
-    "ᠴᠠᠨᡤᡤᠠᠯᡳᠮᠪᡳ",
+    "ᠴᠠᠩᡤᠠᠯᡳᠮᠪᡳ",
     "to be exhausted, to get"
   ],
   "canggi": [
-    "ᠴᠠᠨᡤᡤᡳ",
+    "ᠴᠠᠩᡤᡳ",
     "only, scarcely, just"
   ],
   "cangka": [
-    "ᠴᠠᠨᡤᡴᠠ",
+    "ᠴᠠᠩᡴᠠ",
     "1. perfect participle of cambi 2. a white horse with red eyes, nose, and lips"
   ],
   "cangkai": [
-    "ᠴᠠᠨᡤᡴᠠᡳ",
+    "ᠴᠠᠩᡴᠠᡳ",
     "obstinate, stubborn"
   ],
   "cangkambi": [
-    "ᠴᠠᠨᡤᡴᠠᠮᠪᡳ",
+    "ᠴᠠᠩᡴᠠᠮᠪᡳ",
     "to kill small fish in shallow water with stones"
   ],
   "cankir niongniyaha": [
-    "ᠴᠠᠨᡴᡳᡵ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᠴᠠᠨᡴᡳᡵ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "the speckled goose of Chinghai"
   ],
   "canjurabumbi": [
@@ -11708,7 +11708,7 @@ const dictionary = {
     "music played while the emperor returned to the palace from a banquet and while officials were thanking him for favors received"
   ],
   "celehen i bolgonggo kumvn": [
-    "ᠴᡝᠯᡝᡥᡝᠨ ᡳ ᠪᠣᠯᡤᠣᠨᡤᡤᠣ ᡴᡠᠮᡡᠨ",
+    "ᠴᡝᠯᡝᡥᡝᠨ ᡳ ᠪᠣᠯᡤᠣᠩᡤᠣ ᡴᡠᠮᡡᠨ",
     "music played during imperial banquets"
   ],
   "celehen i hvwa": [
@@ -11756,7 +11756,7 @@ const dictionary = {
     "one one-hundred millionth"
   ],
   "cen hiyang": [
-    "ᠴᡝᠨ ᡥᡳᠶᠠᠨᡤ",
+    "ᠴᡝᠨ ᡥᡳᠶᠠᠩ",
     "agalloch, eaglewood (Aquilaria agallocha)"
   ],
   "cenci": [
@@ -11808,15 +11808,15 @@ const dictionary = {
     "a peony"
   ],
   "cengme": [
-    "ᠴᡝᠨᡤᠮᡝ",
+    "ᠴᡝᠩᠮᡝ",
     "coarse Tibetan wool"
   ],
   "cengmv": [
-    "ᠴᡝᠨᡤᠮᡡ",
+    "ᠴᡝᠩᠮᡡ",
     "see cengme"
   ],
   "cengsiyang": [
-    "ᠴᡝᠨᡤᠰᡳᠶᠠᠨᡤ",
+    "ᠴᡝᠩᠰᡳᠶᠠᠩ",
     "prime minister"
   ],
   "ceni": [
@@ -11824,7 +11824,7 @@ const dictionary = {
     "genitive of ce"
   ],
   "ceningge": [
-    "ᠴᡝᠨᡳᠨᡤᡤᡝ",
+    "ᠴᡝᠨᡳᠩᡤᡝ",
     "theirs"
   ],
   "cense": [
@@ -11856,7 +11856,7 @@ const dictionary = {
     "a satin that resembles gauze"
   ],
   "ceringge ilha": [
-    "ᠴᡝᡵᡳᠨᡤᡤᡝ ᡳᠯᡥᠠ",
+    "ᠴᡝᡵᡳᠩᡤᡝ ᡳᠯᡥᠠ",
     "a red flower from South China"
   ],
   "cese": [
@@ -11900,7 +11900,7 @@ const dictionary = {
     "swallow (Hirundo rustica)"
   ],
   "cibingga kiongguhe": [
-    "ᠴᡳᠪᡳᠨᡤᡤᠠ ᡴᡳᠣᠨᡤᡤᡠᡥᡝ",
+    "ᠴᡳᠪᡳᠩᡤᠠ ᡴᡳᠣᠩᡤᡠᡥᡝ",
     "a type of myna that resembles a swallow"
   ],
   "cibirgan": [
@@ -11936,7 +11936,7 @@ const dictionary = {
     "to lament together"
   ],
   "cibsonggo": [
-    "ᠴᡳᠪᠰᠣᠨᡤᡤᠣ",
+    "ᠴᡳᠪᠰᠣᠩᡤᠣ",
     "1. harmony, harmonious 2. the right side of an ancestral temple"
   ],
   "cibsu hiyan": [
@@ -11972,7 +11972,7 @@ const dictionary = {
     "viscous mud, mud used as plaster"
   ],
   "cifahangga aisin": [
-    "ᠴᡳᡶᠠᡥᠠᠨᡤᡤᠠ ᠠᡳᠰᡳᠨ",
+    "ᠴᡳᡶᠠᡥᠠᠩᡤᠠ ᠠᡳᠰᡳᠨ",
     "gold paint"
   ],
   "cifambi": [
@@ -11988,7 +11988,7 @@ const dictionary = {
     "to spit"
   ],
   "cifenggv": [
-    "ᠴᡳᡶᡝᠨᡤᡤᡡ",
+    "ᠴᡳᡶᡝᠩᡤᡡ",
     "spit, saliva"
   ],
   "cifun": [
@@ -12008,11 +12008,11 @@ const dictionary = {
     "tax receipt"
   ],
   "cifvn i bithei menggvn": [
-    "ᠴᡳᡶᡡᠨ ᡳ ᠪᡳᡨᡥᡝᡳ ᠮᡝᠨᡤᡤᡡᠨ",
+    "ᠴᡳᡶᡡᠨ ᡳ ᠪᡳᡨᡥᡝᡳ ᠮᡝᠩᡤᡡᠨ",
     "property deeds tax"
   ],
   "cifun i menggun": [
-    "ᠴᡳᡶᡠᠨ ᡳ ᠮᡝᠨᡤᡤᡠᠨ",
+    "ᠴᡳᡶᡠᠨ ᡳ ᠮᡝᠩᡤᡠᠨ",
     "tax money"
   ],
   "cifuri niyehe": [
@@ -12068,15 +12068,15 @@ const dictionary = {
     "without desire or interest"
   ],
   "cihangga": [
-    "ᠴᡳᡥᠠᠨᡤᡤᠠ",
+    "ᠴᡳᡥᠠᠩᡤᠠ",
     "willing, eager"
   ],
   "cihangga waka": [
-    "ᠴᡳᡥᠠᠨᡤᡤᠠ ᠸᠠᡴᠠ",
+    "ᠴᡳᡥᠠᠩᡤᠠ ᠸᠠᡴᠠ",
     "unwilling"
   ],
   "cihanggai": [
-    "ᠴᡳᡥᠠᠨᡤᡤᠠᡳ",
+    "ᠴᡳᡥᠠᠩᡤᠠᡳ",
     "willing, eager"
   ],
   "cihe": [
@@ -12136,7 +12136,7 @@ const dictionary = {
     "1. edge, border 2. the bank of a river"
   ],
   "cikingge fu": [
-    "ᠴᡳᡴᡳᠨᡤᡤᡝ ᡶᡠ",
+    "ᠴᡳᡴᡳᠩᡤᡝ ᡶᡠ",
     "a boundary wall"
   ],
   "cikirambi": [
@@ -12256,7 +12256,7 @@ const dictionary = {
     "1. tomorrow 2. morning"
   ],
   "cimaha inenggi": [
-    "ᠴᡳᠮᠠᡥᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠴᡳᠮᠠᡥᠠ ᡳᠨᡝᠩᡤᡳ",
     "tomorrow"
   ],
   "cimari": [
@@ -12284,7 +12284,7 @@ const dictionary = {
     "a salt-water fish resembling the salmon"
   ],
   "cimeke giranggi": [
-    "ᠴᡳᠮᡝᡴᡝ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᠴᡳᠮᡝᡴᡝ ᡤᡳᡵᠠᠩᡤᡳ",
     "1. the foot bones of an animal 2. all the small bones in a pig's foot below the ankle bone--used by small girls as toys"
   ],
   "cimikv": [
@@ -12352,79 +12352,79 @@ const dictionary = {
     "the fur on the underside of a snow rabbit"
   ],
   "cing cang": [
-    "ᠴᡳᠨᡤ ᠴᠠᠨᡤ",
+    "ᠴᡳᠩ ᠴᠠᠩ",
     "the sound of chipping ice"
   ],
   "cing ko muji": [
-    "ᠴᡳᠨᡤ ᡴᠣ ᠮᡠᠵᡳ",
+    "ᠴᡳᠩ ᡴᠣ ᠮᡠᠵᡳ",
     "barley"
   ],
   "cing seme": [
-    "ᠴᡳᠨᡤ ᠰᡝᠮᡝ",
+    "ᠴᡳᠩ ᠰᡝᠮᡝ",
     "flaming, flashing"
   ],
   "cing seme banjimbi": [
-    "ᠴᡳᠨᡤ ᠰᡝᠮᡝ ᠪᠠᠨᠵᡳᠮᠪᡳ",
+    "ᠴᡳᠩ ᠰᡝᠮᡝ ᠪᠠᠨᠵᡳᠮᠪᡳ",
     "to live prosperously"
   ],
   "cing seme dambi": [
-    "ᠴᡳᠨᡤ ᠰᡝᠮᡝ ᡩᠠᠮᠪᡳ",
+    "ᠴᡳᠩ ᠰᡝᠮᡝ ᡩᠠᠮᠪᡳ",
     "to flame"
   ],
   "cinggambi": [
-    "ᠴᡳᠨᡤᡤᠠᠮᠪᡳ",
+    "ᠴᡳᠩᡤᠠᠮᠪᡳ",
     "see cingkambi"
   ],
   "cinggilakv": [
-    "ᠴᡳᠨᡤᡤᡳᠯᠠᡴᡡ",
+    "ᠴᡳᠩᡤᡳᠯᠠᡴᡡ",
     "a small bell used by Buddhist monks"
   ],
   "cinggin": [
-    "ᠴᡳᠨᡤᡤᡳᠨ",
+    "ᠴᡳᠩᡤᡳᠨ",
     "a three-year-old pig"
   ],
   "cinggiri ilha": [
-    "ᠴᡳᠨᡤᡤᡳᡵᡳ ᡳᠯᡥᠠ",
+    "ᠴᡳᠩᡤᡳᡵᡳ ᡳᠯᡥᠠ",
     "an exotic purple, bell-shaped flower"
   ],
   "cinggiya": [
-    "ᠴᡳᠨᡤᡤᡳᠶᠠ",
+    "ᠴᡳᠩᡤᡳᠶᠠ",
     "1. insufficient, short, narrow 2. narrow-minded, ungenerous 3. near"
   ],
   "cinggiyakan": [
-    "ᠴᡳᠨᡤᡤᡳᠶᠠᡴᠠᠨ",
+    "ᠴᡳᠩᡤᡳᠶᠠᡴᠠᠨ",
     "somewhat narrow"
   ],
   "cingiri": [
-    "ᠴᡳᠨᡤᡳᡵᡳ",
+    "ᠴᡳᠩᡳᡵᡳ",
     "myna bird (Gracula religiosa)"
   ],
   "cingkabumbi": [
-    "ᠴᡳᠨᡤᡴᠠᠪᡠᠮᠪᡳ",
+    "ᠴᡳᠩᡴᠠᠪᡠᠮᠪᡳ",
     "1. caus./pass. of cingkambi 2. to gorge oneself, to be stuffed, to be puffed up, to be inflated"
   ],
   "cingkai": [
-    "ᠴᡳᠨᡤᡴᠠᡳ",
+    "ᠴᡳᠩᡴᠠᡳ",
     "by far, completely, different, odd, at variance"
   ],
   "cingkambi": [
-    "ᠴᡳᠨᡤᡴᠠᠮᠪᡳ",
+    "ᠴᡳᠩᡴᠠᠮᠪᡳ",
     "to stuff, to fill a container full, to stuff pelts with grass or wood"
   ],
   "cingkame fargambi": [
-    "ᠴᡳᠨᡤᡴᠠᠮᡝ ᡶᠠᡵᡤᠠᠮᠪᡳ",
+    "ᠴᡳᠩᡴᠠᠮᡝ ᡶᠠᡵᡤᠠᠮᠪᡳ",
     "to pursue to the end"
   ],
   "cingkame jembi": [
-    "ᠴᡳᠨᡤᡴᠠᠮᡝ ᠵᡝᠮᠪᡳ",
+    "ᠴᡳᠩᡴᠠᠮᡝ ᠵᡝᠮᠪᡳ",
     "to eat to satiety"
   ],
   "cingkaxambi": [
-    "ᠴᡳᠨᡤᡴᠠᡧᠠᠮᠪᡳ",
+    "ᠴᡳᠩᡴᠠᡧᠠᠮᠪᡳ",
     "to stuff full"
   ],
   "cingnembi": [
-    "ᠴᡳᠨᡤᠨᡝᠮᠪᡳ",
+    "ᠴᡳᠩᠨᡝᠮᠪᡳ",
     "to glue an arrowhead to the shaft"
   ],
   "cinjiri": [
@@ -12496,7 +12496,7 @@ const dictionary = {
     "solemnity, seriousness"
   ],
   "cirangga": [
-    "ᠴᡳᡵᠠᠨᡤᡤᠠ",
+    "ᠴᡳᡵᠠᠩᡤᠠ",
     "colored, having color"
   ],
   "cirashvn": [
@@ -12556,7 +12556,7 @@ const dictionary = {
     "pillow"
   ],
   "cirku hengke": [
-    "ᠴᡳᡵᡴᡠ ᡥᡝᠨᡤᡴᡝ",
+    "ᠴᡳᡵᡴᡠ ᡥᡝᠩᡴᡝ",
     "winter melon (Cucumis me lo)"
   ],
   "cirku moo": [
@@ -12608,7 +12608,7 @@ const dictionary = {
     "a private contract or deed (without an official seal)"
   ],
   "cisui hungkerehe jiha": [
-    "ᠴᡳᠰᡠᡳ ᡥᡠᠨᡤᡴᡝᡵᡝᡥᡝ ᠵᡳᡥᠠ",
+    "ᠴᡳᠰᡠᡳ ᡥᡠᠩᡴᡝᡵᡝᡥᡝ ᠵᡳᡥᠠ",
     "illegal coins"
   ],
   "cisudembi": [
@@ -12636,7 +12636,7 @@ const dictionary = {
     "to grab one another's hair when fighting"
   ],
   "ciyan dung": [
-    "ᠴᡳᠶᠠᠨ ᡩᡠᠨᡤ",
+    "ᠴᡳᠶᠠᠨ ᡩᡠᠩ",
     "see minggatu"
   ],
   "ciyan hv": [
@@ -12648,7 +12648,7 @@ const dictionary = {
     "secretary"
   ],
   "ciyanliyang": [
-    "ᠴᡳᠶᠠᠨᠯᡳᠶᠠᠨᡤ",
+    "ᠴᡳᠶᠠᠨᠯᡳᠶᠠᠩ",
     "provisions--the same as caliyan"
   ],
   "ciyanxi": [
@@ -12672,7 +12672,7 @@ const dictionary = {
     "1. a lever, a bar for prying 2. a medical quack"
   ],
   "cobangga gin": [
-    "ᠴᠣᠪᠠᠨᡤᡤᠠ ᡤᡳᠨ",
+    "ᠴᠣᠪᠠᠩᡤᠠ ᡤᡳᠨ",
     "a scale for weighing heavy objects"
   ],
   "cobdaha": [
@@ -12680,7 +12680,7 @@ const dictionary = {
     "bamboo leaf"
   ],
   "cobdaha xungkeri ilha": [
-    "ᠴᠣᠪᡩᠠᡥᠠ ᡧᡠᠨᡤᡴᡝᡵᡳ ᡳᠯᡥᠠ",
+    "ᠴᠣᠪᡩᠠᡥᠠ ᡧᡠᠩᡴᡝᡵᡳ ᡳᠯᡥᠠ",
     "an orchid with bamboolike leaves"
   ],
   "cobolan": [
@@ -12740,11 +12740,11 @@ const dictionary = {
     "especially, on purpose, particularly, exclusively"
   ],
   "cohonggo": [
-    "ᠴᠣᡥᠣᠨᡤᡤᠣ",
+    "ᠴᠣᡥᠣᠩᡤᠣ",
     "special"
   ],
   "cohonggo kingken": [
-    "ᠴᠣᡥᠣᠨᡤᡤᠣ ᡴᡳᠨᡤᡴᡝᠨ",
+    "ᠴᠣᡥᠣᠩᡤᠣ ᡴᡳᠩᡴᡝᠨ",
     "a Chinese musical instrument"
   ],
   "cohoro": [
@@ -12816,11 +12816,11 @@ const dictionary = {
     "a pastry made of chicken eggs, honey, sugar, walnuts, and glutinous rice"
   ],
   "cokonggo": [
-    "ᠴᠣᡴᠣᠨᡤᡤᠣ",
+    "ᠴᠣᡴᠣᠩᡤᠣ",
     "pertaining to the cyclical sign coko"
   ],
   "cokonggo aniya": [
-    "ᠴᠣᡴᠣᠨᡤᡤᠣ ᠠᠨᡳᠶᠠ",
+    "ᠴᠣᡴᠣᠩᡤᠣ ᠠᠨᡳᠶᠠ",
     "year of the chicken"
   ],
   "cokto": [
@@ -12956,43 +12956,43 @@ const dictionary = {
     "see coman"
   ],
   "conggai": [
-    "ᠴᠣᠨᡤᡤᠠᡳ",
+    "ᠴᠣᠩᡤᠠᡳ",
     "spotted kingfisher (Ceryle lugubris); cf. cunggai"
   ],
   "conggalabumbi": [
-    "ᠴᠣᠨᡤᡤᠠᠯᠠᠪᡠᠮᠪᡳ",
+    "ᠴᠣᠩᡤᠠᠯᠠᠪᡠᠮᠪᡳ",
     "see tunggalabumbi"
   ],
   "conggimbi": [
-    "ᠴᠣᠨᡤᡤᡳᠮᠪᡳ",
+    "ᠴᠣᠩᡤᡳᠮᠪᡳ",
     "see congkimbi"
   ],
   "conggiri": [
-    "ᠴᠣᠨᡤᡤᡳᡵᡳ",
+    "ᠴᠣᠩᡤᡳᡵᡳ",
     "a type of cymbal"
   ],
   "conggixambi": [
-    "ᠴᠣᠨᡤᡤᡳᡧᠠᠮᠪᡳ",
+    "ᠴᠣᠩᡤᡳᡧᠠᠮᠪᡳ",
     "see congkišambi"
   ],
   "congkibumbi": [
-    "ᠴᠣᠨᡤᡴᡳᠪᡠᠮᠪᡳ",
+    "ᠴᠣᠩᡴᡳᠪᡠᠮᠪᡳ",
     "caus. of congkimbi"
   ],
   "congkimbi": [
-    "ᠴᠣᠨᡤᡴᡳᠮᠪᡳ",
+    "ᠴᠣᠩᡴᡳᠮᠪᡳ",
     "1. to peck 2. to fight (of quails) 3. to pound grain to remove the husk"
   ],
   "congkiri gvwasihiya": [
-    "ᠴᠣᠨᡤᡴᡳᡵᡳ ᡤᡡᠸᠠᠰᡳᡥᡳᠶᠠ",
+    "ᠴᠣᠩᡴᡳᡵᡳ ᡤᡡᠸᠠᠰᡳᡥᡳᠶᠠ",
     "one name for the eastern egret; cf. gūwasihiya"
   ],
   "congkixakv": [
-    "ᠴᠣᠨᡤᡴᡳᡧᠠᡴᡡ",
+    "ᠴᠣᠩᡴᡳᡧᠠᡴᡡ",
     "a pestle"
   ],
   "congkixambi": [
-    "ᠴᠣᠨᡤᡴᡳᡧᠠᠮᠪᡳ",
+    "ᠴᠣᠩᡴᡳᡧᠠᠮᠪᡳ",
     "1. to peck 2. to thresh grain"
   ],
   "contoho": [
@@ -13036,7 +13036,7 @@ const dictionary = {
     "minister of war (in antiquity)"
   ],
   "cooha be kadalara tinggin": [
-    "ᠴᠣᠣᡥᠠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠴᠣᠣᡥᠠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ",
     "bureau of military affairs'-an organ for dealing with military offenses in each province"
   ],
   "cooha bederembi": [
@@ -13056,11 +13056,11 @@ const dictionary = {
     "a silver placard given to a soldier as a commendation"
   ],
   "cooha moringga fiyenten": [
-    "ᠴᠣᠣᡥᠠ ᠮᠣᡵᡳᠨᡤᡤᠠ ᡶᡳᠶᡝᠨᡨᡝᠨ",
+    "ᠴᠣᠣᡥᠠ ᠮᠣᡵᡳᠩᡤᠠ ᡶᡳᠶᡝᠨᡨᡝᠨ",
     "office of a military commander"
   ],
   "cooha obvme banjibure kunggeri": [
-    "ᠴᠣᠣᡥᠠ ᠣᠪᡡᠮᡝ ᠪᠠᠨᠵᡳᠪᡠᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠴᠣᠣᡥᠠ ᠣᠪᡡᠮᡝ ᠪᠠᠨᠵᡳᠪᡠᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "section in charge of military banishment in the Board of War"
   ],
   "cooha obvre weile": [
@@ -13068,19 +13068,19 @@ const dictionary = {
     "an offense punished with military banishment"
   ],
   "cooha vrebure tinggin": [
-    "ᠴᠣᠣᡥᠠ ᡡᡵᡝᠪᡠᡵᡝ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠴᠣᠣᡥᠠ ᡡᡵᡝᠪᡠᡵᡝ ᡨᡳᠩᡤᡳᠨ",
     "bureau concerned with drilling troops"
   ],
   "coohai .agvra i kvnggeri i baita alire boo": [
-    "ᠴᠣᠣᡥᠠᡳ ᠉ᠠᡤᡡᡵᠠ ᡳ ᡴᡡᠨᡤᡤᡝᡵᡳ ᡳ ᠪᠠᡳᡨᠠ ᠠᠯᡳᡵᡝ ᠪᠣᠣ",
+    "ᠴᠣᠣᡥᠠᡳ ᠉ᠠᡤᡡᡵᠠ ᡳ ᡴᡡᠩᡤᡝᡵᡳ ᡳ ᠪᠠᡳᡨᠠ ᠠᠯᡳᡵᡝ ᠪᠣᠣ",
     "arsenal of the weapons office in the Board of Works"
   ],
   "coohai agvra i kvnggeri i baita hacin i boo": [
-    "ᠴᠣᠣᡥᠠᡳ ᠠᡤᡡᡵᠠ ᡳ ᡴᡡᠨᡤᡤᡝᡵᡳ ᡳ ᠪᠠᡳᡨᠠ ᡥᠠᠴᡳᠨ ᡳ ᠪᠣᠣ",
+    "ᠴᠣᠣᡥᠠᡳ ᠠᡤᡡᡵᠠ ᡳ ᡴᡡᠩᡤᡝᡵᡳ ᡳ ᠪᠠᡳᡨᠠ ᡥᠠᠴᡳᠨ ᡳ ᠪᠣᠣ",
     "chancery of the weapons office in the Board of Works"
   ],
   "coohai agvra i kunggeri i bodoro boo": [
-    "ᠴᠣᠣᡥᠠᡳ ᠠᡤᡡᡵᠠ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ ᡳ ᠪᠣᡩᠣᡵᠣ ᠪᠣᠣ",
+    "ᠴᠣᠣᡥᠠᡳ ᠠᡤᡡᡵᠠ ᡳ ᡴᡠᠩᡤᡝᡵᡳ ᡳ ᠪᠣᡩᠣᡵᠣ ᠪᠣᠣ",
     "accounting office of the weapons office of the Board of Works"
   ],
   "coohai amban": [
@@ -13088,7 +13088,7 @@ const dictionary = {
     "a high military dignitary"
   ],
   "coohai baitai kunggeri": [
-    "ᠴᠣᠣᡥᠠᡳ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠴᠣᠣᡥᠠᡳ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "military affairs bureau in the Board of War"
   ],
   "coohai baitalan i kvwaran": [
@@ -13112,7 +13112,7 @@ const dictionary = {
     "to take an examination in the military arts"
   ],
   "coohai erdemungge i kvnggeri": [
-    "ᠴᠣᠣᡥᠠᡳ ᡝᡵᡩᡝᠮᡠᠨᡤᡤᡝ ᡳ ᡴᡡᠨᡤᡤᡝᡵᡳ",
+    "ᠴᠣᠣᡥᠠᡳ ᡝᡵᡩᡝᠮᡠᠩᡤᡝ ᡳ ᡴᡡᠩᡤᡝᡵᡳ",
     "a section of the Board of War concerned with the promotion of officers"
   ],
   "coohai fafun": [
@@ -13124,7 +13124,7 @@ const dictionary = {
     "the disposition of an army"
   ],
   "coohai fiyan be nonggibure mudan": [
-    "ᠴᠣᠣᡥᠠᡳ ᡶᡳᠶᠠᠨ ᠪᡝ ᠨᠣᠨᡤᡤᡳᠪᡠᡵᡝ ᠮᡠᡩᠠᠨ",
+    "ᠴᠣᠣᡥᠠᡳ ᡶᡳᠶᠠᠨ ᠪᡝ ᠨᠣᠩᡤᡳᠪᡠᡵᡝ ᠮᡠᡩᠠᠨ",
     "music played while the emperor inspected the troops"
   ],
   "coohai fiyenten": [
@@ -13136,7 +13136,7 @@ const dictionary = {
     "a military officer"
   ],
   "coohai hafan i fvngnehen i kunggeri": [
-    "ᠴᠣᠣᡥᠠᡳ ᡥᠠᡶᠠᠨ ᡳ ᡶᡡᠨᡤᠨᡝᡥᡝᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠴᠣᠣᡥᠠᡳ ᡥᠠᡶᠠᠨ ᡳ ᡶᡡᠩᠨᡝᡥᡝᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section concerned with posthumous enfeoffment of military officers"
   ],
   "coohai hafan i temgetu": [
@@ -13152,11 +13152,11 @@ const dictionary = {
     "Board of War, 415"
   ],
   "coohai jurgan i kvngge yamun": [
-    "ᠴᠣᠣᡥᠠᡳ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡡᠨᡤᡤᡝ ᠶᠠᠮᡠᠨ",
+    "ᠴᠣᠣᡥᠠᡳ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡡᠩᡤᡝ ᠶᠠᠮᡠᠨ",
     "war section of the Grand Secretariat"
   ],
   "coohai moringga fiyenten bh": [
-    "ᠴᠣᠣᡥᠠᡳ ᠮᠣᡵᡳᠨᡤᡤᠠ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
+    "ᠴᠣᠣᡥᠠᡳ ᠮᠣᡵᡳᠩᡤᠠ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
     "police office; cf. 796"
   ],
   "coohai nashvn": [
@@ -13176,7 +13176,7 @@ const dictionary = {
     "soldier, warrior"
   ],
   "coohai tusangga inenggi": [
-    "ᠴᠣᠣᡥᠠᡳ ᡨᡠᠰᠠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠴᠣᠣᡥᠠᡳ ᡨᡠᠰᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "favorable days for military undertakings"
   ],
   "coohalambi": [
@@ -13316,7 +13316,7 @@ const dictionary = {
     "golden plover"
   ],
   "cuikengge mahatun": [
-    "ᠴᡠᡳᡴᡝᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᠴᡠᡳᡴᡝᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "a hat worn by astrologers in ancient times"
   ],
   "cuk cak seme": [
@@ -13408,27 +13408,27 @@ const dictionary = {
     "a fine silk"
   ],
   "cvng xeme": [
-    "ᠴᡡᠨᡤ ᡧᡝᠮᡝ",
+    "ᠴᡡᠩ ᡧᡝᠮᡝ",
     "directly, straight"
   ],
   "cung yang inenggi": [
-    "ᠴᡠᠨᡤ ᠶᠠᠨᡤ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠴᡠᠩ ᠶᠠᠩ ᡳᠨᡝᠩᡤᡳ",
     "the ninth day of the ninth month--a festival"
   ],
   "cunggai": [
-    "ᠴᡠᠨᡤᡤᠠᡳ",
+    "ᠴᡠᠩᡤᠠᡳ",
     "spotted kingfisher (Ceryle lugubris); cf. conggai"
   ],
   "cunggur niyehe": [
-    "ᠴᡠᠨᡤᡤᡠᡵ ᠨᡳᠶᡝᡥᡝ",
+    "ᠴᡠᠩᡤᡠᡵ ᠨᡳᠶᡝᡥᡝ",
     "Chinese little grebe (Podiceps ruficollis)"
   ],
   "cungguru": [
-    "ᠴᡠᠨᡤᡤᡠᡵᡠ",
+    "ᠴᡠᠩᡤᡠᡵᡠ",
     "navel"
   ],
   "cunggvxambi": [
-    "ᠴᡠᠨᡤᡤᡡᡧᠠᠮᠪᡳ",
+    "ᠴᡠᠩᡤᡡᡧᠠᠮᠪᡳ",
     "to butt, to heat the head on something, to shove"
   ],
   "cvnu gasha": [
@@ -13504,15 +13504,15 @@ const dictionary = {
     "a bamboo stave used for whipping"
   ],
   "cvxe xinggeri": [
-    "ᠴᡡᡧᡝ ᡧᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠴᡡᡧᡝ ᡧᡳᠩᡤᡝᡵᡳ",
     "a small catlike animal that eats bamboo roots"
   ],
   "cuseingge hooxan": [
-    "ᠴᡠᠰᡝᡳᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᠴᡠᠰᡝᡳᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "paper made of bamboo fiber"
   ],
   "cusengge nicuhe": [
-    "ᠴᡠᠰᡝᠨᡤᡤᡝ ᠨᡳᠴᡠᡥᡝ",
+    "ᠴᡠᠰᡝᠩᡤᡝ ᠨᡳᠴᡠᡥᡝ",
     "a pearl-like product growing on bamboo"
   ],
   "cuxeri": [
@@ -13524,7 +13524,7 @@ const dictionary = {
     "a small gray-bodied bird with red feet"
   ],
   "cvseri dvingge hooxan": [
-    "ᠴᡡᠰᡝᡵᡳ ᡩᡡᡳᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᠴᡡᠰᡝᡵᡳ ᡩᡡᡳᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "a paper made from bamboo"
   ],
   "cvseri hooxan": [
@@ -13548,7 +13548,7 @@ const dictionary = {
     "to board a boat (in a battle)"
   ],
   "cuwangnanbi": [
-    "ᠴᡠᠸᠠᠨᡤᠨᠠᠨᠪᡳ",
+    "ᠴᡠᠸᠠᠩᠨᠠᠨᠪᡳ",
     "to seize by force, to pillage, to rob"
   ],
   "cvn moo": [
@@ -13572,7 +13572,7 @@ const dictionary = {
     "to flog with a bamboo rod"
   ],
   "cyming": [
-    "ᠴᠶᠮᡳᠨᡤ",
+    "ᠴᠶᠮᡳᠩ",
     "an imperial order of posthumous enfeoffment"
   ],
   "cyxe": [
@@ -13860,11 +13860,11 @@ const dictionary = {
     ""
   ],
   "baicara falgangga bh 835a": [
-    "ᠪᠠᡳᠴᠠᡵᠠ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ ᠪᡥ 835ᠠ",
+    "ᠪᠠᡳᠴᠠᡵᠠ ᡶᠠᠯᡤᠠᠩᡤᠠ ᠪᡥ 835ᠠ",
     "office of the salt examiner; cf."
   ],
   "dabsun cifun i menggun": [
-    "ᡩᠠᠪᠰᡠᠨ ᠴᡳᡶᡠᠨ ᡳ ᠮᡝᠨᡤᡤᡠᠨ",
+    "ᡩᠠᠪᠰᡠᠨ ᠴᡳᡶᡠᠨ ᡳ ᠮᡝᠩᡤᡠᠨ",
     "salt gabelle"
   ],
   "dabsun fuifure haha": [
@@ -13916,7 +13916,7 @@ const dictionary = {
     "an area where salt is produced, a salt mine"
   ],
   "dabsun tuyeku yonggan": [
-    "ᡩᠠᠪᠰᡠᠨ ᡨᡠᠶᡝᡴᡠ ᠶᠣᠨᡤᡤᠠᠨ",
+    "ᡩᠠᠪᠰᡠᠨ ᡨᡠᠶᡝᡴᡠ ᠶᠣᠩᡤᠠᠨ",
     "ammonium chloride"
   ],
   "dabta": [
@@ -13992,7 +13992,7 @@ const dictionary = {
     "sharp, shrewd, decisive, resolute"
   ],
   "dacun jeyengge amba jangkv": [
-    "ᡩᠠᠴᡠᠨ ᠵᡝᠶᡝᠨᡤᡤᡝ ᠠᠮᠪᠠ ᠵᠠᠨᡤᡴᡡ",
+    "ᡩᠠᠴᡠᠨ ᠵᡝᠶᡝᠩᡤᡝ ᠠᠮᠪᠠ ᠵᠠᠩᡴᡡ",
     "a very sharp large sword"
   ],
   "dacun sukdun": [
@@ -14000,7 +14000,7 @@ const dictionary = {
     "spirit, high morale (especially of troops)"
   ],
   "dacungga": [
-    "ᡩᠠᠴᡠᠨᡤᡤᠠ",
+    "ᡩᠠᠴᡠᠩᡤᠠ",
     "sharp"
   ],
   "dadage": [
@@ -14212,11 +14212,11 @@ const dictionary = {
     "tortoise shell"
   ],
   "dai eng": [
-    "ᡩᠠᡳ ᡝᠨᡤ",
+    "ᡩᠠᡳ ᡝᠩ",
     "the hoopoe; cf. indahūn,. cecike"
   ],
   "dai tung doohan i tuwame kadalara hafan i yamun": [
-    "ᡩᠠᡳ ᡨᡠᠨᡤ ᡩᠣᠣᡥᠠᠨ ᡳ ᡨᡠᠸᠠᠮᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡥᠠᡶᠠᠨ ᡳ ᠶᠠᠮᡠᠨ",
+    "ᡩᠠᡳ ᡨᡠᠩ ᡩᠣᠣᡥᠠᠨ ᡳ ᡨᡠᠸᠠᠮᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡥᠠᡶᠠᠨ ᡳ ᠶᠠᠮᡠᠨ",
     "the office of the grain transport inspector at Ta-t'ung bridge"
   ],
   "daibihan": [
@@ -14228,7 +14228,7 @@ const dictionary = {
     "to run at an angle, to run askew"
   ],
   "daic1ng": [
-    "ᡩᠠᡳᠴ1ᠨᡤ",
+    "ᡩᠠᡳᠴ1ᠩ",
     "the Manchu dynasty"
   ],
   "daidan doholon": [
@@ -14392,7 +14392,7 @@ const dictionary = {
     "1. withers 2. dam, dike"
   ],
   "dalangga": [
-    "ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᡩᠠᠯᠠᠩᡤᠠ",
     "dam, dike, pertaining to a dam or dike"
   ],
   "dalba": [
@@ -14448,7 +14448,7 @@ const dictionary = {
     "to hide from view, to screen, to cover"
   ],
   "daldangga": [
-    "ᡩᠠᠯᡩᠠᠨᡤᡤᠠ",
+    "ᡩᠠᠯᡩᠠᠩᡤᠠ",
     "a protective wall erected in back of a door"
   ],
   "daldashvn": [
@@ -14504,7 +14504,7 @@ const dictionary = {
     "1. sticky 2. annoying, bothersome, too talkative"
   ],
   "dalhun cifenggu": [
-    "ᡩᠠᠯᡥᡠᠨ ᠴᡳᡶᡝᠨᡤᡤᡠ",
+    "ᡩᠠᠯᡥᡠᠨ ᠴᡳᡶᡝᠩᡤᡠ",
     "sputum"
   ],
   "dalhvwan": [
@@ -14544,7 +14544,7 @@ const dictionary = {
     "along the shore, along a riverbank"
   ],
   "dalitungga mahatvn": [
-    "ᡩᠠᠯᡳᡨᡠᠨᡤᡤᠠ ᠮᠠᡥᠠᡨᡡᠨ",
+    "ᡩᠠᠯᡳᡨᡠᠩᡤᠠ ᠮᠠᡥᠠᡨᡡᠨ",
     "a hat worn by military officials in ancient times"
   ],
   "daliyan": [
@@ -14564,7 +14564,7 @@ const dictionary = {
     "unconnected, unrelated; cf. daljakū"
   ],
   "daljingga": [
-    "ᡩᠠᠯᠵᡳᠨᡤᡤᠠ",
+    "ᡩᠠᠯᠵᡳᠩᡤᠠ",
     "related to, concerned with"
   ],
   "dalukan": [
@@ -14712,143 +14712,143 @@ const dictionary = {
     "see dancalambi"
   ],
   "dang": [
-    "ᡩᠠᠨᡤ",
+    "ᡩᠠᠩ",
     "only, just"
   ],
   "dang seme": [
-    "ᡩᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡩᠠᠩ ᠰᡝᠮᡝ",
     "only"
   ],
   "dangdaka": [
-    "ᡩᠠᠨᡤᡩᠠᡴᠠ",
+    "ᡩᠠᠩᡩᠠᡴᠠ",
     "stretched out, with legs extended"
   ],
   "dangdali": [
-    "ᡩᠠᠨᡤᡩᠠᠯᡳ",
+    "ᡩᠠᠩᡩᠠᠯᡳ",
     "a dragnet used for catching fish"
   ],
   "dangdalilanbi": [
-    "ᡩᠠᠨᡤᡩᠠᠯᡳᠯᠠᠨᠪᡳ",
+    "ᡩᠠᠩᡩᠠᠯᡳᠯᠠᠨᠪᡳ",
     "to use a dangdali in fishing"
   ],
   "dangga": [
-    "ᡩᠠᠨᡤᡤᠠ",
+    "ᡩᠠᠩᡤᠠ",
     "elder, belonging to the older generation"
   ],
   "danggasa": [
-    "ᡩᠠᠨᡤᡤᠠᠰᠠ",
+    "ᡩᠠᠩᡤᠠᠰᠠ",
     "plural of dangga"
   ],
   "danggi": [
-    "ᡩᠠᠨᡤᡤᡳ",
+    "ᡩᠠᠩᡤᡳ",
     "at least, a little bit"
   ],
   "danggiri": [
-    "ᡩᠠᠨᡤᡤᡳᡵᡳ",
+    "ᡩᠠᠩᡤᡳᡵᡳ",
     "a small brass gong hung from a crook--used by Buddhist monks"
   ],
   "dangkan": [
-    "ᡩᠠᠨᡤᡴᠠᠨ",
+    "ᡩᠠᠩᡴᠠᠨ",
     "a hereditary house slave"
   ],
   "dangnabumbi": [
-    "ᡩᠠᠨᡤᠨᠠᠪᡠᠮᠪᡳ",
+    "ᡩᠠᠩᠨᠠᠪᡠᠮᠪᡳ",
     "caus. of dangnambi"
   ],
   "dangnahan": [
-    "ᡩᠠᠨᡤᠨᠠᡥᠠᠨ",
+    "ᡩᠠᠩᠨᠠᡥᠠᠨ",
     "the soles of shoes and boots"
   ],
   "dangnambi": [
-    "ᡩᠠᠨᡤᠨᠠᠮᠪᡳ",
+    "ᡩᠠᠩᠨᠠᠮᠪᡳ",
     "1. to substitute, to replace 2. to oppose, to pit against"
   ],
   "dangnaci ojorakv": [
-    "ᡩᠠᠨᡤᠨᠠᠴᡳ ᠣᠵᠣᡵᠠᡴᡡ",
+    "ᡩᠠᠩᠨᠠᠴᡳ ᠣᠵᠣᡵᠠᡴᡡ",
     "irreplaceable"
   ],
   "dangniyabumbi": [
-    "ᡩᠠᠨᡤᠨᡳᠶᠠᠪᡠᠮᠪᡳ",
+    "ᡩᠠᠩᠨᡳᠶᠠᠪᡠᠮᠪᡳ",
     "caus. of dangniyambi"
   ],
   "dangniyambi": [
-    "ᡩᠠᠨᡤᠨᡳᠶᠠᠮᠪᡳ",
+    "ᡩᠠᠩᠨᡳᠶᠠᠮᠪᡳ",
     "to kick a football (mumuhu)"
   ],
   "dangpuli": [
-    "ᡩᠠᠨᡤᡦᡠᠯᡳ",
+    "ᡩᠠᠩᡦᡠᠯᡳ",
     "a pawnshop"
   ],
   "dangsaha": [
-    "ᡩᠠᠨᡤᠰᠠᡥᠠ",
+    "ᡩᠠᠩᠰᠠᡥᠠ",
     "an open-topped birchbark basket"
   ],
   "dangse": [
-    "ᡩᠠᠨᡤᠰᡝ",
+    "ᡩᠠᠩᠰᡝ",
     "records, document, register, archive, the census register"
   ],
   "dangse asarara kunggeri": [
-    "ᡩᠠᠨᡤᠰᡝ ᠠᠰᠠᡵᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡩᠠᠩᠰᡝ ᠠᠰᠠᡵᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "archives office of the Board of Works"
   ],
   "dangxe baitai boo": [
-    "ᡩᠠᠨᡤᡧᡝ ᠪᠠᡳᡨᠠᡳ ᠪᠣᠣ",
+    "ᡩᠠᠩᡧᡝ ᠪᠠᡳᡨᠠᡳ ᠪᠣᠣ",
     "office of documentary affairs"
   ],
   "dangxe bargiyara hafan bh 412a, 413a": [
-    "ᡩᠠᠨᡤᡧᡝ ᠪᠠᡵᡤᡳᠶᠠᡵᠠ ᡥᠠᡶᠠᠨ ᠪᡥ 412ᠠ᠈ 413ᠠ",
+    "ᡩᠠᠩᡧᡝ ᠪᠠᡵᡤᡳᠶᠠᡵᠠ ᡥᠠᡶᠠᠨ ᠪᡥ 412ᠠ᠈ 413ᠠ",
     "Sub-Archivist,"
   ],
   "dangse bargiyara tinggin": [
-    "ᡩᠠᠨᡤᠰᡝ ᠪᠠᡵᡤᡳᠶᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᡩᠠᠩᠰᡝ ᠪᠠᡵᡤᡳᠶᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ",
     "archives office, records office"
   ],
   "dangse ci hvwakiyambi": [
-    "ᡩᠠᠨᡤᠰᡝ ᠴᡳ ᡥᡡᠸᠠᡴᡳᠶᠠᠮᠪᡳ",
+    "ᡩᠠᠩᠰᡝ ᠴᡳ ᡥᡡᠸᠠᡴᡳᠶᠠᠮᠪᡳ",
     "to expunge from the banner roll"
   ],
   "dangxe efulere ba": [
-    "ᡩᠠᠨᡤᡧᡝ ᡝᡶᡠᠯᡝᡵᡝ ᠪᠠ",
+    "ᡩᠠᠩᡧᡝ ᡝᡶᡠᠯᡝᡵᡝ ᠪᠠ",
     "section for the disposal of records"
   ],
   "dangse ejere hafan bh 412a, 413a": [
-    "ᡩᠠᠨᡤᠰᡝ ᡝᠵᡝᡵᡝ ᡥᠠᡶᠠᠨ ᠪᡥ 412ᠠ᠈ 413ᠠ",
+    "ᡩᠠᠩᠰᡝ ᡝᠵᡝᡵᡝ ᡥᠠᡶᠠᠨ ᠪᡥ 412ᠠ᠈ 413ᠠ",
     "Archivist,"
   ],
   "dangse ejere tinggin bh": [
-    "ᡩᠠᠨᡤᠰᡝ ᡝᠵᡝᡵᡝ ᡨᡳᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡩᠠᠩᠰᡝ ᡝᠵᡝᡵᡝ ᡨᡳᠩᡤᡳᠨ ᠪᡥ",
     "Record Office, 202 etc."
   ],
   "dangse faksalambi": [
-    "ᡩᠠᠨᡤᠰᡝ ᡶᠠᡴᠰᠠᠯᠠᠮᠪᡳ",
+    "ᡩᠠᠩᠰᡝ ᡶᠠᡴᠰᠠᠯᠠᠮᠪᡳ",
     "to remove from the family register, to expunge from the census register"
   ],
   "dangse jafaxakv bh": [
-    "ᡩᠠᠨᡤᠰᡝ ᠵᠠᡶᠠᡧᠠᡴᡡ ᠪᡥ",
+    "ᡩᠠᠩᠰᡝ ᠵᠠᡶᠠᡧᠠᡴᡡ ᠪᡥ",
     "Registrar, 220, etc."
   ],
   "dangse jafaxara hafan bh": [
-    "ᡩᠠᠨᡤᠰᡝ ᠵᠠᡶᠠᡧᠠᡵᠠ ᡥᠠᡶᠠᠨ ᠪᡥ",
+    "ᡩᠠᠩᠰᡝ ᠵᠠᡶᠠᡧᠠᡵᠠ ᡥᠠᡶᠠᠨ ᠪᡥ",
     "Registrar, 220, etc."
   ],
   "dangse jafaxara kunggeri": [
-    "ᡩᠠᠨᡤᠰᡝ ᠵᠠᡶᠠᡧᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡩᠠᠩᠰᡝ ᠵᠠᡶᠠᡧᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "registry section of the Office of the Gendarmerie"
   ],
   "dangxe jafaxara tinggin": [
-    "ᡩᠠᠨᡤᡧᡝ ᠵᠠᡶᠠᡧᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᡩᠠᠩᡧᡝ ᠵᠠᡶᠠᡧᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ",
     "registry office"
   ],
   "dangxibunbi": [
-    "ᡩᠠᠨᡤᡧᡳᠪᡠᠨᠪᡳ",
+    "ᡩᠠᠩᡧᡳᠪᡠᠨᠪᡳ",
     "caus. of dangsimbi"
   ],
   "dangsimbi": [
-    "ᡩᠠᠨᡤᠰᡳᠮᠪᡳ",
+    "ᡩᠠᠩᠰᡳᠮᠪᡳ",
     "to reprove, to censure"
   ],
   "dangan": [
-    "ᡩᠠᠨᡤᠠᠨ",
+    "ᡩᠠᠩᠠᠨ",
     "blade of grass, chaff, thread ends"
   ],
   "daniyalabumbi": [
@@ -14928,11 +14928,11 @@ const dictionary = {
     "to go to draw a bow"
   ],
   "darang seme": [
-    "ᡩᠠᡵᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡩᠠᡵᠠᠩ ᠰᡝᠮᡝ",
     "long and straight, outstretched"
   ],
   "darang seme dedumbi": [
-    "ᡩᠠᡵᠠᠨᡤ ᠰᡝᠮᡝ ᡩᡝᡩᡠᠮᠪᡳ",
+    "ᡩᠠᡵᠠᠩ ᠰᡝᠮᡝ ᡩᡝᡩᡠᠮᠪᡳ",
     "to lie stretched out full length"
   ],
   "daranumbi": [
@@ -15000,7 +15000,7 @@ const dictionary = {
     "a wooden hoe"
   ],
   "dargvwan yangsambi": [
-    "ᡩᠠᡵᡤᡡᠸᠠᠨ ᠶᠠᠨᡤᠰᠠᠮᠪᡳ",
+    "ᡩᠠᡵᡤᡡᠸᠠᠨ ᠶᠠᠩᠰᠠᠮᠪᡳ",
     "to hoe with a wooden hoe"
   ],
   "darha cecike": [
@@ -15132,7 +15132,7 @@ const dictionary = {
     "Lieutenant-Governor 6r Financial Commissioner, 825, etc."
   ],
   "dasangga": [
-    "ᡩᠠᠰᠠᠨᡤᡤᠠ",
+    "ᡩᠠᠰᠠᠩᡤᠠ",
     "keeping order, having talent for government"
   ],
   "dasargan": [
@@ -15144,7 +15144,7 @@ const dictionary = {
     "see dasargan"
   ],
   "dasartungga": [
-    "ᡩᠠᠰᠠᡵᡨᡠᠨᡤᡤᠠ",
+    "ᡩᠠᠰᠠᡵᡨᡠᠩᡤᠠ",
     "pertaining to a reformer"
   ],
   "dasatambi": [
@@ -15380,7 +15380,7 @@ const dictionary = {
     "to fan, to flap, to flutter"
   ],
   "debsire garunggv kiru": [
-    "ᡩᡝᠪᠰᡳᡵᡝ ᡤᠠᡵᡠᠨᡤᡤᡡ ᡴᡳᡵᡠ",
+    "ᡩᡝᠪᠰᡳᡵᡝ ᡤᠠᡵᡠᠩᡤᡡ ᡴᡳᡵᡠ",
     "a banner depicting a soaring phoenix"
   ],
   "debsin": [
@@ -15420,7 +15420,7 @@ const dictionary = {
     "restless"
   ],
   "dedenggi": [
-    "ᡩᡝᡩᡝᠨᡤᡤᡳ",
+    "ᡩᡝᡩᡝᠩᡤᡳ",
     "frivolous, loose in behavior (of women)"
   ],
   "dedubumbi": [
@@ -15456,7 +15456,7 @@ const dictionary = {
     "to go to spend the night"
   ],
   "dedungge hengketu": [
-    "ᡩᡝᡩᡠᠨᡤᡤᡝ ᡥᡝᠨᡤᡴᡝᡨᡠ",
+    "ᡩᡝᡩᡠᠩᡤᡝ ᡥᡝᠩᡴᡝᡨᡠ",
     "an insignia of a reclining melon on wood (used by the imperial guard)"
   ],
   "defe i.": [
@@ -15464,7 +15464,7 @@ const dictionary = {
     "a measure for cloth, a bolt (of cloth) 2. border, hem"
   ],
   "defelinggu": [
-    "ᡩᡝᡶᡝᠯᡳᠨᡤᡤᡠ",
+    "ᡩᡝᡶᡝᠯᡳᠩᡤᡠ",
     "bolt (of cloth)"
   ],
   "defeliyembi": [
@@ -15532,7 +15532,7 @@ const dictionary = {
     "refining, smelting, curing"
   ],
   "dehengge xurukv": [
-    "ᡩᡝᡥᡝᠨᡤᡤᡝ ᡧᡠᡵᡠᡴᡡ",
+    "ᡩᡝᡥᡝᠩᡤᡝ ᡧᡠᡵᡠᡴᡡ",
     "a boat hook"
   ],
   "deherembi": [
@@ -15652,15 +15652,15 @@ const dictionary = {
     "everyday saying 2. baseless talk, gossip"
   ],
   "dekden i henduhengge": [
-    "ᡩᡝᡴᡩᡝᠨ ᡳ ᡥᡝᠨᡩᡠᡥᡝᠨᡤᡤᡝ",
+    "ᡩᡝᡴᡩᡝᠨ ᡳ ᡥᡝᠨᡩᡠᡥᡝᠩᡤᡝ",
     "as the saying goes . . ."
   ],
   "dekdengge": [
-    "ᡩᡝᡴᡩᡝᠨᡤᡤᡝ",
+    "ᡩᡝᡴᡩᡝᠩᡤᡝ",
     "exalted"
   ],
   "dekdenggi": [
-    "ᡩᡝᡴᡩᡝᠨᡤᡤᡳ",
+    "ᡩᡝᡴᡩᡝᠩᡤᡳ",
     "the fat that floats to the surface of water in which meat is boiled"
   ],
   "dekdeni gisun": [
@@ -15696,7 +15696,7 @@ const dictionary = {
     "(-ke) to develop, to improve, to prosper 2. to burn"
   ],
   "dekjire jalungga namun": [
-    "ᡩᡝᡴᠵᡳᡵᡝ ᠵᠠᠯᡠᠨᡤᡤᠠ ᠨᠠᠮᡠᠨ",
+    "ᡩᡝᡴᠵᡳᡵᡝ ᠵᠠᠯᡠᠩᡤᠠ ᠨᠠᠮᡠᠨ",
     "depository for the salt and post administration"
   ],
   "dekjin": [
@@ -15884,7 +15884,7 @@ const dictionary = {
     "the Big Dipper"
   ],
   "demtu tokdonggo kiru": [
-    "ᡩᡝᠮᡨᡠ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡩᡝᠮᡨᡠ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the Big Dipper"
   ],
   "demulembi": [
@@ -15896,11 +15896,11 @@ const dictionary = {
     "1. odd, peculiar, heretical 2. trick"
   ],
   "demungge i.": [
-    "ᡩᡝᠮᡠᠨᡤᡤᡝ ᡳ᠉",
+    "ᡩᡝᠮᡠᠩᡤᡝ ᡳ᠉",
     "strange, peculiar, heretical 2. monster, odd creature"
   ],
   "demvngge feksin": [
-    "ᡩᡝᠮᡡᠨᡤᡤᡝ ᡶᡝᡴᠰᡳᠨ",
+    "ᡩᡝᠮᡡᠩᡤᡝ ᡶᡝᡴᠰᡳᠨ",
     "trick riding"
   ],
   "den i.": [
@@ -15952,127 +15952,127 @@ const dictionary = {
     "to share together"
   ],
   "deng": [
-    "ᡩᡝᠨᡤ",
+    "ᡩᡝᠩ",
     "lamp, lantern"
   ],
   "deng lung": [
-    "ᡩᡝᠨᡤ ᠯᡠᠨᡤ",
+    "ᡩᡝᠩ ᠯᡠᠩ",
     "lantern"
   ],
   "deng qoo": [
-    "ᡩᡝᠨᡤ qᠣᠣ",
+    "ᡩᡝᠩ qᠣᠣ",
     "wick"
   ],
   "deng deng seme": [
-    "ᡩᡝᠨᡤ ᡩᡝᠨᡤ ᠰᡝᠮᡝ",
+    "ᡩᡝᠩ ᡩᡝᠩ ᠰᡝᠮᡝ",
     "gagging, choking"
   ],
   "deng seme": [
-    "ᡩᡝᠨᡤ ᠰᡝᠮᡝ",
+    "ᡩᡝᠩ ᠰᡝᠮᡝ",
     "stuck (for a word), exhausted, at wit's end"
   ],
   "deng seme ilimbi": [
-    "ᡩᡝᠨᡤ ᠰᡝᠮᡝ ᡳᠯᡳᠮᠪᡳ",
+    "ᡩᡝᠩ ᠰᡝᠮᡝ ᡳᠯᡳᠮᠪᡳ",
     "to stop from exhaustion (of horses)"
   ],
   "deng seme oho": [
-    "ᡩᡝᠨᡤ ᠰᡝᠮᡝ ᠣᡥᠣ",
+    "ᡩᡝᠩ ᠰᡝᠮᡝ ᠣᡥᠣ",
     "stuck for words, at wit's end"
   ],
   "dengge": [
-    "ᡩᡝᠨᡤᡤᡝ",
+    "ᡩᡝᠩᡤᡝ",
     "glorious"
   ],
   "denggebumbi": [
-    "ᡩᡝᠨᡤᡤᡝᠪᡠᠮᠪᡳ",
+    "ᡩᡝᠩᡤᡝᠪᡠᠮᠪᡳ",
     "caus. of denggembi"
   ],
   "denggeljembi": [
-    "ᡩᡝᠨᡤᡤᡝᠯᠵᡝᠮᠪᡳ",
+    "ᡩᡝᠩᡤᡝᠯᠵᡝᠮᠪᡳ",
     "to shake, to reel"
   ],
   "denggembi": [
-    "ᡩᡝᠨᡤᡤᡝᠮᠪᡳ",
+    "ᡩᡝᠩᡤᡝᠮᠪᡳ",
     "to throw far, to fling, to send flying, to throw (in wrestling)"
   ],
   "dengjan": [
-    "ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡩᡝᠩᠵᠠᠨ",
     "lamp, light"
   ],
   "dengjan dabumbi": [
-    "ᡩᡝᠨᡤᠵᠠᠨ ᡩᠠᠪᡠᠮᠪᡳ",
+    "ᡩᡝᠩᠵᠠᠨ ᡩᠠᠪᡠᠮᠪᡳ",
     "to light a lamp, to turn on a light"
   ],
   "dengjan i sindakv": [
-    "ᡩᡝᠨᡤᠵᠠᠨ ᡳ ᠰᡳᠨᡩᠠᡴᡡ",
+    "ᡩᡝᠩᠵᠠᠨ ᡳ ᠰᡳᠨᡩᠠᡴᡡ",
     "a lampstand"
   ],
   "dengjangga": [
-    "ᡩᡝᠨᡤᠵᠠᠨᡤᡤᠠ",
+    "ᡩᡝᠩᠵᠠᠩᡤᠠ",
     "pertaining to lamps or lights"
   ],
   "dengji orho": [
-    "ᡩᡝᠨᡤᠵᡳ ᠣᡵᡥᠣ",
+    "ᡩᡝᠩᠵᡳ ᠣᡵᡥᠣ",
     "bulrush"
   ],
   "denglu": [
-    "ᡩᡝᠨᡤᠯᡠ",
+    "ᡩᡝᠩᠯᡠ",
     "lantern; cf. deng, deng lung"
   ],
   "denglung": [
-    "ᡩᡝᠨᡤᠯᡠᠨᡤ",
+    "ᡩᡝᠩᠯᡠᠩ",
     "see denglu"
   ],
   "dengnebumbi": [
-    "ᡩᡝᠨᡤᠨᡝᠪᡠᠮᠪᡳ",
+    "ᡩᡝᠩᠨᡝᠪᡠᠮᠪᡳ",
     "caus. of dengnembi"
   ],
   "dengnehen": [
-    "ᡩᡝᠨᡤᠨᡝᡥᡝᠨ",
+    "ᡩᡝᠩᠨᡝᡥᡝᠨ",
     "the leg of a boot"
   ],
   "dengnekv": [
-    "ᡩᡝᠨᡤᠨᡝᡴᡡ",
+    "ᡩᡝᠩᠨᡝᡴᡡ",
     "a small steelyard"
   ],
   "dengnembi": [
-    "ᡩᡝᠨᡤᠨᡝᠮᠪᡳ",
+    "ᡩᡝᠩᠨᡝᠮᠪᡳ",
     "to weigh on a small steelyard, to balance, to compete with"
   ],
   "dengniyembi": [
-    "ᡩᡝᠨᡤᠨᡳᠶᡝᠮᠪᡳ",
+    "ᡩᡝᠩᠨᡳᠶᡝᠮᠪᡳ",
     "to play with the football (mumuhu)"
   ],
   "dengse": [
-    "ᡩᡝᠨᡤᠰᡝ",
+    "ᡩᡝᠩᠰᡝ",
     "an orange"
   ],
   "dengse i ilga": [
-    "ᡩᡝᠨᡤᠰᡝ ᡳ ᡳᠯᡤᠠ",
+    "ᡩᡝᠩᠰᡝ ᡳ ᡳᠯᡤᠠ",
     "a steelyard weight"
   ],
   "dengselebumbi": [
-    "ᡩᡝᠨᡤᠰᡝᠯᡝᠪᡠᠮᠪᡳ",
+    "ᡩᡝᠩᠰᡝᠯᡝᠪᡠᠮᠪᡳ",
     "caus. of dengselembi"
   ],
   "dengselembi": [
-    "ᡩᡝᠨᡤᠰᡝᠯᡝᠮᠪᡳ",
+    "ᡩᡝᠩᠰᡝᠯᡝᠮᠪᡳ",
     "to weigh on a small steelyard; cf. denanembi"
   ],
   "dengsibumbi": [
-    "ᡩᡝᠨᡤᠰᡳᠪᡠᠮᠪᡳ",
+    "ᡩᡝᠩᠰᡳᠪᡠᠮᠪᡳ",
     "caus. of dengsimbi"
   ],
   "dengsimbi": [
-    "ᡩᡝᠨᡤᠰᡳᠮᠪᡳ",
+    "ᡩᡝᠩᠰᡳᠮᠪᡳ",
     "to rattle, to vibrate, to bump along (of a carriage)"
   ],
   "dengsitembi": [
-    "ᡩᡝᠨᡤᠰᡳᡨᡝᠮᠪᡳ",
+    "ᡩᡝᠩᠰᡳᡨᡝᠮᠪᡳ",
     "to tremble (from fright), to shake, to vibrate up and down"
   ],
   "dengqoo": [
-    "ᡩᡝᠨᡤqᠣᠣ",
+    "ᡩᡝᠩqᠣᠣ",
     "wick"
   ],
   "deo": [
@@ -16092,7 +16092,7 @@ const dictionary = {
     "duty of a younger brother, fraternal deference"
   ],
   "deocingge": [
-    "ᡩᡝᠣᠴᡳᠨᡤᡤᡝ",
+    "ᡩᡝᠣᠴᡳᠩᡤᡝ",
     "one who is assiduous in performing the duties of a younger brother"
   ],
   "deocy": [
@@ -16128,7 +16128,7 @@ const dictionary = {
     "to act shamelessly, to insult"
   ],
   "derakungge": [
-    "ᡩᡝᡵᠠᡴᡠᠨᡤᡤᡝ",
+    "ᡩᡝᡵᠠᡴᡠᠩᡤᡝ",
     "shameless"
   ],
   "derbebumbi": [
@@ -16220,7 +16220,7 @@ const dictionary = {
     "to act for motives of honor, to stand up for one's honor"
   ],
   "dere mangga": [
-    "ᡩᡝᡵᡝ ᠮᠠᠨᡤᡤᠠ",
+    "ᡩᡝᡵᡝ ᠮᠠᠩᡤᠠ",
     "shameless, bold"
   ],
   "dere silemin": [
@@ -16252,7 +16252,7 @@ const dictionary = {
     "genitive/instrumental of dere, see emu derei, ai derei"
   ],
   "derei bangtu": [
-    "ᡩᡝᡵᡝᡳ ᠪᠠᠨᡤᡨᡠ",
+    "ᡩᡝᡵᡝᡳ ᠪᠠᠩᡨᡠ",
     "ornaments on the corners of a table"
   ],
   "derei bithe": [
@@ -16284,19 +16284,19 @@ const dictionary = {
     "to treat with partiality because of a personal relationship"
   ],
   "dereng darang": [
-    "ᡩᡝᡵᡝᠨᡤ ᡩᠠᡵᠠᠨᡤ",
+    "ᡩᡝᡵᡝᠩ ᡩᠠᡵᠠᠩ",
     "sanctimonious, feigning propriety, barely able to behave properly"
   ],
   "derengge": [
-    "ᡩᡝᡵᡝᠨᡤᡤᡝ",
+    "ᡩᡝᡵᡝᠩᡤᡝ",
     "decorous, proper, noble (in one's actions)"
   ],
   "derengge jan": [
-    "ᡩᡝᡵᡝᠨᡤᡤᡝ ᠵᠠᠨ",
+    "ᡩᡝᡵᡝᠩᡤᡝ ᠵᠠᠨ",
     "a square hunting arrow having a hole on each of its four sides"
   ],
   "derengtu": [
-    "ᡩᡝᡵᡝᠨᡤᡨᡠ",
+    "ᡩᡝᡵᡝᠩᡨᡠ",
     "portrait"
   ],
   "deresu": [
@@ -16328,7 +16328,7 @@ const dictionary = {
     "the Palace Stud, 88"
   ],
   "dergi amba fukjingga hergen": [
-    "ᡩᡝᡵᡤᡳ ᠠᠮᠪᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡩᡝᡵᡤᡳ ᠠᠮᠪᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a type of seal script"
   ],
   "dergi amsu cai i boo be uheri kadalara ba bh 9i": [
@@ -16372,15 +16372,15 @@ const dictionary = {
     "the east, eastern direction"
   ],
   "dergi ergi munggan i baita be alifi icihiyara yamun": [
-    "ᡩᡝᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠨᡤᡤᠠᠨ ᡳ ᠪᠠᡳᡨᠠ ᠪᡝ ᠠᠯᡳᡶᡳ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᠶᠠᠮᡠᠨ",
+    "ᡩᡝᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠩᡤᠠᠨ ᡳ ᠪᠠᡳᡨᠠ ᠪᡝ ᠠᠯᡳᡶᡳ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᠶᠠᠮᡠᠨ",
     "administration of the Eastern Tombs"
   ],
   "dergi ergi munggan i booi amban i yamun": [
-    "ᡩᡝᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠨᡤᡤᠠᠨ ᡳ ᠪᠣᠣᡳ ᠠᠮᠪᠠᠨ ᡳ ᠶᠠᠮᡠᠨ",
+    "ᡩᡝᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠩᡤᠠᠨ ᡳ ᠪᠣᠣᡳ ᠠᠮᠪᠠᠨ ᡳ ᠶᠠᠮᡠᠨ",
     "office of the superintendent of the Eastern Tombs"
   ],
   "dergi ergi munggan i weilere jurgan": [
-    "ᡩᡝᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠨᡤᡤᠠᠨ ᡳ ᠸᡝᡳᠯᡝᡵᡝ ᠵᡠᡵᡤᠠᠨ",
+    "ᡩᡝᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠩᡤᠠᠨ ᡳ ᠸᡝᡳᠯᡝᡵᡝ ᠵᡠᡵᡤᠠᠨ",
     "board of works of the Eastern Tombs"
   ],
   "dergi ergi simnere bithei kvwaran": [
@@ -16396,15 +16396,15 @@ const dictionary = {
     "Eastern Section of the Imperial Equipage Department, 122"
   ],
   "dergi gurung ni baita be aliha yamun bh": [
-    "ᡩᡝᡵᡤᡳ ᡤᡠᡵᡠᠨᡤ ᠨᡳ ᠪᠠᡳᡨᠠ ᠪᡝ ᠠᠯᡳᡥᠠ ᠶᠠᠮᡠᠨ ᠪᡥ",
+    "ᡩᡝᡵᡤᡳ ᡤᡠᡵᡠᠩ ᠨᡳ ᠪᠠᡳᡨᠠ ᠪᡝ ᠠᠯᡳᡥᠠ ᠶᠠᠮᡠᠨ ᠪᡥ",
     "Supervisorate of Imperial Instruction, 929"
   ],
   "dergi gurung ni baita be aliha yamun i aliha hafan bh": [
-    "ᡩᡝᡵᡤᡳ ᡤᡠᡵᡠᠨᡤ ᠨᡳ ᠪᠠᡳᡨᠠ ᠪᡝ ᠠᠯᡳᡥᠠ ᠶᠠᠮᡠᠨ ᡳ ᠠᠯᡳᡥᠠ ᡥᠠᡶᠠᠨ ᠪᡥ",
+    "ᡩᡝᡵᡤᡳ ᡤᡠᡵᡠᠩ ᠨᡳ ᠪᠠᡳᡨᠠ ᠪᡝ ᠠᠯᡳᡥᠠ ᠶᠠᠮᡠᠨ ᡳ ᠠᠯᡳᡥᠠ ᡥᠠᡶᠠᠨ ᠪᡥ",
     "Chief Supervisor of Instruction, 929"
   ],
   "dergi gurung ni baita be aliha yamun i ilhi hafan bh": [
-    "ᡩᡝᡵᡤᡳ ᡤᡠᡵᡠᠨᡤ ᠨᡳ ᠪᠠᡳᡨᠠ ᠪᡝ ᠠᠯᡳᡥᠠ ᠶᠠᠮᡠᠨ ᡳ ᡳᠯᡥᡳ ᡥᠠᡶᠠᠨ ᠪᡥ",
+    "ᡩᡝᡵᡤᡳ ᡤᡠᡵᡠᠩ ᠨᡳ ᠪᠠᡳᡨᠠ ᠪᡝ ᠠᠯᡳᡥᠠ ᠶᠠᠮᡠᠨ ᡳ ᡳᠯᡥᡳ ᡥᠠᡶᠠᠨ ᠪᡥ",
     "Supervisdr of Instruction, 929"
   ],
   "dergi hese": [
@@ -16412,7 +16412,7 @@ const dictionary = {
     "imperial edict"
   ],
   "dergi hexe be gingguleme dahara baita hacin be kimcime baicara ba bh 105a": [
-    "ᡩᡝᡵᡤᡳ ᡥᡝᡧᡝ ᠪᡝ ᡤᡳᠨᡤᡤᡠᠯᡝᠮᡝ ᡩᠠᡥᠠᡵᠠ ᠪᠠᡳᡨᠠ ᡥᠠᠴᡳᠨ ᠪᡝ ᡴᡳᠮᠴᡳᠮᡝ ᠪᠠᡳᠴᠠᡵᠠ ᠪᠠ ᠪᡥ 105ᠠ",
+    "ᡩᡝᡵᡤᡳ ᡥᡝᡧᡝ ᠪᡝ ᡤᡳᠩᡤᡠᠯᡝᠮᡝ ᡩᠠᡥᠠᡵᠠ ᠪᠠᡳᡨᠠ ᡥᠠᠴᡳᠨ ᠪᡝ ᡴᡳᠮᠴᡳᠮᡝ ᠪᠠᡳᠴᠠᡵᠠ ᠪᠠ ᠪᡥ 105ᠠ",
     "Chancery for the publication of Imperial Edicts,"
   ],
   "dergi horon be badarambure mudan": [
@@ -16432,7 +16432,7 @@ const dictionary = {
     "the Imperial Dispensary, 92"
   ],
   "dergi xongge inenggi": [
-    "ᡩᡝᡵᡤᡳ ᡧᠣᠨᡤᡤᡝ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡩᡝᡵᡤᡳ ᡧᠣᠩᡤᡝ ᡳᠨᡝᠩᡤᡳ",
     "the first day of the month"
   ],
   "dergiken": [
@@ -16440,7 +16440,7 @@ const dictionary = {
     "somewhat upper, superior, or high"
   ],
   "dergingge": [
-    "ᡩᡝᡵᡤᡳᠨᡤᡤᡝ",
+    "ᡩᡝᡵᡤᡳᠩᡤᡝ",
     "eastern, upper"
   ],
   "dergixembi": [
@@ -16480,7 +16480,7 @@ const dictionary = {
     "caus. of derimbi 2. to begin, to let begin 3. to conjure up, to think up (a plan) 4. to play"
   ],
   "deribume ilibure kunggeri": [
-    "ᡩᡝᡵᡳᠪᡠᠮᡝ ᡳᠯᡳᠪᡠᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡩᡝᡵᡳᠪᡠᠮᡝ ᡳᠯᡳᠪᡠᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "bureau concerned with promotions and discharges in the Board of Civil Appointments"
   ],
   "deribure fiyentehe": [
@@ -16488,7 +16488,7 @@ const dictionary = {
     "the section following the introduction in a formal essay"
   ],
   "deribure giyangnan": [
-    "ᡩᡝᡵᡳᠪᡠᡵᡝ ᡤᡳᠶᠠᠨᡤᠨᠠᠨ",
+    "ᡩᡝᡵᡳᠪᡠᡵᡝ ᡤᡳᠶᠠᠩᠨᠠᠨ",
     "the third part of a formal essay"
   ],
   "deribun": [
@@ -16500,7 +16500,7 @@ const dictionary = {
     "beginning and end"
   ],
   "deribunggilembi": [
-    "ᡩᡝᡵᡳᠪᡠᠨᡤᡤᡳᠯᡝᠮᠪᡳ",
+    "ᡩᡝᡵᡳᠪᡠᠩᡤᡳᠯᡝᠮᠪᡳ",
     "to make a beginning"
   ],
   "deribuxembi": [
@@ -16572,7 +16572,7 @@ const dictionary = {
     "a shamanistic arrow with a tuft of flowering maple (Abutilon avicennae) tied to it"
   ],
   "desunggiyembi i.": [
-    "ᡩᡝᠰᡠᠨᡤᡤᡳᠶᡝᠮᠪᡳ ᡳ᠉",
+    "ᡩᡝᠰᡠᠩᡤᡳᠶᡝᠮᠪᡳ ᡳ᠉",
     "to scream in a loud voice 2. to stir up dust"
   ],
   "dethe": [
@@ -16580,7 +16580,7 @@ const dictionary = {
     "1. pinion 2. arrow feathers"
   ],
   "dethengge kiltan": [
-    "ᡩᡝᡨᡥᡝᠨᡤᡤᡝ ᡴᡳᠯᡨᠠᠨ",
+    "ᡩᡝᡨᡥᡝᠩᡤᡝ ᡴᡳᠯᡨᠠᠨ",
     "a pennant having five red tassels"
   ],
   "detu": [
@@ -16608,15 +16608,15 @@ const dictionary = {
     "1. flying squirrel (genus Sciuropterus) 2. a bat"
   ],
   "deyere guwasihiyangga kiru": [
-    "ᡩᡝᠶᡝᡵᡝ ᡤᡠᠸᠠᠰᡳᡥᡳᠶᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᡩᡝᠶᡝᡵᡝ ᡤᡠᠸᠠᠰᡳᡥᡳᠶᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner embroidered with the image of a heron"
   ],
   "deyere singgeri": [
-    "ᡩᡝᠶᡝᡵᡝ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᡩᡝᠶᡝᡵᡝ ᠰᡳᠩᡤᡝᡵᡳ",
     "a flying squirrel (genus Sciuropterus)"
   ],
   "deyere xanyangga fukjingga bergen": [
-    "ᡩᡝᠶᡝᡵᡝ ᡧᠠᠨᠶᠠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᠪᡝᡵᡤᡝᠨ",
+    "ᡩᡝᠶᡝᡵᡝ ᡧᠠᠨᠶᠠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᠪᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "deyen": [
@@ -16636,15 +16636,15 @@ const dictionary = {
     "to take one's place in the throne room (for an audience)"
   ],
   "deyengge": [
-    "ᡩᡝᠶᡝᠨᡤᡤᡝ",
+    "ᡩᡝᠶᡝᠩᡤᡝ",
     "flying, airborne"
   ],
   "deyenggu i.": [
-    "ᡩᡝᠶᡝᠨᡤᡤᡠ ᡳ᠉",
+    "ᡩᡝᠶᡝᠩᡤᡠ ᡳ᠉",
     "a kite (toy) 2. choral singing"
   ],
   "deyenggulembi": [
-    "ᡩᡝᠶᡝᠨᡤᡤᡠᠯᡝᠮᠪᡳ",
+    "ᡩᡝᠶᡝᠩᡤᡠᠯᡝᠮᠪᡳ",
     "to sing in unison"
   ],
   "di": [
@@ -16660,15 +16660,15 @@ const dictionary = {
     "the name of a constellation"
   ],
   "dilbihe tokdonggo kiru": [
-    "ᡩᡳᠯᠪᡳᡥᡝ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡩᡳᠯᠪᡳᡥᡝ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner of the escort having the constellation dilbihe depicted upon it"
   ],
   "ding hiyang": [
-    "ᡩᡳᠨᡤ ᡥᡳᠶᠠᠨᡤ",
+    "ᡩᡳᠩ ᡥᡳᠶᠠᠩ",
     "lilac (Syringa vulgaris)"
   ],
   "dingse orho": [
-    "ᡩᡳᠨᡤᠰᡝ ᠣᡵᡥᠣ",
+    "ᡩᡳᠩᠰᡝ ᠣᡵᡥᠣ",
     "a grass that grows in clumps, has narrow leaves and yellow blossoms; flour made from its dried roots mixed with wheat flour and egg white serves as a foot salve"
   ],
   "dise": [
@@ -16796,7 +16796,7 @@ const dictionary = {
     "a small sheath, a small bag (for a seal), a container for tallies 2. a cover, cover for Chinese-style books 3. scabbard"
   ],
   "dobtonggu": [
-    "ᡩᠣᠪᡨᠣᠨᡤᡤᡠ",
+    "ᡩᠣᠪᡨᠣᠩᡤᡠ",
     "pertaining to a cover or sheath"
   ],
   "dobukv": [
@@ -16808,7 +16808,7 @@ const dictionary = {
     "caus. of dombi 2. to place a falcon on its perch"
   ],
   "dodangga i.": [
-    "ᡩᠣᡩᠠᠨᡤᡤᠠ ᡳ᠉",
+    "ᡩᠣᡩᠠᠩᡤᠠ ᡳ᠉",
     "monster 2. sorcerer 3. a blind man"
   ],
   "dodo": [
@@ -16840,7 +16840,7 @@ const dictionary = {
     "a ford, a ferry (place where people are ferried across streams)"
   ],
   "dogon angga": [
-    "ᡩᠣᡤᠣᠨ ᠠᠨᡤᡤᠠ",
+    "ᡩᠣᡤᠣᠨ ᠠᠩᡤᠠ",
     "a ford, a ferry, a place where people are ferried across streams"
   ],
   "dogon jafaha": [
@@ -16856,7 +16856,7 @@ const dictionary = {
     "lime 2. blind; cf. dogo"
   ],
   "doho muke hungkerembi": [
-    "ᡩᠣᡥᠣ ᠮᡠᡴᡝ ᡥᡠᠨᡤᡴᡝᡵᡝᠮᠪᡳ",
+    "ᡩᠣᡥᠣ ᠮᡠᡴᡝ ᡥᡠᠩᡴᡝᡵᡝᠮᠪᡳ",
     "to pour mortar (a mixture of lime, sand, and water) into the crevices of brickwork"
   ],
   "dohodombi": [
@@ -16908,7 +16908,7 @@ const dictionary = {
     "beforehand, previously"
   ],
   "doingge leke": [
-    "ᡩᠣᡳᠨᡤᡤᡝ ᠯᡝᡴᡝ",
+    "ᡩᠣᡳᠩᡤᡝ ᠯᡝᡴᡝ",
     "a flat cake with a jujube filling"
   ],
   "dojihiyan": [
@@ -17052,7 +17052,7 @@ const dictionary = {
     "not to yield easily (of a bowstring)"
   ],
   "dolo ping sembi": [
-    "ᡩᠣᠯᠣ ᡦᡳᠨᡤ ᠰᡝᠮᠪᡳ",
+    "ᡩᠣᠯᠣ ᡦᡳᠩ ᠰᡝᠮᠪᡳ",
     "to have eaten to satiety"
   ],
   "dolo tatabumbi": [
@@ -17084,7 +17084,7 @@ const dictionary = {
     "obeisance made by Manchu women"
   ],
   "domnon singgeri": [
-    "ᡩᠣᠮᠨᠣᠨ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᡩᠣᠮᠨᠣᠨ ᠰᡳᠩᡤᡝᡵᡳ",
     "ground squirrel"
   ],
   "domo i.": [
@@ -17116,15 +17116,15 @@ const dictionary = {
     "a small butterfly"
   ],
   "dongjihiyan": [
-    "ᡩᠣᠨᡤᠵᡳᡥᡳᠶᠠᠨ",
+    "ᡩᠣᠩᠵᡳᡥᡳᠶᠠᠨ",
     "lower jaw of a sheep"
   ],
   "dongmo": [
-    "ᡩᠣᠨᡤᠮᠣ",
+    "ᡩᠣᠩᠮᠣ",
     "a round pot for holding milked tea"
   ],
   "dongniyorombi": [
-    "ᡩᠣᠨᡤᠨᡳᠶᠣᡵᠣᠮᠪᡳ",
+    "ᡩᠣᠩᠨᡳᠶᠣᡵᠣᠮᠪᡳ",
     "to raise the head high (of horses)"
   ],
   "donjibumbi i.": [
@@ -17172,11 +17172,11 @@ const dictionary = {
     "a Buddhist or Taoist rite offered for a dead soul"
   ],
   "doocang": [
-    "ᡩᠣᠣᠴᠠᠨᡤ",
+    "ᡩᠣᠣᠴᠠᠩ",
     "same as doocan"
   ],
   "doocang arambi": [
-    "ᡩᠣᠣᠴᠠᠨᡤ ᠠᡵᠠᠮᠪᡳ",
+    "ᡩᠣᠣᠴᠠᠩ ᠠᡵᠠᠮᠪᡳ",
     "to perform a religious ceremony, especially one for the dead"
   ],
   "dood": [
@@ -17188,7 +17188,7 @@ const dictionary = {
     "bridge"
   ],
   "doohan jugun i kunggeri": [
-    "ᡩᠣᠣᡥᠠᠨ ᠵᡠᡤᡠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡩᠣᠣᡥᠠᠨ ᠵᡠᡤᡠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of bridges and roads in the Board of Works"
   ],
   "doolabumbi": [
@@ -17356,7 +17356,7 @@ const dictionary = {
     "Chancery of the Imperial Household, 85"
   ],
   "dorgi koolingga hafan bh s.": [
-    "ᡩᠣᡵᡤᡳ ᡴᠣᠣᠯᡳᠨᡤᡤᠠ ᡥᠠᡶᠠᠨ ᠪᡥ ᠰ᠉",
+    "ᡩᠣᡵᡤᡳ ᡴᠣᠣᠯᡳᠩᡤᠠ ᡥᠠᡶᠠᠨ ᠪᡥ ᠰ᠉",
     "Secretary of the Grand Secretariat, 137"
   ],
   "dorgi oktosi": [
@@ -17364,7 +17364,7 @@ const dictionary = {
     "Imperial"
   ],
   "dorgi simnengge kunggeri": [
-    "ᡩᠣᡵᡤᡳ ᠰᡳᠮᠨᡝᠨᡤᡤᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡩᠣᡵᡤᡳ ᠰᡳᠮᠨᡝᠩᡤᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "office concerned with examinations and civil appointments in the capital"
   ],
   "dorgi suri": [
@@ -17372,7 +17372,7 @@ const dictionary = {
     "a type of silk thinner and coarser than satin"
   ],
   "dorgi tanggingge boo": [
-    "ᡩᠣᡵᡤᡳ ᡨᠠᠨᡤᡤᡳᠨᡤᡤᡝ ᠪᠣᠣ",
+    "ᡩᠣᡵᡤᡳ ᡨᠠᠩᡤᡳᠩᡤᡝ ᠪᠣᠣ",
     "the name of an office in the Board of Civil Appointments"
   ],
   "dorgi yamun bh": [
@@ -17428,11 +17428,11 @@ const dictionary = {
     "to act contrary to proper behavior"
   ],
   "doro be dasara tanggin": [
-    "ᡩᠣᡵᠣ ᠪᡝ ᡩᠠᠰᠠᡵᠠ ᡨᠠᠨᡤᡤᡳᠨ",
+    "ᡩᠣᡵᠣ ᠪᡝ ᡩᠠᠰᠠᡵᠠ ᡨᠠᠩᡤᡳᠨ",
     "the name of the first hall of the west wing of the Imperial Academy"
   ],
   "doro be songkoloro mudan": [
-    "ᡩᠣᡵᠣ ᠪᡝ ᠰᠣᠨᡤᡴᠣᠯᠣᡵᠣ ᠮᡠᡩᠠᠨ",
+    "ᡩᠣᡵᠣ ᠪᡝ ᠰᠣᠩᡴᠣᠯᠣᡵᠣ ᠮᡠᡩᠠᠨ",
     "music performed during a wine-drinking ceremony at court"
   ],
   "doro benembi": [
@@ -17464,7 +17464,7 @@ const dictionary = {
     "honorary title of the first rank class two, 945"
   ],
   "doro eldengge i82i-i850": [
-    "ᡩᠣᡵᠣ ᡝᠯᡩᡝᠨᡤᡤᡝ ᡳ82ᡳ ᡳ850",
+    "ᡩᠣᡵᠣ ᡝᠯᡩᡝᠩᡤᡝ ᡳ82ᡳ ᡳ850",
     "the Tao-kuang reign period,"
   ],
   "doro jafambi": [
@@ -17480,7 +17480,7 @@ const dictionary = {
     "the administration and the law"
   ],
   "doro yangse i.": [
-    "ᡩᠣᡵᠣ ᠶᠠᠨᡤᠰᡝ ᡳ᠉",
+    "ᡩᠣᡵᠣ ᠶᠠᠩᠰᡝ ᡳ᠉",
     "veining, grain (of wood) 2. form, proper form"
   ],
   "doro yoso": [
@@ -17500,7 +17500,7 @@ const dictionary = {
     "the son-in-law of a doroi beile"
   ],
   "doroi dengjan": [
-    "ᡩᠣᡵᠣᡳ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡩᠣᡵᠣᡳ ᡩᡝᠩᠵᠠᠨ",
     "lanterns hung on both sides of the gate of the palace during important ceremonies"
   ],
   "doroi efu": [
@@ -17532,7 +17532,7 @@ const dictionary = {
     "Daughter of a Prince of the Blood of the second degree,"
   ],
   "doroi giyun wang bh": [
-    "ᡩᠣᡵᠣᡳ ᡤᡳᠶᡠᠨ ᠸᠠᠨᡤ ᠪᡥ",
+    "ᡩᠣᡵᠣᡳ ᡤᡳᠶᡠᠨ ᠸᠠᠩ ᠪᡥ",
     "Prince of the Blood of the second degree, 17"
   ],
   "doroi jaka": [
@@ -17548,7 +17548,7 @@ const dictionary = {
     "Umbrella Šection (of the Equipage Department),"
   ],
   "doroi suhen girdangga": [
-    "ᡩᠣᡵᠣᡳ ᠰᡠᡥᡝᠨ ᡤᡳᡵᡩᠠᠨᡤᡤᠠ",
+    "ᡩᠣᡵᠣᡳ ᠰᡠᡥᡝᠨ ᡤᡳᡵᡩᠠᠩᡤᠠ",
     "an emblem used on the banner of the imperial guards"
   ],
   "doroi umiyesun": [
@@ -17616,7 +17616,7 @@ const dictionary = {
     "Board of Rites, 376"
   ],
   "dorolon i jurgan i kungge yamun bh": [
-    "ᡩᠣᡵᠣᠯᠣᠨ ᡳ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝ ᠶᠠᠮᡠᠨ ᠪᡥ",
+    "ᡩᠣᡵᠣᠯᠣᠨ ᡳ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡠᠩᡤᡝ ᠶᠠᠮᡠᠨ ᠪᡥ",
     "Section of Ceremonies, 822"
   ],
   "dorolon i jurgan i toktoho gisun": [
@@ -17628,7 +17628,7 @@ const dictionary = {
     "depository for ritual books and paraphernalia"
   ],
   "dorolon kooli i kunggeri": [
-    "ᡩᠣᡵᠣᠯᠣᠨ ᡴᠣᠣᠯᡳ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡩᠣᡵᠣᠯᠣᠨ ᡴᠣᠣᠯᡳ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "section concerned with ritual in the Court of Banqueting"
   ],
   "dorolon kumun gabtan jafan bithe ton": [
@@ -17652,7 +17652,7 @@ const dictionary = {
     "office of the seal in the Board of Civil Appointments"
   ],
   "doron be tuwakiyara kunggeri": [
-    "ᡩᠣᡵᠣᠨ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡩᠣᡵᠣᠨ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of the seal in the Court of Colonial Affairs"
   ],
   "doron be tuwaxara ba": [
@@ -17672,7 +17672,7 @@ const dictionary = {
     "a contract or bill of sale with an official seal on it"
   ],
   "doron hungkerere kvwaran": [
-    "ᡩᠣᡵᠣᠨ ᡥᡠᠨᡤᡴᡝᡵᡝᡵᡝ ᡴᡡᠸᠠᡵᠠᠨ",
+    "ᡩᠣᡵᠣᠨ ᡥᡠᠩᡴᡝᡵᡝᡵᡝ ᡴᡡᠸᠠᡵᠠᠨ",
     "seal-casting section of the Board of Rites"
   ],
   "doron i boco": [
@@ -17700,11 +17700,11 @@ const dictionary = {
     "a memorial stamped with a seal that dealt with official business"
   ],
   "doron temgetu i kunggeri": [
-    "ᡩᠣᡵᠣᠨ ᡨᡝᠮᡤᡝᡨᡠ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡩᠣᡵᠣᠨ ᡨᡝᠮᡤᡝᡨᡠ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of the seal in the Board of Rites"
   ],
   "doronggo i.": [
-    "ᡩᠣᡵᠣᠨᡤᡤᠣ ᡳ᠉",
+    "ᡩᠣᡵᠣᠩᡤᠣ ᡳ᠉",
     "moral, honest, possessing proper principles 2. Taoist-like 3. gentle (of horses)"
   ],
   "dosholobumbi": [
@@ -17820,7 +17820,7 @@ const dictionary = {
     "to get sprained (of a horse's or mule's hind leg)"
   ],
   "doyonggo": [
-    "ᡩᠣᠶᠣᠨᡤᡤᠣ",
+    "ᡩᠣᠶᠣᠩᡤᠣ",
     "satin with brocaded dragons"
   ],
   "du": [
@@ -17836,7 +17836,7 @@ const dictionary = {
     "a side flap on a Chinese garment"
   ],
   "du giranggi": [
-    "ᡩᡠ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡩᡠ ᡤᡳᡵᠠᠩᡤᡳ",
     "pelvis"
   ],
   "du sele": [
@@ -17888,7 +17888,7 @@ const dictionary = {
     "at the end, at last, finally, scarcely; cf. dubede"
   ],
   "dubeingge": [
-    "ᡩᡠᠪᡝᡳᠨᡤᡤᡝ",
+    "ᡩᡠᠪᡝᡳᠩᡤᡝ",
     "the end one, the last one"
   ],
   "dubembi": [
@@ -17908,7 +17908,7 @@ const dictionary = {
     "the beginning and end"
   ],
   "dubengge": [
-    "ᡩᡠᠪᡝᠨᡤᡤᡝ",
+    "ᡩᡠᠪᡝᠩᡤᡝ",
     "pointed, sharp"
   ],
   "dubentele": [
@@ -17960,7 +17960,7 @@ const dictionary = {
     "the sound children make when first learning to speak"
   ],
   "dudungge cecike": [
-    "ᡩᡠᡩᡠᠨᡤᡤᡝ ᠴᡝᠴᡳᡴᡝ",
+    "ᡩᡠᡩᡠᠩᡤᡝ ᠴᡝᠴᡳᡴᡝ",
     "one name for the myna"
   ],
   "duduri": [
@@ -17996,7 +17996,7 @@ const dictionary = {
     "see duha"
   ],
   "duhan singgeri": [
-    "ᡩᡠᡥᠠᠨ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᡩᡠᡥᠠᠨ ᠰᡳᠩᡤᡝᡵᡳ",
     "a small black ratlike animal that has a gutlike growth on its stomach"
   ],
   "duhembi": [
@@ -18080,7 +18080,7 @@ const dictionary = {
     "the four directions"
   ],
   "duin durbejen i monggo boo": [
-    "ᡩᡠᡳᠨ ᡩᡠᡵᠪᡝᠵᡝᠨ ᡳ ᠮᠣᠨᡤᡤᠣ ᠪᠣᠣ",
+    "ᡩᡠᡳᠨ ᡩᡠᡵᠪᡝᠵᡝᠨ ᡳ ᠮᠣᠩᡤᠣ ᠪᠣᠣ",
     "a foursided Mongolian yurt"
   ],
   "duin ergi": [
@@ -18088,7 +18088,7 @@ const dictionary = {
     "the four corners of the world"
   ],
   "duin ergi aiman i kunggeri": [
-    "ᡩᡠᡳᠨ ᡝᡵᡤᡳ ᠠᡳᠮᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡩᡠᡳᠨ ᡝᡵᡤᡳ ᠠᡳᠮᠠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of the peoples of the four directions in the Board of Rites"
   ],
   "duin erin": [
@@ -18096,7 +18096,7 @@ const dictionary = {
     "the four seasons"
   ],
   "duin erin i ilhangga tumin lamun sara": [
-    "ᡩᡠᡳᠨ ᡝᡵᡳᠨ ᡳ ᡳᠯᡥᠠᠨᡤᡤᠠ ᡨᡠᠮᡳᠨ ᠯᠠᠮᡠᠨ ᠰᠠᡵᠠ",
+    "ᡩᡠᡳᠨ ᡝᡵᡳᠨ ᡳ ᡳᠯᡥᠠᠩᡤᠠ ᡨᡠᠮᡳᠨ ᠯᠠᠮᡠᠨ ᠰᠠᡵᠠ",
     "a dark blue processional umbrella embroidered with the flowers of the four seasons"
   ],
   "duin fcrcon": [
@@ -18112,7 +18112,7 @@ const dictionary = {
     "in the four directions"
   ],
   "duin irungge mahatun": [
-    "ᡩᡠᡳᠨ ᡳᡵᡠᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᡩᡠᡳᠨ ᡳᡵᡠᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "a hat with four tufts on top, worn by officials in antiquity"
   ],
   "duina": [
@@ -18120,15 +18120,15 @@ const dictionary = {
     "one hundred-sextillionths, an infinitesimal amount"
   ],
   "duingge": [
-    "ᡩᡠᡳᠨᡤᡤᡝ",
+    "ᡩᡠᡳᠩᡤᡝ",
     "folded in four, in fours, four times"
   ],
   "duingge hooxan": [
-    "ᡩᡠᡳᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᡩᡠᡳᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "a sheet of paper four times as large as an ordi-"
   ],
   "duinggeri": [
-    "ᡩᡠᡳᠨᡤᡤᡝᡵᡳ",
+    "ᡩᡠᡳᠩᡤᡝᡵᡳ",
     "four times"
   ],
   "duixe": [
@@ -18148,7 +18148,7 @@ const dictionary = {
     "gatekeeper at the examination hall"
   ],
   "dukai bongko": [
-    "ᡩᡠᡴᠠᡳ ᠪᠣᠨᡤᡴᠣ",
+    "ᡩᡠᡴᠠᡳ ᠪᠣᠩᡴᠣ",
     "an adornment over a gate"
   ],
   "dukai enduri": [
@@ -18164,7 +18164,7 @@ const dictionary = {
     "a red banner embroidered with the word for gate"
   ],
   "dukai senggele": [
-    "ᡩᡠᡴᠠᡳ ᠰᡝᠨᡤᡤᡝᠯᡝ",
+    "ᡩᡠᡴᠠᡳ ᠰᡝᠩᡤᡝᠯᡝ",
     "board placed on each side of a gate"
   ],
   "dukduhun": [
@@ -18240,7 +18240,7 @@ const dictionary = {
     "degree of an angle"
   ],
   "dulefun sandalabure durungga tetun": [
-    "ᡩᡠᠯᡝᡶᡠᠨ ᠰᠠᠨᡩᠠᠯᠠᠪᡠᡵᡝ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᡩᡠᠯᡝᡶᡠᠨ ᠰᠠᠨᡩᠠᠯᠠᠪᡠᡵᡝ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "a sextant of the Peking observatory"
   ],
   "dulembi i.": [
@@ -18296,11 +18296,11 @@ const dictionary = {
     "Astronomer for the Mid-year, 229"
   ],
   "dulimba hvwaliyasun bolgonggo kumun": [
-    "ᡩᡠᠯᡳᠮᠪᠠ ᡥᡡᠸᠠᠯᡳᠶᠠᠰᡠᠨ ᠪᠣᠯᡤᠣᠨᡤᡤᠣ ᡴᡠᠮᡠᠨ",
+    "ᡩᡠᠯᡳᠮᠪᠠ ᡥᡡᠸᠠᠯᡳᠶᠠᠰᡠᠨ ᠪᠣᠯᡤᠣᠩᡤᠣ ᡴᡠᠮᡠᠨ",
     "music played while food was brought in for a palace banquet"
   ],
   "dulimba hvwaliyasun sirabungga kumun": [
-    "ᡩᡠᠯᡳᠮᠪᠠ ᡥᡡᠸᠠᠯᡳᠶᠠᠰᡠᠨ ᠰᡳᡵᠠᠪᡠᠨᡤᡤᠠ ᡴᡠᠮᡠᠨ",
+    "ᡩᡠᠯᡳᠮᠪᠠ ᡥᡡᠸᠠᠯᡳᠶᠠᠰᡠᠨ ᠰᡳᡵᠠᠪᡠᠩᡤᠠ ᡴᡠᠮᡠᠨ",
     "music played while the emperor returned to the palace from a congratulatory ceremony"
   ],
   "dulimba hvwaliyasun xoo kumun": [
@@ -18308,7 +18308,7 @@ const dictionary = {
     "same as the preceding entry"
   ],
   "dulimba hvwaliyasun xunggiya kumun": [
-    "ᡩᡠᠯᡳᠮᠪᠠ ᡥᡡᠸᠠᠯᡳᠶᠠᠰᡠᠨ ᡧᡠᠨᡤᡤᡳᠶᠠ ᡴᡠᠮᡠᠨ",
+    "ᡩᡠᠯᡳᠮᠪᠠ ᡥᡡᠸᠠᠯᡳᠶᠠᠰᡠᠨ ᡧᡠᠩᡤᡳᠶᠠ ᡴᡠᠮᡠᠨ",
     "music played during the offerings at the altars of heaven, earth, and millet, and the Ancestral Temple, and Temple of Confucius"
   ],
   "dulimba hvwaliyasun ya kumun": [
@@ -18340,7 +18340,7 @@ const dictionary = {
     "one of the six minor pipes"
   ],
   "dulimbai falangga bh i09": [
-    "ᡩᡠᠯᡳᠮᠪᠠᡳ ᡶᠠᠯᠠᠨᡤᡤᠠ ᠪᡥ ᡳ09",
+    "ᡩᡠᠯᡳᠮᠪᠠᡳ ᡶᠠᠯᠠᠩᡤᠠ ᠪᡥ ᡳ09",
     "central office of the Imperial Equipage Department; cf."
   ],
   "dulimbai fiyentehe": [
@@ -18360,7 +18360,7 @@ const dictionary = {
     "censorate office of the middle city (Peking)"
   ],
   "dulimbai hecen i cooha moringga fiyenten": [
-    "ᡩᡠᠯᡳᠮᠪᠠᡳ ᡥᡝᠴᡝᠨ ᡳ ᠴᠣᠣᡥᠠ ᠮᠣᡵᡳᠨᡤᡤᠠ ᡶᡳᠶᡝᠨᡨᡝᠨ",
+    "ᡩᡠᠯᡳᠮᠪᠠᡳ ᡥᡝᠴᡝᠨ ᡳ ᠴᠣᠣᡥᠠ ᠮᠣᡵᡳᠩᡤᠠ ᡶᡳᠶᡝᠨᡨᡝᠨ",
     "police office of the central city"
   ],
   "dulimbai irgen gurun": [
@@ -18372,11 +18372,11 @@ const dictionary = {
     "the middle finger"
   ],
   "dulimbaingge": [
-    "ᡩᡠᠯᡳᠮᠪᠠᡳᠨᡤᡤᡝ",
+    "ᡩᡠᠯᡳᠮᠪᠠᡳᠩᡤᡝ",
     "the middle one"
   ],
   "dulimbangge": [
-    "ᡩᡠᠯᡳᠮᠪᠠᠨᡤᡤᡝ",
+    "ᡩᡠᠯᡳᠮᠪᠠᠩᡤᡝ",
     "same as dulimbaingge"
   ],
   "dulimbi": [
@@ -18420,35 +18420,35 @@ const dictionary = {
     "a four-year-old ox"
   ],
   "dung": [
-    "ᡩᡠᠨᡤ",
+    "ᡩᡠᠩ",
     "a cave"
   ],
   "dung guwa": [
-    "ᡩᡠᠨᡤ ᡤᡠᠸᠠ",
+    "ᡩᡠᠩ ᡤᡠᠸᠠ",
     "see dungga"
   ],
   "dungga": [
-    "ᡩᡠᠨᡤᡤᠠ",
+    "ᡩᡠᠩᡤᠠ",
     "watermelon"
   ],
   "dungga use": [
-    "ᡩᡠᠨᡤᡤᠠ ᡠᠰᡝ",
+    "ᡩᡠᠩᡤᠠ ᡠᠰᡝ",
     "watermelon seed"
   ],
   "dunggami": [
-    "ᡩᡠᠨᡤᡤᠠᠮᡳ",
+    "ᡩᡠᠩᡤᠠᠮᡳ",
     "of the same age"
   ],
   "dunggu": [
-    "ᡩᡠᠨᡤᡤᡠ",
+    "ᡩᡠᠩᡤᡠ",
     "cave, grotto"
   ],
   "dungki": [
-    "ᡩᡠᠨᡤᡴᡳ",
+    "ᡩᡠᠩᡴᡳ",
     "tired, exhausted, weak in judgment"
   ],
   "dungun": [
-    "ᡩᡠᠨᡤᡠᠨ",
+    "ᡩᡠᠩᡠᠨ",
     "one hundred million"
   ],
   "dunjihiyana": [
@@ -18476,11 +18476,11 @@ const dictionary = {
     "to stare"
   ],
   "duranggi": [
-    "ᡩᡠᡵᠠᠨᡤᡤᡳ",
+    "ᡩᡠᡵᠠᠩᡤᡳ",
     "muddy, murky, given to excessive drinking"
   ],
   "duranggilambi": [
-    "ᡩᡠᡵᠠᠨᡤᡤᡳᠯᠠᠮᠪᡳ",
+    "ᡩᡠᡵᠠᠩᡤᡳᠯᠠᠮᠪᡳ",
     "to drink excessively"
   ],
   "durbe": [
@@ -18500,11 +18500,11 @@ const dictionary = {
     "a square pond at the Altar of Earth"
   ],
   "durbejengge": [
-    "ᡩᡠᡵᠪᡝᠵᡝᠨᡤᡤᡝ",
+    "ᡩᡠᡵᠪᡝᠵᡝᠩᡤᡝ",
     "square, having corners"
   ],
   "durbejengge sufatu": [
-    "ᡩᡠᡵᠪᡝᠵᡝᠨᡤᡤᡝ ᠰᡠᡶᠠᡨᡠ",
+    "ᡩᡠᡵᠪᡝᠵᡝᠩᡤᡝ ᠰᡠᡶᠠᡨᡠ",
     "a square turban used in antiquity"
   ],
   "durbejitu": [
@@ -18624,7 +18624,7 @@ const dictionary = {
     "likeness, form, shape, model, pattern, appearance"
   ],
   "dursvngga": [
-    "ᡩᡠᡵᠰᡡᠨᡤᡤᠠ",
+    "ᡩᡠᡵᠰᡡᠩᡤᠠ",
     "having form, material"
   ],
   "durugan": [
@@ -18692,19 +18692,19 @@ const dictionary = {
     "model, example"
   ],
   "durungga i.": [
-    "ᡩᡠᡵᡠᠨᡤᡤᠠ ᡳ᠉",
+    "ᡩᡠᡵᡠᠩᡤᠠ ᡳ᠉",
     "exemplary, model 2. having form, representational"
   ],
   "durungga dobtolon": [
-    "ᡩᡠᡵᡠᠨᡤᡤᠠ ᡩᠣᠪᡨᠣᠯᠣᠨ",
+    "ᡩᡠᡵᡠᠩᡤᠠ ᡩᠣᠪᡨᠣᠯᠣᠨ",
     "an animal or devil mask worn over the head during certain games"
   ],
   "durungga tetun": [
-    "ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "instrument--especially an astronomical instrument"
   ],
   "durvngge": [
-    "ᡩᡠᡵᡡᠨᡤᡤᡝ",
+    "ᡩᡠᡵᡡᠩᡤᡝ",
     "exemplary"
   ],
   "durvsga moo": [
@@ -18772,7 +18772,7 @@ const dictionary = {
     "the vertical wooden support of a window lattice 2. a fish with scales spotted with red"
   ],
   "duthengge": [
-    "ᡩᡠᡨᡥᡝᠨᡤᡤᡝ",
+    "ᡩᡠᡨᡥᡝᠩᡤᡝ",
     "having a grate or lattice work"
   ],
   "dutu": [
@@ -18780,7 +18780,7 @@ const dictionary = {
     "deaf, a deaf person"
   ],
   "dutung": [
-    "ᡩᡠᡨᡠᠨᡤ",
+    "ᡩᡠᡨᡠᠩ",
     "lieutenant general; cf. gūsai i ejen"
   ],
   "duturembi": [
@@ -18804,7 +18804,7 @@ const dictionary = {
     "to categorize"
   ],
   "duwalingga": [
-    "ᡩᡠᠸᠠᠯᡳᠨᡤᡤᠠ",
+    "ᡩᡠᠸᠠᠯᡳᠩᡤᠠ",
     "of the same type or category"
   ],
   "duwan i.": [
@@ -18848,7 +18848,7 @@ const dictionary = {
     "viscount"
   ],
   "dai siyang": [
-    "ᡩᠠᡳ ᠰᡳᠶᠠᠨᡤ",
+    "ᡩᠠᡳ ᠰᡳᠶᠠᠩ",
     "prime minister"
   ],
   "dambaga": [
@@ -18884,31 +18884,31 @@ const dictionary = {
     "a long slender arrow"
   ],
   "dung bing guwan": [
-    "ᡩᡠᠨᡤ ᠪᡳᠨᡤ ᡤᡠᠸᠠᠨ",
+    "ᡩᡠᠩ ᠪᡳᠩ ᡤᡠᠸᠠᠨ",
     "the commander of Chinese troops in a province"
   ],
   "dung giya": [
-    "ᡩᡠᠨᡤ ᡤᡳᠶᠠ",
+    "ᡩᡠᠩ ᡤᡳᠶᠠ",
     "superintendent of block wardens"
   ],
   "dung ni duka": [
-    "ᡩᡠᠨᡤ ᠨᡳ ᡩᡠᡴᠠ",
+    "ᡩᡠᠩ ᠨᡳ ᡩᡠᡴᠠ",
     "a religious sect"
   ],
   "dung sika": [
-    "ᡩᡠᠨᡤ ᠰᡳᡴᠠ",
+    "ᡩᡠᠩ ᠰᡳᡴᠠ",
     "palm fronds"
   ],
   "dung zin fu": [
-    "ᡩᡠᠨᡤ zᡳᠨ ᡶᡠ",
+    "ᡩᡠᠩ ᡰᡳᠨ ᡶᡠ",
     "the Imperial Clan Court; cf. uksun be kadalara yamun"
   ],
   "dungdu": [
-    "ᡩᡠᠨᡤᡩᡠ",
+    "ᡩᡠᠩᡩᡠ",
     "governor general;cf. uheri kadalara amban"
   ],
   "dungse": [
-    "ᡩᡠᠨᡤᠰᡝ",
+    "ᡩᡠᠩᠰᡝ",
     "glutinous rice filled with meat or sweet bean paste and wrapped in bamboo leaves"
   ],
   "duxi": [
@@ -18924,7 +18924,7 @@ const dictionary = {
     "the inside of a crease or fold"
   ],
   "e jijun i acangga": [
-    "ᡝ ᠵᡳᠵᡠᠨ ᡳ ᠠᠴᠠᠨᡤᡤᠠ",
+    "ᡝ ᠵᡳᠵᡠᠨ ᡳ ᠠᠴᠠᠩᡤᠠ",
     "an identification token cast in bronze with indented characters used to gain entrance to a city at night after the gates have been closed"
   ],
   "ebci": [
@@ -19024,7 +19024,7 @@ const dictionary = {
     "somewhat deficient"
   ],
   "eberingge": [
-    "ᡝᠪᡝᡵᡳᠨᡤᡤᡝ",
+    "ᡝᠪᡝᡵᡳᠩᡤᡝ",
     "not up to par, inferior"
   ],
   "ebetuhun": [
@@ -19108,7 +19108,7 @@ const dictionary = {
     "a little in this direction"
   ],
   "ebsingge": [
-    "ᡝᠪᠰᡳᠨᡤᡤᡝ",
+    "ᡝᠪᠰᡳᠩᡤᡝ",
     "what has been up until now, existing until now, long-lasting"
   ],
   "ebxembi": [
@@ -19140,7 +19140,7 @@ const dictionary = {
     "stopover on a journey 2.provisions for traveling officials"
   ],
   "ebubun i kunggeri": [
-    "ᡝᠪᡠᠪᡠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡝᠪᡠᠪᡠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office in charge of caring for emissaries to the court"
   ],
   "ebuhu": [
@@ -19244,7 +19244,7 @@ const dictionary = {
     "see eden dadan"
   ],
   "edeng": [
-    "ᡝᡩᡝᠨᡤ",
+    "ᡝᡩᡝᠩ",
     "a sawfish (Pristis pectinatus)"
   ],
   "ederi": [
@@ -19328,7 +19328,7 @@ const dictionary = {
     "the wind has calmed"
   ],
   "edun nesuken xun genggiyen i mudan": [
-    "ᡝᡩᡠᠨ ᠨᡝᠰᡠᡴᡝᠨ ᡧᡠᠨ ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᡳ ᠮᡠᡩᠠᠨ",
+    "ᡝᡩᡠᠨ ᠨᡝᠰᡠᡴᡝᠨ ᡧᡠᠨ ᡤᡝᠩᡤᡳᠶᡝᠨ ᡳ ᠮᡠᡩᠠᠨ",
     "a musical composition played at the banquet after the plowing ceremony"
   ],
   "edun nimekv": [
@@ -19340,27 +19340,27 @@ const dictionary = {
     "to relieve oneself, to go to the toilet"
   ],
   "edungge": [
-    "ᡝᡩᡠᠨᡤᡤᡝ",
+    "ᡝᡩᡠᠩᡤᡝ",
     "pertaining to the wind"
   ],
   "edungge gasha": [
-    "ᡝᡩᡠᠨᡤᡤᡝ ᡤᠠᠰᡥᠠ",
+    "ᡝᡩᡠᠩᡤᡝ ᡤᠠᠰᡥᠠ",
     "a type of sparrow hawk"
   ],
   "edungge hiyebele": [
-    "ᡝᡩᡠᠨᡤᡤᡝ ᡥᡳᠶᡝᠪᡝᠯᡝ",
+    "ᡝᡩᡠᠩᡤᡝ ᡥᡳᠶᡝᠪᡝᠯᡝ",
     "a type of buzzard"
   ],
   "edungge xungkeri ilha": [
-    "ᡝᡩᡠᠨᡤᡤᡝ ᡧᡠᠨᡤᡴᡝᡵᡳ ᡳᠯᡥᠠ",
+    "ᡝᡩᡠᠩᡤᡝ ᡧᡠᠩᡴᡝᡵᡳ ᡳᠯᡥᠠ",
     "wind orchid (Angraecum falcatum)"
   ],
   "edunggiyebumbi": [
-    "ᡝᡩᡠᠨᡤᡤᡳᠶᡝᠪᡠᠮᠪᡳ",
+    "ᡝᡩᡠᠩᡤᡳᠶᡝᠪᡠᠮᠪᡳ",
     "caus. of edunggiyembi"
   ],
   "edunggiyembi": [
-    "ᡝᡩᡠᠨᡤᡤᡳᠶᡝᠮᠪᡳ",
+    "ᡝᡩᡠᠩᡤᡳᠶᡝᠮᠪᡳ",
     "to winnow"
   ],
   "efebumbi": [
@@ -19492,7 +19492,7 @@ const dictionary = {
     "destiny, fate"
   ],
   "ehe boco menggun": [
-    "ᡝᡥᡝ ᠪᠣᠴᠣ ᠮᡝᠨᡤᡤᡠᠨ",
+    "ᡝᡥᡝ ᠪᠣᠴᠣ ᠮᡝᠩᡤᡠᠨ",
     "poor quality silver (containing impurities)"
   ],
   "ehe gvnimbi": [
@@ -19504,7 +19504,7 @@ const dictionary = {
     "an evil official"
   ],
   "ehe inenggi": [
-    "ᡝᡥᡝ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡝᡥᡝ ᡳᠨᡝᠩᡤᡳ",
     "an inauspicious day, a day on which there is bad weather"
   ],
   "ehe sui": [
@@ -19520,7 +19520,7 @@ const dictionary = {
     "a bad smell, a stink"
   ],
   "ehe weilengge niyalma": [
-    "ᡝᡥᡝ ᠸᡝᡳᠯᡝᠨᡤᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᡝᡥᡝ ᠸᡝᡳᠯᡝᠩᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ",
     "criminal charged with homicide"
   ],
   "ehecubumbi": [
@@ -19536,7 +19536,7 @@ const dictionary = {
     "slander, abuse"
   ],
   "ehelinggu": [
-    "ᡝᡥᡝᠯᡳᠨᡤᡤᡠ",
+    "ᡝᡥᡝᠯᡳᠩᡤᡠ",
     "bad, wicked, incompetent"
   ],
   "eheliyan": [
@@ -19544,7 +19544,7 @@ const dictionary = {
     "stupid, simple"
   ],
   "eheliyanggv": [
-    "ᡝᡥᡝᠯᡳᠶᠠᠨᡤᡤᡡ",
+    "ᡝᡥᡝᠯᡳᠶᠠᠩᡤᡡ",
     "stupid, incompetent"
   ],
   "ehembi": [
@@ -19644,11 +19644,11 @@ const dictionary = {
     "the name of a star in the Milky Way"
   ],
   "eihumengge fukjingga hergen": [
-    "ᡝᡳᡥᡠᠮᡝᠨᡤᡤᡝ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡝᡳᡥᡠᠮᡝᠩᡤᡝ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "eihumengge uxiha": [
-    "ᡝᡳᡥᡠᠮᡝᠨᡤᡤᡝ ᡠᡧᡳᡥᠠ",
+    "ᡝᡳᡥᡠᠮᡝᠩᡤᡝ ᡠᡧᡳᡥᠠ",
     "see eihume usiha"
   ],
   "eihun": [
@@ -19804,7 +19804,7 @@ const dictionary = {
     "Second Class Secretary of a Board, 292"
   ],
   "ejekv i tinggin bh 2i1": [
-    "ᡝᠵᡝᡴᡡ ᡳ ᡨᡳᠨᡤᡤᡳᠨ ᠪᡥ 2ᡳ1",
+    "ᡝᠵᡝᡴᡡ ᡳ ᡨᡳᠩᡤᡳᠨ ᠪᡥ 2ᡳ1",
     "Chancery of the Censorate,"
   ],
   "ejelebumbi": [
@@ -19860,7 +19860,7 @@ const dictionary = {
     "office for the compilation of dynastic records"
   ],
   "ejetungge": [
-    "ᡝᠵᡝᡨᡠᠨᡤᡤᡝ",
+    "ᡝᠵᡝᡨᡠᠩᡤᡝ",
     "pertaining to records"
   ],
   "ejihe": [
@@ -19932,7 +19932,7 @@ const dictionary = {
     "caus. of ekiyembi"
   ],
   "ekiyembure dalangga": [
-    "ᡝᡴᡳᠶᡝᠮᠪᡠᡵᡝ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᡝᡴᡳᠶᡝᠮᠪᡠᡵᡝ ᡩᠠᠯᠠᠩᡤᠠ",
     "a dam used to regulate the flow of water in a river"
   ],
   "ekiyen": [
@@ -19948,7 +19948,7 @@ const dictionary = {
     "a false friend, a dangerous friend"
   ],
   "ekiyendere jalin i menggun": [
-    "ᡝᡴᡳᠶᡝᠨᡩᡝᡵᡝ ᠵᠠᠯᡳᠨ ᡳ ᠮᡝᠨᡤᡤᡠᠨ",
+    "ᡝᡴᡳᠶᡝᠨᡩᡝᡵᡝ ᠵᠠᠯᡳᠨ ᡳ ᠮᡝᠩᡤᡠᠨ",
     "meltage fee"
   ],
   "ekiyeniyebumbi": [
@@ -19960,7 +19960,7 @@ const dictionary = {
     "to lessen, to diminish"
   ],
   "ekiyeniyere nonggire cese": [
-    "ᡝᡴᡳᠶᡝᠨᡳᠶᡝᡵᡝ ᠨᠣᠨᡤᡤᡳᡵᡝ ᠴᡝᠰᡝ",
+    "ᡝᡴᡳᠶᡝᠨᡳᠶᡝᡵᡝ ᠨᠣᠩᡤᡳᡵᡝ ᠴᡝᠰᡝ",
     "population register"
   ],
   "ekxembi": [
@@ -20044,7 +20044,7 @@ const dictionary = {
     "raccoon-dog (Nyctereutes procyonoides)"
   ],
   "elbihengge": [
-    "ᡝᠯᠪᡳᡥᡝᠨᡤᡤᡝ",
+    "ᡝᠯᠪᡳᡥᡝᠩᡤᡝ",
     "pertaining to the raccoondog"
   ],
   "elbimbi": [
@@ -20096,7 +20096,7 @@ const dictionary = {
     "caus. of eldembi 2. to glorify, to extol"
   ],
   "eldembume enggelenembi": [
-    "ᡝᠯᡩᡝᠮᠪᡠᠮᡝ ᡝᠨᡤᡤᡝᠯᡝᠨᡝᠮᠪᡳ",
+    "ᡝᠯᡩᡝᠮᠪᡠᠮᡝ ᡝᠩᡤᡝᠯᡝᠨᡝᠮᠪᡳ",
     "to go to, to visit (honorific)"
   ],
   "elden": [
@@ -20108,19 +20108,19 @@ const dictionary = {
     "to go to shine, to shine there"
   ],
   "eldengge": [
-    "ᡝᠯᡩᡝᠨᡤᡤᡝ",
+    "ᡝᠯᡩᡝᠩᡤᡝ",
     "shining, glowing, resplendent, glorious"
   ],
   "eldengge ambalinggv": [
-    "ᡝᠯᡩᡝᠨᡤᡤᡝ ᠠᠮᠪᠠᠯᡳᠨᡤᡤᡡ",
+    "ᡝᠯᡩᡝᠩᡤᡝ ᠠᠮᠪᠠᠯᡳᠩᡤᡡ",
     "glorious and grand"
   ],
   "eldengge saracan usiha": [
-    "ᡝᠯᡩᡝᠨᡤᡤᡝ ᠰᠠᡵᠠᠴᠠᠨ ᡠᠰᡳᡥᠠ",
+    "ᡝᠯᡩᡝᠩᡤᡝ ᠰᠠᡵᠠᠴᠠᠨ ᡠᠰᡳᡥᠠ",
     "the name of a constellation"
   ],
   "eldengge wehe": [
-    "ᡝᠯᡩᡝᠨᡤᡤᡝ ᠸᡝᡥᡝ",
+    "ᡝᠯᡩᡝᠩᡤᡝ ᠸᡝᡥᡝ",
     "a (funerary) inscription, stele"
   ],
   "eldenjimbi": [
@@ -20196,7 +20196,7 @@ const dictionary = {
     "almost, hardly"
   ],
   "elemangga i.": [
-    "ᡝᠯᡝᠮᠠᠨᡤᡤᠠ ᡳ᠉",
+    "ᡝᠯᡝᠮᠠᠩᡤᠠ ᡳ᠉",
     "on the other hand, on the contrary, in spite of that 2. still more, especially"
   ],
   "elembi": [
@@ -20232,11 +20232,11 @@ const dictionary = {
     "matched in strength, evenly matched"
   ],
   "elengge": [
-    "ᡝᠯᡝᠨᡤᡤᡝ",
+    "ᡝᠯᡝᠩᡤᡝ",
     "everything"
   ],
   "elenggi": [
-    "ᡝᠯᡝᠨᡤᡤᡳ",
+    "ᡝᠯᡝᠩᡤᡳ",
     "slovenly, lazy (of women)"
   ],
   "elerembi i.": [
@@ -20288,7 +20288,7 @@ const dictionary = {
     "a granary in the city of Peking"
   ],
   "elgiyen jalungga calu": [
-    "ᡝᠯᡤᡳᠶᡝᠨ ᠵᠠᠯᡠᠨᡤᡤᠠ ᠴᠠᠯᡠ",
+    "ᡝᠯᡤᡳᠶᡝᠨ ᠵᠠᠯᡠᠩᡤᠠ ᠴᠠᠯᡠ",
     "a granary located in Chihli"
   ],
   "elgiyen tesuhe namun": [
@@ -20304,11 +20304,11 @@ const dictionary = {
     "a granary just outside Peking"
   ],
   "elgiyen tusangga calu": [
-    "ᡝᠯᡤᡳᠶᡝᠨ ᡨᡠᠰᠠᠨᡤᡤᠠ ᠴᠠᠯᡠ",
+    "ᡝᠯᡤᡳᠶᡝᠨ ᡨᡠᠰᠠᠩᡤᠠ ᠴᠠᠯᡠ",
     "a granary by An-ho bridge"
   ],
   "elgiyengge": [
-    "ᡝᠯᡤᡳᠶᡝᠨᡤᡤᡝ",
+    "ᡝᠯᡤᡳᠶᡝᠩᡤᡝ",
     "richly endowed, lavish"
   ],
   "elhe i.": [
@@ -20360,7 +20360,7 @@ const dictionary = {
     "contraction of elhe akū"
   ],
   "elhengge": [
-    "ᡝᠯᡥᡝᠨᡤᡤᡝ",
+    "ᡝᠯᡥᡝᠩᡤᡝ",
     "peaceful, pacific"
   ],
   "elheo": [
@@ -20492,7 +20492,7 @@ const dictionary = {
     "some people"
   ],
   "ememungge": [
-    "ᡝᠮᡝᠮᡠᠨᡤᡤᡝ",
+    "ᡝᠮᡝᠮᡠᠩᡤᡝ",
     "some (as substantive)"
   ],
   "emete": [
@@ -20580,7 +20580,7 @@ const dictionary = {
     "alone, sole, single"
   ],
   "emtenggeri": [
-    "ᡝᠮᡨᡝᠨᡤᡤᡝᡵᡳ",
+    "ᡝᠮᡨᡝᠩᡤᡝᡵᡳ",
     "once each"
   ],
   "emtun": [
@@ -20588,7 +20588,7 @@ const dictionary = {
     "see amtun"
   ],
   "emtungge jodon": [
-    "ᡝᠮᡨᡠᠨᡤᡤᡝ ᠵᠣᡩᠣᠨ",
+    "ᡝᠮᡨᡠᠩᡤᡝ ᠵᠣᡩᠣᠨ",
     "plain hemp cloth, sackcloth"
   ],
   "emu": [
@@ -20692,7 +20692,7 @@ const dictionary = {
     "one man's measure (thirty mu)"
   ],
   "emu hungken jiha": [
-    "ᡝᠮᡠ ᡥᡠᠨᡤᡴᡝᠨ ᠵᡳᡥᠠ",
+    "ᡝᠮᡠ ᡥᡠᠩᡴᡝᠨ ᠵᡳᡥᠠ",
     "5662 strings of cash and 369 pieces"
   ],
   "emu hvfan": [
@@ -20700,7 +20700,7 @@ const dictionary = {
     "a joint business venture, partnership"
   ],
   "emu i ginggulere ordo": [
-    "ᡝᠮᡠ ᡳ ᡤᡳᠨᡤᡤᡠᠯᡝᡵᡝ ᠣᡵᡩᠣ",
+    "ᡝᠮᡠ ᡳ ᡤᡳᠩᡤᡠᠯᡝᡵᡝ ᠣᡵᡩᠣ",
     "a pavilion housing inscribed stone tablets"
   ],
   "emu i hafure": [
@@ -20852,7 +20852,7 @@ const dictionary = {
     "inadept, not talented"
   ],
   "encehengge": [
-    "ᡝᠨᠴᡝᡥᡝᠨᡤᡤᡝ",
+    "ᡝᠨᠴᡝᡥᡝᠩᡤᡝ",
     "a capable person, an adept one"
   ],
   "encehexembi": [
@@ -20892,7 +20892,7 @@ const dictionary = {
     "extraordinarily"
   ],
   "encu inenggi": [
-    "ᡝᠨᠴᡠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡝᠨᠴᡠ ᡳᠨᡝᠩᡤᡳ",
     "another day"
   ],
   "encu tembi": [
@@ -20920,7 +20920,7 @@ const dictionary = {
     "see encembi"
   ],
   "encungge": [
-    "ᡝᠨᠴᡠᠨᡤᡤᡝ",
+    "ᡝᠨᠴᡠᠩᡤᡝ",
     "that which is different"
   ],
   "endebukv": [
@@ -20928,7 +20928,7 @@ const dictionary = {
     "error, mistake"
   ],
   "endebuku be mishalara tinggin": [
-    "ᡝᠨᡩᡝᠪᡠᡴᡠ ᠪᡝ ᠮᡳᠰᡥᠠᠯᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᡝᠨᡩᡝᠪᡠᡴᡠ ᠪᡝ ᠮᡳᠰᡥᠠᠯᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ",
     "the name of a section of the Imperial Academy"
   ],
   "endebukv ufaracun": [
@@ -20968,7 +20968,7 @@ const dictionary = {
     "spirit, god, deity"
   ],
   "enduri cecikengge loho": [
-    "ᡝᠨᡩᡠᡵᡳ ᠴᡝᠴᡳᡴᡝᠨᡤᡤᡝ ᠯᠣᡥᠣ",
+    "ᡝᠨᡩᡠᡵᡳ ᠴᡝᠴᡳᡴᡝᠩᡤᡝ ᠯᠣᡥᠣ",
     "a sword with the image of a divine bird on its blade"
   ],
   "enduri girdan": [
@@ -21004,19 +21004,19 @@ const dictionary = {
     "a Taoist immortal"
   ],
   "enduringge": [
-    "ᡝᠨᡩᡠᡵᡳᠨᡤᡤᡝ",
+    "ᡝᠨᡩᡠᡵᡳᠩᡤᡝ",
     "divine, holy, sacred"
   ],
   "enduringge ejen": [
-    "ᡝᠨᡩᡠᡵᡳᠨᡤᡤᡝ ᡝᠵᡝᠨ",
+    "ᡝᠨᡩᡠᡵᡳᠩᡤᡝ ᡝᠵᡝᠨ",
     "the divine lord-the emperor"
   ],
   "enduringge erdemu ambula selgiyere mudan": [
-    "ᡝᠨᡩᡠᡵᡳᠨᡤᡤᡝ ᡝᡵᡩᡝᠮᡠ ᠠᠮᠪᡠᠯᠠ ᠰᡝᠯᡤᡳᠶᡝᡵᡝ ᠮᡠᡩᠠᠨ",
+    "ᡝᠨᡩᡠᡵᡳᠩᡤᡝ ᡝᡵᡩᡝᠮᡠ ᠠᠮᠪᡠᠯᠠ ᠰᡝᠯᡤᡳᠶᡝᡵᡝ ᠮᡠᡩᠠᠨ",
     "a musical piece played at banquets given in honor of meri-"
   ],
   "enduringge niyalma": [
-    "ᡝᠨᡩᡠᡵᡳᠨᡤᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᡝᠨᡩᡠᡵᡳᠩᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ",
     "a holy man, a sage, a saint"
   ],
   "enen": [
@@ -21024,11 +21024,11 @@ const dictionary = {
     "descendants, progeny"
   ],
   "enenggi": [
-    "ᡝᠨᡝᠨᡤᡤᡳ",
+    "ᡝᠨᡝᠩᡤᡳ",
     "today"
   ],
   "enenggi cimari": [
-    "ᡝᠨᡝᠨᡤᡤᡳ ᠴᡳᠮᠠᡵᡳ",
+    "ᡝᠨᡝᠩᡤᡳ ᠴᡳᠮᠠᡵᡳ",
     "this morning"
   ],
   "enese": [
@@ -21052,111 +21052,111 @@ const dictionary = {
     "India, the valley of the Ganges, Indian, Sanskrit"
   ],
   "enetkek hergengge loho": [
-    "ᡝᠨᡝᡨᡴᡝᡴ ᡥᡝᡵᡤᡝᠨᡤᡤᡝ ᠯᠣᡥᠣ",
+    "ᡝᠨᡝᡨᡴᡝᡴ ᡥᡝᡵᡤᡝᠩᡤᡝ ᠯᠣᡥᠣ",
     "a sword with Šanskrit written on the blade"
   ],
   "eng i.": [
-    "ᡝᠨᡤ ᡳ᠉",
+    "ᡝᠩ ᡳ᠉",
     "interjection of pain 2. interjection of disapproval"
   ],
   "eng seme": [
-    "ᡝᠨᡤ ᠰᡝᠮᡝ",
+    "ᡝᠩ ᠰᡝᠮᡝ",
     "drawling (an answer), groaning"
   ],
   "engge": [
-    "ᡝᠨᡤᡤᡝ",
+    "ᡝᠩᡤᡝ",
     "a bird's beak"
   ],
   "engge fulgiyan itu": [
-    "ᡝᠨᡤᡤᡝ ᡶᡠᠯᡤᡳᠶᠠᠨ ᡳᡨᡠ",
+    "ᡝᠩᡤᡝ ᡶᡠᠯᡤᡳᠶᠠᠨ ᡳᡨᡠ",
     "Chinese Chukar partridge (Alectoris graeca)"
   ],
   "enggeci": [
-    "ᡝᠨᡤᡤᡝᠴᡳ",
+    "ᡝᠩᡤᡝᠴᡳ",
     "see enggici"
   ],
   "enggelcembi": [
-    "ᡝᠨᡤᡤᡝᠯᠴᡝᠮᠪᡳ",
+    "ᡝᠩᡤᡝᠯᠴᡝᠮᠪᡳ",
     "to act in an excessive way"
   ],
   "enggele senggele akv": [
-    "ᡝᠨᡤᡤᡝᠯᡝ ᠰᡝᠨᡤᡤᡝᠯᡝ ᠠᡴᡡ",
+    "ᡝᠩᡤᡝᠯᡝ ᠰᡝᠩᡤᡝᠯᡝ ᠠᡴᡡ",
     "unaffectionate, indifferent (to relatives or friends)"
   ],
   "enggelebumbi": [
-    "ᡝᠨᡤᡤᡝᠯᡝᠪᡠᠮᠪᡳ",
+    "ᡝᠩᡤᡝᠯᡝᠪᡠᠮᠪᡳ",
     "caus. of enggelembi"
   ],
   "enggelekv": [
-    "ᡝᠨᡤᡤᡝᠯᡝᡴᡡ",
+    "ᡝᠩᡤᡝᠯᡝᡴᡡ",
     "a ledge or projection on a cliff"
   ],
   "enggelembi i.": [
-    "ᡝᠨᡤᡤᡝᠯᡝᠮᠪᡳ ᡳ᠉",
+    "ᡝᠩᡤᡝᠯᡝᠮᠪᡳ ᡳ᠉",
     "to jut out, to project 2. to rise (of prices) 3. to lean forward (to look) 4. to border on, to overlook, to command a view of"
   ],
   "enggeleme tuwambi": [
-    "ᡝᠨᡤᡤᡝᠯᡝᠮᡝ ᡨᡠᠸᠠᠮᠪᡳ",
+    "ᡝᠩᡤᡝᠯᡝᠮᡝ ᡨᡠᠸᠠᠮᠪᡳ",
     "to lean out to look"
   ],
   "enggelenembi": [
-    "ᡝᠨᡤᡤᡝᠯᡝᠨᡝᠮᠪᡳ",
+    "ᡝᠩᡤᡝᠯᡝᠨᡝᠮᠪᡳ",
     "to go to watch, to approach, to pay a visit (honorific), to go (honorific)"
   ],
   "enggelenjimbi": [
-    "ᡝᠨᡤᡤᡝᠯᡝᠨᠵᡳᠮᠪᡳ",
+    "ᡝᠩᡤᡝᠯᡝᠨᠵᡳᠮᠪᡳ",
     "to come near, to come to pay a visit (honorific), to come (honorific)"
   ],
   "enggelenjire be yarure girdan": [
-    "ᡝᠨᡤᡤᡝᠯᡝᠨᠵᡳᡵᡝ ᠪᡝ ᠶᠠᡵᡠᡵᡝ ᡤᡳᡵᡩᠠᠨ",
+    "ᡝᠩᡤᡝᠯᡝᠨᠵᡳᡵᡝ ᠪᡝ ᠶᠠᡵᡠᡵᡝ ᡤᡳᡵᡩᠠᠨ",
     "a banner used by the imperial escort"
   ],
   "enggeleshun": [
-    "ᡝᠨᡤᡤᡝᠯᡝᠰᡥᡠᠨ",
+    "ᡝᠩᡤᡝᠯᡝᠰᡥᡠᠨ",
     "projecting outward"
   ],
   "enggeljembi": [
-    "ᡝᠨᡤᡤᡝᠯᠵᡝᠮᠪᡳ",
+    "ᡝᠩᡤᡝᠯᠵᡝᠮᠪᡳ",
     "see enggelcembi"
   ],
   "enggemu": [
-    "ᡝᠨᡤᡤᡝᠮᡠ",
+    "ᡝᠩᡤᡝᠮᡠ",
     "saddle"
   ],
   "enggemu faksi": [
-    "ᡝᠨᡤᡤᡝᠮᡠ ᡶᠠᡴᠰᡳ",
+    "ᡝᠩᡤᡝᠮᡠ ᡶᠠᡴᠰᡳ",
     "a saddler"
   ],
   "enggemu gaimbi": [
-    "ᡝᠨᡤᡤᡝᠮᡠ ᡤᠠᡳᠮᠪᡳ",
+    "ᡝᠩᡤᡝᠮᡠ ᡤᠠᡳᠮᠪᡳ",
     "to unsaddle"
   ],
   "enggemu hvwaitambi": [
-    "ᡝᠨᡤᡤᡝᠮᡠ ᡥᡡᠸᠠᡳᡨᠠᠮᠪᡳ",
+    "ᡝᠩᡤᡝᠮᡠ ᡥᡡᠸᠠᡳᡨᠠᠮᠪᡳ",
     "to put on a saddle"
   ],
   "enggerhen": [
-    "ᡝᠨᡤᡤᡝᡵᡥᡝᠨ",
+    "ᡝᠩᡤᡝᡵᡥᡝᠨ",
     "a towering projection"
   ],
   "enggete moo": [
-    "ᡝᠨᡤᡤᡝᡨᡝ ᠮᠣᠣ",
+    "ᡝᠩᡤᡝᡨᡝ ᠮᠣᠣ",
     "an alder"
   ],
   "enggetu cecike": [
-    "ᡝᠨᡤᡤᡝᡨᡠ ᠴᡝᠴᡳᡴᡝ",
+    "ᡝᠩᡤᡝᡨᡠ ᠴᡝᠴᡳᡴᡝ",
     "brown bush warbler (Phylloscopus fuscatus)"
   ],
   "enggici": [
-    "ᡝᠨᡤᡤᡳᠴᡳ",
+    "ᡝᠩᡤᡳᠴᡳ",
     "secret, secretly, privately"
   ],
   "enggvle": [
-    "ᡝᠨᡤᡤᡡᠯᡝ",
+    "ᡝᠩᡤᡡᠯᡝ",
     "a type of onion that grows in sandy soil (Allium victorialis)"
   ],
   "engki congki": [
-    "ᡝᠨᡤᡴᡳ ᠴᠣᠨᡤᡴᡳ",
+    "ᡝᠩᡴᡳ ᠴᠣᠩᡴᡳ",
     "just enough"
   ],
   "enihen": [
@@ -21184,7 +21184,7 @@ const dictionary = {
     "see enihun"
   ],
   "eniyeingge": [
-    "ᡝᠨᡳᠶᡝᡳᠨᡤᡤᡝ",
+    "ᡝᠨᡳᠶᡝᡳᠩᡤᡝ",
     "pertaining to motherhood, maternal"
   ],
   "eniyen": [
@@ -21220,7 +21220,7 @@ const dictionary = {
     "a granary in Ilan Hala"
   ],
   "enteheme elgiyengge calu": [
-    "ᡝᠨᡨᡝᡥᡝᠮᡝ ᡝᠯᡤᡳᠶᡝᠨᡤᡤᡝ ᠴᠠᠯᡠ",
+    "ᡝᠨᡨᡝᡥᡝᠮᡝ ᡝᠯᡤᡳᠶᡝᠩᡤᡝ ᠴᠠᠯᡠ",
     "a granary in Shantung"
   ],
   "enteheme elhe calu": [
@@ -21228,7 +21228,7 @@ const dictionary = {
     "a granary in Kwangtung"
   ],
   "enteheme ginggun calu": [
-    "ᡝᠨᡨᡝᡥᡝᠮᡝ ᡤᡳᠨᡤᡤᡠᠨ ᠴᠠᠯᡠ",
+    "ᡝᠨᡨᡝᡥᡝᠮᡝ ᡤᡳᠩᡤᡠᠨ ᠴᠠᠯᡠ",
     "granaries in the provinces"
   ],
   "enteheme iktambure calu": [
@@ -21236,7 +21236,7 @@ const dictionary = {
     "a granary in Heilungkiang"
   ],
   "enteheme jalungga namun": [
-    "ᡝᠨᡨᡝᡥᡝᠮᡝ ᠵᠠᠯᡠᠨᡤᡤᠠ ᠨᠠᠮᡠᠨ",
+    "ᡝᠨᡨᡝᡥᡝᠮᡝ ᠵᠠᠯᡠᠩᡤᠠ ᠨᠠᠮᡠᠨ",
     "a silver depository in Kiangsu"
   ],
   "enteheme julge": [
@@ -21252,7 +21252,7 @@ const dictionary = {
     "the treasury of Tungling"
   ],
   "enteheme tusangga calu": [
-    "ᡝᠨᡨᡝᡥᡝᠮᡝ ᡨᡠᠰᠠᠨᡤᡤᠠ ᠴᠠᠯᡠ",
+    "ᡝᠨᡨᡝᡥᡝᠮᡝ ᡨᡠᠰᠠᠩᡤᠠ ᠴᠠᠯᡠ",
     "emergency granaries"
   ],
   "entehen": [
@@ -21272,7 +21272,7 @@ const dictionary = {
     "this sort of"
   ],
   "entekengge": [
-    "ᡝᠨᡨᡝᡴᡝᠨᡤᡤᡝ",
+    "ᡝᠨᡨᡝᡴᡝᠩᡤᡝ",
     "one like this"
   ],
   "eo": [
@@ -21284,7 +21284,7 @@ const dictionary = {
     "early, early in the morning"
   ],
   "erde baicara dangse": [
-    "ᡝᡵᡩᡝ ᠪᠠᡳᠴᠠᡵᠠ ᡩᠠᠨᡤᠰᡝ",
+    "ᡝᡵᡩᡝ ᠪᠠᡳᠴᠠᡵᠠ ᡩᠠᠩᠰᡝ",
     "yamen employee's attendance record"
   ],
   "erde buda": [
@@ -21324,7 +21324,7 @@ const dictionary = {
     "talent, capability"
   ],
   "erdemungge": [
-    "ᡝᡵᡩᡝᠮᡠᠨᡤᡤᡝ",
+    "ᡝᡵᡩᡝᠮᡠᠩᡤᡝ",
     "virtuous, talented, moral"
   ],
   "ere": [
@@ -21372,7 +21372,7 @@ const dictionary = {
     "of late, recently"
   ],
   "ere uju be tongki": [
-    "ᡝᡵᡝ ᡠᠵᡠ ᠪᡝ ᡨᠣᠨᡤᡴᡳ",
+    "ᡝᡵᡝ ᡠᠵᡠ ᠪᡝ ᡨᠣᠩᡴᡳ",
     "cut off this head!--an expression of abuse"
   ],
   "erebe ainambi": [
@@ -21412,7 +21412,7 @@ const dictionary = {
     "to hope constantly, to hope earnestly"
   ],
   "ereingge": [
-    "ᡝᡵᡝᡳᠨᡤᡤᡝ",
+    "ᡝᡵᡝᡳᠩᡤᡝ",
     "this person's"
   ],
   "erembi i.": [
@@ -21536,11 +21536,11 @@ const dictionary = {
     "to rest (of a group)"
   ],
   "ergengge": [
-    "ᡝᡵᡤᡝᠨᡤᡤᡝ",
+    "ᡝᡵᡤᡝᠩᡤᡝ",
     "living, living creature"
   ],
   "ergengge jaka": [
-    "ᡝᡵᡤᡝᠨᡤᡤᡝ ᠵᠠᡴᠠ",
+    "ᡝᡵᡤᡝᠩᡤᡝ ᠵᠠᡴᠠ",
     "living creature"
   ],
   "ergexembi": [
@@ -21552,7 +21552,7 @@ const dictionary = {
     "1. direction, side 2. this side"
   ],
   "ergingge": [
-    "ᡝᡵᡤᡳᠨᡤᡤᡝ",
+    "ᡝᡵᡤᡳᠩᡤᡝ",
     "pertaining to direction"
   ],
   "ergule": [
@@ -21580,7 +21580,7 @@ const dictionary = {
     "to go around, to circle around"
   ],
   "erguwere garunggv fukjingga hergen": [
-    "ᡝᡵᡤᡠᠸᡝᡵᡝ ᡤᠠᡵᡠᠨᡤᡤᡡ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡝᡵᡤᡠᠸᡝᡵᡝ ᡤᠠᡵᡠᠩᡤᡡ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "erguwen i.": [
@@ -21648,11 +21648,11 @@ const dictionary = {
     "at the right time, on time, from time to time"
   ],
   "erileme guwendere jungken": [
-    "ᡝᡵᡳᠯᡝᠮᡝ ᡤᡠᠸᡝᠨᡩᡝᡵᡝ ᠵᡠᠨᡤᡴᡝᠨ",
+    "ᡝᡵᡳᠯᡝᠮᡝ ᡤᡠᠸᡝᠨᡩᡝᡵᡝ ᠵᡠᠩᡴᡝᠨ",
     "a chiming clock"
   ],
   "erilere niongniyaha": [
-    "ᡝᡵᡳᠯᡝᡵᡝ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡝᡵᡳᠯᡝᡵᡝ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "one name for the wild goose; cf. bigan i nionaniyaha"
   ],
   "erimbi": [
@@ -21684,7 +21684,7 @@ const dictionary = {
     "punctually"
   ],
   "erin fonjire jungken": [
-    "ᡝᡵᡳᠨ ᡶᠣᠨᠵᡳᡵᡝ ᠵᡠᠨᡤᡴᡝᠨ",
+    "ᡝᡵᡳᠨ ᡶᠣᠨᠵᡳᡵᡝ ᠵᡠᠩᡴᡝᠨ",
     "alarm clock"
   ],
   "erin forgon": [
@@ -21700,11 +21700,11 @@ const dictionary = {
     "Compiler in the Calendar Section, 229"
   ],
   "erin forgon i ton i bithe kunggeri": [
-    "ᡝᡵᡳᠨ ᡶᠣᡵᡤᠣᠨ ᡳ ᡨᠣᠨ ᡳ ᠪᡳᡨᡥᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡝᡵᡳᠨ ᡶᠣᡵᡤᠣᠨ ᡳ ᡨᠣᠨ ᡳ ᠪᡳᡨᡥᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Board of Rites concerned with calendrical matters"
   ],
   "erin forgon i ton i bithe weilere tinggin": [
-    "ᡝᡵᡳᠨ ᡶᠣᡵᡤᠣᠨ ᡳ ᡨᠣᠨ ᡳ ᠪᡳᡨᡥᡝ ᠸᡝᡳᠯᡝᡵᡝ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᡝᡵᡳᠨ ᡶᠣᡵᡤᠣᠨ ᡳ ᡨᠣᠨ ᡳ ᠪᡳᡨᡥᡝ ᠸᡝᡳᠯᡝᡵᡝ ᡨᡳᠩᡤᡳᠨ",
     "a bureau concerned with the compilation of the calendar in the Imperial Board of Astronomy"
   ],
   "erin forgon i ton i hontoho bh": [
@@ -21752,15 +21752,15 @@ const dictionary = {
     "every time, on every occasion"
   ],
   "eringge": [
-    "ᡝᡵᡳᠨᡤᡤᡝ",
+    "ᡝᡵᡳᠩᡤᡝ",
     "pertaining to time"
   ],
   "eringge gasha": [
-    "ᡝᡵᡳᠨᡤᡤᡝ ᡤᠠᠰᡥᠠ",
+    "ᡝᡵᡳᠩᡤᡝ ᡤᠠᠰᡥᠠ",
     "one name for the chicken"
   ],
   "eringge niongniyaha": [
-    "ᡝᡵᡳᠨᡤᡤᡝ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡝᡵᡳᠩᡤᡝ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "one name for the wild goose; cf. bigan i niongniyaha"
   ],
   "eritun": [
@@ -21868,7 +21868,7 @@ const dictionary = {
     "an inscribed banner of the imperial escort"
   ],
   "erun be ginggulere fiyenten bh 8i": [
-    "ᡝᡵᡠᠨ ᠪᡝ ᡤᡳᠨᡤᡤᡠᠯᡝᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ 8ᡳ",
+    "ᡝᡵᡠᠨ ᠪᡝ ᡤᡳᠩᡤᡠᠯᡝᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ 8ᡳ",
     "Judicial Department (of the Imperial Household),"
   ],
   "erun koro": [
@@ -21900,7 +21900,7 @@ const dictionary = {
     "husband's younger brother--brother-in-law"
   ],
   "eseingge": [
-    "ᡝᠰᡝᡳᠨᡤᡤᡝ",
+    "ᡝᠰᡝᡳᠩᡤᡝ",
     "these people's"
   ],
   "eshen": [
@@ -21928,7 +21928,7 @@ const dictionary = {
     "same as eshun ceceri"
   ],
   "eshun lingse": [
-    "ᡝᠰᡥᡠᠨ ᠯᡳᠨᡤᠰᡝ",
+    "ᡝᠰᡥᡠᠨ ᠯᡳᠩᠰᡝ",
     "fine-figured raw silk"
   ],
   "exhun sele": [
@@ -21964,7 +21964,7 @@ const dictionary = {
     "scale (of a fish)"
   ],
   "esihengge": [
-    "ᡝᠰᡳᡥᡝᠨᡤᡤᡝ",
+    "ᡝᠰᡳᡥᡝᠩᡤᡝ",
     "scaled, having scales"
   ],
   "esike": [
@@ -21980,7 +21980,7 @@ const dictionary = {
     "to scream, to screech, to shout, to rail at, to reprove, to bawl out"
   ],
   "esunggiyembi": [
-    "ᡝᠰᡠᠨᡤᡤᡳᠶᡝᠮᠪᡳ",
+    "ᡝᠰᡠᠩᡤᡳᠶᡝᠮᠪᡳ",
     "to shout, to yell (angrily)"
   ],
   "exebumbi": [
@@ -22008,19 +22008,19 @@ const dictionary = {
     "a side hall in the palace"
   ],
   "exengge": [
-    "ᡝᡧᡝᠨᡤᡤᡝ",
+    "ᡝᡧᡝᠩᡤᡝ",
     "slanting, oblique, diagonal"
   ],
   "exengge fu": [
-    "ᡝᡧᡝᠨᡤᡤᡝ ᡶᡠ",
+    "ᡝᡧᡝᠩᡤᡝ ᡶᡠ",
     "a diagonal wall"
   ],
   "exengge moo": [
-    "ᡝᡧᡝᠨᡤᡤᡝ ᠮᠣᠣ",
+    "ᡝᡧᡝᠩᡤᡝ ᠮᠣᠣ",
     "diagonal planking outboard of a ship"
   ],
   "exengge mudan": [
-    "ᡝᡧᡝᠨᡤᡤᡝ ᠮᡠᡩᠠᠨ",
+    "ᡝᡧᡝᠩᡤᡝ ᠮᡠᡩᠠᠨ",
     "oblique tones"
   ],
   "exenju boo": [
@@ -22060,15 +22060,15 @@ const dictionary = {
     "force, resistance"
   ],
   "etenggi": [
-    "ᡝᡨᡝᠨᡤᡤᡳ",
+    "ᡝᡨᡝᠩᡤᡳ",
     "hardy, strong, powerful"
   ],
   "etenggilebumbi": [
-    "ᡝᡨᡝᠨᡤᡤᡳᠯᡝᠪᡠᠮᠪᡳ",
+    "ᡝᡨᡝᠩᡤᡳᠯᡝᠪᡠᠮᠪᡳ",
     "caus. of etenggilembi"
   ],
   "etenggilembi": [
-    "ᡝᡨᡝᠨᡤᡤᡳᠯᡝᠮᠪᡳ",
+    "ᡝᡨᡝᠩᡤᡳᠯᡝᠮᠪᡳ",
     "to use force, to resort to force"
   ],
   "eteri ilha": [
@@ -22124,7 +22124,7 @@ const dictionary = {
     "a dressing mirror"
   ],
   "etukungge": [
-    "ᡝᡨᡠᡴᡠᠨᡤᡤᡝ",
+    "ᡝᡨᡠᡴᡠᠩᡤᡝ",
     "pertaining to clothing"
   ],
   "etumbi": [
@@ -22216,7 +22216,7 @@ const dictionary = {
     "elder sister 2. elder (of girls)"
   ],
   "eyungge": [
-    "ᡝᠶᡠᠨᡤᡤᡝ",
+    "ᡝᠶᡠᠩᡤᡝ",
     "elder (of girls)"
   ],
   "eyute": [
@@ -22312,7 +22312,7 @@ const dictionary = {
     "Assistant Major-domo of a Prince's Palace, 46"
   ],
   "faidan i janggin": [
-    "ᡶᠠᡳᡩᠠᠨ ᡳ ᠵᠠᠨᡤᡤᡳᠨ",
+    "ᡶᠠᡳᡩᠠᠨ ᡳ ᠵᠠᠩᡤᡳᠨ",
     "general term for officials in the Imperial Equipage Department"
   ],
   "faidan i kiyoo": [
@@ -22328,7 +22328,7 @@ const dictionary = {
     "a carriage used by the empress"
   ],
   "faidan i tungken": [
-    "ᡶᠠᡳᡩᠠᠨ ᡳ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᡶᠠᡳᡩᠠᠨ ᡳ ᡨᡠᠩᡴᡝᠨ",
     "a large drum used by the imperial escort"
   ],
   "faidan i yamun bh i09": [
@@ -22340,11 +22340,11 @@ const dictionary = {
     "to line up (of a group)"
   ],
   "faidangga": [
-    "ᡶᠠᡳᡩᠠᠨᡤᡤᠠ",
+    "ᡶᠠᡳᡩᠠᠩᡤᠠ",
     "ordered, ranked"
   ],
   "faidangga dengjan": [
-    "ᡶᠠᡳᡩᠠᠨᡤᡤᠠ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡶᠠᡳᡩᠠᠩᡤᠠ ᡩᡝᠩᠵᠠᠨ",
     "a pair of lamps placed on the altar at state sacrifices"
   ],
   "faidasi bh 382b": [
@@ -22444,7 +22444,7 @@ const dictionary = {
     "to roll dung into balls"
   ],
   "fajan onggombi": [
-    "ᡶᠠᠵᠠᠨ ᠣᠨᡤᡤᠣᠮᠪᡳ",
+    "ᡶᠠᠵᠠᠨ ᠣᠩᡤᠣᠮᠪᡳ",
     "to become constipated (of animals)"
   ],
   "fajiran": [
@@ -22524,7 +22524,7 @@ const dictionary = {
     "splitting, separation"
   ],
   "fakcangga": [
-    "ᡶᠠᡴᠴᠠᠨᡤᡤᠠ",
+    "ᡶᠠᡴᠴᠠᠩᡤᠠ",
     "distinct, separated"
   ],
   "fakcashvn": [
@@ -22532,7 +22532,7 @@ const dictionary = {
     "estranged, alienated"
   ],
   "fakdangga cecike": [
-    "ᡶᠠᡴᡩᠠᠨᡤᡤᠠ ᠴᡝᠴᡳᡴᡝ",
+    "ᡶᠠᡴᡩᠠᠩᡤᠠ ᠴᡝᠴᡳᡴᡝ",
     "one name for the myna; cf. kūbulin ilenggu cecike, guwendehen"
   ],
   "fakiri gasha": [
@@ -22620,7 +22620,7 @@ const dictionary = {
     "to handle cleverly"
   ],
   "faksingga": [
-    "ᡶᠠᡴᠰᡳᠨᡤᡤᠠ",
+    "ᡶᠠᡴᠰᡳᠩᡤᠠ",
     "endowed with skill, skillful"
   ],
   "faksixa": [
@@ -22628,7 +22628,7 @@ const dictionary = {
     "plural of faksi"
   ],
   "faksisai kunggeri": [
-    "ᡶᠠᡴᠰᡳᠰᠠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡶᠠᡴᠰᡳᠰᠠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Board of Works concerned with artisans"
   ],
   "fakv": [
@@ -22664,35 +22664,35 @@ const dictionary = {
     "to offer bread on the threshing floor after the autumn harvest"
   ],
   "falangga": [
-    "ᡶᠠᠯᠠᠨᡤᡤᠠ",
+    "ᡶᠠᠯᠠᠩᡤᠠ",
     "pertaining to the floor or earth"
   ],
   "falangga dengjan": [
-    "ᡶᠠᠯᠠᠨᡤᡤᠠ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡶᠠᠯᠠᠩᡤᠠ ᡩᡝᠩᠵᠠᠨ",
     "a lantern hung on a pole that is stuck in the earth"
   ],
   "falangga nahan": [
-    "ᡶᠠᠯᠠᠨᡤᡤᠠ ᠨᠠᡥᠠᠨ",
+    "ᡶᠠᠯᠠᠩᡤᠠ ᠨᠠᡥᠠᠨ",
     "an earthen floor with a passage under it through which hot air from an outside fire passes--a type of central heating"
   ],
   "falanggv": [
-    "ᡶᠠᠯᠠᠨᡤᡤᡡ",
+    "ᡶᠠᠯᠠᠩᡤᡡ",
     "the palm of the hand"
   ],
   "falanggv dumbi": [
-    "ᡶᠠᠯᠠᠨᡤᡤᡡ ᡩᡠᠮᠪᡳ",
+    "ᡶᠠᠯᠠᠩᡤᡡ ᡩᡠᠮᠪᡳ",
     "to clap the hands"
   ],
   "falanggv faifan": [
-    "ᡶᠠᠯᠠᠨᡤᡤᡡ ᡶᠠᡳᡶᠠᠨ",
+    "ᡶᠠᠯᠠᠩᡤᡡ ᡶᠠᡳᡶᠠᠨ",
     "applause"
   ],
   "falanggv forimbi": [
-    "ᡶᠠᠯᠠᠨᡤᡤᡡ ᡶᠣᡵᡳᠮᠪᡳ",
+    "ᡶᠠᠯᠠᠩᡤᡡ ᡶᠣᡵᡳᠮᠪᡳ",
     "to clap the hands"
   ],
   "falanggv usiha": [
-    "ᡶᠠᠯᠠᠨᡤᡤᡡ ᡠᠰᡳᡥᠠ",
+    "ᡶᠠᠯᠠᠩᡤᡡ ᡠᠰᡳᡥᠠ",
     "a sweet fruit in the shape of a man's palm that comes from Yunnan"
   ],
   "falasu": [
@@ -22708,7 +22708,7 @@ const dictionary = {
     "in clumps, in groves, in gusts"
   ],
   "falgangga i. bh": [
-    "ᡶᠠᠯᡤᠠᠨᡤᡤᠠ ᡳ᠉ ᠪᡥ",
+    "ᡶᠠᠯᡤᠠᠩᡤᠠ ᡳ᠉ ᠪᡥ",
     "office, subsection 2.Second Class Transport Station (on the Grand Canal) , 834"
   ],
   "falgari": [
@@ -22748,7 +22748,7 @@ const dictionary = {
     "to be bound to one another"
   ],
   "falingga": [
-    "ᡶᠠᠯᡳᠨᡤᡤᠠ",
+    "ᡶᠠᠯᡳᠩᡤᠠ",
     "having connection, connected, bound"
   ],
   "falintambi": [
@@ -22832,87 +22832,87 @@ const dictionary = {
     "foreigner, (western) barbarian 2. see fanse"
   ],
   "fang": [
-    "ᡶᠠᠨᡤ",
+    "ᡶᠠᠩ",
     "square (as in 'square feet')"
   ],
   "fang jang": [
-    "ᡶᠠᠨᡤ ᠵᠠᠨᡤ",
+    "ᡶᠠᠩ ᠵᠠᠩ",
     "Buddhist abbot"
   ],
   "fang seme": [
-    "ᡶᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡶᠠᠩ ᠰᡝᠮᡝ",
     "solidly, immovably"
   ],
   "fangd": [
-    "ᡶᠠᠨᡤᡩ",
+    "ᡶᠠᠩᡩ",
     "prescription, recipe"
   ],
   "fangga": [
-    "ᡶᠠᠨᡤᡤᠠ",
+    "ᡶᠠᠩᡤᠠ",
     "magic, possessed of magic powers"
   ],
   "fangga bithe": [
-    "ᡶᠠᠨᡤᡤᠠ ᠪᡳᡨᡥᡝ",
+    "ᡶᠠᠩᡤᠠ ᠪᡳᡨᡥᡝ",
     "amulet, fetish, charm"
   ],
   "fangga niyalma": [
-    "ᡶᠠᠨᡤᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᡶᠠᠩᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
     "magician"
   ],
   "fangkabumbi i.": [
-    "ᡶᠠᠨᡤᡴᠠᠪᡠᠮᠪᡳ ᡳ᠉",
+    "ᡶᠠᠩᡴᠠᠪᡠᠮᠪᡳ ᡳ᠉",
     "caus. of fangkambi 2. to repay a debt with an object of equivalent value, to make restitution, to compensate for"
   ],
   "fangkaku": [
-    "ᡶᠠᠨᡤᡴᠠᡴᡠ",
+    "ᡶᠠᠩᡴᠠᡴᡠ",
     "an earth packer--usually a large flat stone"
   ],
   "fangkala": [
-    "ᡶᠠᠨᡤᡴᠠᠯᠠ",
+    "ᡶᠠᠩᡴᠠᠯᠠ",
     "low, short"
   ],
   "fangkambi": [
-    "ᡶᠠᠨᡤᡴᠠᠮᠪᡳ",
+    "ᡶᠠᠩᡴᠠᠮᠪᡳ",
     "to throw down, to drive, to beat"
   ],
   "fangkame tembi": [
-    "ᡶᠠᠨᡤᡴᠠᠮᡝ ᡨᡝᠮᠪᡳ",
+    "ᡶᠠᠩᡴᠠᠮᡝ ᡨᡝᠮᠪᡳ",
     "to sit in a rigid, unnatural manner"
   ],
   "fangnai": [
-    "ᡶᠠᠨᡤᠨᠠᡳ",
+    "ᡶᠠᠩᠨᠠᡳ",
     "sure, firm, determined, resolute, stubborn"
   ],
   "fangnai ojorakv": [
-    "ᡶᠠᠨᡤᠨᠠᡳ ᠣᠵᠣᡵᠠᡴᡡ",
+    "ᡶᠠᠩᠨᠠᡳ ᠣᠵᠣᡵᠠᡴᡡ",
     "unsure, irresolute"
   ],
   "fangnambi": [
-    "ᡶᠠᠨᡤᠨᠠᠮᠪᡳ",
+    "ᡶᠠᠩᠨᠠᠮᠪᡳ",
     "to deny, to go back on what one has said"
   ],
   "fangname laidambi": [
-    "ᡶᠠᠨᡤᠨᠠᠮᡝ ᠯᠠᡳᡩᠠᠮᠪᡳ",
+    "ᡶᠠᠩᠨᠠᠮᡝ ᠯᠠᡳᡩᠠᠮᠪᡳ",
     "to deny what one has said"
   ],
   "fangse i.": [
-    "ᡶᠠᠨᡤᠰᡝ ᡳ᠉",
+    "ᡶᠠᠩᠰᡝ ᡳ᠉",
     "pongee, a light raw silk; cf. sirgeri 2. banner"
   ],
   "fangsikv": [
-    "ᡶᠠᠨᡤᠰᡳᡴᡡ",
+    "ᡶᠠᠩᠰᡳᡴᡡ",
     "racks on both sides of a stove used for drying noodles"
   ],
   "fangxakv": [
-    "ᡶᠠᠨᡤᡧᠠᡴᡡ",
+    "ᡶᠠᠩᡧᠠᡴᡡ",
     "a device used for smoking fox, rabbits, badgers, etc. from their holes"
   ],
   "fangxambi": [
-    "ᡶᠠᠨᡤᡧᠠᠮᠪᡳ",
+    "ᡶᠠᠩᡧᠠᠮᠪᡳ",
     "1. to smoke (v.t.), to fumigate, to smoke out 2. to deny, to lie"
   ],
   "fangxangga tubi": [
-    "ᡶᠠᠨᡤᡧᠠᠨᡤᡤᠠ ᡨᡠᠪᡳ",
+    "ᡶᠠᠩᡧᠠᠩᡤᠠ ᡨᡠᠪᡳ",
     "a smoking rack for meat and fish"
   ],
   "fanihiyan": [
@@ -22952,19 +22952,19 @@ const dictionary = {
     "caus. of farambi"
   ],
   "farang seme": [
-    "ᡶᠠᡵᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡶᠠᡵᠠᠩ ᠰᡝᠮᡝ",
     "solidly, immovably"
   ],
   "farangga": [
-    "ᡶᠠᡵᠠᠨᡤᡤᠠ",
+    "ᡶᠠᡵᠠᠩᡤᠠ",
     "having shafts"
   ],
   "farangga duka": [
-    "ᡶᠠᡵᠠᠨᡤᡤᠠ ᡩᡠᡴᠠ",
+    "ᡶᠠᡵᠠᠩᡤᠠ ᡩᡠᡴᠠ",
     "the outer door of an official office"
   ],
   "farangga dukai takvrsi": [
-    "ᡶᠠᡵᠠᠨᡤᡤᠠ ᡩᡠᡴᠠᡳ ᡨᠠᡴᡡᡵᠰᡳ",
+    "ᡶᠠᡵᠠᠩᡤᠠ ᡩᡠᡴᠠᡳ ᡨᠠᡴᡡᡵᠰᡳ",
     "bailiff of the outer door"
   ],
   "farfabumbi": [
@@ -23028,7 +23028,7 @@ const dictionary = {
     "1. to become dark 2. to be upset, to be worried"
   ],
   "faringgiyambi": [
-    "ᡶᠠᡵᡳᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡶᠠᡵᡳᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to cut with a sickle and lay out to dry"
   ],
   "farsa i.": [
@@ -23036,7 +23036,7 @@ const dictionary = {
     "mint 2. a very small freshwater fish of little value"
   ],
   "farsa giranggi": [
-    "ᡶᠠᡵᠰᠠ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡶᠠᡵᠰᠠ ᡤᡳᡵᠠᠩᡤᡳ",
     "lower bones of the rib cage, asternal or floating ribs"
   ],
   "farsi i.": [
@@ -23136,7 +23136,7 @@ const dictionary = {
     "a road with a threeway forking"
   ],
   "fasilangga": [
-    "ᡶᠠᠰᡳᠯᠠᠨᡤᡤᠠ",
+    "ᡶᠠᠰᡳᠯᠠᠩᡤᠠ",
     "forked"
   ],
   "faximbi i.": [
@@ -23168,7 +23168,7 @@ const dictionary = {
     "to exert effort together"
   ],
   "faxxangga": [
-    "ᡶᠠᡧᡧᠠᠨᡤᡤᠠ",
+    "ᡶᠠᡧᡧᠠᠩᡤᠠ",
     "expending effort, meritorious"
   ],
   "faxu": [
@@ -23256,23 +23256,23 @@ const dictionary = {
     "to spend, to squander, to consume 2. to sell"
   ],
   "fayangga": [
-    "ᡶᠠᠶᠠᠨᡤᡤᠠ",
+    "ᡶᠠᠶᠠᠩᡤᠠ",
     "soul, the yang soul"
   ],
   "fayangga gaimbi": [
-    "ᡶᠠᠶᠠᠨᡤᡤᠠ ᡤᠠᡳᠮᠪᡳ",
+    "ᡶᠠᠶᠠᠩᡤᠠ ᡤᠠᡳᠮᠪᡳ",
     "to call the soul (said of shamans)"
   ],
   "fayangga hvlambi": [
-    "ᡶᠠᠶᠠᠨᡤᡤᠠ ᡥᡡᠯᠠᠮᠪᡳ",
+    "ᡶᠠᠶᠠᠩᡤᠠ ᡥᡡᠯᠠᠮᠪᡳ",
     "the same as fayangga gaimbi"
   ],
   "fayangga oron": [
-    "ᡶᠠᠶᠠᠨᡤᡤᠠ ᠣᡵᠣᠨ",
+    "ᡶᠠᠶᠠᠩᡤᠠ ᠣᡵᠣᠨ",
     "the yang soul and the yin soul"
   ],
   "fayangga tucimbi": [
-    "ᡶᠠᠶᠠᠨᡤᡤᠠ ᡨᡠᠴᡳᠮᠪᡳ",
+    "ᡶᠠᠶᠠᠩᡤᠠ ᡨᡠᠴᡳᠮᠪᡳ",
     "the soul departs from the body"
   ],
   "fe": [
@@ -23428,7 +23428,7 @@ const dictionary = {
     "see fehi"
   ],
   "feingge": [
-    "ᡶᡝᡳᠨᡤᡤᡝ",
+    "ᡶᡝᡳᠩᡤᡝ",
     "an old thing"
   ],
   "feise": [
@@ -23436,7 +23436,7 @@ const dictionary = {
     "brick, tile"
   ],
   "feise mooi kunggeri": [
-    "ᡶᡝᡳᠰᡝ ᠮᠣᠣᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡶᡝᡳᠰᡝ ᠮᠣᠣᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Board of Works"
   ],
   "feise wehe": [
@@ -23456,7 +23456,7 @@ const dictionary = {
     "the lower lip"
   ],
   "fejergingge": [
-    "ᡶᡝᠵᡝᡵᡤᡳᠨᡤᡤᡝ",
+    "ᡶᡝᠵᡝᡵᡤᡳᠩᡤᡝ",
     "that which is below"
   ],
   "fejile": [
@@ -23536,7 +23536,7 @@ const dictionary = {
     "to treat with alum"
   ],
   "fekxulehe duingge hooxan": [
-    "ᡶᡝᡴᡧᡠᠯᡝᡥᡝ ᡩᡠᡳᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᡶᡝᡴᡧᡠᠯᡝᡥᡝ ᡩᡠᡳᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "paper treated with alum to be used for painting"
   ],
   "fekxun": [
@@ -23660,7 +23660,7 @@ const dictionary = {
     "a paper seal used on envelopes and on doors"
   ],
   "fempi dobton i kunggeri": [
-    "ᡶᡝᠮᡦᡳ ᡩᠣᠪᡨᠣᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡶᡝᠮᡦᡳ ᡩᠣᠪᡨᠣᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section in the Court of Colonial Affairs"
   ],
   "fempilebumbi": [
@@ -23704,35 +23704,35 @@ const dictionary = {
     "to go to lay out new-mown hay"
   ],
   "feng": [
-    "ᡶᡝᠨᡤ",
+    "ᡶᡝᠩ",
     "bee, wasp"
   ],
   "fengse": [
-    "ᡶᡝᠨᡤᠰᡝ",
+    "ᡶᡝᠩᠰᡝ",
     "pan, jug"
   ],
   "fengse i tuwabun": [
-    "ᡶᡝᠨᡤᠰᡝ ᡳ ᡨᡠᠸᠠᠪᡠᠨ",
+    "ᡶᡝᠩᠰᡝ ᡳ ᡨᡠᠸᠠᠪᡠᠨ",
     "an artificial landscape or scene placed in a bowl"
   ],
   "fengseku": [
-    "ᡶᡝᠨᡤᠰᡝᡴᡠ",
+    "ᡶᡝᠩᠰᡝᡴᡠ",
     "a small porcelain pan or bowl"
   ],
   "fengxi": [
-    "ᡶᡝᠨᡤᡧᡳ",
+    "ᡶᡝᠩᡧᡳ",
     "a practitioner of geomancy"
   ],
   "fengxen": [
-    "ᡶᡝᠨᡤᡧᡝᠨ",
+    "ᡶᡝᠩᡧᡝᠨ",
     "prosperity, good fortune"
   ],
   "fengen be aliha usiha": [
-    "ᡶᡝᠨᡤᡝᠨ ᠪᡝ ᠠᠯᡳᡥᠠ ᡠᠰᡳᡥᠠ",
+    "ᡶᡝᠩᡝᠨ ᠪᡝ ᠠᠯᡳᡥᠠ ᡠᠰᡳᡥᠠ",
     "two of the stars in the Great Dipper"
   ],
   "fengxengge": [
-    "ᡶᡝᠨᡤᡧᡝᠨᡤᡤᡝ",
+    "ᡶᡝᠩᡧᡝᠩᡤᡝ",
     "prosperous, fortunate"
   ],
   "fenihe": [
@@ -23740,23 +23740,23 @@ const dictionary = {
     "swarm, flock"
   ],
   "ferguwecuke gungge poo": [
-    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡤᡠᠨᡤᡤᡝ ᡦᠣᠣ",
+    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡤᡠᠩᡤᡝ ᡦᠣᠣ",
     "the name of a large cannon that weighed a thousand catties"
   ],
   "ferguwecuke horonggo bakcin akv poo": [
-    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠨᡤᡤᠣ ᠪᠠᡴᠴᡳᠨ ᠠᡴᡡ ᡦᠣᠣ",
+    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠩᡤᠣ ᠪᠠᡴᠴᡳᠨ ᠠᡴᡡ ᡦᠣᠣ",
     "the name of a large cannon that weighed three thousand catties"
   ],
   "ferguwecuke horonggo enduri": [
-    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠨᡤᡤᠣ ᡝᠨᡩᡠᡵᡳ",
+    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠩᡤᠣ ᡝᠨᡩᡠᡵᡳ",
     "the name of a deity"
   ],
   "ferguwecuke horonggo kiru": [
-    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "the name of a banner embroidered with dragons or serpents on a dark background used by the imperial escort"
   ],
   "ferguwecuke horonggo poo": [
-    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠨᡤᡤᠣ ᡦᠣᠣ",
+    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠩᡤᠣ ᡦᠣᠣ",
     "the name of a large brass cannon weighing four hundred catties"
   ],
   "ferguwecuke karan": [
@@ -23764,7 +23764,7 @@ const dictionary = {
     "the Peking observatory"
   ],
   "ferguwecuke sabingga sence i fvkjingga hergen": [
-    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᠰᠠᠪᡳᠨᡤᡤᠠ ᠰᡝᠨᠴᡝ ᡳ ᡶᡡᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᠰᠠᠪᡳᠩᡤᠠ ᠰᡝᠨᠴᡝ ᡳ ᡶᡡᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "ferguwecun": [
@@ -23808,7 +23808,7 @@ const dictionary = {
     "to strive"
   ],
   "ferkingge": [
-    "ᡶᡝᡵᡴᡳᠨᡤᡤᡝ",
+    "ᡶᡝᡵᡴᡳᠩᡤᡝ",
     "experienced, knowledgeable, learned"
   ],
   "ferten": [
@@ -23872,7 +23872,7 @@ const dictionary = {
     "a small table for burning incense"
   ],
   "feningge": [
-    "ᡶᡝᠨᡳᠨᡤᡤᡝ",
+    "ᡶᡝᠨᡳᠩᡤᡝ",
     "something old"
   ],
   "feniyekv": [
@@ -23900,7 +23900,7 @@ const dictionary = {
     "in flocks, in swarms"
   ],
   "feniyengge": [
-    "ᡶᡝᠨᡳᠶᡝᠨᡤᡤᡝ",
+    "ᡶᡝᠨᡳᠶᡝᠩᡤᡝ",
     "forming flocks, swarming"
   ],
   "feo io": [
@@ -23952,7 +23952,7 @@ const dictionary = {
     "crosspiece between the legs of a table or bed"
   ],
   "ferehe singgeri": [
-    "ᡶᡝᡵᡝᡥᡝ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᡶᡝᡵᡝᡥᡝ ᠰᡳᠩᡤᡝᡵᡳ",
     "bat"
   ],
   "ferembi i.": [
@@ -24004,7 +24004,7 @@ const dictionary = {
     "strange, wonderful, astonishing"
   ],
   "ferguwecuke fukjingga hergen": [
-    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡶᡝᡵᡤᡠᠸᡝᠴᡠᡴᡝ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "feshen efen": [
@@ -24024,7 +24024,7 @@ const dictionary = {
     "hilt of a sword"
   ],
   "fesingge": [
-    "ᡶᡝᠰᡳᠨᡤᡤᡝ",
+    "ᡶᡝᠰᡳᠩᡤᡝ",
     "having a handle"
   ],
   "fesku": [
@@ -24136,7 +24136,7 @@ const dictionary = {
     "1. to build a nest, to nest 2. to get wounded"
   ],
   "feyengge": [
-    "ᡶᡝᠶᡝᠨᡤᡤᡝ",
+    "ᡶᡝᠶᡝᠩᡤᡝ",
     "wounded, pertaining to a wound"
   ],
   "feyesi": [
@@ -24164,7 +24164,7 @@ const dictionary = {
     "the shaft of a writing brush"
   ],
   "fi i nenggeleku": [
-    "ᡶᡳ ᡳ ᠨᡝᠨᡤᡤᡝᠯᡝᡴᡠ",
+    "ᡶᡳ ᡳ ᠨᡝᠩᡤᡝᠯᡝᡴᡠ",
     "a stand for writing brushes"
   ],
   "fi i obokv": [
@@ -24180,7 +24180,7 @@ const dictionary = {
     "a vessel for wetting writing brushes"
   ],
   "fi xurgebuhengge fukjingga hergen": [
-    "ᡶᡳ ᡧᡠᡵᡤᡝᠪᡠᡥᡝᠨᡤᡤᡝ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡶᡳ ᡧᡠᡵᡤᡝᠪᡠᡥᡝᠩᡤᡝ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "fib seme": [
@@ -24196,7 +24196,7 @@ const dictionary = {
     "a short reed that grows in mountainous areas"
   ],
   "ficakvngge": [
-    "ᡶᡳᠴᠠᡴᡡᠨᡤᡤᡝ",
+    "ᡶᡳᠴᠠᡴᡡᠩᡤᡝ",
     "pertaining to the flute"
   ],
   "ficambi": [
@@ -24240,11 +24240,11 @@ const dictionary = {
     "a four-stringed, plucked instrument with frets, a lute"
   ],
   "fifangga": [
-    "ᡶᡳᡶᠠᠨᡤᡤᠠ",
+    "ᡶᡳᡶᠠᠩᡤᠠ",
     "pertaining to the lute"
   ],
   "fifangga niyehe": [
-    "ᡶᡳᡶᠠᠨᡤᡤᠠ ᠨᡳᠶᡝᡥᡝ",
+    "ᡶᡳᡶᠠᠩᡤᠠ ᠨᡳᠶᡝᡥᡝ",
     "a type of duck"
   ],
   "fifari": [
@@ -24344,7 +24344,7 @@ const dictionary = {
     "Chinese olive (Canarium album)"
   ],
   "fika dengjan": [
-    "ᡶᡳᡴᠠ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡶᡳᡴᠠ ᡩᡝᠩᠵᠠᠨ",
     "a lantern made in the"
   ],
   "fika jahvdai": [
@@ -24352,7 +24352,7 @@ const dictionary = {
     "a boat pointed at both ends"
   ],
   "fika jinggeri": [
-    "ᡶᡳᡴᠠ ᠵᡳᠨᡤᡤᡝᡵᡳ",
+    "ᡶᡳᡴᠠ ᠵᡳᠩᡤᡝᡵᡳ",
     "a nail pointed at both ends"
   ],
   "fika nimeku": [
@@ -24364,7 +24364,7 @@ const dictionary = {
     "a bamboo basket narrow at both ends"
   ],
   "fika tungken": [
-    "ᡶᡳᡴᠠ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᡶᡳᡴᠠ ᡨᡠᠩᡴᡝᠨ",
     "a drum narrow at both ends and bulging in the middle"
   ],
   "fikaci": [
@@ -24408,7 +24408,7 @@ const dictionary = {
     "a plate"
   ],
   "filaingge": [
-    "ᡶᡳᠯᠠᡳᠨᡤᡤᡝ",
+    "ᡶᡳᠯᠠᡳᠩᡤᡝ",
     "pertaining to plates"
   ],
   "filan": [
@@ -24456,7 +24456,7 @@ const dictionary = {
     "rather solid"
   ],
   "filingga moo": [
-    "ᡶᡳᠯᡳᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᡶᡳᠯᡳᠩᡤᠠ ᠮᠣᠣ",
     "red sandalwood; cf. cakūran; dan mu"
   ],
   "filitahvn": [
@@ -24484,15 +24484,15 @@ const dictionary = {
     "ring at the end of the crupper"
   ],
   "fing seme": [
-    "ᡶᡳᠨᡤ ᠰᡝᠮᡝ",
+    "ᡶᡳᠩ ᠰᡝᠮᡝ",
     "firmly, resolutely, faithfully"
   ],
   "fingge": [
-    "ᡶᡳᠨᡤᡤᡝ",
+    "ᡶᡳᠩᡤᡝ",
     "resolute, serene"
   ],
   "fingkabumbi": [
-    "ᡶᡳᠨᡤᡴᠠᠪᡠᠮᠪᡳ",
+    "ᡶᡳᠩᡴᠠᠪᡠᠮᠪᡳ",
     "to have colic, to get abdominal pains"
   ],
   "fintaha": [
@@ -24620,11 +24620,11 @@ const dictionary = {
     "relation, offspring, progeny"
   ],
   "fisengge": [
-    "ᡶᡳᠰᡝᠨᡤᡤᡝ",
+    "ᡶᡳᠰᡝᠩᡤᡝ",
     "projecting, jutting out"
   ],
   "fisengge sihin": [
-    "ᡶᡳᠰᡝᠨᡤᡤᡝ ᠰᡳᡥᡳᠨ",
+    "ᡶᡳᠰᡝᠩᡤᡝ ᠰᡳᡥᡳᠨ",
     "the upward projecting eaves of a Chinese building; cf.fiseku"
   ],
   "fisha": [
@@ -24720,7 +24720,7 @@ const dictionary = {
     "to bloom"
   ],
   "fithengge yaha": [
-    "ᡶᡳᡨᡥᡝᠨᡤᡤᡝ ᠶᠠᡥᠠ",
+    "ᡶᡳᡨᡥᡝᠩᡤᡝ ᠶᠠᡥᠠ",
     "charcoal that bursts while it is being burned"
   ],
   "fitvhan": [
@@ -24816,11 +24816,11 @@ const dictionary = {
     "1. to heat, to dry by a fire, to dry in the sun 2. to bake"
   ],
   "fiyakvngga tubi": [
-    "ᡶᡳᠶᠠᡴᡡᠨᡤᡤᠠ ᡨᡠᠪᡳ",
+    "ᡶᡳᠶᠠᡴᡡᠩᡤᠠ ᡨᡠᠪᡳ",
     "a bamboo implement used for drying things by a fire"
   ],
   "fiyalanggi": [
-    "ᡶᡳᠶᠠᠯᠠᠨᡤᡤᡳ",
+    "ᡶᡳᠶᠠᠯᠠᠩᡤᡳ",
     "a loose talker"
   ],
   "fiyalar seme": [
@@ -24868,55 +24868,55 @@ const dictionary = {
     "abstemious, not fond of eating"
   ],
   "fiyangga": [
-    "ᡶᡳᠶᠠᠨᡤᡤᠠ",
+    "ᡶᡳᠶᠠᠩᡤᠠ",
     "1. colored, polychrome, motley, multicolored 2. decorated, fresh, good looking"
   ],
   "fiyangga faidan": [
-    "ᡶᡳᠶᠠᠨᡤᡤᠠ ᡶᠠᡳᡩᠠᠨ",
+    "ᡶᡳᠶᠠᠩᡤᠠ ᡶᠠᡳᡩᠠᠨ",
     "cortege of the imperial concubines of the sixth and seventh rank"
   ],
   "fiyangga lakiyan": [
-    "ᡶᡳᠶᠠᠨᡤᡤᠠ ᠯᠠᡴᡳᠶᠠᠨ",
+    "ᡶᡳᠶᠠᠩᡤᠠ ᠯᠠᡴᡳᠶᠠᠨ",
     "decorative hangings made of colored cloth or paper"
   ],
   "fiyangga ordo": [
-    "ᡶᡳᠶᠠᠨᡤᡤᠠ ᠣᡵᡩᠣ",
+    "ᡶᡳᠶᠠᠩᡤᠠ ᠣᡵᡩᠣ",
     "a pavilion-shaped object made of colored silk that was placed on a high table and used at the presentation of imperial awards and rescripts"
   ],
   "fiyangga tvhebvkv": [
-    "ᡶᡳᠶᠠᠨᡤᡤᠠ ᡨᡡᡥᡝᠪᡡᡴᡡ",
+    "ᡶᡳᠶᠠᠩᡤᠠ ᡨᡡᡥᡝᠪᡡᡴᡡ",
     "colored hangings at the top of drapes or curtains, valance"
   ],
   "fiyangga ulhvma": [
-    "ᡶᡳᠶᠠᠨᡤᡤᠠ ᡠᠯᡥᡡᠮᠠ",
+    "ᡶᡳᠶᠠᠩᡤᠠ ᡠᠯᡥᡡᠮᠠ",
     "a brightly colored pheasant"
   ],
   "fiyanggv": [
-    "ᡶᡳᠶᠠᠨᡤᡤᡡ",
+    "ᡶᡳᠶᠠᠩᡤᡡ",
     "youngest, least, smallest"
   ],
   "fiyanggv simhun": [
-    "ᡶᡳᠶᠠᠨᡤᡤᡡ ᠰᡳᠮᡥᡠᠨ",
+    "ᡶᡳᠶᠠᠩᡤᡡ ᠰᡳᠮᡥᡠᠨ",
     "the little finger"
   ],
   "fiyanggv sirge": [
-    "ᡶᡳᠶᠠᠨᡤᡤᡡ ᠰᡳᡵᡤᡝ",
+    "ᡶᡳᠶᠠᠩᡤᡡ ᠰᡳᡵᡤᡝ",
     "the thinnest string on a stringed instrument"
   ],
   "fiyanggvxambi": [
-    "ᡶᡳᠶᠠᠨᡤᡤᡡᡧᠠᠮᠪᡳ",
+    "ᡶᡳᠶᠠᠩᡤᡡᡧᠠᠮᠪᡳ",
     "to behave like a spoiled child"
   ],
   "fiyangtahvn": [
-    "ᡶᡳᠶᠠᠨᡤᡨᠠᡥᡡᠨ",
+    "ᡶᡳᠶᠠᠩᡨᠠᡥᡡᠨ",
     "large and strong, ablebodied"
   ],
   "fiyangtahvri": [
-    "ᡶᡳᠶᠠᠨᡤᡨᠠᡥᡡᡵᡳ",
+    "ᡶᡳᠶᠠᠩᡨᠠᡥᡡᡵᡳ",
     "large and robust"
   ],
   "fiyangtanambi": [
-    "ᡶᡳᠶᠠᠨᡤᡨᠠᠨᠠᠮᠪᡳ",
+    "ᡶᡳᠶᠠᠩᡨᠠᠨᠠᠮᠪᡳ",
     "to become large and strong"
   ],
   "fiyanji": [
@@ -24952,11 +24952,11 @@ const dictionary = {
     "in great quantity, very much, very many"
   ],
   "fiyaringgiyabumbi": [
-    "ᡶᡳᠶᠠᡵᡳᠨᡤᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
+    "ᡶᡳᠶᠠᡵᡳᠩᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
     "caus. of fiyaringgiyambi"
   ],
   "fiyaringgiyambi": [
-    "ᡶᡳᠶᠠᡵᡳᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡶᡳᠶᠠᡵᡳᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to dry in the sun, to bleach in the sun"
   ],
   "fiyartvn": [
@@ -24980,11 +24980,11 @@ const dictionary = {
     "to get maggots"
   ],
   "fiyarunahangge": [
-    "ᡶᡳᠶᠠᡵᡠᠨᠠᡥᠠᠨᡤᡤᡝ",
+    "ᡶᡳᠶᠠᡵᡠᠨᠠᡥᠠᠩᡤᡝ",
     "maggoty--used as a term of abuse"
   ],
   "fiyarvnarangge": [
-    "ᡶᡳᠶᠠᡵᡡᠨᠠᡵᠠᠨᡤᡤᡝ",
+    "ᡶᡳᠶᠠᡵᡡᠨᠠᡵᠠᠩᡤᡝ",
     "see fiyarunahangge"
   ],
   "fiyarunaru": [
@@ -25044,7 +25044,7 @@ const dictionary = {
     "1. chapter, section of a book 2. amaranth (Amarantus mangostanus) 3. yellow-beaked young birds"
   ],
   "fiyelenggu": [
-    "ᡶᡳᠶᡝᠯᡝᠨᡤᡤᡠ",
+    "ᡶᡳᠶᡝᠯᡝᠩᡤᡠ",
     "capercaillie; cf. horki"
   ],
   "fiyelexu": [
@@ -25076,11 +25076,11 @@ const dictionary = {
     "frame for carrying a saddle"
   ],
   "fiyenggu": [
-    "ᡶᡳᠶᡝᠨᡤᡤᡠ",
+    "ᡶᡳᠶᡝᠩᡤᡠ",
     "a thick spot on a bear's belly"
   ],
   "fiyengseri": [
-    "ᡶᡳᠶᡝᠨᡤᠰᡝᡵᡳ",
+    "ᡶᡳᠶᡝᠩᠰᡝᡵᡳ",
     "an exotic yellow fruit with a white, powdery interior"
   ],
   "fiyentehe": [
@@ -25200,7 +25200,7 @@ const dictionary = {
     "a small net attached to a pole-used to fish things out of ice floes"
   ],
   "fo sang hvwa ilha": [
-    "ᡶᠣ ᠰᠠᠨᡤ ᡥᡡᠸᠠ ᡳᠯᡥᠠ",
+    "ᡶᠣ ᠰᠠᠩ ᡥᡡᠸᠠ ᡳᠯᡥᠠ",
     "hibiscus"
   ],
   "fo ulebumbi": [
@@ -25224,11 +25224,11 @@ const dictionary = {
     "willow"
   ],
   "fodoho abdaha i fvkjingga hergen": [
-    "ᡶᠣᡩᠣᡥᠣ ᠠᠪᡩᠠᡥᠠ ᡳ ᡶᡡᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡶᠣᡩᠣᡥᠣ ᠠᠪᡩᠠᡥᠠ ᡳ ᡶᡡᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "fodoho inggari": [
-    "ᡶᠣᡩᠣᡥᠣ ᡳᠨᡤᡤᠠᡵᡳ",
+    "ᡶᠣᡩᠣᡥᠣ ᡳᠩᡤᠠᡵᡳ",
     "the fuzz or down from a willow tree"
   ],
   "fodombi": [
@@ -25320,7 +25320,7 @@ const dictionary = {
     "to carve, to engrave, to print"
   ],
   "foloho acangga fukjingga hergen": [
-    "ᡶᠣᠯᠣᡥᠣ ᠠᠴᠠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡶᠣᠯᠣᡥᠣ ᠠᠴᠠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "foloho hitha": [
@@ -25396,19 +25396,19 @@ const dictionary = {
     "see fondolombi"
   ],
   "fongko": [
-    "ᡶᠣᠨᡤᡴᠣ",
+    "ᡶᠣᠩᡴᠣ",
     "a small brass drum"
   ],
   "fongsombi": [
-    "ᡶᠣᠨᡤᠰᠣᠮᠪᡳ",
+    "ᡶᠣᠩᠰᠣᠮᠪᡳ",
     "to become black from smoke"
   ],
   "fongson": [
-    "ᡶᠣᠨᡤᠰᠣᠨ",
+    "ᡶᠣᠩᠰᠣᠨ",
     "soot, dirt"
   ],
   "fongsonggi": [
-    "ᡶᠣᠨᡤᠰᠣᠨᡤᡤᡳ",
+    "ᡶᠣᠩᠰᠣᠩᡤᡳ",
     "1. soot, dirt 2. a turbotlike fish found in the Sunggari River"
   ],
   "foniyo": [
@@ -25436,7 +25436,7 @@ const dictionary = {
     "to ask (of a group)"
   ],
   "fonjinggimbi": [
-    "ᡶᠣᠨᠵᡳᠨᡤᡤᡳᠮᠪᡳ",
+    "ᡶᠣᠨᠵᡳᠩᡤᡳᠮᠪᡳ",
     "to send to ask"
   ],
   "fonjinjimbi": [
@@ -25508,11 +25508,11 @@ const dictionary = {
     "to strike, to knock"
   ],
   "foringga hvsun": [
-    "ᡶᠣᡵᡳᠨᡤᡤᠠ ᡥᡡᠰᡠᠨ",
+    "ᡶᠣᡵᡳᠩᡤᠠ ᡥᡡᠰᡠᠨ",
     "a man who goes about at night striking the hours on a gong or clapper"
   ],
   "foringgiyambi": [
-    "ᡶᠣᡵᡳᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡶᠣᡵᡳᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to test an arrow shaft by turning it between the fingers"
   ],
   "forixambi": [
@@ -25628,7 +25628,7 @@ const dictionary = {
     "sunlight, sun's rays, the glow of a fire"
   ],
   "fosonggi": [
-    "ᡶᠣᠰᠣᠨᡤᡤᡳ",
+    "ᡶᠣᠰᠣᠩᡤᡳ",
     "see fongsonggi"
   ],
   "fosonjimbi": [
@@ -25656,7 +25656,7 @@ const dictionary = {
     "seething (used to describe anger), foaming"
   ],
   "foxor xeme obonggi dekdehe": [
-    "ᡶᠣᡧᠣᡵ ᡧᡝᠮᡝ ᠣᠪᠣᠨᡤᡤᡳ ᡩᡝᡴᡩᡝᡥᡝ",
+    "ᡶᠣᡧᠣᡵ ᡧᡝᠮᡝ ᠣᠪᠣᠩᡤᡳ ᡩᡝᡴᡩᡝᡥᡝ",
     "produced white foam"
   ],
   "fotor seme": [
@@ -25756,7 +25756,7 @@ const dictionary = {
     "to get angry (of a groups"
   ],
   "fuceng": [
-    "ᡶᡠᠴᡝᠨᡤ",
+    "ᡶᡠᠴᡝᠩ",
     "see fu i ilhi hafan"
   ],
   "fucihi": [
@@ -25792,11 +25792,11 @@ const dictionary = {
     "Buddhist temple"
   ],
   "fucihingge": [
-    "ᡶᡠᠴᡳᡥᡳᠨᡤᡤᡝ",
+    "ᡶᡠᠴᡳᡥᡳᠩᡤᡝ",
     "pertaining to Buddha, Buddhist"
   ],
   "fucihingge mahala": [
-    "ᡶᡠᠴᡳᡥᡳᠨᡤᡤᡝ ᠮᠠᡥᠠᠯᠠ",
+    "ᡶᡠᠴᡳᡥᡳᠩᡤᡝ ᠮᠠᡥᠠᠯᠠ",
     "a liturgical hat surmounted with the images of the five Dhyani-Buddhas that is worn by monks during services"
   ],
   "fucihiyalabumbi": [
@@ -25824,7 +25824,7 @@ const dictionary = {
     "to vomit"
   ],
   "fudangga": [
-    "ᡶᡠᡩᠠᠨᡤᡤᠠ",
+    "ᡶᡠᡩᠠᠩᡤᠠ",
     "with the hair going the wrong way, bristly, unkempt"
   ],
   "fudarambi": [
@@ -26008,7 +26008,7 @@ const dictionary = {
     "plural of fujin"
   ],
   "fujiyang bh": [
-    "ᡶᡠᠵᡳᠶᠠᠨᡤ ᠪᡥ",
+    "ᡶᡠᠵᡳᠶᠠᠩ ᠪᡥ",
     "Colonel, Regimental Commander, 752"
   ],
   "fujulambi": [
@@ -26056,11 +26056,11 @@ const dictionary = {
     "prose poem, a fu"
   ],
   "fujurungga": [
-    "ᡶᡠᠵᡠᡵᡠᠨᡤᡤᠠ",
+    "ᡶᡠᠵᡠᡵᡠᠩᡤᠠ",
     "fine, elegant"
   ],
   "fujurungga yangsangga": [
-    "ᡶᡠᠵᡠᡵᡠᠨᡤᡤᠠ ᠶᠠᠨᡤᠰᠠᠨᡤᡤᠠ",
+    "ᡶᡠᠵᡠᡵᡠᠩᡤᠠ ᠶᠠᠩᠰᠠᠩᡤᠠ",
     "alluring, elegant and noble"
   ],
   "fuka": [
@@ -26108,19 +26108,19 @@ const dictionary = {
     "to lay a foundation"
   ],
   "fukjingga": [
-    "ᡶᡠᡴᠵᡳᠨᡤᡤᠠ",
+    "ᡶᡠᡴᠵᡳᠩᡤᠠ",
     "original, ancient, primitive"
   ],
   "fukjingga hergen": [
-    "ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy--seal characters"
   ],
   "fukjingga hergen i kvren": [
-    "ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ ᡳ ᡴᡡᡵᡝᠨ",
+    "ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ ᡳ ᡴᡡᡵᡝᠨ",
     "an office in Peking charged with developing a pseudo 'seal script' for Manchu"
   ],
   "fukjingga mahatvn": [
-    "ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᠮᠠᡥᠠᡨᡡᠨ",
+    "ᡶᡠᡴᠵᡳᠩᡤᠠ ᠮᠠᡥᠠᡨᡡᠨ",
     "a style of hat worn in ancient times"
   ],
   "fukjixambi": [
@@ -26228,7 +26228,7 @@ const dictionary = {
     "an exotic sweet purple fruit, about the size of a man's finger"
   ],
   "fulcengge ilha": [
-    "ᡶᡠᠯᠴᡝᠨᡤᡤᡝ ᡳᠯᡥᠠ",
+    "ᡶᡠᠯᠴᡝᠩᡤᡝ ᡳᠯᡥᠠ",
     "rainbow pink (Dianthus chinensis)"
   ],
   "fulcin": [
@@ -26268,7 +26268,7 @@ const dictionary = {
     "together with the roots, including the roots"
   ],
   "fulehengge": [
-    "ᡶᡠᠯᡝᡥᡝᠨᡤᡤᡝ",
+    "ᡶᡠᠯᡝᡥᡝᠩᡤᡝ",
     "pertaining to or having roots"
   ],
   "fulehu": [
@@ -26296,7 +26296,7 @@ const dictionary = {
     "an Honorary Licentiate conferred upon certain joyous occasions, 959"
   ],
   "fulehungge": [
-    "ᡶᡠᠯᡝᡥᡠᠨᡤᡤᡝ",
+    "ᡶᡠᠯᡝᡥᡠᠩᡤᡝ",
     "gracious, kind"
   ],
   "fulehusi": [
@@ -26304,19 +26304,19 @@ const dictionary = {
     "almsgiver, benefactor"
   ],
   "fulenggi": [
-    "ᡶᡠᠯᡝᠨᡤᡤᡳ",
+    "ᡶᡠᠯᡝᠩᡤᡳ",
     "ashes"
   ],
   "fulenggi boco": [
-    "ᡶᡠᠯᡝᠨᡤᡤᡳ ᠪᠣᠴᠣ",
+    "ᡶᡠᠯᡝᠩᡤᡳ ᠪᠣᠴᠣ",
     "ash-colored"
   ],
   "fulenggi niyanciha": [
-    "ᡶᡠᠯᡝᠨᡤᡤᡳ ᠨᡳᠶᠠᠨᠴᡳᡥᠠ",
+    "ᡶᡠᠯᡝᠩᡤᡳ ᠨᡳᠶᠠᠨᠴᡳᡥᠠ",
     "tender grass shoots"
   ],
   "fulenggingge namu kuwecihe": [
-    "ᡶᡠᠯᡝᠨᡤᡤᡳᠨᡤᡤᡝ ᠨᠠᠮᡠ ᡴᡠᠸᡝᠴᡳᡥᡝ",
+    "ᡶᡠᠯᡝᠩᡤᡳᠩᡤᡝ ᠨᠠᠮᡠ ᡴᡠᠸᡝᠴᡳᡥᡝ",
     "a gray dove with black neck and red feet"
   ],
   "fulfintu cecike": [
@@ -26364,7 +26364,7 @@ const dictionary = {
     "a type of red swallow"
   ],
   "fulgiyan enggetu keru": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡝᠨᡤᡤᡝᡨᡠ ᡴᡝᡵᡠ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡝᠩᡤᡝᡨᡠ ᡴᡝᡵᡠ",
     "a type of a crow with red feet and beak"
   ],
   "fulgiyan fulan": [
@@ -26372,11 +26372,11 @@ const dictionary = {
     "a dark brown horse with dark mane and tail"
   ],
   "fulgiyan gahangga kiru fulgiyan gasha": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡤᠠᡥᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ ᡶᡠᠯᡤᡳᠶᠠᠨ ᡤᠠᠰᡥᠠ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡤᠠᡥᠠᠩᡤᠠ ᡴᡳᡵᡠ ᡶᡠᠯᡤᡳᠶᠠᠨ ᡤᠠᠰᡥᠠ",
     "a banner of the imperial escort depicting a red crow one name for the wild goose; cf. bigan i niongniyaha"
   ],
   "fvlgiyan gashangga kiru": [
-    "ᡶᡡᠯᡤᡳᠶᠠᠨ ᡤᠠᠰᡥᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᡶᡡᠯᡤᡳᠶᠠᠨ ᡤᠠᠰᡥᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner of the imperial escort depicting a small red bird"
   ],
   "fulgiyan hafuka": [
@@ -26384,11 +26384,11 @@ const dictionary = {
     "broke out with the measles"
   ],
   "fulgiyan haksangga efen": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡥᠠᡴᠰᠠᠨᡤᡤᠠ ᡝᡶᡝᠨ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡥᠠᡴᠰᠠᠩᡤᠠ ᡝᡶᡝᠨ",
     "a type of crunchy red cake"
   ],
   "fulgiyan iletungge gu": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡳᠯᡝᡨᡠᠨᡤᡤᡝ ᡤᡠ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡳᠯᡝᡨᡠᠩᡤᡝ ᡤᡠ",
     "a round jade object with a hole in the center used for sacrifices at the altar of the sun"
   ],
   "fulgiyan jamuri ilha": [
@@ -26396,7 +26396,7 @@ const dictionary = {
     "a variety of red rose"
   ],
   "fulgiyan jiyoo bing": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᠵᡳᠶᠣᠣ ᠪᡳᠨᡤ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᠵᡳᠶᠣᠣ ᠪᡳᠩ",
     "a type of hard brown cake"
   ],
   "fulgiyan jugun": [
@@ -26404,7 +26404,7 @@ const dictionary = {
     "equator"
   ],
   "fulgiyan jugvn i hetu undu i durungga tetun": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᠵᡠᡤᡡᠨ ᡳ ᡥᡝᡨᡠ ᡠᠨᡩᡠ ᡳ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᠵᡠᡤᡡᠨ ᡳ ᡥᡝᡨᡠ ᡠᠨᡩᡠ ᡳ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "an astronomical instrument used for observing the position of heavenly bodies in relation to the equator"
   ],
   "fulgiyan jui": [
@@ -26412,7 +26412,7 @@ const dictionary = {
     "baby, newborn babe"
   ],
   "fulgiyan lefungge kiru": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᠯᡝᡶᡠᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᠯᡝᡶᡠᠩᡤᡝ ᡴᡳᡵᡠ",
     "a banner of the imperial escort depicting a red bear"
   ],
   "fulgiyan mursa": [
@@ -26420,7 +26420,7 @@ const dictionary = {
     "carrot, beet"
   ],
   "fulgiyan nunggasun": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᠨᡠᠨᡤᡤᠠᠰᡠᠨ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᠨᡠᠩᡤᠠᠰᡠᠨ",
     "red felt"
   ],
   "fulgiyan xelbete": [
@@ -26444,7 +26444,7 @@ const dictionary = {
     "bay (color of a horse)"
   ],
   "fulgiyan xungkeri ilha": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡧᡠᠨᡤᡴᡝᡵᡳ ᡳᠯᡥᠠ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡧᡠᠩᡴᡝᡵᡳ ᡳᠯᡥᠠ",
     "red Chinese orchid (Bletilla chinensis)"
   ],
   "fulgiyan tosi": [
@@ -26452,7 +26452,7 @@ const dictionary = {
     "the red crest of a crane"
   ],
   "fulgiyan toxingga fiyorhon": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡨᠣᡧᡳᠨᡤᡤᠠ ᡶᡳᠶᠣᡵᡥᠣᠨ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡨᠣᡧᡳᠩᡤᠠ ᡶᡳᠶᠣᡵᡥᠣᠨ",
     "redcrested woodpecker"
   ],
   "fulgiyan ujirhi": [
@@ -26464,7 +26464,7 @@ const dictionary = {
     "'red sash'--the descendants of the six Ningguta beile"
   ],
   "fulgiyan urangga moo": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡠᡵᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠨ ᡠᡵᠠᠩᡤᠠ ᠮᠣᠣ",
     "a tree of the Clerodendrum family"
   ],
   "fulgiyan yarha": [
@@ -26476,7 +26476,7 @@ const dictionary = {
     "trachoma"
   ],
   "fulgiyangga": [
-    "ᡶᡠᠯᡤᡳᠶᠠᠨᡤᡤᠠ",
+    "ᡶᡠᠯᡤᡳᠶᠠᠩᡤᠠ",
     "pertaining to red, redhaired"
   ],
   "fulgiyari coko": [
@@ -26572,7 +26572,7 @@ const dictionary = {
     "1. form, shape 2. luck, lucky fate"
   ],
   "fulingga": [
-    "ᡶᡠᠯᡳᠨᡤᡤᠠ",
+    "ᡶᡠᠯᡳᠩᡤᠠ",
     "lucky, having good fortune"
   ],
   "fuliyambi": [
@@ -26640,11 +26640,11 @@ const dictionary = {
     "salary, emolument"
   ],
   "fulun be kimcire tinggin": [
-    "ᡶᡠᠯᡠᠨ ᠪᡝ ᡴᡳᠮᠴᡳᡵᡝ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᡶᡠᠯᡠᠨ ᠪᡝ ᡴᡳᠮᠴᡳᡵᡝ ᡨᡳᠩᡤᡳᠨ",
     "salary office of the eight banners"
   ],
   "fulun caliyan i kvnggeri": [
-    "ᡶᡠᠯᡠᠨ ᠴᠠᠯᡳᠶᠠᠨ ᡳ ᡴᡡᠨᡤᡤᡝᡵᡳ",
+    "ᡶᡠᠯᡠᠨ ᠴᠠᠯᡳᠶᠠᠨ ᡳ ᡴᡡᠩᡤᡝᡵᡳ",
     "salary section of the Board of War and the Court of Banqueting"
   ],
   "fulun caliyan icihiyara ba": [
@@ -26656,11 +26656,11 @@ const dictionary = {
     "to cut off one's salary as a punishment"
   ],
   "fulungga": [
-    "ᡶᡠᠯᡠᠨᡤᡤᠠ",
+    "ᡶᡠᠯᡠᠩᡤᠠ",
     "grand, majestic"
   ],
   "fulungge": [
-    "ᡶᡠᠯᡠᠨᡤᡤᡝ",
+    "ᡶᡠᠯᡠᠩᡤᡝ",
     "excessive, extra, left over"
   ],
   "fuma": [
@@ -26752,59 +26752,59 @@ const dictionary = {
     "1. to order, to forbid 2. to get ready beforehand, to prepare"
   ],
   "fung xui": [
-    "ᡶᡠᠨᡤ ᡧᡠᡳ",
+    "ᡶᡠᠩ ᡧᡠᡳ",
     "geomancy"
   ],
   "fung tiyan goloi bolgobure fiyenten": [
-    "ᡶᡠᠨᡤ ᡨᡳᠶᠠᠨ ᡤᠣᠯᠣᡳ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ",
+    "ᡶᡠᠩ ᡨᡳᠶᠠᠨ ᡤᠣᠯᠣᡳ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ",
     "branch"
   ],
   "funggaha": [
-    "ᡶᡠᠨᡤᡤᠠᡥᠠ",
+    "ᡶᡠᠩᡤᠠᡥᠠ",
     "feather, down"
   ],
   "funggala": [
-    "ᡶᡠᠨᡤᡤᠠᠯᠠ",
+    "ᡶᡠᠩᡤᠠᠯᠠ",
     "tail feather, feather in an official's hat"
   ],
   "funggin": [
-    "ᡶᡠᠨᡤᡤᡳᠨ",
+    "ᡶᡠᠩᡤᡳᠨ",
     "1. an old boar 2. the thick skin of a pig"
   ],
   "funghvwang": [
-    "ᡶᡠᠨᡤᡥᡡᠸᠠᠨᡤ",
+    "ᡶᡠᠩᡥᡡᠸᠠᠩ",
     "phoenix"
   ],
   "fungkeri hiyan": [
-    "ᡶᡠᠨᡤᡴᡝᡵᡳ ᡥᡳᠶᠠᠨ",
+    "ᡶᡠᠩᡴᡝᡵᡳ ᡥᡳᠶᠠᠨ",
     "Coumarouna odorata"
   ],
   "fungkeri ilha": [
-    "ᡶᡠᠨᡤᡴᡝᡵᡳ ᡳᠯᡥᠠ",
+    "ᡶᡠᠩᡴᡝᡵᡳ ᡳᠯᡥᠠ",
     "a type of Chinese orchid found in marshes"
   ],
   "fungku": [
-    "ᡶᡠᠨᡤᡴᡠ",
+    "ᡶᡠᠩᡴᡠ",
     "towel, cloth for wiping, kerchief"
   ],
   "fungkv": [
-    "ᡶᡠᠨᡤᡴᡡ",
+    "ᡶᡠᠩᡴᡡ",
     "log, block of wood"
   ],
   "funglu": [
-    "ᡶᡠᠨᡤᠯᡠ",
+    "ᡶᡠᠩᠯᡠ",
     "salary"
   ],
   "fungnebumbi": [
-    "ᡶᡠᠨᡤᠨᡝᠪᡠᠮᠪᡳ",
+    "ᡶᡠᠩᠨᡝᠪᡠᠮᠪᡳ",
     "to be enfeoffed"
   ],
   "fungnehen": [
-    "ᡶᡠᠨᡤᠨᡝᡥᡝᠨ",
+    "ᡶᡠᠩᠨᡝᡥᡝᠨ",
     "a document conferring enfeoffment, grant"
   ],
   "fungnehen be kimcire bolgobure": [
-    "ᡶᡠᠨᡤᠨᡝᡥᡝᠨ ᠪᡝ ᡴᡳᠮᠴᡳᡵᡝ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ",
+    "ᡶᡠᠩᠨᡝᡥᡝᠨ ᠪᡝ ᡴᡳᠮᠴᡳᡵᡝ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ",
     ""
   ],
   "fiyenten bh": [
@@ -26812,43 +26812,43 @@ const dictionary = {
     "Department of Grants, 338"
   ],
   "fungnehen ejehe i kunggeri": [
-    "ᡶᡠᠨᡤᠨᡝᡥᡝᠨ ᡝᠵᡝᡥᡝ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡶᡠᠩᠨᡝᡥᡝᠨ ᡝᠵᡝᡥᡝ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Board of War in charge of edicts, grants, and rescripts"
   ],
   "fungnehen ejehe icihiyara ba": [
-    "ᡶᡠᠨᡤᠨᡝᡥᡝᠨ ᡝᠵᡝᡥᡝ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᠪᠠ",
+    "ᡶᡠᠩᠨᡝᡥᡝᠨ ᡝᠵᡝᡥᡝ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᠪᠠ",
     "a section of the Grand Secretariat in charge of edicts, grants, and rescripts"
   ],
   "fungnehen icihiyara kungge yamun bh i37a": [
-    "ᡶᡠᠨᡤᠨᡝᡥᡝᠨ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᡴᡠᠨᡤᡤᡝ ᠶᠠᠮᡠᠨ ᠪᡥ ᡳ37ᠠ",
+    "ᡶᡠᠩᠨᡝᡥᡝᠨ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᡴᡠᠩᡤᡝ ᠶᠠᠮᡠᠨ ᠪᡥ ᡳ37ᠠ",
     "Imperial Patent Office,"
   ],
   "fungnembi": [
-    "ᡶᡠᠨᡤᠨᡝᠮᠪᡳ",
+    "ᡶᡠᠩᠨᡝᠮᠪᡳ",
     "to enfeoff"
   ],
   "fungsan": [
-    "ᡶᡠᠨᡤᠰᠠᠨ",
+    "ᡶᡠᠩᠰᠠᠨ",
     "1. rank (the taste of mutton or beef) 2. impoverished 3. the oil gland at the base of a bird's tail, uropygial gland"
   ],
   "fungsan yadahvn": [
-    "ᡶᡠᠨᡤᠰᠠᠨ ᠶᠠᡩᠠᡥᡡᠨ",
+    "ᡶᡠᠩᠰᠠᠨ ᠶᠠᡩᠠᡥᡡᠨ",
     "destitute, impoverished"
   ],
   "fungse": [
-    "ᡶᡠᠨᡤᠰᡝ",
+    "ᡶᡠᠩᠰᡝ",
     "1. flour, meal 2. basin, pan"
   ],
   "fungxun": [
-    "ᡶᡠᠨᡤᡧᡠᠨ",
+    "ᡶᡠᠩᡧᡠᠨ",
     "smelling of urine"
   ],
   "fungto": [
-    "ᡶᡠᠨᡤᡨᠣ",
+    "ᡶᡠᠩᡨᠣ",
     "see fungtoo"
   ],
   "fungtoo": [
-    "ᡶᡠᠨᡤᡨᠣᠣ",
+    "ᡶᡠᠩᡨᠣᠣ",
     "envelope"
   ],
   "funima": [
@@ -26860,7 +26860,7 @@ const dictionary = {
     "power of judgment, understanding"
   ],
   "funiyagangga": [
-    "ᡶᡠᠨᡳᠶᠠᡤᠠᠨᡤᡤᠠ",
+    "ᡶᡠᠨᡳᠶᠠᡤᠠᠩᡤᠠ",
     "endowed with good judgment"
   ],
   "funiyaha": [
@@ -26872,7 +26872,7 @@ const dictionary = {
     "see funiyagan"
   ],
   "funiyangga": [
-    "ᡶᡠᠨᡳᠶᠠᠨᡤᡤᠠ",
+    "ᡶᡠᠨᡳᠶᠠᠩᡤᠠ",
     "see funiyagangga"
   ],
   "funiyehe": [
@@ -26904,7 +26904,7 @@ const dictionary = {
     "to pull the hair (while fighting)"
   ],
   "funiyehengge": [
-    "ᡶᡠᠨᡳᠶᡝᡥᡝᠨᡤᡤᡝ",
+    "ᡶᡠᠨᡳᠶᡝᡥᡝᠩᡤᡝ",
     "hairy, hirsute"
   ],
   "funiyesen": [
@@ -26992,7 +26992,7 @@ const dictionary = {
     "1. scar, wound 2. pass, gateway 3. eye of a needle 4. a twisted root"
   ],
   "furdan dogon i kunggeri": [
-    "ᡶᡠᡵᡩᠠᠨ ᡩᠣᡤᠣᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡶᡠᡵᡩᠠᠨ ᡩᠣᡤᠣᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office concerned with passes and fords in the Board of War"
   ],
   "furdan duka": [
@@ -27000,7 +27000,7 @@ const dictionary = {
     "gate at a pass"
   ],
   "furdan i temgetu bithei kunggeri": [
-    "ᡶᡠᡵᡩᠠᠨ ᡳ ᡨᡝᠮᡤᡝᡨᡠ ᠪᡳᡨᡥᡝᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡶᡠᡵᡩᠠᠨ ᡳ ᡨᡝᠮᡤᡝᡨᡠ ᠪᡳᡨᡥᡝᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Board of War concerned with issuing pass permits"
   ],
   "furdan kamni": [
@@ -27088,7 +27088,7 @@ const dictionary = {
     "growth is good (said of domestic animals)"
   ],
   "fursungga niyehe": [
-    "ᡶᡠᡵᠰᡠᠨᡤᡤᠠ ᠨᡳᠶᡝᡥᡝ",
+    "ᡶᡠᡵᠰᡠᠩᡤᠠ ᠨᡳᠶᡝᡥᡝ",
     "one name for the wild duck"
   ],
   "furv": [
@@ -27120,7 +27120,7 @@ const dictionary = {
     "to develop a canker sore in the mouth"
   ],
   "furungga hangse": [
-    "ᡶᡠᡵᡠᠨᡤᡤᠠ ᡥᠠᠨᡤᠰᡝ",
+    "ᡶᡠᡵᡠᠩᡤᠠ ᡥᠠᠩᠰᡝ",
     "finely cut noodles"
   ],
   "furunumbi": [
@@ -27168,7 +27168,7 @@ const dictionary = {
     "propagation"
   ],
   "fusengge fulana ilha": [
-    "ᡶᡠᠰᡝᠨᡤᡤᡝ ᡶᡠᠯᠠᠨᠠ ᡳᠯᡥᠠ",
+    "ᡶᡠᠰᡝᠩᡤᡝ ᡶᡠᠯᠠᠨᠠ ᡳᠯᡥᠠ",
     "a type of wild red cherry blossom"
   ],
   "fuserebumbi": [
@@ -27228,7 +27228,7 @@ const dictionary = {
     "to fan"
   ],
   "fushehe bongko": [
-    "ᡶᡠᠰᡥᡝᡥᡝ ᠪᠣᠨᡤᡴᠣ",
+    "ᡶᡠᠰᡥᡝᡥᡝ ᠪᠣᠩᡴᠣ",
     "cotton still in the boll, raw cotton"
   ],
   "fushv": [
@@ -27256,7 +27256,7 @@ const dictionary = {
     "abominable, loathsome, frightful, monstrous"
   ],
   "fusi bahafi banjihangge": [
-    "ᡶᡠᠰᡳ ᠪᠠᡥᠠᡶᡳ ᠪᠠᠨᠵᡳᡥᠠᠨᡤᡤᡝ",
+    "ᡶᡠᠰᡳ ᠪᠠᡥᠠᡶᡳ ᠪᠠᠨᠵᡳᡥᠠᠩᡤᡝ",
     "a term of abuse"
   ],
   "fusi bahambi": [
@@ -27336,7 +27336,7 @@ const dictionary = {
     "loose earth"
   ],
   "fusuri gunggulu": [
-    "ᡶᡠᠰᡠᡵᡳ ᡤᡠᠨᡤᡤᡠᠯᡠ",
+    "ᡶᡠᠰᡠᡵᡳ ᡤᡠᠩᡤᡠᠯᡠ",
     "a parrot's crest"
   ],
   "fusuri ilha": [
@@ -27452,7 +27452,7 @@ const dictionary = {
     "Imperial Guardsman of the Vanguard Division, 735"
   ],
   "gabsihiyan i janggin bh": [
-    "ᡤᠠᠪᠰᡳᡥᡳᠶᠠᠨ ᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡤᠠᠪᠰᡳᡥᡳᠶᠠᠨ ᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Colonel of the Vanguard' Division, 735"
   ],
   "gabsihiyan i juwan i da bh": [
@@ -27496,7 +27496,7 @@ const dictionary = {
     "archery pavilion"
   ],
   "gabtara tungken": [
-    "ᡤᠠᠪᡨᠠᡵᠠ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᡤᠠᠪᡨᠠᡵᠠ ᡨᡠᠩᡴᡝᠨ",
     "a small ball of felt used as a target"
   ],
   "gabtan": [
@@ -27536,7 +27536,7 @@ const dictionary = {
     "a toy or die made from the ankle bone of a sheep or other animal"
   ],
   "gacuha giranggi": [
-    "ᡤᠠᠴᡠᡥᠠ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡤᠠᠴᡠᡥᠠ ᡤᡳᡵᠠᠩᡤᡳ",
     "the anklebone"
   ],
   "gadahvn": [
@@ -27572,7 +27572,7 @@ const dictionary = {
     "a type of ancient bow"
   ],
   "gaha hengke": [
-    "ᡤᠠᡥᠠ ᡥᡝᠨᡤᡴᡝ",
+    "ᡤᠠᡥᠠ ᡥᡝᠩᡴᡝ",
     "a type of gourd used as a medicine against dysentery (Trichosanthes cucumeroides)"
   ],
   "gaha oton": [
@@ -27592,7 +27592,7 @@ const dictionary = {
     "one name for the cormorant; cf. suwan"
   ],
   "gahangga": [
-    "ᡤᠠᡥᠠᠨᡤᡤᠠ",
+    "ᡤᠠᡥᠠᠩᡤᠠ",
     "pertaining to the crow"
   ],
   "gahari": [
@@ -27616,7 +27616,7 @@ const dictionary = {
     "to jut foward, to curve toward the front"
   ],
   "gahvngga": [
-    "ᡤᠠᡥᡡᠨᡤᡤᠠ",
+    "ᡤᠠᡥᡡᠩᡤᠠ",
     "jutting forward, curved toward the front"
   ],
   "gahvrilambi": [
@@ -27648,7 +27648,7 @@ const dictionary = {
     "1. to be defeated due to lack of strength (at wrestling) 2. to fear cold, to be unable to stand the cold"
   ],
   "gaihahv konggoro": [
-    "ᡤᠠᡳᡥᠠᡥᡡ ᡴᠣᠨᡤᡤᠣᡵᠣ",
+    "ᡤᠠᡳᡥᠠᡥᡡ ᡴᠣᠩᡤᠣᡵᠣ",
     "a swift, dun-colored horse"
   ],
   "gaihamsitu": [
@@ -27656,7 +27656,7 @@ const dictionary = {
     "wonderful, marvelous"
   ],
   "gaihamsitu konggoro": [
-    "ᡤᠠᡳᡥᠠᠮᠰᡳᡨᡠ ᡴᠣᠨᡤᡤᠣᡵᠣ",
+    "ᡤᠠᡳᡥᠠᠮᠰᡳᡨᡠ ᡴᠣᠩᡤᠣᡵᠣ",
     "a wonderful dun-colored horse"
   ],
   "gaihari": [
@@ -27780,7 +27780,7 @@ const dictionary = {
     "imperative of gajimbi"
   ],
   "gajvngga orho": [
-    "ᡤᠠᠵᡡᠨᡤᡤᠠ ᠣᡵᡥᠣ",
+    "ᡤᠠᠵᡡᠩᡤᠠ ᠣᡵᡥᠣ",
     "aconite, wolfsbane"
   ],
   "gakahvn": [
@@ -27892,15 +27892,15 @@ const dictionary = {
     "Brigadier, 737"
   ],
   "galai falanggv": [
-    "ᡤᠠᠯᠠᡳ ᡶᠠᠯᠠᠨᡤᡤᡡ",
+    "ᡤᠠᠯᠠᡳ ᡶᠠᠯᠠᠩᡤᡡ",
     "palm of the hand"
   ],
   "galai falanggv be jorire adali": [
-    "ᡤᠠᠯᠠᡳ ᡶᠠᠯᠠᠨᡤᡤᡡ ᠪᡝ ᠵᠣᡵᡳᡵᡝ ᠠᡩᠠᠯᡳ",
+    "ᡤᠠᠯᠠᡳ ᡶᠠᠯᠠᠩᡤᡡ ᠪᡝ ᠵᠣᡵᡳᡵᡝ ᠠᡩᠠᠯᡳ",
     "like pointing at the palm of the hand-very easy"
   ],
   "galai falanggv i hergen": [
-    "ᡤᠠᠯᠠᡳ ᡶᠠᠯᠠᠨᡤᡤᡡ ᡳ ᡥᡝᡵᡤᡝᠨ",
+    "ᡤᠠᠯᠠᡳ ᡶᠠᠯᠠᠩᡤᡡ ᡳ ᡥᡝᡵᡤᡝᠨ",
     "the lines on the palm of the hand"
   ],
   "galai filekv": [
@@ -27940,7 +27940,7 @@ const dictionary = {
     "a shuttle used in weaving"
   ],
   "galangga tampin": [
-    "ᡤᠠᠯᠠᠨᡤᡤᠠ ᡨᠠᠮᡦᡳᠨ",
+    "ᡤᠠᠯᠠᠩᡤᠠ ᡨᠠᠮᡦᡳᠨ",
     "a teapot with handles"
   ],
   "galbi": [
@@ -27948,7 +27948,7 @@ const dictionary = {
     "good at hearing, possessing keen hearing"
   ],
   "galbingga": [
-    "ᡤᠠᠯᠪᡳᠨᡤᡤᠠ",
+    "ᡤᠠᠯᠪᡳᠩᡤᠠ",
     "a person with good hearing"
   ],
   "galga": [
@@ -28036,51 +28036,51 @@ const dictionary = {
     "see ganjuhan"
   ],
   "gang gang": [
-    "ᡤᠠᠨᡤ ᡤᠠᠨᡤ",
+    "ᡤᠠᠩ ᡤᠠᠩ",
     "(onom.) the sound of a flock of wild geese calling"
   ],
   "gang xeme": [
-    "ᡤᠠᠨᡤ ᡧᡝᠮᡝ",
+    "ᡤᠠᠩ ᡧᡝᠮᡝ",
     "like wild geese crying"
   ],
   "ganggada": [
-    "ᡤᠠᠨᡤᡤᠠᡩᠠ",
+    "ᡤᠠᠩᡤᠠᡩᠠ",
     "a tall person"
   ],
   "ganggadabumbi": [
-    "ᡤᠠᠨᡤᡤᠠᡩᠠᠪᡠᠮᠪᡳ",
+    "ᡤᠠᠩᡤᠠᡩᠠᠪᡠᠮᠪᡳ",
     "caus. of ganggadambi"
   ],
   "ganggadambi": [
-    "ᡤᠠᠨᡤᡤᠠᡩᠠᠮᠪᡳ",
+    "ᡤᠠᠩᡤᠠᡩᠠᠮᠪᡳ",
     "to be tall"
   ],
   "ganggahvn": [
-    "ᡤᠠᠨᡤᡤᠠᡥᡡᠨ",
+    "ᡤᠠᠩᡤᠠᡥᡡᠨ",
     "tall and skinny; cf. gakdahūn"
   ],
   "ganggan": [
-    "ᡤᠠᠨᡤᡤᠠᠨ",
+    "ᡤᠠᠩᡤᠠᠨ",
     "hard, tough, strong"
   ],
   "ganggari": [
-    "ᡤᠠᠨᡤᡤᠠᡵᡳ",
+    "ᡤᠠᠩᡤᠠᡵᡳ",
     "1. hard 2. the cry of the wild goose"
   ],
   "ganggari niongniyaha": [
-    "ᡤᠠᠨᡤᡤᠠᡵᡳ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡤᠠᠩᡤᠠᡵᡳ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "one name for the goose"
   ],
   "ganggari tuhembi": [
-    "ᡤᠠᠨᡤᡤᠠᡵᡳ ᡨᡠᡥᡝᠮᠪᡳ",
+    "ᡤᠠᠩᡤᠠᡵᡳ ᡨᡠᡥᡝᠮᠪᡳ",
     "to fall down hard"
   ],
   "ganggata": [
-    "ᡤᠠᠨᡤᡤᠠᡨᠠ",
+    "ᡤᠠᠩᡤᠠᡨᠠ",
     "tall in stature; cf. ganggada"
   ],
   "ganggi": [
-    "ᡤᠠᠨᡤᡤᡳ",
+    "ᡤᠠᠩᡤᡳ",
     "ten quadrillion"
   ],
   "ganio": [
@@ -28088,23 +28088,23 @@ const dictionary = {
     "strange, odd, extraordinary, inauspicious"
   ],
   "ganiongga": [
-    "ᡤᠠᠨᡳᠣᠨᡤᡤᠠ",
+    "ᡤᠠᠨᡳᠣᠩᡤᠠ",
     "1. monster, monstrosity 2. ominous, menacing, weird, uncanny"
   ],
   "ganiongga gasha": [
-    "ᡤᠠᠨᡳᠣᠨᡤᡤᠠ ᡤᠠᠰᡥᠠ",
+    "ᡤᠠᠨᡳᠣᠩᡤᠠ ᡤᠠᠰᡥᠠ",
     "a type of owl, the same as yabulan"
   ],
   "ganiongga gisun": [
-    "ᡤᠠᠨᡳᠣᠨᡤᡤᠠ ᡤᡳᠰᡠᠨ",
+    "ᡤᠠᠨᡳᠣᠩᡤᠠ ᡤᡳᠰᡠᠨ",
     "a magic oath"
   ],
   "ganiongga hvxahv": [
-    "ᡤᠠᠨᡳᠣᠨᡤᡤᠠ ᡥᡡᡧᠠᡥᡡ",
+    "ᡤᠠᠨᡳᠣᠩᡤᠠ ᡥᡡᡧᠠᡥᡡ",
     "the same as hūšahū"
   ],
   "ganiongga jaka": [
-    "ᡤᠠᠨᡳᠣᠨᡤᡤᠠ ᠵᠠᡴᠠ",
+    "ᡤᠠᠨᡳᠣᠩᡤᠠ ᠵᠠᡴᠠ",
     "monster, uncanny thing"
   ],
   "ganji": [
@@ -28192,7 +28192,7 @@ const dictionary = {
     "to branch (of a river)"
   ],
   "gargangga": [
-    "ᡤᠠᡵᡤᠠᠨᡤᡤᠠ",
+    "ᡤᠠᡵᡤᠠᠩᡤᠠ",
     "branching, having branches"
   ],
   "gargata": [
@@ -28252,15 +28252,15 @@ const dictionary = {
     "an extra horse (led by rope behind a rider)"
   ],
   "garingga": [
-    "ᡤᠠᡵᡳᠨᡤᡤᠠ",
+    "ᡤᠠᡵᡳᠩᡤᠠ",
     "lewd, bawdy, lustful, whore"
   ],
   "garingga hehe": [
-    "ᡤᠠᡵᡳᠨᡤᡤᠠ ᡥᡝᡥᡝ",
+    "ᡤᠠᡵᡳᠩᡤᠠ ᡥᡝᡥᡝ",
     "lewd woman, whore"
   ],
   "garingga mama": [
-    "ᡤᠠᡵᡳᠨᡤᡤᠠ ᠮᠠᠮᠠ",
+    "ᡤᠠᡵᡳᠩᡤᠠ ᠮᠠᠮᠠ",
     "mistress of a brothel"
   ],
   "garja": [
@@ -28340,19 +28340,19 @@ const dictionary = {
     "phoenix (male)"
   ],
   "garudangga": [
-    "ᡤᠠᡵᡠᡩᠠᠨᡤᡤᠠ",
+    "ᡤᠠᡵᡠᡩᠠᠩᡤᠠ",
     "like the phoenix"
   ],
   "garudangga ilha": [
-    "ᡤᠠᡵᡠᡩᠠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᡤᠠᡵᡠᡩᠠᠩᡤᠠ ᡳᠯᡥᠠ",
     "an exotic, white, autumn-blooming flower with a short stem"
   ],
   "garudangga sejen": [
-    "ᡤᠠᡵᡠᡩᠠᠨᡤᡤᠠ ᠰᡝᠵᡝᠨ",
+    "ᡤᠠᡵᡠᡩᠠᠩᡤᠠ ᠰᡝᠵᡝᠨ",
     "the carriage used by the empress and dowager empress"
   ],
   "garudangga yengguhe": [
-    "ᡤᠠᡵᡠᡩᠠᠨᡤᡤᠠ ᠶᡝᠨᡤᡤᡠᡥᡝ",
+    "ᡤᠠᡵᡠᡩᠠᠩᡤᠠ ᠶᡝᠩᡤᡠᡥᡝ",
     "a brightly colored type of parrot"
   ],
   "garukiyari": [
@@ -28364,11 +28364,11 @@ const dictionary = {
     "long leggings used for mountain climbing"
   ],
   "garunggv": [
-    "ᡤᠠᡵᡠᠨᡤᡤᡡ",
+    "ᡤᠠᡵᡠᠩᡤᡡ",
     "a mythical bird resembling a phoenix whose appearance is an omen of peace, the kalavinka bird"
   ],
   "garunggv garudai fulgiyan hoxonggo": [
-    "ᡤᠠᡵᡠᠨᡤᡤᡡ ᡤᠠᡵᡠᡩᠠᡳ ᡶᡠᠯᡤᡳᠶᠠᠨ ᡥᠣᡧᠣᠨᡤᡤᠣ",
+    "ᡤᠠᡵᡠᠩᡤᡡ ᡤᠠᡵᡠᡩᠠᡳ ᡶᡠᠯᡤᡳᠶᠠᠨ ᡥᠣᡧᠣᠩᡤᠣ",
     ""
   ],
   "xun dalikv": [
@@ -28376,7 +28376,7 @@ const dictionary = {
     "a (ceremonial) parasol"
   ],
   "garunggu garvdangga fukjingga hergen": [
-    "ᡤᠠᡵᡠᠨᡤᡤᡠ ᡤᠠᡵᡡᡩᠠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡤᠠᡵᡠᠩᡤᡠ ᡤᠠᡵᡡᡩᠠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "gasabumbi": [
@@ -28408,7 +28408,7 @@ const dictionary = {
     "large bird"
   ],
   "gashai songkonggo fukjingga hergen": [
-    "ᡤᠠᠰᡥᠠᡳ ᠰᠣᠨᡤᡴᠣᠨᡤᡤᠣ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡤᠠᠰᡥᠠᡳ ᠰᠣᠩᡴᠣᠩᡤᠣ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "gashan": [
@@ -28416,11 +28416,11 @@ const dictionary = {
     "calamity, disaster"
   ],
   "gashangga": [
-    "ᡤᠠᠰᡥᠠᠨᡤᡤᠠ",
+    "ᡤᠠᠰᡥᠠᠩᡤᠠ",
     "pertaining to large birds"
   ],
   "gashangga fukjingga hergen": [
-    "ᡤᠠᠰᡥᠠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡤᠠᠰᡥᠠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "gashatu": [
@@ -28440,11 +28440,11 @@ const dictionary = {
     "an oath"
   ],
   "gashvngga": [
-    "ᡤᠠᠰᡥᡡᠨᡤᡤᠠ",
+    "ᡤᠠᠰᡥᡡᠩᡤᠠ",
     "pursuant to an oath, sworn"
   ],
   "gashvngga ahvn deo": [
-    "ᡤᠠᠰᡥᡡᠨᡤᡤᠠ ᠠᡥᡡᠨ ᡩᡝᠣ",
+    "ᡤᠠᠰᡥᡡᠩᡤᠠ ᠠᡥᡡᠨ ᡩᡝᠣ",
     "sworn brothers"
   ],
   "gasihiyabumbi": [
@@ -28468,7 +28468,7 @@ const dictionary = {
     "the people of a village, community"
   ],
   "gaxan harangga": [
-    "ᡤᠠᡧᠠᠨ ᡥᠠᡵᠠᠨᡤᡤᠠ",
+    "ᡤᠠᡧᠠᠨ ᡥᠠᡵᠠᠩᡤᠠ",
     "the inhabitants of a village"
   ],
   "gaxan i aha": [
@@ -28560,7 +28560,7 @@ const dictionary = {
     "name and surname"
   ],
   "gebu hala i dangse": [
-    "ᡤᡝᠪᡠ ᡥᠠᠯᠠ ᡳ ᡩᠠᠨᡤᠰᡝ",
+    "ᡤᡝᠪᡠ ᡥᠠᠯᠠ ᡳ ᡩᠠᠩᠰᡝ",
     "labor service roster"
   ],
   "gebu isinaha": [
@@ -28604,11 +28604,11 @@ const dictionary = {
     "to name, to call by name"
   ],
   "gebungge": [
-    "ᡤᡝᠪᡠᠨᡤᡤᡝ",
+    "ᡤᡝᠪᡠᠩᡤᡝ",
     "1. named, bearing the name . . . 2. well-known, famous"
   ],
   "gebungge tacihiyan": [
-    "ᡤᡝᠪᡠᠨᡤᡤᡝ ᡨᠠᠴᡳᡥᡳᠶᠠᠨ",
+    "ᡤᡝᠪᡠᠩᡤᡝ ᡨᠠᠴᡳᡥᡳᠶᠠᠨ",
     "a well-known teaching"
   ],
   "gecembi": [
@@ -28628,7 +28628,7 @@ const dictionary = {
     "the name of an exotic flower that purportedly blooms in the depths of winter"
   ],
   "gecetu niongniyaha": [
-    "ᡤᡝᠴᡝᡨᡠ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡤᡝᠴᡝᡨᡠ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "one name for the wild goose"
   ],
   "gecuheri": [
@@ -28736,7 +28736,7 @@ const dictionary = {
     "brilliantly white, dazzling white"
   ],
   "gehungge yoso i909--i9i2": [
-    "ᡤᡝᡥᡠᠨᡤᡤᡝ ᠶᠣᠰᠣ ᡳ909  ᡳ9ᡳ2",
+    "ᡤᡝᡥᡠᠩᡤᡝ ᠶᠣᠰᠣ ᡳ909  ᡳ9ᡳ2",
     "the HsUan-t'ung reign period,"
   ],
   "gei seme": [
@@ -28764,7 +28764,7 @@ const dictionary = {
     "petty, small"
   ],
   "gejenggi": [
-    "ᡤᡝᠵᡝᠨᡤᡤᡳ",
+    "ᡤᡝᠵᡝᠩᡤᡳ",
     "irksome, obtrusive"
   ],
   "geji": [
@@ -28784,11 +28784,11 @@ const dictionary = {
     "to tickle under the arm"
   ],
   "gejing gejing seme": [
-    "ᡤᡝᠵᡳᠨᡤ ᡤᡝᠵᡳᠨᡤ ᠰᡝᠮᡝ",
+    "ᡤᡝᠵᡳᠩ ᡤᡝᠵᡳᠩ ᠰᡝᠮᡝ",
     "the same as gejing seme"
   ],
   "gejing seme": [
-    "ᡤᡝᠵᡳᠨᡤ ᠰᡝᠮᡝ",
+    "ᡤᡝᠵᡳᠩ ᠰᡝᠮᡝ",
     "chattering, persistent, obnoxious"
   ],
   "gejun": [
@@ -28800,7 +28800,7 @@ const dictionary = {
     "Spear Section,"
   ],
   "gejvngge deji": [
-    "ᡤᡝᠵᡡᠨᡤᡤᡝ ᡩᡝᠵᡳ",
+    "ᡤᡝᠵᡡᠩᡤᡝ ᡩᡝᠵᡳ",
     "a small amount of money taken from the winner at gambling games"
   ],
   "gejurebumbi": [
@@ -28960,7 +28960,7 @@ const dictionary = {
     "Metropolitan Circuit,"
   ],
   "gemun hecen i hafan i kunggeri": [
-    "ᡤᡝᠮᡠᠨ ᡥᡝᠴᡝᠨ ᡳ ᡥᠠᡶᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡤᡝᠮᡠᠨ ᡥᡝᠴᡝᠨ ᡳ ᡥᠠᡶᠠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of metropolitan officials in charge of hereditary appointments and enfeoffments"
   ],
   "gemun i hafasai simnen": [
@@ -28968,11 +28968,11 @@ const dictionary = {
     "the examination for the officials of the capital given every three years"
   ],
   "gemungge": [
-    "ᡤᡝᠮᡠᠨᡤᡤᡝ",
+    "ᡤᡝᠮᡠᠩᡤᡝ",
     "pertaining to the capital"
   ],
   "gemungge hecen": [
-    "ᡤᡝᠮᡠᠨᡤᡤᡝ ᡥᡝᠴᡝᠨ",
+    "ᡤᡝᠮᡠᠩᡤᡝ ᡥᡝᠴᡝᠨ",
     "the capital city; cf. gernun"
   ],
   "gen": [
@@ -28996,15 +28996,15 @@ const dictionary = {
     "1. the back of a sword or like object 2. undersurface (of a shoe) 3. the base of a wall 4. the edge of a field"
   ],
   "gencehen mukxangga fukjingga hergen": [
-    "ᡤᡝᠨᠴᡝᡥᡝᠨ ᠮᡠᡴᡧᠠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡤᡝᠨᠴᡝᡥᡝᠨ ᠮᡠᡴᡧᠠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "gencehengge": [
-    "ᡤᡝᠨᠴᡝᡥᡝᠨᡤᡤᡝ",
+    "ᡤᡝᠨᠴᡝᡥᡝᠩᡤᡝ",
     "having a back or under side"
   ],
   "gencehengge hengke": [
-    "ᡤᡝᠨᠴᡝᡥᡝᠨᡤᡤᡝ ᡥᡝᠨᡤᡴᡝ",
+    "ᡤᡝᠨᠴᡝᡥᡝᠩᡤᡝ ᡥᡝᠩᡴᡝ",
     "carambola (Averrhoa carambola)"
   ],
   "gencehexembi": [
@@ -29032,115 +29032,115 @@ const dictionary = {
     "haven't you gone yet?"
   ],
   "gengge gangga": [
-    "ᡤᡝᠨᡤᡤᡝ ᡤᠠᠨᡤᡤᠠ",
+    "ᡤᡝᠩᡤᡝ ᡤᠠᠩᡤᠠ",
     "all alone, on one's own, wandering about alone, vagrant"
   ],
   "genggecembi": [
-    "ᡤᡝᠨᡤᡤᡝᠴᡝᠮᠪᡳ",
+    "ᡤᡝᠩᡤᡝᠴᡝᠮᠪᡳ",
     "to wander from place to place, to lead the life of a vagabond"
   ],
   "genggedembi": [
-    "ᡤᡝᠨᡤᡤᡝᡩᡝᠮᠪᡳ",
+    "ᡤᡝᠩᡤᡝᡩᡝᠮᠪᡳ",
     "to be weak, to be feeble, to walk unsteadily"
   ],
   "genggehun": [
-    "ᡤᡝᠨᡤᡤᡝᡥᡠᠨ",
+    "ᡤᡝᠩᡤᡝᡥᡠᠨ",
     "bent forward, stooped"
   ],
   "genggele coko": [
-    "ᡤᡝᠨᡤᡤᡝᠯᡝ ᠴᠣᡴᠣ",
+    "ᡤᡝᠩᡤᡝᠯᡝ ᠴᠣᡴᠣ",
     "one name for the hoki pheasant; cf. gūnggala coko"
   ],
   "genggen": [
-    "ᡤᡝᠨᡤᡤᡝᠨ",
+    "ᡤᡝᠩᡤᡝᠨ",
     "soft"
   ],
   "genggerembi": [
-    "ᡤᡝᠨᡤᡤᡝᡵᡝᠮᠪᡳ",
+    "ᡤᡝᠩᡤᡝᡵᡝᠮᠪᡳ",
     "(-ke) to become weak and stooped"
   ],
   "genggeri": [
-    "ᡤᡝᠨᡤᡤᡝᡵᡳ",
+    "ᡤᡝᠩᡤᡝᡵᡳ",
     "wavering, staggering"
   ],
   "genggitungga": [
-    "ᡤᡝᠨᡤᡤᡳᡨᡠᠨᡤᡤᠠ",
+    "ᡤᡝᠩᡤᡳᡨᡠᠩᡤᠠ",
     "illustrious, manifest"
   ],
   "genggiyeken": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᡴᡝᠨ",
+    "ᡤᡝᠩᡤᡳᠶᡝᡴᡝᠨ",
     "rather clear"
   ],
   "genggiyelebumbi": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠯᡝᠪᡠᠮᠪᡳ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠯᡝᠪᡠᠮᠪᡳ",
     "caus. of genggiyelembi"
   ],
   "genggiyelembi": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠯᡝᠮᠪᡳ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠯᡝᠮᠪᡳ",
     "to make clear, to make bright, to elucidate"
   ],
   "genggiyen": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ",
     "1. bright, clear 2. enlightened"
   ],
   "genggiyen abka": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᠠᠪᡴᠠ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᠠᠪᡴᠠ",
     "clear sky, blue sky, heaven"
   ],
   "genggiyen abka gehun xun": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᠠᠪᡴᠠ ᡤᡝᡥᡠᠨ ᡧᡠᠨ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᠠᠪᡴᠠ ᡤᡝᡥᡠᠨ ᡧᡠᠨ",
     "in broad daylight"
   ],
   "genggiyen biya": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᠪᡳᠶᠠ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᠪᡳᠶᠠ",
     "bright moon"
   ],
   "genggiyen cai": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᠴᠠᡳ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᠴᠠᡳ",
     "green tea"
   ],
   "genggiyen cai i boo": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᠴᠠᡳ ᡳ ᠪᠣᠣ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᠴᠠᡳ ᡳ ᠪᠣᠣ",
     "room in the palace used for the preparation of green tea"
   ],
   "genggiyen cukvlu": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᠴᡠᡴᡡᠯᡠ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᠴᡠᡴᡡᠯᡠ",
     "night blind"
   ],
   "genggiyen duwanse": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᡩᡠᠸᠠᠨᠰᡝ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᡩᡠᠸᠠᠨᠰᡝ",
     "bright blue satin"
   ],
   "genggiyen ejen": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᡝᠵᡝᠨ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᡝᠵᡝᠨ",
     "an enlightened ruler"
   ],
   "genggiyen misun": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᠮᡳᠰᡠᠨ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᠮᡳᠰᡠᠨ",
     "soy sauce"
   ],
   "genggiyen tugi": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨ ᡨᡠᡤᡳ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨ ᡨᡠᡤᡳ",
     "a light cloud"
   ],
   "genggiyenako": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨᠠᡴᠣ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠨᠠᡴᠣ",
     "paltry, petty, unreasonable"
   ],
   "genggiyengge": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠨᡤᡤᡝ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠩᡤᡝ",
     "bright, illuminated, clear"
   ],
   "genggiyexaka": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᡧᠠᡴᠠ",
+    "ᡤᡝᠩᡤᡳᠶᡝᡧᠠᡴᠠ",
     "rather bright, rather clear"
   ],
   "genggiyesu": [
-    "ᡤᡝᠨᡤᡤᡳᠶᡝᠰᡠ",
+    "ᡤᡝᠩᡤᡳᠶᡝᠰᡠ",
     "a fourth-generation house slave"
   ],
   "genggumbi": [
-    "ᡤᡝᠨᡤᡤᡠᠮᠪᡳ",
+    "ᡤᡝᠩᡤᡠᠮᠪᡳ",
     "to stand with the head inclined slightly forward, to incline forward (of a wagon overladen in the front)"
   ],
   "geo": [
@@ -29232,7 +29232,7 @@ const dictionary = {
     "(-ke, -ndere) to become bright, to dawn"
   ],
   "gerendere ging": [
-    "ᡤᡝᡵᡝᠨᡩᡝᡵᡝ ᡤᡳᠨᡤ",
+    "ᡤᡝᡵᡝᠨᡩᡝᡵᡝ ᡤᡳᠩ",
     "the last watch (just before dawn)"
   ],
   "gerembumbi": [
@@ -29272,7 +29272,7 @@ const dictionary = {
     "son of a concubine"
   ],
   "geren kanggiri": [
-    "ᡤᡝᡵᡝᠨ ᡴᠠᠨᡤᡤᡳᡵᡳ",
+    "ᡤᡝᡵᡝᠨ ᡴᠠᠩᡤᡳᡵᡳ",
     "a percussion instrument comprising sixteen small metal gongs on a frame"
   ],
   "geren leolen": [
@@ -29300,7 +29300,7 @@ const dictionary = {
     "to prattle"
   ],
   "gerguwengge coko": [
-    "ᡤᡝᡵᡤᡠᠸᡝᠨᡤᡤᡝ ᠴᠣᡴᠣ",
+    "ᡤᡝᡵᡤᡠᠸᡝᠩᡤᡝ ᠴᠣᡴᠣ",
     "one name for the hoki pheasant; cf. gūnggala coko"
   ],
   "gerhen": [
@@ -29384,7 +29384,7 @@ const dictionary = {
     "the female phoenix"
   ],
   "gerudengge": [
-    "ᡤᡝᡵᡠᡩᡝᠨᡤᡤᡝ",
+    "ᡤᡝᡵᡠᡩᡝᠩᡤᡝ",
     "pertaining to the female phoenix"
   ],
   "gexe": [
@@ -29528,7 +29528,7 @@ const dictionary = {
     "shameful, disgraceful"
   ],
   "gicuke manggi": [
-    "ᡤᡳᠴᡠᡴᡝ ᠮᠠᠨᡤᡤᡳ",
+    "ᡤᡳᠴᡠᡴᡝ ᠮᠠᠩᡤᡳ",
     "shamefaced, embarrassed"
   ],
   "gida": [
@@ -29652,7 +29652,7 @@ const dictionary = {
     "caus. of gikimbi"
   ],
   "gikihangge": [
-    "ᡤᡳᡴᡳᡥᠠᠨᡤᡤᡝ",
+    "ᡤᡳᡴᡳᡥᠠᠩᡤᡝ",
     "a term of abuse used toward an incompetent, greedy person"
   ],
   "gikimbi": [
@@ -29664,7 +29664,7 @@ const dictionary = {
     "to have a fever"
   ],
   "gilahvn inenggi": [
-    "ᡤᡳᠯᠠᡥᡡᠨ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡤᡳᠯᠠᡥᡡᠨ ᡳᠨᡝᠩᡤᡳ",
     "cloudy day"
   ],
   "gilajan": [
@@ -29700,7 +29700,7 @@ const dictionary = {
     "to burn down to ashes, to come to the very end"
   ],
   "gilha inenggi": [
-    "ᡤᡳᠯᡥᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡤᡳᠯᡥᠠ ᡳᠨᡝᠩᡤᡳ",
     "a clear windless day"
   ],
   "gilhambi": [
@@ -29736,7 +29736,7 @@ const dictionary = {
     "pardon, forgiveness"
   ],
   "giljangga": [
-    "ᡤᡳᠯᠵᠠᠨᡤᡤᠠ",
+    "ᡤᡳᠯᠵᠠᠩᡤᠠ",
     "compassionate, merciful, clement"
   ],
   "gilmahvn": [
@@ -29796,7 +29796,7 @@ const dictionary = {
     "attractive, nice-looking, handsome"
   ],
   "giltungga": [
-    "ᡤᡳᠯᡨᡠᠨᡤᡤᠠ",
+    "ᡤᡳᠯᡨᡠᠩᡤᠠ",
     "refined, talented"
   ],
   "giltusi bh 20i": [
@@ -29812,7 +29812,7 @@ const dictionary = {
     "a Chinese constellation"
   ],
   "gimda tokdonggo kiru": [
-    "ᡤᡳᠮᡩᠠ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡤᡳᠮᡩᠠ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner of the imperial escort depicting the constellation gimda"
   ],
   "gimxu": [
@@ -29868,7 +29868,7 @@ const dictionary = {
     "flat baked wheat cakes with a smooth, shiny surface"
   ],
   "gincihiyan tuwabungga hooxan": [
-    "ᡤᡳᠨᠴᡳᡥᡳᠶᠠᠨ ᡨᡠᠸᠠᠪᡠᠨᡤᡤᠠ ᡥᠣᠣᡧᠠᠨ",
+    "ᡤᡳᠨᠴᡳᡥᡳᠶᠠᠨ ᡨᡠᠸᠠᠪᡠᠩᡤᠠ ᡥᠣᠣᡧᠠᠨ",
     "a type of slick paper used for public announcements"
   ],
   "gincihiyari taiha": [
@@ -29892,7 +29892,7 @@ const dictionary = {
     "Inspector of Prisons, 457"
   ],
   "gindana be kadalara tinggin bh": [
-    "ᡤᡳᠨᡩᠠᠨᠠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡤᡳᠨᡩᠠᠨᠠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ ᠪᡥ",
     "Prison Office, 457"
   ],
   "ginderhen": [
@@ -29900,131 +29900,131 @@ const dictionary = {
     "one name for the crested lark; cf. wenderhen"
   ],
   "ging": [
-    "ᡤᡳᠨᡤ",
+    "ᡤᡳᠩ",
     "1. watch (of the night) 2. scripture, sutra 3. capital (city)"
   ],
   "ging bithe": [
-    "ᡤᡳᠨᡤ ᠪᡳᡨᡥᡝ",
+    "ᡤᡳᠩ ᠪᡳᡨᡥᡝ",
     "Buddhist scripture"
   ],
   "ging forimbi": [
-    "ᡤᡳᠨᡤ ᡶᠣᡵᡳᠮᠪᡳ",
+    "ᡤᡳᠩ ᡶᠣᡵᡳᠮᠪᡳ",
     "to strike the watch (with a wooden clapper)"
   ],
   "ging forire niyalma": [
-    "ᡤᡳᠨᡤ ᡶᠣᡵᡳᡵᡝ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᡤᡳᠩ ᡶᠣᡵᡳᡵᡝ ᠨᡳᠶᠠᠯᠮᠠ",
     "a night watchman"
   ],
   "ging forixi": [
-    "ᡤᡳᠨᡤ ᡶᠣᡵᡳᡧᡳ",
+    "ᡤᡳᠩ ᡶᠣᡵᡳᡧᡳ",
     "watchman who strikes the night watches"
   ],
   "ging hecen": [
-    "ᡤᡳᠨᡤ ᡥᡝᠴᡝᠨ",
+    "ᡤᡳᠩ ᡥᡝᠴᡝᠨ",
     "capital city; cf. gemun hecen"
   ],
   "ginggacvn": [
-    "ᡤᡳᠨᡤᡤᠠᠴᡡᠨ",
+    "ᡤᡳᠩᡤᠠᠴᡡᠨ",
     "sad, depressing"
   ],
   "ginggambi": [
-    "ᡤᡳᠨᡤᡤᠠᠮᠪᡳ",
+    "ᡤᡳᠩᡤᠠᠮᠪᡳ",
     "see gingkambi"
   ],
   "gingge": [
-    "ᡤᡳᠨᡤᡤᡝ",
+    "ᡤᡳᠩᡤᡝ",
     "clean, pure"
   ],
   "ginggen": [
-    "ᡤᡳᠨᡤᡤᡝᠨ",
+    "ᡤᡳᠩᡤᡝᠨ",
     "a catty"
   ],
   "ginggin": [
-    "ᡤᡳᠨᡤᡤᡳᠨ",
+    "ᡤᡳᠩᡤᡳᠨ",
     "1. a piece of wood attached to a dog's neck to keep him from biting 2. see ginggen"
   ],
   "gingguhe": [
-    "ᡤᡳᠨᡤᡤᡠᡥᡝ",
+    "ᡤᡳᠩᡤᡠᡥᡝ",
     "one name for the parrot"
   ],
   "gingguji": [
-    "ᡤᡳᠨᡤᡤᡠᠵᡳ",
+    "ᡤᡳᠩᡤᡠᠵᡳ",
     "respectful, chaste"
   ],
   "ginggvji hehe": [
-    "ᡤᡳᠨᡤᡤᡡᠵᡳ ᡥᡝᡥᡝ",
+    "ᡤᡳᠩᡤᡡᠵᡳ ᡥᡝᡥᡝ",
     "the wife of an enfeoffed official of the fourth rank"
   ],
   "ginggulebumbi": [
-    "ᡤᡳᠨᡤᡤᡠᠯᡝᠪᡠᠮᠪᡳ",
+    "ᡤᡳᠩᡤᡠᠯᡝᠪᡠᠮᠪᡳ",
     "caus./pass. of ginggulembi"
   ],
   "ginggulembi": [
-    "ᡤᡳᠨᡤᡤᡠᠯᡝᠮᠪᡳ",
+    "ᡤᡳᠩᡤᡠᠯᡝᠮᠪᡳ",
     "1. to respect, to honor, to act respectfully 2. to write the standard form of the script"
   ],
   "gingguleme arambi": [
-    "ᡤᡳᠨᡤᡤᡠᠯᡝᠮᡝ ᠠᡵᠠᠮᠪᡳ",
+    "ᡤᡳᠩᡤᡠᠯᡝᠮᡝ ᠠᡵᠠᠮᠪᡳ",
     "to write the standard form of the script"
   ],
   "ginggulere hergen": [
-    "ᡤᡳᠨᡤᡤᡠᠯᡝᡵᡝ ᡥᡝᡵᡤᡝᠨ",
+    "ᡤᡳᠩᡤᡠᠯᡝᡵᡝ ᡥᡝᡵᡤᡝᠨ",
     "the standard form of the script"
   ],
   "ginggvlen": [
-    "ᡤᡳᠨᡤᡤᡡᠯᡝᠨ",
+    "ᡤᡳᠩᡤᡡᠯᡝᠨ",
     "respectful, attentive, careful"
   ],
   "ginggun": [
-    "ᡤᡳᠨᡤᡤᡠᠨ",
+    "ᡤᡳᠩᡤᡠᠨ",
     "respect, honor"
   ],
   "ginggun akv": [
-    "ᡤᡳᠨᡤᡤᡠᠨ ᠠᡴᡡ",
+    "ᡤᡳᠩᡤᡠᠨ ᠠᡴᡡ",
     "without respect or honor, improper"
   ],
   "ginggun hooxan": [
-    "ᡤᡳᠨᡤᡤᡠᠨ ᡥᠣᠣᡧᠠᠨ",
+    "ᡤᡳᠩᡤᡠᠨ ᡥᠣᠣᡧᠠᠨ",
     "a type of thick paper made in Peking"
   ],
   "ginggun kundu": [
-    "ᡤᡳᠨᡤᡤᡠᠨ ᡴᡠᠨᡩᡠ",
+    "ᡤᡳᠩᡤᡠᠨ ᡴᡠᠨᡩᡠ",
     "respect and honor"
   ],
   "gingkabumbi": [
-    "ᡤᡳᠨᡤᡴᠠᠪᡠᠮᠪᡳ",
+    "ᡤᡳᠩᡴᠠᠪᡠᠮᠪᡳ",
     "caus./pass. of aingkambi"
   ],
   "gingkacvka": [
-    "ᡤᡳᠨᡤᡴᠠᠴᡡᡴᠠ",
+    "ᡤᡳᠩᡴᠠᠴᡡᡴᠠ",
     "sad, depressing, depressed"
   ],
   "gingkambi": [
-    "ᡤᡳᠨᡤᡴᠠᠮᠪᡳ",
+    "ᡤᡳᠩᡴᠠᠮᠪᡳ",
     "to feel depressed, to feel downcast"
   ],
   "gingli": [
-    "ᡤᡳᠨᡤᠯᡳ",
+    "ᡤᡳᠩᠯᡳ",
     "registrar, proctor"
   ],
   "gingli jergi hafan": [
-    "ᡤᡳᠨᡤᠯᡳ ᠵᡝᡵᡤᡳ ᡥᠠᡶᠠᠨ",
+    "ᡤᡳᠩᠯᡳ ᠵᡝᡵᡤᡳ ᡥᠠᡶᠠᠨ",
     "official advisor"
   ],
   "gingnebvmbi": [
-    "ᡤᡳᠨᡤᠨᡝᠪᡡᠮᠪᡳ",
+    "ᡤᡳᠩᠨᡝᠪᡡᠮᠪᡳ",
     "caus. of gingnembi"
   ],
   "gingnehen (i20": [
-    "ᡤᡳᠨᡤᠨᡝᡥᡝᠨ (ᡳ20",
+    "ᡤᡳᠩᠨᡝᡥᡝᠨ (ᡳ20",
     "picul catties)"
   ],
   "gingnembi": [
-    "ᡤᡳᠨᡤᠨᡝᠮᠪᡳ",
+    "ᡤᡳᠩᠨᡝᠮᠪᡳ",
     "1. to weigh on a steelyard 2. to offer a cup with both hands at a sacrifice or shamanistic rite"
   ],
   "gingximbi": [
-    "ᡤᡳᠨᡤᡧᡳᠮᠪᡳ",
+    "ᡤᡳᠩᡧᡳᠮᠪᡳ",
     "1. to mumble 2. to growl while sleeping (of a dog) 3. to recite in a singsong fashion"
   ],
   "ginji": [
@@ -30084,7 +30084,7 @@ const dictionary = {
     "small stuffed dumplings--usually boiled"
   ],
   "giogiyangga kiyoo": [
-    "ᡤᡳᠣᡤᡳᠶᠠᠨᡤᡤᠠ ᡴᡳᠶᠣᠣ",
+    "ᡤᡳᠣᡤᡳᠶᠠᠩᡤᠠ ᡴᡳᠶᠣᠣ",
     "an open imperial sedan chair carried by sixteen people"
   ],
   "giohambi": [
@@ -30112,11 +30112,11 @@ const dictionary = {
     "chrysanthemum"
   ],
   "gioi zin bh 629b": [
-    "ᡤᡳᠣᡳ zᡳᠨ ᠪᡥ 629ᠪ",
+    "ᡤᡳᠣᡳ ᡰᡳᠨ ᠪᡥ 629ᠪ",
     "Provincial Graduate,"
   ],
   "gioingge jahvdai": [
-    "ᡤᡳᠣᡳᠨᡤᡤᡝ ᠵᠠᡥᡡᡩᠠᡳ",
+    "ᡤᡳᠣᡳᠩᡤᡝ ᠵᠠᡥᡡᡩᠠᡳ",
     "a warship with a flat keel"
   ],
   "gioise": [
@@ -30160,27 +30160,27 @@ const dictionary = {
     "coroner"
   ],
   "giranggi": [
-    "ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡤᡳᡵᠠᠩᡤᡳ",
     "bone"
   ],
   "giranggi jalan": [
-    "ᡤᡳᡵᠠᠨᡤᡤᡳ ᠵᠠᠯᠠᠨ",
+    "ᡤᡳᡵᠠᠩᡤᡳ ᠵᠠᠯᠠᠨ",
     "joint"
   ],
   "giranggi pai": [
-    "ᡤᡳᡵᠠᠨᡤᡤᡳ ᡦᠠᡳ",
+    "ᡤᡳᡵᠠᠩᡤᡳ ᡦᠠᡳ",
     "domino"
   ],
   "giranggi sasukv": [
-    "ᡤᡳᡵᠠᠨᡤᡤᡳ ᠰᠠᠰᡠᡴᡡ",
+    "ᡤᡳᡵᠠᠩᡤᡳ ᠰᠠᠰᡠᡴᡡ",
     "same as giranggi pai"
   ],
   "giranggi yali": [
-    "ᡤᡳᡵᠠᠨᡤᡤᡳ ᠶᠠᠯᡳ",
+    "ᡤᡳᡵᠠᠩᡤᡳ ᠶᠠᠯᡳ",
     "relatives, relations"
   ],
   "giranggilambi": [
-    "ᡤᡳᡵᠠᠨᡤᡤᡳᠯᠠᠮᠪᡳ",
+    "ᡤᡳᡵᠠᠩᡤᡳᠯᠠᠮᠪᡳ",
     "to be wounded to the bone"
   ],
   "giratv": [
@@ -30188,7 +30188,7 @@ const dictionary = {
     "big-boned (of livestock)"
   ],
   "giratungga": [
-    "ᡤᡳᡵᠠᡨᡠᠨᡤᡤᠠ",
+    "ᡤᡳᡵᠠᡨᡠᠩᡤᠠ",
     "big-boned, stocky"
   ],
   "girdan": [
@@ -30200,7 +30200,7 @@ const dictionary = {
     "Flags and Signals Section, 120"
   ],
   "girdangga": [
-    "ᡤᡳᡵᡩᠠᠨᡤᡤᠠ",
+    "ᡤᡳᡵᡩᠠᠩᡤᠠ",
     "outfitted with strips of pelt or cloth"
   ],
   "girdu cecike": [
@@ -30212,7 +30212,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "girha tokdonggo kirv": [
-    "ᡤᡳᡵᡥᠠ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡡ",
+    "ᡤᡳᡵᡥᠠ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡡ",
     "a banner depicting the constellation girha"
   ],
   "giri cecike": [
@@ -30700,11 +30700,11 @@ const dictionary = {
     "office of an Inspector of Military Post Stations, 754"
   ],
   "giyamun i caliyan bodoro kunggeri bh": [
-    "ᡤᡳᠶᠠᠮᡠᠨ ᡳ ᠴᠠᠯᡳᠶᠠᠨ ᠪᠣᡩᠣᡵᠣ ᡴᡠᠨᡤᡤᡝᡵᡳ ᠪᡥ",
+    "ᡤᡳᠶᠠᠮᡠᠨ ᡳ ᠴᠠᠯᡳᠶᠠᠨ ᠪᠣᡩᠣᡵᠣ ᡴᡠᠩᡤᡝᡵᡳ ᠪᡥ",
     "Military Posts Section, 425"
   ],
   "giyamun i falgangga": [
-    "ᡤᡳᠶᠠᠮᡠᠨ ᡳ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ",
+    "ᡤᡳᠶᠠᠮᡠᠨ ᡳ ᡶᠠᠯᡤᠠᠩᡤᠠ",
     "an office of the Board of War in charge of matters relating to post stations"
   ],
   "giyamun i haha": [
@@ -30784,71 +30784,71 @@ const dictionary = {
     "inspector"
   ],
   "giyang": [
-    "ᡤᡳᠶᠠᠨᡤ",
+    "ᡤᡳᠶᠠᠩ",
     "1. river 2. ginger 3. (onom.) the sound of a dog barking"
   ],
   "giyangdu": [
-    "ᡤᡳᠶᠠᠨᡤᡩᡠ",
+    "ᡤᡳᠶᠠᠩᡩᡠ",
     "cowpeas (Virga sinensis), a pastry made of cowpeas"
   ],
   "giyangga": [
-    "ᡤᡳᠶᠠᠨᡤᡤᠠ",
+    "ᡤᡳᠶᠠᠩᡤᠠ",
     "reasonable, moral"
   ],
   "giyanggiyan": [
-    "ᡤᡳᠶᠠᠨᡤᡤᡳᠶᠠᠨ",
+    "ᡤᡳᠶᠠᠩᡤᡳᠶᠠᠨ",
     "reasonable"
   ],
   "giyangguhe": [
-    "ᡤᡳᠶᠠᠨᡤᡤᡠᡥᡝ",
+    "ᡤᡳᠶᠠᠩᡤᡠᡥᡝ",
     "one name for the myna"
   ],
   "giyangka beri": [
-    "ᡤᡳᠶᠠᠨᡤᡴᠠ ᠪᡝᡵᡳ",
+    "ᡤᡳᠶᠠᠩᡴᠠ ᠪᡝᡵᡳ",
     "a gripless bow made from the horns of the water buffalo"
   ],
   "giyangkv": [
-    "ᡤᡳᠶᠠᠨᡤᡴᡡ",
+    "ᡤᡳᠶᠠᠩᡴᡡ",
     "a shirker"
   ],
   "giyangkvxambi": [
-    "ᡤᡳᠶᠠᠨᡤᡴᡡᡧᠠᠮᠪᡳ",
+    "ᡤᡳᠶᠠᠩᡴᡡᡧᠠᠮᠪᡳ",
     "to be always shirking one's duty or work"
   ],
   "giyangnabumbi": [
-    "ᡤᡳᠶᠠᠨᡤᠨᠠᠪᡠᠮᠪᡳ",
+    "ᡤᡳᠶᠠᠩᠨᠠᠪᡠᠮᠪᡳ",
     "caus. of giyangnambi"
   ],
   "giyangnakv": [
-    "ᡤᡳᠶᠠᠨᡤᠨᠠᡴᡡ",
+    "ᡤᡳᠶᠠᠩᠨᠠᡴᡡ",
     "one who insists that he is always right, an arguer"
   ],
   "giyangnakuxambi": [
-    "ᡤᡳᠶᠠᠨᡤᠨᠠᡴᡠᡧᠠᠮᠪᡳ",
+    "ᡤᡳᠶᠠᠩᠨᠠᡴᡠᡧᠠᠮᠪᡳ",
     "to be always insisting on one's own views"
   ],
   "giyangnambi": [
-    "ᡤᡳᠶᠠᠨᡤᠨᠠᠮᠪᡳ",
+    "ᡤᡳᠶᠠᠩᠨᠠᠮᠪᡳ",
     "to explain, to comment on"
   ],
   "giyangnan": [
-    "ᡤᡳᠶᠠᠨᡤᠨᠠᠨ",
+    "ᡤᡳᠶᠠᠩᠨᠠᠨ",
     "Kiangnan, the areas south of the Yangtse"
   ],
   "giyangnan goloi bolgobvre fiyenten": [
-    "ᡤᡳᠶᠠᠨᡤᠨᠠᠨ ᡤᠣᠯᠣᡳ ᠪᠣᠯᡤᠣᠪᡡᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ",
+    "ᡤᡳᠶᠠᠩᠨᠠᠨ ᡤᠣᠯᠣᡳ ᠪᠣᠯᡤᠣᠪᡡᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ",
     "a section of the Board of Finance concerned with Kiangnan"
   ],
   "giyangnan goloi falga": [
-    "ᡤᡳᠶᠠᠨᡤᠨᠠᠨ ᡤᠣᠯᠣᡳ ᡶᠠᠯᡤᠠ",
+    "ᡤᡳᠶᠠᠩᠨᠠᠨ ᡤᠣᠯᠣᡳ ᡶᠠᠯᡤᠠ",
     "office of the Board of Civil Appointments concerned with Kiangnan"
   ],
   "giyangnandumbi/giyangnanumbi": [
-    "ᡤᡳᠶᠠᠨᡤᠨᠠᠨᡩᡠᠮᠪᡳ/ᡤᡳᠶᠠᠨᡤᠨᠠᠨᡠᠮᠪᡳ",
+    "ᡤᡳᠶᠠᠩᠨᠠᠨᡩᡠᠮᠪᡳ/ᡤᡳᠶᠠᠩᠨᠠᠨᡠᠮᠪᡳ",
     "to explain (of a group)"
   ],
   "giyangsimbi": [
-    "ᡤᡳᠶᠠᠨᡤᠰᡳᠮᠪᡳ",
+    "ᡤᡳᠶᠠᠩᠰᡳᠮᠪᡳ",
     "to yelp (of dogs that are tied up and want to escape)"
   ],
   "giyansi": [
@@ -30952,11 +30952,11 @@ const dictionary = {
     "indigo blue"
   ],
   "giyengge": [
-    "ᡤᡳᠶᡝᠨᡤᡤᡝ",
+    "ᡤᡳᠶᡝᠩᡤᡝ",
     "see cunggur niyehe"
   ],
   "giyengge cecike": [
-    "ᡤᡳᠶᡝᠨᡤᡤᡝ ᠴᡝᠴᡳᡴᡝ",
+    "ᡤᡳᠶᡝᠩᡤᡝ ᠴᡝᠴᡳᡴᡝ",
     "see jirha cecike"
   ],
   "giyob seme": [
@@ -30992,7 +30992,7 @@ const dictionary = {
     "the third note in the classical pentatonic scale"
   ],
   "giyong seme": [
-    "ᡤᡳᠶᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᡤᡳᠶᠣᠩ ᠰᡝᠮᡝ",
     "(onom.) the sound made by the wings of a phoenix in flight"
   ],
   "giyoo": [
@@ -31084,11 +31084,11 @@ const dictionary = {
     "Guard of the Antechamber, 99"
   ],
   "gocikangga": [
-    "ᡤᠣᠴᡳᡴᠠᠨᡤᡤᠠ",
+    "ᡤᠣᠴᡳᡴᠠᠩᡤᠠ",
     "pertaining to the Imperial Bodyguard"
   ],
   "gocikangga mukxan": [
-    "ᡤᠣᠴᡳᡴᠠᠨᡤᡤᠠ ᠮᡠᡴᡧᠠᠨ",
+    "ᡤᠣᠴᡳᡴᠠᠩᡤᠠ ᠮᡠᡴᡧᠠᠨ",
     "a mace carried by the Imperial Bodyguard"
   ],
   "gocikv": [
@@ -31116,11 +31116,11 @@ const dictionary = {
     "cramps"
   ],
   "gocingga bvren": [
-    "ᡤᠣᠴᡳᠨᡤᡤᠠ ᠪᡡᡵᡝᠨ",
+    "ᡤᠣᠴᡳᠩᡤᠠ ᠪᡡᡵᡝᠨ",
     "a long horn made from wood, a wood-wind instrument"
   ],
   "gocingga mvdan": [
-    "ᡤᠣᠴᡳᠨᡤᡤᠠ ᠮᡡᡩᠠᠨ",
+    "ᡤᠣᠴᡳᠩᡤᠠ ᠮᡡᡩᠠᠨ",
     "the entering tone of Chinese"
   ],
   "gocishvdambi": [
@@ -31204,15 +31204,15 @@ const dictionary = {
     "three iron rings on the leather strap of a quiver"
   ],
   "gohonggo": [
-    "ᡤᠣᡥᠣᠨᡤᡤᠣ",
+    "ᡤᠣᡥᠣᠩᡤᠣ",
     "having a hook, provided with hooks, hook-shaped"
   ],
   "gohonggo xujahan": [
-    "ᡤᠣᡥᠣᠨᡤᡤᠣ ᡧᡠᠵᠠᡥᠠᠨ",
+    "ᡤᠣᡥᠣᠩᡤᠣ ᡧᡠᠵᠠᡥᠠᠨ",
     "a hook for holding a window or a plaque"
   ],
   "gohonggo wase": [
-    "ᡤᠣᡥᠣᠨᡤᡤᠣ ᠸᠠᠰᡝ",
+    "ᡤᠣᡥᠣᠩᡤᠣ ᠸᠠᠰᡝ",
     "a hook-shaped tile at the corners of a roof"
   ],
   "gohorombi": [
@@ -31276,7 +31276,7 @@ const dictionary = {
     "charming, enticing, elegant"
   ],
   "goimangga": [
-    "ᡤᠣᡳᠮᠠᠨᡤᡤᠠ",
+    "ᡤᠣᡳᠮᠠᠩᡤᠠ",
     "possessing enticements or charm"
   ],
   "goimarambi": [
@@ -31304,19 +31304,19 @@ const dictionary = {
     "(sentence particle) only, solely"
   ],
   "gojingga": [
-    "ᡤᠣᠵᡳᠨᡤᡤᠠ",
+    "ᡤᠣᠵᡳᠩᡤᠠ",
     "see gojinggi"
   ],
   "gojinggi": [
-    "ᡤᠣᠵᡳᠨᡤᡤᡳ",
+    "ᡤᠣᠵᡳᠩᡤᡳ",
     "fast-talking"
   ],
   "gojong seme": [
-    "ᡤᠣᠵᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᡤᠣᠵᠣᠩ ᠰᡝᠮᡝ",
     "fast and unclear (of speech)"
   ],
   "gojonggi": [
-    "ᡤᠣᠵᠣᠨᡤᡤᡳ",
+    "ᡤᠣᠵᠣᠩᡤᡳ",
     "the same as gojong seme"
   ],
   "gojor seme": [
@@ -31348,7 +31348,7 @@ const dictionary = {
     "ceremonial court dress without flared shoulder pieces"
   ],
   "golafungga moo": [
-    "ᡤᠣᠯᠠᡶᡠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᡤᠣᠯᠠᡶᡠᠩᡤᠠ ᠮᠣᠣ",
     "yew tree"
   ],
   "golambi": [
@@ -31384,7 +31384,7 @@ const dictionary = {
     "music played in the Hanlin Academy during banquets"
   ],
   "golmin fungku": [
-    "ᡤᠣᠯᠮᡳᠨ ᡶᡠᠨᡤᡴᡠ",
+    "ᡤᠣᠯᠮᡳᠨ ᡶᡠᠩᡴᡠ",
     "a long towel or wiping cloth"
   ],
   "golmin jan": [
@@ -31396,7 +31396,7 @@ const dictionary = {
     "a small, long, official seal used by petty provincial officials"
   ],
   "golmin uncehengge xanyan baibula": [
-    "ᡤᠣᠯᠮᡳᠨ ᡠᠨᠴᡝᡥᡝᠨᡤᡤᡝ ᡧᠠᠨᠶᠠᠨ ᠪᠠᡳᠪᡠᠯᠠ",
+    "ᡤᠣᠯᠮᡳᠨ ᡠᠨᠴᡝᡥᡝᠩᡤᡝ ᡧᠠᠨᠶᠠᠨ ᠪᠠᡳᠪᡠᠯᠠ",
     "the paradise flycatcher; cf.baibula"
   ],
   "golmishvn": [
@@ -31456,7 +31456,7 @@ const dictionary = {
     "to be startled (of a group)"
   ],
   "golonggo": [
-    "ᡤᠣᠯᠣᠨᡤᡤᠣ",
+    "ᡤᠣᠯᠣᠩᡤᠣ",
     "pertaining to a province or district"
   ],
   "golonombi": [
@@ -31488,31 +31488,31 @@ const dictionary = {
     "see hondoba"
   ],
   "gonggibumbi": [
-    "ᡤᠣᠨᡤᡤᡳᠪᡠᠮᠪᡳ",
+    "ᡤᠣᠩᡤᡳᠪᡠᠮᠪᡳ",
     "caus. of gonggimbi"
   ],
   "gonggimbi": [
-    "ᡤᠣᠨᡤᡤᡳᠮᠪᡳ",
+    "ᡤᠣᠩᡤᡳᠮᠪᡳ",
     "to send to get"
   ],
   "gonggohon": [
-    "ᡤᠣᠨᡤᡤᠣᡥᠣᠨ",
+    "ᡤᠣᠩᡤᠣᡥᠣᠨ",
     "listless, restless, bored, a listless person"
   ],
   "gonggohori": [
-    "ᡤᠣᠨᡤᡤᠣᡥᠣᡵᡳ",
+    "ᡤᠣᠩᡤᠣᡥᠣᡵᡳ",
     "plural of gonggohon"
   ],
   "gonggon": [
-    "ᡤᠣᠨᡤᡤᠣᠨ",
+    "ᡤᠣᠩᡤᠣᠨ",
     "a gacuha that is standing upright"
   ],
   "gonggori": [
-    "ᡤᠣᠨᡤᡤᠣᡵᡳ",
+    "ᡤᠣᠩᡤᠣᡵᡳ",
     "with a start"
   ],
   "gonggori ilimbi": [
-    "ᡤᠣᠨᡤᡤᠣᡵᡳ ᡳᠯᡳᠮᠪᡳ",
+    "ᡤᠣᠩᡤᠣᡵᡳ ᡳᠯᡳᠮᠪᡳ",
     "to stand up suddenly with a start"
   ],
   "gonjambi": [
@@ -31568,11 +31568,11 @@ const dictionary = {
     "a southern barbarian"
   ],
   "gorokingge": [
-    "ᡤᠣᡵᠣᡴᡳᠨᡤᡤᡝ",
+    "ᡤᠣᡵᠣᡴᡳᠩᡤᡝ",
     "a person from a distant place, a distant place"
   ],
   "gorokingge be tohorombure bolgobure fiyenten bh": [
-    "ᡤᠣᡵᠣᡴᡳᠨᡤᡤᡝ ᠪᡝ ᡨᠣᡥᠣᡵᠣᠮᠪᡠᡵᡝ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
+    "ᡤᠣᡵᠣᡴᡳᠩᡤᡝ ᠪᡝ ᡨᠣᡥᠣᡵᠣᠮᠪᡠᡵᡝ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
     "Department of Eastern Turkestan, 495"
   ],
   "gorokon": [
@@ -31612,7 +31612,7 @@ const dictionary = {
     "pitiful and suspicious"
   ],
   "gosicungga": [
-    "ᡤᠣᠰᡳᠴᡠᠨᡤᡤᠠ",
+    "ᡤᠣᠰᡳᠴᡠᠩᡤᠠ",
     "merciful, compassionate"
   ],
   "gosiholombi": [
@@ -31652,11 +31652,11 @@ const dictionary = {
     "to love one another"
   ],
   "gosingga": [
-    "ᡤᠣᠰᡳᠨᡤᡤᠠ",
+    "ᡤᠣᠰᡳᠩᡤᠠ",
     "loving, compassionate,"
   ],
   "gosingga gucu": [
-    "ᡤᠣᠰᡳᠨᡤᡤᠠ ᡤᡠᠴᡠ",
+    "ᡤᠣᠰᡳᠩᡤᠠ ᡤᡠᠴᡠ",
     "a cherished friend"
   ],
   "gositambi": [
@@ -31676,11 +31676,11 @@ const dictionary = {
     "1. father's sister 2. jadeite, nephrite, precious stone"
   ],
   "gu dengjan ilha": [
-    "ᡤᡠ ᡩᡝᠨᡤᠵᠠᠨ ᡳᠯᡥᠠ",
+    "ᡤᡠ ᡩᡝᠩᠵᠠᠨ ᡳᠯᡥᠠ",
     "a fragrant red exotic flower that blooms at night"
   ],
   "gu dung": [
-    "ᡤᡠ ᡩᡠᠨᡤ",
+    "ᡤᡠ ᡩᡠᠩ",
     "a type of thin woolen"
   ],
   "gu filekv ilha": [
@@ -31692,11 +31692,11 @@ const dictionary = {
     "gems and tortoise shell, jewels and precious stones"
   ],
   "gu honggo ilha": [
-    "ᡤᡠ ᡥᠣᠨᡤᡤᠣ ᡳᠯᡥᠠ",
+    "ᡤᡠ ᡥᠣᠩᡤᠣ ᡳᠯᡥᠠ",
     "a white, bell-shaped, exotic flower"
   ],
   "gu i ciktengge fukjingga hergen": [
-    "ᡤᡠ ᡳ ᠴᡳᡴᡨᡝᠨᡤᡤᡝ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡤᡠ ᡳ ᠴᡳᡴᡨᡝᠩᡤᡝ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "gu i cincilan": [
@@ -31704,7 +31704,7 @@ const dictionary = {
     "a jade tube used in antiquity for observing the heavens"
   ],
   "gu i deyen tugi jeksengge mudan": [
-    "ᡤᡠ ᡳ ᡩᡝᠶᡝᠨ ᡨᡠᡤᡳ ᠵᡝᡴᠰᡝᠨᡤᡤᡝ ᠮᡠᡩᠠᠨ",
+    "ᡤᡠ ᡳ ᡩᡝᠶᡝᠨ ᡨᡠᡤᡳ ᠵᡝᡴᠰᡝᠩᡤᡝ ᠮᡠᡩᠠᠨ",
     "music played while wine was offered during great banquets in the palace"
   ],
   "gu i yamun de yebken urse be isabure mudan": [
@@ -31740,15 +31740,15 @@ const dictionary = {
     "universal, all, entire"
   ],
   "gubci abkai muheliyen durungga tetun": [
-    "ᡤᡠᠪᠴᡳ ᠠᠪᡴᠠᡳ ᠮᡠᡥᡝᠯᡳᠶᡝᠨ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᡤᡠᠪᠴᡳ ᠠᠪᡴᠠᡳ ᠮᡠᡥᡝᠯᡳᠶᡝᠨ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "a global map of the heavens at the Peking observatory"
   ],
   "gubci elgiyengge i851-i861": [
-    "ᡤᡠᠪᠴᡳ ᡝᠯᡤᡳᠶᡝᠨᡤᡤᡝ ᡳ851 ᡳ861",
+    "ᡤᡠᠪᠴᡳ ᡝᠯᡤᡳᠶᡝᠩᡤᡝ ᡳ851 ᡳ861",
     "the Hsien-feng reign period,"
   ],
   "gubcingge": [
-    "ᡤᡠᠪᠴᡳᠨᡤᡤᡝ",
+    "ᡤᡠᠪᠴᡳᠩᡤᡝ",
     "universal, whole"
   ],
   "gubsu": [
@@ -31760,7 +31760,7 @@ const dictionary = {
     "to grow entangled, to be intertwined"
   ],
   "guceng": [
-    "ᡤᡠᠴᡝᠨᡤ",
+    "ᡤᡠᠴᡝᠩ",
     "jewels worn at the girdle"
   ],
   "gucihi": [
@@ -31808,7 +31808,7 @@ const dictionary = {
     "to make friends, to be friends with"
   ],
   "gucung seme": [
-    "ᡤᡠᠴᡠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡤᡠᠴᡠᠩ ᠰᡝᠮᡝ",
     "see gojong seme"
   ],
   "gucuse": [
@@ -31884,7 +31884,7 @@ const dictionary = {
     "the name of a sacrificial jade of the Hsia dynasty"
   ],
   "guhang": [
-    "ᡤᡠᡥᠠᠨᡤ",
+    "ᡤᡠᡥᠠᠩ",
     "the same as gucenp"
   ],
   "gui": [
@@ -31948,7 +31948,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "guini tokdonggo kiru": [
-    "ᡤᡠᡳᠨᡳ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡤᡠᡳᠨᡳ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation guini"
   ],
   "guioi": [
@@ -31968,7 +31968,7 @@ const dictionary = {
     "the passion flower"
   ],
   "gujung 5eme": [
-    "ᡤᡠᠵᡠᠨᡤ 5ᡝᠮᡝ",
+    "ᡤᡠᠵᡠᠩ 5ᡝᠮᡝ",
     "assiduously, concentrated, diligently"
   ],
   "gukdu gakda": [
@@ -31996,7 +31996,7 @@ const dictionary = {
     "a type of precious stone"
   ],
   "gukiong": [
-    "ᡤᡠᡴᡳᠣᠨᡤ",
+    "ᡤᡠᡴᡳᠣᠩ",
     "hyacinth (a gem)"
   ],
   "gukjurembi": [
@@ -32032,7 +32032,7 @@ const dictionary = {
     "to be annihilated, to be wiped out, to perish, to be extinguished"
   ],
   "gukung": [
-    "ᡤᡠᡴᡠᠨᡤ",
+    "ᡤᡠᡴᡠᠩ",
     "a jadelike stone"
   ],
   "gulan": [
@@ -32056,15 +32056,15 @@ const dictionary = {
     "complete, intact, entire"
   ],
   "gulhun dubengge suihe": [
-    "ᡤᡠᠯᡥᡠᠨ ᡩᡠᠪᡝᠨᡤᡤᡝ ᠰᡠᡳᡥᡝ",
+    "ᡤᡠᠯᡥᡠᠨ ᡩᡠᠪᡝᠩᡤᡝ ᠰᡠᡳᡥᡝ",
     "a tassel untrimmed at the end"
   ],
   "gulhun emu inenggi": [
-    "ᡤᡠᠯᡥᡠᠨ ᡝᠮᡠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡤᡠᠯᡥᡠᠨ ᡝᠮᡠ ᡳᠨᡝᠩᡤᡳ",
     "all day"
   ],
   "gulhun funglu jetere hafan": [
-    "ᡤᡠᠯᡥᡠᠨ ᡶᡠᠨᡤᠯᡠ ᠵᡝᡨᡝᡵᡝ ᡥᠠᡶᠠᠨ",
+    "ᡤᡠᠯᡥᡠᠨ ᡶᡠᠩᠯᡠ ᠵᡝᡨᡝᡵᡝ ᡥᠠᡶᠠᠨ",
     "fullsalaried official"
   ],
   "gulhun suwanda": [
@@ -32080,7 +32080,7 @@ const dictionary = {
     "neat, orderly"
   ],
   "guli juxen halangga niyalma": [
-    "ᡤᡠᠯᡳ ᠵᡠᡧᡝᠨ ᡥᠠᠯᠠᠨᡤᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᡤᡠᠯᡳ ᠵᡠᡧᡝᠨ ᡥᠠᠯᠠᠩᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
     "the same as jušen"
   ],
   "gulin cecike": [
@@ -32112,7 +32112,7 @@ const dictionary = {
     "a pure gold-colored silk fanparasol used by the escort of an imperial concubine of the first rank"
   ],
   "gulu hoxonggo xuxu bocoi sara": [
-    "ᡤᡠᠯᡠ ᡥᠣᡧᠣᠨᡤᡤᠣ ᡧᡠᡧᡠ ᠪᠣᠴᠣᡳ ᠰᠠᡵᠠ",
+    "ᡤᡠᠯᡠ ᡥᠣᡧᠣᠩᡤᠣ ᡧᡠᡧᡠ ᠪᠣᠴᠣᡳ ᠰᠠᡵᠠ",
     "a pure purple square umbrella"
   ],
   "gulu lamun": [
@@ -32136,7 +32136,7 @@ const dictionary = {
     "rather plain, rather unadorned"
   ],
   "gulung seme": [
-    "ᡤᡠᠯᡠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡤᡠᠯᡠᠩ ᠰᡝᠮᡝ",
     "chattering, idly (of talking)"
   ],
   "gulur seme": [
@@ -32160,147 +32160,147 @@ const dictionary = {
     "an exotic flower said to bloom in the moonlight"
   ],
   "gung": [
-    "ᡤᡠᠨᡤ",
+    "ᡤᡠᠩ",
     "1. duke 2. palace 3. merit 4. a mine"
   ],
   "gung de wesimbi": [
-    "ᡤᡠᠨᡤ ᡩᡝ ᠸᡝᠰᡳᠮᠪᡳ",
+    "ᡤᡠᠩ ᡩᡝ ᠸᡝᠰᡳᠮᠪᡳ",
     "to return to the palace"
   ],
   "gung ilgambi": [
-    "ᡤᡠᠨᡤ ᡳᠯᡤᠠᠮᠪᡳ",
+    "ᡤᡠᠩ ᡳᠯᡤᠠᠮᠪᡳ",
     "to judge merit"
   ],
   "gung ni gege i efu": [
-    "ᡤᡠᠨᡤ ᠨᡳ ᡤᡝᡤᡝ ᡳ ᡝᡶᡠ",
+    "ᡤᡠᠩ ᠨᡳ ᡤᡝᡤᡝ ᡳ ᡝᡶᡠ",
     "the daughter-in-law of a duke"
   ],
   "gung ni jui gege": [
-    "ᡤᡠᠨᡤ ᠨᡳ ᠵᡠᡳ ᡤᡝᡤᡝ",
+    "ᡤᡠᠩ ᠨᡳ ᠵᡠᡳ ᡤᡝᡤᡝ",
     "the daughter of a duke"
   ],
   "gung xeng": [
-    "ᡤᡠᠨᡤ ᡧᡝᠨᡤ",
+    "ᡤᡠᠩ ᡧᡝᠩ",
     "a scholar recommended by the local government on the basis of accomplishment and virtue"
   ],
   "gungceo": [
-    "ᡤᡠᠨᡤᠴᡝᠣ",
+    "ᡤᡠᠩᠴᡝᠣ",
     "see gungceo"
   ],
   "gungcun": [
-    "ᡤᡠᠨᡤᠴᡠᠨ",
+    "ᡤᡠᠩᠴᡠᠨ",
     "see gungceo"
   ],
   "gungd": [
-    "ᡤᡠᠨᡤᡩ",
+    "ᡤᡠᠩᡩ",
     "young master"
   ],
   "gungge": [
-    "ᡤᡠᠨᡤᡤᡝ",
+    "ᡤᡠᠩᡤᡝ",
     "merit, accomplishment"
   ],
   "gungge amban": [
-    "ᡤᡠᠨᡤᡤᡝ ᠠᠮᠪᠠᠨ",
+    "ᡤᡠᠩᡤᡝ ᠠᠮᠪᠠᠨ",
     "a meritorious official"
   ],
   "gungge amban i ulabun icihiyara kuren": [
-    "ᡤᡠᠨᡤᡤᡝ ᠠᠮᠪᠠᠨ ᡳ ᡠᠯᠠᠪᡠᠨ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᡴᡠᡵᡝᠨ",
+    "ᡤᡠᠩᡤᡝ ᠠᠮᠪᠠᠨ ᡳ ᡠᠯᠠᠪᡠᠨ ᡳᠴᡳᡥᡳᠶᠠᡵᠠ ᡴᡠᡵᡝᠨ",
     "an office charged with compiling the biographies of meritorious officials"
   ],
   "gungge be saixara goroki be bilure temgetun": [
-    "ᡤᡠᠨᡤᡤᡝ ᠪᡝ ᠰᠠᡳᡧᠠᡵᠠ ᡤᠣᡵᠣᡴᡳ ᠪᡝ ᠪᡳᠯᡠᡵᡝ ᡨᡝᠮᡤᡝᡨᡠᠨ",
+    "ᡤᡠᠩᡤᡝ ᠪᡝ ᠰᠠᡳᡧᠠᡵᠠ ᡤᠣᡵᠣᡴᡳ ᠪᡝ ᠪᡳᠯᡠᡵᡝ ᡨᡝᠮᡤᡝᡨᡠᠨ",
     "a banner of the imperial escort on which gungge be saišara goroki be bilure was written"
   ],
   "gungge ilgambi": [
-    "ᡤᡠᠨᡤᡤᡝ ᡳᠯᡤᠠᠮᠪᡳ",
+    "ᡤᡠᠩᡤᡝ ᡳᠯᡤᠠᠮᠪᡳ",
     "to judge merit"
   ],
   "gunggu": [
-    "ᡤᡠᠨᡤᡤᡠ",
+    "ᡤᡠᠩᡤᡠ",
     "the back of the head"
   ],
   "gungguceme genggeceme": [
-    "ᡤᡠᠨᡤᡤᡠᠴᡝᠮᡝ ᡤᡝᠨᡤᡤᡝᠴᡝᠮᡝ",
+    "ᡤᡠᠩᡤᡠᠴᡝᠮᡝ ᡤᡝᠩᡤᡝᠴᡝᠮᡝ",
     "irresolute, shrinking from decision or responsibility, apprehensive"
   ],
   "gungguhun cecike": [
-    "ᡤᡠᠨᡤᡤᡠᡥᡠᠨ ᠴᡝᠴᡳᡴᡝ",
+    "ᡤᡠᠩᡤᡠᡥᡠᠨ ᠴᡝᠴᡳᡴᡝ",
     "one of the names of the hoopoe; cf. indahūn cecike"
   ],
   "gunggulembi": [
-    "ᡤᡠᠨᡤᡤᡠᠯᡝᠮᠪᡳ",
+    "ᡤᡠᠩᡤᡠᠯᡝᠮᠪᡳ",
     "to shoot upward (an arrow)"
   ],
   "gunggulu": [
-    "ᡤᡠᠨᡤᡤᡠᠯᡠ",
+    "ᡤᡠᠩᡤᡠᠯᡠ",
     "crest on a bird's head"
   ],
   "gunggulun coko": [
-    "ᡤᡠᠨᡤᡤᡠᠯᡠᠨ ᠴᠣᡴᠣ",
+    "ᡤᡠᠩᡤᡠᠯᡠᠨ ᠴᠣᡴᠣ",
     "a crested chicken"
   ],
   "gunggulungge": [
-    "ᡤᡠᠨᡤᡤᡠᠯᡠᠨᡤᡤᡝ",
+    "ᡤᡠᠩᡤᡠᠯᡠᠩᡤᡝ",
     "crested"
   ],
   "gunggulungge niongniyaha": [
-    "ᡤᡠᠨᡤᡤᡠᠯᡠᠨᡤᡤᡝ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡤᡠᠩᡤᡠᠯᡠᠩᡤᡝ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "a crested goose"
   ],
   "gunggulungge saman cecike": [
-    "ᡤᡠᠨᡤᡤᡠᠯᡠᠨᡤᡤᡝ ᠰᠠᠮᠠᠨ ᠴᡝᠴᡳᡴᡝ",
+    "ᡤᡠᠩᡤᡠᠯᡠᠩᡤᡝ ᠰᠠᠮᠠᠨ ᠴᡝᠴᡳᡴᡝ",
     "a crested lark"
   ],
   "gunggulungge xe": [
-    "ᡤᡠᠨᡤᡤᡠᠯᡠᠨᡤᡤᡝ ᡧᡝ",
+    "ᡤᡠᠩᡤᡠᠯᡠᠩᡤᡝ ᡧᡝ",
     "a crested eagle"
   ],
   "gunggumbi": [
-    "ᡤᡠᠨᡤᡤᡠᠮᠪᡳ",
+    "ᡤᡠᠩᡤᡠᠮᠪᡳ",
     "1. to feel apprehension 2. to be overwhelmed (with sadness) 3. to cower, to shrink away"
   ],
   "gunggume tembi": [
-    "ᡤᡠᠨᡤᡤᡠᠮᡝ ᡨᡝᠮᠪᡳ",
+    "ᡤᡠᠩᡤᡠᠮᡝ ᡨᡝᠮᠪᡳ",
     "to sit cowering"
   ],
   "gunggun ganggan": [
-    "ᡤᡠᠨᡤᡤᡠᠨ ᡤᠠᠨᡤᡤᠠᠨ",
+    "ᡤᡠᠩᡤᡠᠨ ᡤᠠᠩᡤᠠᠨ",
     "indecisive, shrinking from decision or responsibility, apprehensive"
   ],
   "gunghun": [
-    "ᡤᡠᠨᡤᡥᡠᠨ",
+    "ᡤᡠᠩᡥᡠᠨ",
     "one of the musical notes of the pentatonic scale"
   ],
   "gungju": [
-    "ᡤᡠᠨᡤᠵᡠ",
+    "ᡤᡠᠩᠵᡠ",
     "princess"
   ],
   "gungkeri ilha": [
-    "ᡤᡠᠨᡤᡴᡝᡵᡳ ᡳᠯᡥᠠ",
+    "ᡤᡠᠩᡴᡝᡵᡳ ᡳᠯᡥᠠ",
     "magnolia"
   ],
   "gungmin": [
-    "ᡤᡠᠨᡤᠮᡳᠨ",
+    "ᡤᡠᠩᠮᡳᠨ",
     "honest, sincere, fair"
   ],
   "gungnebumbi": [
-    "ᡤᡠᠨᡤᠨᡝᠪᡠᠮᠪᡳ",
+    "ᡤᡠᠩᠨᡝᠪᡠᠮᠪᡳ",
     "caus. of gungnembi"
   ],
   "gungnecuke": [
-    "ᡤᡠᠨᡤᠨᡝᠴᡠᡴᡝ",
+    "ᡤᡠᠩᠨᡝᠴᡠᡴᡝ",
     "respectful"
   ],
   "gungnembi": [
-    "ᡤᡠᠨᡤᠨᡝᠮᠪᡳ",
+    "ᡤᡠᠩᠨᡝᠮᠪᡳ",
     "to show respect to"
   ],
   "gungnenembi": [
-    "ᡤᡠᠨᡤᠨᡝᠨᡝᠮᠪᡳ",
+    "ᡤᡠᠩᠨᡝᠨᡝᠮᠪᡳ",
     "to go to show respect"
   ],
   "gungxi": [
-    "ᡤᡠᠨᡤᡧᡳ",
+    "ᡤᡠᠩᡧᡳ",
     "clerk; cf. baita de afaha hafan"
   ],
   "gunirembi": [
@@ -32356,7 +32356,7 @@ const dictionary = {
     "the animals pass very close (at a battue)"
   ],
   "gurgungge": [
-    "ᡤᡠᡵᡤᡠᠨᡤᡤᡝ",
+    "ᡤᡠᡵᡤᡠᠩᡤᡝ",
     "decorated with animal figures"
   ],
   "gurguxembi": [
@@ -32376,7 +32376,7 @@ const dictionary = {
     "1. caus. of gurumbi 2. to move (v.t.), to transfer"
   ],
   "guribume fungnembi": [
-    "ᡤᡠᡵᡳᠪᡠᠮᡝ ᡶᡠᠨᡤᠨᡝᠮᠪᡳ",
+    "ᡤᡠᡵᡳᠪᡠᠮᡝ ᡶᡠᠩᠨᡝᠮᠪᡳ",
     "to transfer a title of enfeoffment to one's father or grandfather"
   ],
   "guribure bithe": [
@@ -32424,15 +32424,15 @@ const dictionary = {
     "1. country, tribe, people 2. ruling house, dynasty"
   ],
   "gurun be dalire gung bh": [
-    "ᡤᡠᡵᡠᠨ ᠪᡝ ᡩᠠᠯᡳᡵᡝ ᡤᡠᠨᡤ ᠪᡥ",
+    "ᡤᡠᡵᡠᠨ ᠪᡝ ᡩᠠᠯᡳᡵᡝ ᡤᡠᠩ ᠪᡥ",
     "Prince of the Blood of the fifth degree, 20"
   ],
   "gurun be dalire janggin bh": [
-    "ᡤᡠᡵᡠᠨ ᠪᡝ ᡩᠠᠯᡳᡵᡝ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡤᡠᡵᡠᠨ ᠪᡝ ᡩᠠᠯᡳᡵᡝ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Noble of the Imperial lineage of the ninth rank, 24"
   ],
   "gurun be tuwakiyara janggin bh": [
-    "ᡤᡠᡵᡠᠨ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡤᡠᡵᡠᠨ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Noble of the Imperial lineage of the eleventh rank, 26"
   ],
   "gurun boo": [
@@ -32440,11 +32440,11 @@ const dictionary = {
     "the Court"
   ],
   "gurun de aisilara gung bh 2i": [
-    "ᡤᡠᡵᡠᠨ ᡩᡝ ᠠᡳᠰᡳᠯᠠᡵᠠ ᡤᡠᠨᡤ ᠪᡥ 2ᡳ",
+    "ᡤᡠᡵᡠᠨ ᡩᡝ ᠠᡳᠰᡳᠯᠠᡵᠠ ᡤᡠᠩ ᠪᡥ 2ᡳ",
     "Prince of the Blood of the sixth degree,"
   ],
   "gurun de aisilara janggin bh": [
-    "ᡤᡠᡵᡠᠨ ᡩᡝ ᠠᡳᠰᡳᠯᠠᡵᠠ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡤᡠᡵᡠᠨ ᡩᡝ ᠠᡳᠰᡳᠯᠠᡵᠠ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Noble of the Imperial lineage of the tenth rank, 25"
   ],
   "gurun gvwa": [
@@ -32464,7 +32464,7 @@ const dictionary = {
     "monarch, ruler, king, emperor"
   ],
   "gurun i gungju bh i4": [
-    "ᡤᡠᡵᡠᠨ ᡳ ᡤᡠᠨᡤᠵᡠ ᠪᡥ ᡳ4",
+    "ᡤᡠᡵᡠᠨ ᡳ ᡤᡠᠩᠵᡠ ᠪᡥ ᡳ4",
     "Princess born to an Empress,"
   ],
   "gurun i juse be hvwaxabure yamun bh": [
@@ -32488,15 +32488,15 @@ const dictionary = {
     "to go to dig out"
   ],
   "gurung": [
-    "ᡤᡠᡵᡠᠨᡤ",
+    "ᡤᡠᡵᡠᠩ",
     "1. palace 2. constellation"
   ],
   "gurung deyen": [
-    "ᡤᡠᡵᡠᠨᡤ ᡩᡝᠶᡝᠨ",
+    "ᡤᡠᡵᡠᠩ ᡩᡝᠶᡝᠨ",
     "palace"
   ],
   "gurung de wesimbi": [
-    "ᡤᡠᡵᡠᠨᡤ ᡩᡝ ᠸᡝᠰᡳᠮᠪᡳ",
+    "ᡤᡠᡵᡠᠩ ᡩᡝ ᠸᡝᠰᡳᠮᠪᡳ",
     "to return to the palace"
   ],
   "gurunumbi": [
@@ -32604,47 +32604,47 @@ const dictionary = {
     "a short nine-holed bamboo flute"
   ],
   "guwang mucen": [
-    "ᡤᡠᠸᠠᠨᡤ ᠮᡠᠴᡝᠨ",
+    "ᡤᡠᠸᠠᠩ ᠮᡠᠴᡝᠨ",
     "a type of iron cooking pot made in Kwangtung"
   ],
   "guwangga ilha": [
-    "ᡤᡠᠸᠠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᡤᡠᠸᠠᠩᡤᠠ ᡳᠯᡥᠠ",
     "poet's jessamine (Jasminum grandiflorum)"
   ],
   "guwanggun": [
-    "ᡤᡠᠸᠠᠨᡤᡤᡠᠨ",
+    "ᡤᡠᠸᠠᠩᡤᡠᠨ",
     "undependable person, villain, rascal"
   ],
   "guwanggusa": [
-    "ᡤᡠᠸᠠᠨᡤᡤᡠᠰᠠ",
+    "ᡤᡠᠸᠠᠩᡤᡠᠰᠠ",
     "plural of guwanggun"
   ],
   "guwangguxambi": [
-    "ᡤᡠᠸᠠᠨᡤᡤᡠᡧᠠᠮᠪᡳ",
+    "ᡤᡠᠸᠠᠩᡤᡠᡧᠠᠮᠪᡳ",
     "to behave like a rascal, to act villainously"
   ],
   "guwanglambi": [
-    "ᡤᡠᠸᠠᠨᡤᠯᠠᠮᠪᡳ",
+    "ᡤᡠᠸᠠᠩᠯᠠᠮᠪᡳ",
     "to stroll, to walk about"
   ],
   "guwangse": [
-    "ᡤᡠᠸᠠᠨᡤᠰᡝ",
+    "ᡤᡠᠸᠠᠩᠰᡝ",
     "1. leg-irons, manacles 2. a crossbar of a fence with holes provided for the vertical poles"
   ],
   "guwangse sangse etubumbi": [
-    "ᡤᡠᠸᠠᠨᡤᠰᡝ ᠰᠠᠨᡤᠰᡝ ᡝᡨᡠᠪᡠᠮᠪᡳ",
+    "ᡤᡠᠸᠠᠩᠰᡝ ᠰᠠᠩᠰᡝ ᡝᡨᡠᠪᡠᠮᠪᡳ",
     "to put on leg-irons and handcuffs"
   ],
   "guwangsi": [
-    "ᡤᡠᠸᠠᠨᡤᠰᡳ",
+    "ᡤᡠᠸᠠᠩᠰᡳ",
     "banquet attendant"
   ],
   "guwangsi tebumbi": [
-    "ᡤᡠᠸᠠᠨᡤᠰᡳ ᡨᡝᠪᡠᠮᠪᡳ",
+    "ᡤᡠᠸᠠᠩᠰᡳ ᡨᡝᠪᡠᠮᠪᡳ",
     "to station a banquet attendant"
   ],
   "guwangxa": [
-    "ᡤᡠᠸᠠᠨᡤᡧᠠ",
+    "ᡤᡠᠸᠠᠩᡧᠠ",
     "fine silk from Canton"
   ],
   "guwanni": [
@@ -32744,7 +32744,7 @@ const dictionary = {
     "a type of small red bird with yellow feet"
   ],
   "guwendengge itu": [
-    "ᡤᡠᠸᡝᠨᡩᡝᠨᡤᡤᡝ ᡳᡨᡠ",
+    "ᡤᡠᠸᡝᠨᡩᡝᠩᡤᡝ ᡳᡨᡠ",
     "one name for the partridge; cf. itu"
   ],
   "guwenderhen": [
@@ -32960,7 +32960,7 @@ const dictionary = {
     "a net for catching rabbits"
   ],
   "gvlmahvngga aniya": [
-    "ᡤᡡᠯᠮᠠᡥᡡᠨᡤᡤᠠ ᠠᠨᡳᠶᠠ",
+    "ᡤᡡᠯᠮᠠᡥᡡᠩᡤᠠ ᠠᠨᡳᠶᠠ",
     "the year of the rabbit"
   ],
   "gvlturakvlambi": [
@@ -32988,31 +32988,31 @@ const dictionary = {
     "see gūna"
   ],
   "gvng gang": [
-    "ᡤᡡᠨᡤ ᡤᠠᠨᡤ",
+    "ᡤᡡᠩ ᡤᠠᠩ",
     "(onom.) the sound made by a wild goose"
   ],
   "gvnggala coko": [
-    "ᡤᡡᠨᡤᡤᠠᠯᠠ ᠴᠣᡴᠣ",
+    "ᡤᡡᠩᡤᠠᠯᠠ ᠴᠣᡴᠣ",
     "the hoki pheasant (Crossoptilon mantchuricum)"
   ],
   "gvnggari niongniyaha": [
-    "ᡤᡡᠨᡤᡤᠠᡵᡳ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡤᡡᠩᡤᠠᡵᡳ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "a type of wild goose found in the Koko Nor region"
   ],
   "gvngkali": [
-    "ᡤᡡᠨᡤᡴᠠᠯᡳ",
+    "ᡤᡡᠩᡴᠠᠯᡳ",
     "a recessed area at the foot of a riverbank"
   ],
   "gvngkambi": [
-    "ᡤᡡᠨᡤᡴᠠᠮᠪᡳ",
+    "ᡤᡡᠩᡴᠠᠮᠪᡳ",
     "to be hot and humid, to be sultry"
   ],
   "gvngkan": [
-    "ᡤᡡᠨᡤᡴᠠᠨ",
+    "ᡤᡡᠩᡴᠠᠨ",
     "Adam's apple"
   ],
   "gvngkanambi": [
-    "ᡤᡡᠨᡤᡴᠠᠨᠠᠮᠪᡳ",
+    "ᡤᡡᠩᡴᠠᠨᠠᠮᠪᡳ",
     "to have a protruding Adam's apple"
   ],
   "gvnibumbi": [
@@ -33028,7 +33028,7 @@ const dictionary = {
     "thought, opinion, feeling"
   ],
   "gvnigangga": [
-    "ᡤᡡᠨᡳᡤᠠᠨᡤᡤᠠ",
+    "ᡤᡡᠨᡳᡤᠠᠩᡤᠠ",
     "thoughtful"
   ],
   "gvnihakv": [
@@ -33076,7 +33076,7 @@ const dictionary = {
     "to cultivate one's thoughts or intentions (especially towards one's parents)"
   ],
   "gvnin cinggiya": [
-    "ᡤᡡᠨᡳᠨ ᠴᡳᠨᡤᡤᡳᠶᠠ",
+    "ᡤᡡᠨᡳᠨ ᠴᡳᠩᡤᡳᠶᠠ",
     "indecisive, vacillating"
   ],
   "gvnin de acambi": [
@@ -33156,7 +33156,7 @@ const dictionary = {
     "overbearing, domineering"
   ],
   "gvnin unenggi": [
-    "ᡤᡡᠨᡳᠨ ᡠᠨᡝᠨᡤᡤᡳ",
+    "ᡤᡡᠨᡳᠨ ᡠᠨᡝᠩᡤᡳ",
     "sincere"
   ],
   "gvnin usambi": [
@@ -33176,7 +33176,7 @@ const dictionary = {
     "to have a thought come to mind, to recall"
   ],
   "gvningga": [
-    "ᡤᡡᠨᡳᠨᡤᡤᠠ",
+    "ᡤᡡᠨᡳᠩᡤᠠ",
     "full of ideas, reflective"
   ],
   "gvninjambi": [
@@ -33252,7 +33252,7 @@ const dictionary = {
     "Lieutenant-General (of a banner), 719"
   ],
   "gvsai baitai kunggeri": [
-    "ᡤᡡᠰᠠᡳ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡤᡡᠰᠠᡳ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of banner affairs in the Board of War"
   ],
   "gvsai beise bh": [
@@ -33288,7 +33288,7 @@ const dictionary = {
     "border, boundary"
   ],
   "gvsinggeri": [
-    "ᡤᡡᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᡤᡡᠰᡳᠩᡤᡝᡵᡳ",
     "thirty times"
   ],
   "gvsita": [
@@ -33368,7 +33368,7 @@ const dictionary = {
     "see goimbi"
   ],
   "gvwaingge": [
-    "ᡤᡡᠸᠠᡳᠨᡤᡤᡝ",
+    "ᡤᡡᠸᠠᡳᠩᡤᡝ",
     "someone else's"
   ],
   "gvwaisuntumbi": [
@@ -33412,7 +33412,7 @@ const dictionary = {
     "unappetizing"
   ],
   "gvwang gvwang": [
-    "ᡤᡡᠸᠠᠨᡤ ᡤᡡᠸᠠᠨᡤ",
+    "ᡤᡡᠸᠠᠩ ᡤᡡᠸᠠᠩ",
     "(onom.) the sound of barking"
   ],
   "gvwanumbi": [
@@ -33476,7 +33476,7 @@ const dictionary = {
     "1. Kalpa, world period 2. disaster, ruin"
   ],
   "gamuliyang": [
-    "ᡤᠠᠮᡠᠯᡳᠶᠠᠨᡤ",
+    "ᡤᠠᠮᡠᠯᡳᠶᠠᠩ",
     "chameleon"
   ],
   "gan": [
@@ -33488,11 +33488,11 @@ const dictionary = {
     "steel wire"
   ],
   "gang": [
-    "ᡤᠠᠨᡤ",
+    "ᡤᠠᠩ",
     "see g'an"
   ],
   "gangga": [
-    "ᡤᠠᠨᡤᡤᠠ",
+    "ᡤᠠᠩᡤᠠ",
     "the Ganges"
   ],
   "ganje": [
@@ -33500,7 +33500,7 @@ const dictionary = {
     "sugar cane"
   ],
   "gangse": [
-    "ᡤᠠᠨᡤᠰᡝ",
+    "ᡤᠠᠩᠰᡝ",
     "a carrying-pole carried by two men"
   ],
   "ganjur nomun": [
@@ -33516,7 +33516,7 @@ const dictionary = {
     "salve, ointment"
   ],
   "gaoming": [
-    "ᡤᠠᠣᠮᡳᠨᡤ",
+    "ᡤᠠᠣᠮᡳᠩ",
     "document of posthumous enfeoffment for officials above the fifth rank"
   ],
   "gaos": [
@@ -33676,7 +33676,7 @@ const dictionary = {
     "point by point, item by item, every kind"
   ],
   "hacilame wesimbvre kunggeri": [
-    "ᡥᠠᠴᡳᠯᠠᠮᡝ ᠸᡝᠰᡳᠮᠪᡡᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡥᠠᠴᡳᠯᠠᠮᡝ ᠸᡝᠰᡳᠮᠪᡡᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "office concerned with preparing itemized reports for the emperor"
   ],
   "hacin": [
@@ -33700,11 +33700,11 @@ const dictionary = {
     "the evening of the lantern festival"
   ],
   "hacin inenggi": [
-    "ᡥᠠᠴᡳᠨ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡥᠠᠴᡳᠨ ᡳᠨᡝᠩᡤᡳ",
     "1. the fifteenth day of the first month 2. various auspicious days such as the fifteenth of the first month and the second day of the second month"
   ],
   "hacin meyen i dangse": [
-    "ᡥᠠᠴᡳᠨ ᠮᡝᠶᡝᠨ ᡳ ᡩᠠᠨᡤᠰᡝ",
+    "ᡥᠠᠴᡳᠨ ᠮᡝᠶᡝᠨ ᡳ ᡩᠠᠩᠰᡝ",
     "land record books"
   ],
   "hacin tome": [
@@ -33712,7 +33712,7 @@ const dictionary = {
     "each kind, every item, item by item, altogether"
   ],
   "hacingga": [
-    "ᡥᠠᠴᡳᠨᡤᡤᠠ",
+    "ᡥᠠᠴᡳᠩᡤᠠ",
     "all kinds of"
   ],
   "hacuhan": [
@@ -33880,15 +33880,15 @@ const dictionary = {
     "Board of Civil Appointments, 333"
   ],
   "hafan i jurgan i kungge yamun": [
-    "ᡥᠠᡶᠠᠨ ᡳ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝ ᠶᠠᠮᡠᠨ",
+    "ᡥᠠᡶᠠᠨ ᡳ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡠᠩᡤᡝ ᠶᠠᠮᡠᠨ",
     "section of Personnel of the Censorate"
   ],
   "hafan i tangkan": [
-    "ᡥᠠᡶᠠᠨ ᡳ ᡨᠠᠨᡤᡴᠠᠨ",
+    "ᡥᠠᡶᠠᠨ ᡳ ᡨᠠᠩᡴᠠᠨ",
     "an official grade or rank"
   ],
   "hafan i temgetu i kunggeri": [
-    "ᡥᠠᡶᠠᠨ ᡳ ᡨᡝᠮᡤᡝᡨᡠ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡥᠠᡶᠠᠨ ᡳ ᡨᡝᠮᡤᡝᡨᡠ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "an office of the Board of Civil Appointments charged with issuing orders to local officials who were appointed monthly and with checking on the terms of those previously appointed"
   ],
   "hafan jergi": [
@@ -33976,7 +33976,7 @@ const dictionary = {
     "to pat affectionately, to flatter"
   ],
   "hafixangga": [
-    "ᡥᠠᡶᡳᡧᠠᠨᡤᡤᠠ",
+    "ᡥᠠᡶᡳᡧᠠᠩᡤᠠ",
     "obsequious, flattering"
   ],
   "hafitambi": [
@@ -34004,7 +34004,7 @@ const dictionary = {
     "penetrating, thorough, throughout, total, comprehensive"
   ],
   "hafu hiyooxungga": [
-    "ᡥᠠᡶᡠ ᡥᡳᠶᠣᠣᡧᡠᠨᡤᡤᠠ",
+    "ᡥᠠᡶᡠ ᡥᡳᠶᠣᠣᡧᡠᠩᡤᠠ",
     "thoroughly filial"
   ],
   "hafukiyaobi": [
@@ -34056,23 +34056,23 @@ const dictionary = {
     "to connect with another place, to form a free passage to another place"
   ],
   "hafungga": [
-    "ᡥᠠᡶᡠᠨᡤᡤᠠ",
+    "ᡥᠠᡶᡠᠩᡤᠠ",
     "thorough, constant"
   ],
   "hafungga boo": [
-    "ᡥᠠᡶᡠᠨᡤᡤᠠ ᠪᠣᠣ",
+    "ᡥᠠᡶᡠᠩᡤᠠ ᠪᠣᠣ",
     "in a house, a central room that connects with both front and back rooms"
   ],
   "hafungga mahatun": [
-    "ᡥᠠᡶᡠᠨᡤᡤᠠ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᡥᠠᡶᡠᠩᡤᠠ ᠮᠠᡥᠠᡨᡠᠨ",
     "a hat with openings on both sides"
   ],
   "hafungga omolo": [
-    "ᡥᠠᡶᡠᠨᡤᡤᠠ ᠣᠮᠣᠯᠣ",
+    "ᡥᠠᡶᡠᠩᡤᠠ ᠣᠮᠣᠯᠣ",
     "a descendant of the sixth generation"
   ],
   "hafungga talu": [
-    "ᡥᠠᡶᡠᠨᡤᡤᠠ ᡨᠠᠯᡠ",
+    "ᡥᠠᡶᡠᠩᡤᠠ ᡨᠠᠯᡠ",
     "a thoroughfare"
   ],
   "hafunjibumbi": [
@@ -34116,7 +34116,7 @@ const dictionary = {
     "an earring with a single pearl"
   ],
   "hahangge": [
-    "ᡥᠠᡥᠠᠨᡤᡤᡝ",
+    "ᡥᠠᡥᠠᠩᡤᡝ",
     "male, masculine"
   ],
   "haharambi": [
@@ -34176,7 +34176,7 @@ const dictionary = {
     "1. to hold by the throat continually, to throttle 2. to accuse obstinately"
   ],
   "haicing": [
-    "ᡥᠠᡳᠴᡳᠨᡤ",
+    "ᡥᠠᡳᠴᡳᠩ",
     "the peregrine falcon; cf. šongkon"
   ],
   "haidan": [
@@ -34276,11 +34276,11 @@ const dictionary = {
     "Mongolian lark (Melanocorypha mongolica)"
   ],
   "haihvngga": [
-    "ᡥᠠᡳᡥᡡᠨᡤᡤᠠ",
+    "ᡥᠠᡳᡥᡡᠩᡤᠠ",
     "soft, supple"
   ],
   "haihvngga xufa": [
-    "ᡥᠠᡳᡥᡡᠨᡤᡤᠠ ᡧᡠᡶᠠ",
+    "ᡥᠠᡳᡥᡡᠩᡤᠠ ᡧᡠᡶᠠ",
     "a new-style handkerchief"
   ],
   "haihvwa": [
@@ -34292,7 +34292,7 @@ const dictionary = {
     "a mode of Manchu singing during which the singer imitates the movements of a snake"
   ],
   "haijung seme": [
-    "ᡥᠠᡳᠵᡠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡥᠠᡳᠵᡠᠩ ᠰᡝᠮᡝ",
     "reeling under a heavy load"
   ],
   "hailambi": [
@@ -34372,7 +34372,7 @@ const dictionary = {
     "a large wild pig"
   ],
   "haitang": [
-    "ᡥᠠᡳᡨᠠᠨᡤ",
+    "ᡥᠠᡳᡨᠠᠩ",
     "crab apple"
   ],
   "hajan": [
@@ -34408,7 +34408,7 @@ const dictionary = {
     "affection"
   ],
   "hajingga baibula": [
-    "ᡥᠠᠵᡳᠨᡤᡤᠠ ᠪᠠᡳᠪᡠᠯᠠ",
+    "ᡥᠠᠵᡳᠩᡤᠠ ᠪᠠᡳᠪᡠᠯᠠ",
     "one of the names of the paradise flycatcher; cf. baibula"
   ],
   "hajun": [
@@ -34444,11 +34444,11 @@ const dictionary = {
     "1. steep, precipitous 2. cruel, brutal 3. golden, reddish brown"
   ],
   "haksan bocoi junggidei kiyoo": [
-    "ᡥᠠᡴᠰᠠᠨ ᠪᠣᠴᠣᡳ ᠵᡠᠨᡤᡤᡳᡩᡝᡳ ᡴᡳᠶᠣᠣ",
+    "ᡥᠠᡴᠰᠠᠨ ᠪᠣᠴᠣᡳ ᠵᡠᠩᡤᡳᡩᡝᡳ ᡴᡳᠶᠣᠣ",
     "a yellow sedan chair carried by eight men that was used by concubines of the second rank"
   ],
   "haksan bocoi suje de aisin dambuha garudangga kiru": [
-    "ᡥᠠᡴᠰᠠᠨ ᠪᠣᠴᠣᡳ ᠰᡠᠵᡝ ᡩᡝ ᠠᡳᠰᡳᠨ ᡩᠠᠮᠪᡠᡥᠠ ᡤᠠᡵᡠᡩᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᡥᠠᡴᠰᠠᠨ ᠪᠣᠴᠣᡳ ᠰᡠᠵᡝ ᡩᡝ ᠠᡳᠰᡳᠨ ᡩᠠᠮᠪᡠᡥᠠ ᡤᠠᡵᡠᡩᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner used by the escort of concubines of the second class--it had a phoenix embroidered upon a yellow background"
   ],
   "haksan hakcin": [
@@ -34460,7 +34460,7 @@ const dictionary = {
     "a yellow sash worn by members of the imperial clan"
   ],
   "haksangga efen": [
-    "ᡥᠠᡴᠰᠠᠨᡤᡤᠠ ᡝᡶᡝᠨ",
+    "ᡥᠠᡴᠰᠠᠩᡤᠠ ᡝᡶᡝᠨ",
     "a type of baked wheat cake"
   ],
   "hakxabumbi": [
@@ -34520,7 +34520,7 @@ const dictionary = {
     "to exchange together"
   ],
   "halangga": [
-    "ᡥᠠᠯᠠᠨᡤᡤᠠ",
+    "ᡥᠠᠯᠠᠩᡤᠠ",
     "belonging to the same clan or family"
   ],
   "halanjambi": [
@@ -34620,15 +34620,15 @@ const dictionary = {
     "flat bean (Dolichos lablab)"
   ],
   "halfiyangga": [
-    "ᡥᠠᠯᡶᡳᠶᠠᠨᡤᡤᠠ",
+    "ᡥᠠᠯᡶᡳᠶᠠᠩᡤᠠ",
     "flat in form"
   ],
   "halfiyangga jahudai": [
-    "ᡥᠠᠯᡶᡳᠶᠠᠨᡤᡤᠠ ᠵᠠᡥᡠᡩᠠᡳ",
+    "ᡥᠠᠯᡶᡳᠶᠠᠩᡤᠠ ᠵᠠᡥᡠᡩᠠᡳ",
     "a type of flatboat used on the Yangtze"
   ],
   "halfiyangga tungken": [
-    "ᡥᠠᠯᡶᡳᠶᠠᠨᡤᡤᠠ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᡥᠠᠯᡶᡳᠶᠠᠩᡤᠠ ᡨᡠᠩᡴᡝᠨ",
     "a flat drum used in religious services"
   ],
   "halgibumbi": [
@@ -34712,7 +34712,7 @@ const dictionary = {
     "thick cotton trousers"
   ],
   "halungga gvlha": [
-    "ᡥᠠᠯᡠᠨᡤᡤᠠ ᡤᡡᠯᡥᠠ",
+    "ᡥᠠᠯᡠᠩᡤᠠ ᡤᡡᠯᡥᠠ",
     "fur-lined boots"
   ],
   "hamgiya": [
@@ -34800,7 +34800,7 @@ const dictionary = {
     "the second star of the Great Dipper"
   ],
   "han dung": [
-    "ᡥᠠᠨ ᡩᡠᠨᡤ",
+    "ᡥᠠᠨ ᡩᡠᠩ",
     "reservoir, tank"
   ],
   "hana": [
@@ -34824,7 +34824,7 @@ const dictionary = {
     "near, near place, vicinity"
   ],
   "hancikingge": [
-    "ᡥᠠᠨᠴᡳᡴᡳᠨᡤᡤᡝ",
+    "ᡥᠠᠨᠴᡳᡴᡳᠩᡤᡝ",
     "that which is near, one who is nearby"
   ],
   "hancuha mucen": [
@@ -34880,71 +34880,71 @@ const dictionary = {
     "a round vessel for holding grain offerings at sacrifices"
   ],
   "hanggabumbi": [
-    "ᡥᠠᠨᡤᡤᠠᠪᡠᠮᠪᡳ",
+    "ᡥᠠᠩᡤᠠᠪᡠᠮᠪᡳ",
     "1. caus. of hanggambi 2. to impede, to hinder, to obstruct,to occlude 3. to spoil"
   ],
   "hanggai": [
-    "ᡥᠠᠨᡤᡤᠠᡳ",
+    "ᡥᠠᠩᡤᠠᡳ",
     "packsaddle"
   ],
   "hanggai enggemu": [
-    "ᡥᠠᠨᡤᡤᠠᡳ ᡝᠨᡤᡤᡝᠮᡠ",
+    "ᡥᠠᠩᡤᠠᡳ ᡝᠩᡤᡝᠮᡠ",
     "the same as hanggai"
   ],
   "hanggai niru": [
-    "ᡥᠠᠨᡤᡤᠠᡳ ᠨᡳᡵᡠ",
+    "ᡥᠠᠩᡤᠠᡳ ᠨᡳᡵᡠ",
     "an unpolished, rusty arrowhead"
   ],
   "hanggambi": [
-    "ᡥᠠᠨᡤᡤᠠᠮᠪᡳ",
+    "ᡥᠠᠩᡤᠠᠮᠪᡳ",
     "to solder, to weld, to repair metal pots"
   ],
   "hanggi": [
-    "ᡥᠠᠨᡤᡤᡳ",
+    "ᡥᠠᠩᡤᡳ",
     "see hangki"
   ],
   "hanggir hinggir": [
-    "ᡥᠠᠨᡤᡤᡳᡵ ᡥᡳᠨᡤᡤᡳᡵ",
+    "ᡥᠠᠩᡤᡳᡵ ᡥᡳᠩᡤᡳᡵ",
     "(onom.) the tinkle of bracelets and anklets"
   ],
   "hanggir seme": [
-    "ᡥᠠᠨᡤᡤᡳᡵ ᠰᡝᠮᡝ",
+    "ᡥᠠᠩᡤᡳᡵ ᠰᡝᠮᡝ",
     "tinkling, jingling"
   ],
   "hanggisun": [
-    "ᡥᠠᠨᡤᡤᡳᠰᡠᠨ",
+    "ᡥᠠᠩᡤᡳᠰᡠᠨ",
     "a long silk cloth fringed at both ends"
   ],
   "hangki": [
-    "ᡥᠠᠨᡤᡴᡳ",
+    "ᡥᠠᠩᡴᡳ",
     "China-berry tree (Melia japonica)"
   ],
   "hangnabumbi": [
-    "ᡥᠠᠨᡤᠨᠠᠪᡠᠮᠪᡳ",
+    "ᡥᠠᠩᠨᠠᠪᡠᠮᠪᡳ",
     "caus. of hangnambi"
   ],
   "hangnara faksi": [
-    "ᡥᠠᠨᡤᠨᠠᡵᠠ ᡶᠠᡴᠰᡳ",
+    "ᡥᠠᠩᠨᠠᡵᠠ ᡶᠠᡴᠰᡳ",
     "a repairer of pots"
   ],
   "hangnara okto": [
-    "ᡥᠠᠨᡤᠨᠠᡵᠠ ᠣᡴᡨᠣ",
+    "ᡥᠠᠩᠨᠠᡵᠠ ᠣᡴᡨᠣ",
     "solder"
   ],
   "hangnan": [
-    "ᡥᠠᠨᡤᠨᠠᠨ",
+    "ᡥᠠᠩᠨᠠᠨ",
     "solder"
   ],
   "hangnasi": [
-    "ᡥᠠᠨᡤᠨᠠᠰᡳ",
+    "ᡥᠠᠩᠨᠠᠰᡳ",
     "borax"
   ],
   "hangse": [
-    "ᡥᠠᠨᡤᠰᡝ",
+    "ᡥᠠᠩᠰᡝ",
     "noodles"
   ],
   "hangsi": [
-    "ᡥᠠᠨᡤᠰᡳ",
+    "ᡥᠠᠩᠰᡳ",
     "1. a type of very thin silk 2. the spring festival falling on the 5th or 6th of April"
   ],
   "hani majige": [
@@ -35000,19 +35000,19 @@ const dictionary = {
     "to produce foxtails, to produce weeds"
   ],
   "harangga": [
-    "ᡥᠠᡵᠠᠨᡤᡤᠠ",
+    "ᡥᠠᡵᠠᠩᡤᠠ",
     "1. subordinate, subject, belonging to, vassal to 2. (the one) in question, the said . . . , the appropriate . . ."
   ],
   "harangga aiman be aliha aliha bolgobure fiyenten bh": [
-    "ᡥᠠᡵᠠᠨᡤᡤᠠ ᠠᡳᠮᠠᠨ ᠪᡝ ᠠᠯᡳᡥᠠ ᠠᠯᡳᡥᠠ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
+    "ᡥᠠᡵᠠᠩᡤᠠ ᠠᡳᠮᠠᠨ ᠪᡝ ᠠᠯᡳᡥᠠ ᠠᠯᡳᡥᠠ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
     "Department of t e Outer Mongols, 495"
   ],
   "harangga ba": [
-    "ᡥᠠᡵᠠᠨᡤᡤᠠ ᠪᠠ",
+    "ᡥᠠᡵᠠᠩᡤᠠ ᠪᠠ",
     "a dependent or subordinate area"
   ],
   "harangga hafan": [
-    "ᡥᠠᡵᠠᠨᡤᡤᠠ ᡥᠠᡶᠠᠨ",
+    "ᡥᠠᡵᠠᠩᡤᠠ ᡥᠠᡶᠠᠨ",
     "subordinate (official)"
   ],
   "haratu": [
@@ -35052,7 +35052,7 @@ const dictionary = {
     "to look up, to look into the distance"
   ],
   "hargaxara dorolonggo kunggeri": [
-    "ᡥᠠᡵᡤᠠᡧᠠᡵᠠ ᡩᠣᡵᠣᠯᠣᠨᡤᡤᠣ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡥᠠᡵᡤᠠᡧᠠᡵᠠ ᡩᠣᡵᠣᠯᠣᠩᡤᠣ ᡴᡠᠩᡤᡝᡵᡳ",
     "a bureau charged with checking the credentials of those granted imperial audiences"
   ],
   "hargaxan": [
@@ -35060,7 +35060,7 @@ const dictionary = {
     "the court"
   ],
   "hargaxan de hengkilenjire bolgobure fiyenten bh": [
-    "ᡥᠠᡵᡤᠠᡧᠠᠨ ᡩᡝ ᡥᡝᠨᡤᡴᡳᠯᡝᠨᠵᡳᡵᡝ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
+    "ᡥᠠᡵᡤᠠᡧᠠᠨ ᡩᡝ ᡥᡝᠩᡴᡳᠯᡝᠨᠵᡳᡵᡝ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
     "Department for Receiving Princes of Inner Mongolia, 495"
   ],
   "hargaxanambi": [
@@ -35076,7 +35076,7 @@ const dictionary = {
     "to come to court"
   ],
   "hargaxanjire acanjire kunggeri": [
-    "ᡥᠠᡵᡤᠠᡧᠠᠨᠵᡳᡵᡝ ᠠᠴᠠᠨᠵᡳᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡥᠠᡵᡤᠠᡧᠠᠨᠵᡳᡵᡝ ᠠᠴᠠᠨᠵᡳᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "a bureau of the Imperial Patent Office that was concerned with imperial audiences"
   ],
   "hargi": [
@@ -35140,7 +35140,7 @@ const dictionary = {
     "to hurt like hell"
   ],
   "haringga": [
-    "ᡥᠠᡵᡳᠨᡤᡤᠠ",
+    "ᡥᠠᡵᡳᠩᡤᠠ",
     "see garingga"
   ],
   "harkasi": [
@@ -35164,7 +35164,7 @@ const dictionary = {
     "to cover up for one another, to protect one another"
   ],
   "hartungga": [
-    "ᡥᠠᡵᡨᡠᠨᡤᡤᠠ",
+    "ᡥᠠᡵᡨᡠᠩᡤᠠ",
     "1. subordinates, subjects 2. Chinese banner troops in the provinces"
   ],
   "hasaha": [
@@ -35180,7 +35180,7 @@ const dictionary = {
     "to cut with scissors or shears"
   ],
   "hasahangga fukjingga hergen": [
-    "ᡥᠠᠰᠠᡥᠠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡥᠠᠰᠠᡥᠠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "hasala": [
@@ -35236,7 +35236,7 @@ const dictionary = {
     "first department (of a governmental organ)"
   ],
   "hashv tonggo tabumbi": [
-    "ᡥᠠᠰᡥᡡ ᡨᠣᠨᡤᡤᠣ ᡨᠠᠪᡠᠮᠪᡳ",
+    "ᡥᠠᠰᡥᡡ ᡨᠣᠩᡤᠣ ᡨᠠᠪᡠᠮᠪᡳ",
     "to fasten the thread on the left side"
   ],
   "hashvtai": [
@@ -35272,11 +35272,11 @@ const dictionary = {
     "Manchurian crayfish"
   ],
   "hasingga": [
-    "ᡥᠠᠰᡳᠨᡤᡤᠠ",
+    "ᡥᠠᠰᡳᠩᡤᠠ",
     "pertaining to the persimmon, persimmon-shaped"
   ],
   "hasingga tampin": [
-    "ᡥᠠᠰᡳᠨᡤᡤᠠ ᡨᠠᠮᡦᡳᠨ",
+    "ᡥᠠᠰᡳᠩᡤᠠ ᡨᠠᠮᡦᡳᠨ",
     "a persimmon-shaped container"
   ],
   "hasiri": [
@@ -35340,7 +35340,7 @@ const dictionary = {
     "a scrubbing brush made from kaoliang stalks or the stalks of other grains"
   ],
   "haxakv dengjan": [
-    "ᡥᠠᡧᠠᡴᡡ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡥᠠᡧᠠᡴᡡ ᡩᡝᠩᠵᠠᠨ",
     "lanterns placed on the four corners of the yellow tent in temples and at altars on days of sacrifice"
   ],
   "haxambi": [
@@ -35512,7 +35512,7 @@ const dictionary = {
     "to have an adulterous affair"
   ],
   "hebengge": [
-    "ᡥᡝᠪᡝᠨᡤᡤᡝ",
+    "ᡥᡝᠪᡝᠩᡤᡝ",
     "1. of one mind, in agreement 2. obedient to the pull of the reins"
   ],
   "heberembi": [
@@ -35668,11 +35668,11 @@ const dictionary = {
     "loop for a button"
   ],
   "hehei lang": [
-    "ᡥᡝᡥᡝᡳ ᠯᠠᠨᡤ",
+    "ᡥᡝᡥᡝᡳ ᠯᠠᠩ",
     "young girl"
   ],
   "hehengge": [
-    "ᡥᡝᡥᡝᠨᡤᡤᡝ",
+    "ᡥᡝᡥᡝᠩᡤᡝ",
     "female, pertaining to women, feminine"
   ],
   "heherdembi": [
@@ -35924,79 +35924,79 @@ const dictionary = {
     "to say, to speak"
   ],
   "heng o enduri o": [
-    "ᡥᡝᠨᡤ ᠣ ᡝᠨᡩᡠᡵᡳ ᠣ",
+    "ᡥᡝᠩ ᠣ ᡝᠨᡩᡠᡵᡳ ᠣ",
     "the moon goddess Heng"
   ],
   "hengge": [
-    "ᡥᡝᠨᡤᡤᡝ",
+    "ᡥᡝᠩᡤᡝ",
     "see hengke"
   ],
   "henggenembi": [
-    "ᡥᡝᠨᡤᡤᡝᠨᡝᠮᠪᡳ",
+    "ᡥᡝᠩᡤᡝᠨᡝᠮᠪᡳ",
     "to have an unkempt appearance, to be uncombed and dirty"
   ],
   "henggilembi": [
-    "ᡥᡝᠨᡤᡤᡳᠯᡝᠮᠪᡳ",
+    "ᡥᡝᠩᡤᡳᠯᡝᠮᠪᡳ",
     "see hengkilembi"
   ],
   "hengke": [
-    "ᡥᡝᠨᡤᡴᡝ",
+    "ᡥᡝᠩᡴᡝ",
     "melon, cucurbitaceous plants"
   ],
   "hengkeri": [
-    "ᡥᡝᠨᡤᡴᡝᡵᡳ",
+    "ᡥᡝᠩᡴᡝᡵᡳ",
     "a type of small melon"
   ],
   "hengkeri fulana ilha": [
-    "ᡥᡝᠨᡤᡴᡝᡵᡳ ᡶᡠᠯᠠᠨᠠ ᡳᠯᡥᠠ",
+    "ᡥᡝᠩᡴᡝᡵᡳ ᡶᡠᠯᠠᠨᠠ ᡳᠯᡥᠠ",
     "Pirus spectabilis"
   ],
   "hengki": [
-    "ᡥᡝᠨᡤᡴᡳ",
+    "ᡥᡝᠩᡴᡳ",
     "shortened imperative of hengkilembi"
   ],
   "hengkilebumbi": [
-    "ᡥᡝᠨᡤᡴᡳᠯᡝᠪᡠᠮᠪᡳ",
+    "ᡥᡝᠩᡴᡳᠯᡝᠪᡠᠮᠪᡳ",
     "1. caus. of hengkilembi 2. to have shares equally apportioned according to the number of people"
   ],
   "hengkileku": [
-    "ᡥᡝᠨᡤᡴᡳᠯᡝᡴᡠ",
+    "ᡥᡝᠩᡴᡳᠯᡝᡴᡠ",
     "1. a clamp for holding together broken objects 2. the hammer on a musket 3. one who kowtows"
   ],
   "hengkileku umiyaha": [
-    "ᡥᡝᠨᡤᡴᡳᠯᡝᡴᡠ ᡠᠮᡳᠶᠠᡥᠠ",
+    "ᡥᡝᠩᡴᡳᠯᡝᡴᡠ ᡠᠮᡳᠶᠠᡥᠠ",
     "a 'kowtow bug'--a small black beetlelike bug that makes a kowtowing motion"
   ],
   "hengkilembi": [
-    "ᡥᡝᠨᡤᡴᡳᠯᡝᠮᠪᡳ",
+    "ᡥᡝᠩᡴᡳᠯᡝᠮᠪᡳ",
     "to kowtow, to prostrate oneself"
   ],
   "hengkilendumbi/hengkilenumbi": [
-    "ᡥᡝᠨᡤᡴᡳᠯᡝᠨᡩᡠᠮᠪᡳ/ᡥᡝᠨᡤᡴᡳᠯᡝᠨᡠᠮᠪᡳ",
+    "ᡥᡝᠩᡴᡳᠯᡝᠨᡩᡠᠮᠪᡳ/ᡥᡝᠩᡴᡳᠯᡝᠨᡠᠮᠪᡳ",
     "to kowtow together"
   ],
   "hengkilenembi": [
-    "ᡥᡝᠨᡤᡴᡳᠯᡝᠨᡝᠮᠪᡳ",
+    "ᡥᡝᠩᡴᡳᠯᡝᠨᡝᠮᠪᡳ",
     "to go to kowtow, to go to court"
   ],
   "hengkilenjimbi": [
-    "ᡥᡝᠨᡤᡴᡳᠯᡝᠨᠵᡳᠮᠪᡳ",
+    "ᡥᡝᠩᡴᡳᠯᡝᠨᠵᡳᠮᠪᡳ",
     "to come to kowtow, to come to court"
   ],
   "hengkin": [
-    "ᡥᡝᠨᡤᡴᡳᠨ",
+    "ᡥᡝᠩᡴᡳᠨ",
     "a kowtow, a prostration"
   ],
   "hengkin i tuwabun": [
-    "ᡥᡝᠨᡤᡴᡳᠨ ᡳ ᡨᡠᠸᠠᠪᡠᠨ",
+    "ᡥᡝᠩᡴᡳᠨ ᡳ ᡨᡠᠸᠠᠪᡠᠨ",
     "name list of officials granted audiences at court"
   ],
   "hengkin i tuwabun i kunggeri": [
-    "ᡥᡝᠨᡤᡴᡳᠨ ᡳ ᡨᡠᠸᠠᠪᡠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡥᡝᠩᡴᡳᠨ ᡳ ᡨᡠᠸᠠᠪᡠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "an office of the Court of Banqueting concerned with the above-mentioned list"
   ],
   "hengkixembi": [
-    "ᡥᡝᠨᡤᡴᡳᡧᡝᠮᠪᡳ",
+    "ᡥᡝᠩᡴᡳᡧᡝᠮᠪᡳ",
     "to kowtow repeatedly"
   ],
   "heni": [
@@ -36256,7 +36256,7 @@ const dictionary = {
     "by imperial order, by decree"
   ],
   "hesei buhengge": [
-    "ᡥᡝᠰᡝᡳ ᠪᡠᡥᡝᠨᡤᡤᡝ",
+    "ᡥᡝᠰᡝᡳ ᠪᡠᡥᡝᠩᡤᡝ",
     "ordained by decree"
   ],
   "hesei kiru temgetu": [
@@ -36400,7 +36400,7 @@ const dictionary = {
     "wings lying to both sides of the main house, side rooms"
   ],
   "hetu dalangga": [
-    "ᡥᡝᡨᡠ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᡥᡝᡨᡠ ᡩᠠᠯᠠᠩᡤᠠ",
     "dam on a river"
   ],
   "hetu ficakv": [
@@ -36540,11 +36540,11 @@ const dictionary = {
     "honeybee"
   ],
   "hibsungge": [
-    "ᡥᡳᠪᠰᡠᠨᡤᡤᡝ",
+    "ᡥᡳᠪᠰᡠᠩᡤᡝ",
     "pertaining to honey"
   ],
   "hibsungge usiha": [
-    "ᡥᡳᠪᠰᡠᠨᡤᡤᡝ ᡠᠰᡳᡥᠠ",
+    "ᡥᡳᠪᠰᡠᠩᡤᡝ ᡠᠰᡳᡥᠠ",
     "a chestnutlike fruit"
   ],
   "hibta": [
@@ -36636,7 +36636,7 @@ const dictionary = {
     "in two, asunder"
   ],
   "hin giranggi": [
-    "ᡥᡳᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡥᡳᠨ ᡤᡳᡵᠠᠩᡤᡳ",
     "the tibia"
   ],
   "hina": [
@@ -36656,47 +36656,47 @@ const dictionary = {
     "see hinceo"
   ],
   "hing je": [
-    "ᡥᡳᠨᡤ ᠵᡝ",
+    "ᡥᡳᠩ ᠵᡝ",
     "mendicant monk"
   ],
   "hing seme": [
-    "ᡥᡳᠨᡤ ᠰᡝᠮᡝ",
+    "ᡥᡳᠩ ᠰᡝᠮᡝ",
     "1. honest, sincere, earnest 2. serious (of an illness)"
   ],
   "hing qai": [
-    "ᡥᡳᠨᡤ qᠠᡳ",
+    "ᡥᡳᠩ qᠠᡳ",
     "see hinggari"
   ],
   "hinggari": [
-    "ᡥᡳᠨᡤᡤᠠᡵᡳ",
+    "ᡥᡳᠩᡤᠠᡵᡳ",
     "floating heart (Nymphoides peltatum)"
   ],
   "hingge": [
-    "ᡥᡳᠨᡤᡤᡝ",
+    "ᡥᡳᠩᡤᡝ",
     "school of fish, swarm of fish"
   ],
   "hinggeri": [
-    "ᡥᡳᠨᡤᡤᡝᡵᡳ",
+    "ᡥᡳᠩᡤᡝᡵᡳ",
     "the name of a constellation"
   ],
   "hinggeri tokdonggo kiru": [
-    "ᡥᡳᠨᡤᡤᡝᡵᡳ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡥᡳᠩᡤᡝᡵᡳ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation hinggeri"
   ],
   "hingke": [
-    "ᡥᡳᠨᡤᡴᡝ",
+    "ᡥᡳᠩᡴᡝ",
     "land not suitable for agriculture"
   ],
   "hingneci": [
-    "ᡥᡳᠨᡤᠨᡝᠴᡳ",
+    "ᡥᡳᠩᠨᡝᠴᡳ",
     "mallow"
   ],
   "hingneci xu ilha": [
-    "ᡥᡳᠨᡤᠨᡝᠴᡳ ᡧᡠ ᡳᠯᡥᠠ",
+    "ᡥᡳᠩᠨᡝᠴᡳ ᡧᡠ ᡳᠯᡥᠠ",
     "water lily"
   ],
   "hingsengge": [
-    "ᡥᡳᠨᡤᠰᡝᠨᡤᡤᡝ",
+    "ᡥᡳᠩᠰᡝᠩᡤᡝ",
     "sincere, honest"
   ],
   "hio seme": [
@@ -36708,15 +36708,15 @@ const dictionary = {
     "see hihūn"
   ],
   "hiong seme": [
-    "ᡥᡳᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᡥᡳᠣᠩ ᠰᡝᠮᡝ",
     "(onom.) the sound of wings flapping"
   ],
   "hionghioi gasha": [
-    "ᡥᡳᠣᠨᡤᡥᡳᠣᡳ ᡤᠠᠰᡥᠠ",
+    "ᡥᡳᠣᠩᡥᡳᠣᡳ ᡤᠠᠰᡥᠠ",
     "the Chinese great shrike (Lanius sphenocercus)"
   ],
   "hionghvwang": [
-    "ᡥᡳᠣᠨᡤᡥᡡᠸᠠᠨᡤ",
+    "ᡥᡳᠣᠩᡥᡡᠸᠠᠩ",
     "realgar"
   ],
   "hir seme": [
@@ -36788,7 +36788,7 @@ const dictionary = {
     "became disappointed"
   ],
   "hiri onggoho": [
-    "ᡥᡳᡵᡳ ᠣᠨᡤᡤᠣᡥᠣ",
+    "ᡥᡳᡵᡳ ᠣᠩᡤᠣᡥᠣ",
     "completely forgot"
   ],
   "hirihvn": [
@@ -36920,7 +36920,7 @@ const dictionary = {
     "female sparrow hawk (Accipiter virgatus)"
   ],
   "hiyai idui janggin bh": [
-    "ᡥᡳᠶᠠᡳ ᡳᡩᡠᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡥᡳᠶᠠᡳ ᡳᡩᡠᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Commander of a Relief of the Bodyguard, 99"
   ],
   "hiyai juwan i da bh": [
@@ -36936,7 +36936,7 @@ const dictionary = {
     "1. a press 2. two boards bound by cords used as a cover for books or documents 3. a halter made of two pieces of board"
   ],
   "hiyabsa enggemu": [
-    "ᡥᡳᠶᠠᠪᠰᠠ ᡝᠨᡤᡤᡝᠮᡠ",
+    "ᡥᡳᠶᠠᠪᠰᠠ ᡝᠩᡤᡝᠮᡠ",
     "a yoke for beasts"
   ],
   "hiyabsa jahvdai": [
@@ -36980,7 +36980,7 @@ const dictionary = {
     "1. a rack of shelves 2. compartments in a closet or chest"
   ],
   "hiyadangga kunggeri": [
-    "ᡥᡳᠶᠠᡩᠠᠨᡤᡤᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡥᡳᠶᠠᡩᠠᠩᡤᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Office of Discipline in the Board of War"
   ],
   "hiyaganjambi": [
@@ -37024,7 +37024,7 @@ const dictionary = {
     "1. an abatis--a means of military defense consisting of pointed stakes jutting outward from a central shaft 2. crosspiece on a crupper"
   ],
   "hiyahan i enggemu": [
-    "ᡥᡳᠶᠠᡥᠠᠨ ᡳ ᡝᠨᡤᡤᡝᠮᡠ",
+    "ᡥᡳᠶᠠᡥᠠᠨ ᡳ ᡝᠩᡤᡝᠮᡠ",
     "a saddle with a support on it for holding a child"
   ],
   "hiyahan mulan": [
@@ -37036,7 +37036,7 @@ const dictionary = {
     "an open litter with a folding chair"
   ],
   "hiyahan siltangga jahvdai": [
-    "ᡥᡳᠶᠠᡥᠠᠨ ᠰᡳᠯᡨᠠᠨᡤᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
+    "ᡥᡳᠶᠠᡥᠠᠨ ᠰᡳᠯᡨᠠᠩᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
     "a ship with crossing masts"
   ],
   "hiyahanjambi": [
@@ -37092,7 +37092,7 @@ const dictionary = {
     "1. incense, perfume 2. hsien, county, district"
   ],
   "hiyan ceng": [
-    "ᡥᡳᠶᠠᠨ ᠴᡝᠨᡤ",
+    "ᡥᡳᠶᠠᠨ ᠴᡝᠩ",
     "assistant district magistrate"
   ],
   "hiyan dabukv": [
@@ -37120,7 +37120,7 @@ const dictionary = {
     "Jail Warden, 857"
   ],
   "hiyan i fangxakv": [
-    "ᡥᡳᠶᠠᠨ ᡳ ᡶᠠᠨᡤᡧᠠᡴᡡ",
+    "ᡥᡳᠶᠠᠨ ᡳ ᡶᠠᠩᡧᠠᡴᡡ",
     "a bag in which incense is placed"
   ],
   "hiyan i hoseri": [
@@ -37128,7 +37128,7 @@ const dictionary = {
     "a box for incense"
   ],
   "hiyan i jumanggi": [
-    "ᡥᡳᠶᠠᠨ ᡳ ᠵᡠᠮᠠᠨᡤᡤᡳ",
+    "ᡥᡳᠶᠠᠨ ᡳ ᠵᡠᠮᠠᠩᡤᡳ",
     "a small bag for holding incense"
   ],
   "hiyan i saraci bh": [
@@ -37164,51 +37164,51 @@ const dictionary = {
     "salted fish"
   ],
   "hiyang be": [
-    "ᡥᡳᠶᠠᠨᡤ ᠪᡝ",
+    "ᡥᡳᠶᠠᠩ ᠪᡝ",
     "eunuch"
   ],
   "hiyang bing": [
-    "ᡥᡳᠶᠠᠨᡤ ᠪᡳᠨᡤ",
+    "ᡥᡳᠶᠠᠩ ᠪᡳᠩ",
     "cake of incense"
   ],
   "hiyang ca": [
-    "ᡥᡳᠶᠠᠨᡤ ᠴᠠ",
+    "ᡥᡳᠶᠠᠩ ᠴᠠ",
     "jasmine tea"
   ],
   "hiyang cun moo": [
-    "ᡥᡳᠶᠠᠨᡤ ᠴᡠᠨ ᠮᠣᠣ",
+    "ᡥᡳᠶᠠᠩ ᠴᡠᠨ ᠮᠣᠣ",
     "Cedrela sinensis"
   ],
   "hiyang hing seme": [
-    "ᡥᡳᠶᠠᠨᡤ ᡥᡳᠨᡤ ᠰᡝᠮᡝ",
+    "ᡥᡳᠶᠠᠩ ᡥᡳᠩ ᠰᡝᠮᡝ",
     "energetically, vigorously"
   ],
   "hiyang seme": [
-    "ᡥᡳᠶᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡥᡳᠶᠠᠩ ᠰᡝᠮᡝ",
     "vociferously, energetically"
   ],
   "hiyangci": [
-    "ᡥᡳᠶᠠᠨᡤᠴᡳ",
+    "ᡥᡳᠶᠠᠩᠴᡳ",
     "chess"
   ],
   "hiyangci sindambi": [
-    "ᡥᡳᠶᠠᠨᡤᠴᡳ ᠰᡳᠨᡩᠠᠮᠪᡳ",
+    "ᡥᡳᠶᠠᠩᠴᡳ ᠰᡳᠨᡩᠠᠮᠪᡳ",
     "to play chess"
   ],
   "hiyangcilambi": [
-    "ᡥᡳᠶᠠᠨᡤᠴᡳᠯᠠᠮᠪᡳ",
+    "ᡥᡳᠶᠠᠩᠴᡳᠯᠠᠮᠪᡳ",
     "the same as hiyangci sindambi"
   ],
   "hiyanglu": [
-    "ᡥᡳᠶᠠᠨᡤᠯᡠ",
+    "ᡥᡳᠶᠠᠩᠯᡠ",
     "an incense burner; cf. hiyan dabukū"
   ],
   "hiyangtarxambi": [
-    "ᡥᡳᠶᠠᠨᡤᡨᠠᡵᡧᠠᠮᠪᡳ",
+    "ᡥᡳᠶᠠᠩᡨᠠᡵᡧᠠᠮᠪᡳ",
     "to act overbearingly, to be arrogant"
   ],
   "hiyangtu": [
-    "ᡥᡳᠶᠠᠨᡤᡨᡠ",
+    "ᡥᡳᠶᠠᠩᡨᡠ",
     "somewhat squint-eyed"
   ],
   "hiyanjuhv nimaha": [
@@ -37284,7 +37284,7 @@ const dictionary = {
     "scorpion"
   ],
   "hiyo xeng": [
-    "ᡥᡳᠶᠣ ᡧᡝᠨᡤ",
+    "ᡥᡳᠶᠣ ᡧᡝᠩ",
     "student"
   ],
   "hiyob seme": [
@@ -37296,7 +37296,7 @@ const dictionary = {
     "(onom.) the sound of sighing"
   ],
   "hiyong seme": [
-    "ᡥᡳᠶᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᡥᡳᠶᠣᠩ ᠰᡝᠮᡝ",
     "(onom.) the sound of an arrow flying through the air"
   ],
   "hiyooxulabumbi": [
@@ -37316,7 +37316,7 @@ const dictionary = {
     "see hiyoošuntumbi"
   ],
   "hiyooxungga": [
-    "ᡥᡳᠶᠣᠣᡧᡠᠨᡤᡤᠠ",
+    "ᡥᡳᠶᠣᠣᡧᡠᠩᡤᠠ",
     "filial, a filial person"
   ],
   "hiyooxuntumbi": [
@@ -37352,11 +37352,11 @@ const dictionary = {
     "a table with curved ends"
   ],
   "hiyotonggo son": [
-    "ᡥᡳᠶᠣᡨᠣᠨᡤᡤᠣ ᠰᠣᠨ",
+    "ᡥᡳᠶᠣᡨᠣᠩᡤᠣ ᠰᠣᠨ",
     "curved eaves on a house"
   ],
   "hiyotonggo ulhvma": [
-    "ᡥᡳᠶᠣᡨᠣᠨᡤᡤᠣ ᡠᠯᡥᡡᠮᠠ",
+    "ᡥᡳᠶᠣᡨᠣᠩᡤᠣ ᡠᠯᡥᡡᠮᠠ",
     "a poetic name for the pheasant"
   ],
   "hiyotorobumbi": [
@@ -37488,11 +37488,11 @@ const dictionary = {
     "1. a barrel for holding liquor 2. hollow tree in which a bear spends the winter"
   ],
   "hohonggo moo": [
-    "ᡥᠣᡥᠣᠨᡤᡤᠣ ᠮᠣᠣ",
+    "ᡥᠣᡥᠣᠩᡤᠣ ᠮᠣᠣ",
     "pagoda tree, Chinese yellow-berry (Sophora japonica)"
   ],
   "hohonggo mooi use": [
-    "ᡥᠣᡥᠣᠨᡤᡤᠣ ᠮᠣᠣᡳ ᡠᠰᡝ",
+    "ᡥᠣᡥᠣᠩᡤᠣ ᠮᠣᠣᡳ ᡠᠰᡝ",
     "the seed of the yellow-berry tree used for making yellow dye"
   ],
   "hohonombi": [
@@ -37704,15 +37704,15 @@ const dictionary = {
     "joint, hinge"
   ],
   "holbonggo": [
-    "ᡥᠣᠯᠪᠣᠨᡤᡤᠣ",
+    "ᡥᠣᠯᠪᠣᠩᡤᠣ",
     "connected, paired"
   ],
   "holbonggo fukjingga hergen": [
-    "ᡥᠣᠯᠪᠣᠨᡤᡤᠣ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡥᠣᠯᠪᠣᠩᡤᠣ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "holbongge hooxan": [
-    "ᡥᠣᠯᠪᠣᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᡥᠣᠯᠪᠣᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "paper produced from two or four layers of bamboo"
   ],
   "holboto ilha": [
@@ -37752,7 +37752,7 @@ const dictionary = {
     "the lower part of the leg"
   ],
   "holhon giranggi": [
-    "ᡥᠣᠯᡥᠣᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡥᠣᠯᡥᠣᠨ ᡤᡳᡵᠠᠩᡤᡳ",
     "the bone of the lower part of the leg, the shin, tibia"
   ],
   "holhon gocimbumbi": [
@@ -37888,63 +37888,63 @@ const dictionary = {
     "a kind of foxtaillike grass that can be eaten by horses"
   ],
   "honggoco": [
-    "ᡥᠣᠨᡤᡤᠣᠴᠣ",
+    "ᡥᠣᠩᡤᠣᠴᠣ",
     "small white-bellied fish that have been frozen in the ice of a stream"
   ],
   "honggocon": [
-    "ᡥᠣᠨᡤᡤᠣᠴᠣᠨ",
+    "ᡥᠣᠩᡤᠣᠴᠣᠨ",
     "willow herb"
   ],
   "honggolon niyehe": [
-    "ᡥᠣᠨᡤᡤᠣᠯᠣᠨ ᠨᡳᠶᡝᡥᡝ",
+    "ᡥᠣᠩᡤᠣᠯᠣᠨ ᠨᡳᠶᡝᡥᡝ",
     "the same as honggon niyehe"
   ],
   "honggon": [
-    "ᡥᠣᠨᡤᡤᠣᠨ",
+    "ᡥᠣᠩᡤᠣᠨ",
     "small bell"
   ],
   "honggon cecike": [
-    "ᡥᠣᠨᡤᡤᠣᠨ ᠴᡝᠴᡳᡴᡝ",
+    "ᡥᠣᠩᡤᠣᠨ ᠴᡝᠴᡳᡴᡝ",
     "a small bird with a bell-like voice"
   ],
   "honggon niyehe": [
-    "ᡥᠣᠨᡤᡤᠣᠨ ᠨᡳᠶᡝᡥᡝ",
+    "ᡥᠣᠩᡤᠣᠨ ᠨᡳᠶᡝᡥᡝ",
     "a type of wild duck"
   ],
   "honggono cecike": [
-    "ᡥᠣᠨᡤᡤᠣᠨᠣ ᠴᡝᠴᡳᡴᡝ",
+    "ᡥᠣᠩᡤᠣᠨᠣ ᠴᡝᠴᡳᡴᡝ",
     "the same as honggon cecike"
   ],
   "honggonombi": [
-    "ᡥᠣᠨᡤᡤᠣᠨᠣᠮᠪᡳ",
+    "ᡥᠣᠩᡤᠣᠨᠣᠮᠪᡳ",
     "1. to form bubbles, to form small bells 2. to crumble, to come apart, to shatter"
   ],
   "honggonome gecehe": [
-    "ᡥᠣᠨᡤᡤᠣᠨᠣᠮᡝ ᡤᡝᠴᡝᡥᡝ",
+    "ᡥᠣᠩᡤᠣᠨᠣᠮᡝ ᡤᡝᠴᡝᡥᡝ",
     "has frozen into small pieces"
   ],
   "honggori": [
-    "ᡥᠣᠨᡤᡤᠣᡵᡳ",
+    "ᡥᠣᠩᡤᠣᡵᡳ",
     "a bell-shaped fruit from Szechuan used as a medicine"
   ],
   "honggori ilha": [
-    "ᡥᠣᠨᡤᡤᠣᡵᡳ ᡳᠯᡥᠠ",
+    "ᡥᠣᠩᡤᠣᡵᡳ ᡳᠯᡥᠠ",
     "the flower of the bead tree"
   ],
   "hongko": [
-    "ᡥᠣᠨᡤᡴᠣ",
+    "ᡥᠣᠩᡴᠣ",
     "1. end 2. spur of a mountain 3. a place where level land ends 4. head of a pestle 5. the forward part of a boat 6. small footbridge over a mountain stream"
   ],
   "hongko cecike": [
-    "ᡥᠣᠨᡤᡴᠣ ᠴᡝᠴᡳᡴᡝ",
+    "ᡥᠣᠩᡴᠣ ᠴᡝᠴᡳᡴᡝ",
     "a small, yellow-breasted black bird whose cry resembles that of the swallow"
   ],
   "hongkolo galman": [
-    "ᡥᠣᠨᡤᡴᠣᠯᠣ ᡤᠠᠯᠮᠠᠨ",
+    "ᡥᠣᠩᡴᠣᠯᠣ ᡤᠠᠯᠮᠠᠨ",
     "a large yellow mosquitolike insect"
   ],
   "hongkv": [
-    "ᡥᠣᠨᡤᡴᡡ",
+    "ᡥᠣᠩᡴᡡ",
     "see hongko"
   ],
   "honika": [
@@ -37964,11 +37964,11 @@ const dictionary = {
     "the sixth month"
   ],
   "honingga": [
-    "ᡥᠣᠨᡳᠨᡤᡤᠠ",
+    "ᡥᠣᠨᡳᠩᡤᠠ",
     "pertaining to the sheep"
   ],
   "honingga aniya": [
-    "ᡥᠣᠨᡳᠨᡤᡤᠠ ᠠᠨᡳᠶᠠ",
+    "ᡥᠣᠨᡳᠩᡤᠠ ᠠᠨᡳᠶᠠ",
     "the year of the sheep"
   ],
   "hono": [
@@ -38028,7 +38028,7 @@ const dictionary = {
     "to go in an elated manner"
   ],
   "hoocang etuku": [
-    "ᡥᠣᠣᠴᠠᠨᡤ ᡝᡨᡠᡴᡠ",
+    "ᡥᠣᠣᠴᠠᠩ ᡝᡨᡠᡴᡠ",
     "coat made of feathers"
   ],
   "hoohan": [
@@ -38072,7 +38072,7 @@ const dictionary = {
     "the same as hoošan i pai"
   ],
   "hooxang": [
-    "ᡥᠣᠣᡧᠠᠨᡤ",
+    "ᡥᠣᠣᡧᠠᠩ",
     "see hūwašan"
   ],
   "hooxari moo": [
@@ -38188,7 +38188,7 @@ const dictionary = {
     "honorary military title of the fourth rank second class"
   ],
   "horon bodohonggo hafan": [
-    "ᡥᠣᡵᠣᠨ ᠪᠣᡩᠣᡥᠣᠨᡤᡤᠣ ᡥᠠᡶᠠᠨ",
+    "ᡥᠣᡵᠣᠨ ᠪᠣᡩᠣᡥᠣᠩᡤᠣ ᡥᠠᡶᠠᠨ",
     "honorary military title of the fifth rank second class"
   ],
   "horon dube": [
@@ -38196,23 +38196,23 @@ const dictionary = {
     "the tongue of a snake"
   ],
   "horon erdemungge hafan": [
-    "ᡥᠣᡵᠣᠨ ᡝᡵᡩᡝᠮᡠᠨᡤᡤᡝ ᡥᠠᡶᠠᠨ",
+    "ᡥᠣᡵᠣᠨ ᡝᡵᡩᡝᠮᡠᠩᡤᡝ ᡥᠠᡶᠠᠨ",
     "honorary military title of the fifth rank first class"
   ],
   "horon fafuringga aisilaha hafan i": [
-    "ᡥᠣᡵᠣᠨ ᡶᠠᡶᡠᡵᡳᠨᡤᡤᠠ ᠠᡳᠰᡳᠯᠠᡥᠠ ᡥᠠᡶᠠᠨ ᡳ",
+    "ᡥᠣᡵᠣᠨ ᡶᠠᡶᡠᡵᡳᠩᡤᠠ ᠠᡳᠰᡳᠯᠠᡥᠠ ᡥᠠᡶᠠᠨ ᡳ",
     "honorary military title of the seventh rank second class"
   ],
   "horon fafuringga hafan": [
-    "ᡥᠣᡵᠣᠨ ᡶᠠᡶᡠᡵᡳᠨᡤᡤᠠ ᡥᠠᡶᠠᠨ",
+    "ᡥᠣᡵᠣᠨ ᡶᠠᡶᡠᡵᡳᠩᡤᠠ ᡥᠠᡶᠠᠨ",
     "honorary military title of the seventh rank first class"
   ],
   "horon giranggi": [
-    "ᡥᠣᡵᠣᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡥᠣᡵᠣᠨ ᡤᡳᡵᠠᠩᡤᡳ",
     "small curved bones from the breast of a tiger used as medicine"
   ],
   "horon gungge amban": [
-    "ᡥᠣᡵᠣᠨ ᡤᡠᠨᡤᡤᡝ ᠠᠮᠪᠠᠨ",
+    "ᡥᠣᡵᠣᠨ ᡤᡠᠩᡤᡝ ᠠᠮᠪᠠᠨ",
     "honorary military title of the second rank second class"
   ],
   "horon hvsun bisire sula hafan": [
@@ -38228,35 +38228,35 @@ const dictionary = {
     "authority, power"
   ],
   "horon tuwancihiyangga aisilaaha hafan": [
-    "ᡥᠣᡵᠣᠨ ᡨᡠᠸᠠᠨᠴᡳᡥᡳᠶᠠᠨᡤᡤᠠ ᠠᡳᠰᡳᠯᠠᠠᡥᠠ ᡥᠠᡶᠠᠨ",
+    "ᡥᠣᡵᠣᠨ ᡨᡠᠸᠠᠨᠴᡳᡥᡳᠶᠠᠩᡤᠠ ᠠᡳᠰᡳᠯᠠᠠᡥᠠ ᡥᠠᡶᠠᠨ",
     "honorary military title of the eighth rank -second class"
   ],
   "horon tuwancihiyangga hafan": [
-    "ᡥᠣᡵᠣᠨ ᡨᡠᠸᠠᠨᠴᡳᡥᡳᠶᠠᠨᡤᡤᠠ ᡥᠠᡶᠠᠨ",
+    "ᡥᠣᡵᠣᠨ ᡨᡠᠸᠠᠨᠴᡳᡥᡳᠶᠠᠩᡤᠠ ᡥᠠᡶᠠᠨ",
     "honorary military title of the eighth rank first class"
   ],
   "horonggo": [
-    "ᡥᠣᡵᠣᠨᡤᡤᠣ",
+    "ᡥᠣᡵᠣᠩᡤᠣ",
     "1. powerful, terrible, aweinspiring, possessing great authority, majestic, regal 2. poisonous"
   ],
   "horonggo cecike": [
-    "ᡥᠣᡵᠣᠨᡤᡤᠣ ᠴᡝᠴᡳᡴᡝ",
+    "ᡥᠣᡵᠣᠩᡤᠣ ᠴᡝᠴᡳᡴᡝ",
     "a mythical bird that was supposed to drive off evil influences--its carved image was often attached to the end of a pole"
   ],
   "horonggo cecikengge mukxan": [
-    "ᡥᠣᡵᠣᠨᡤᡤᠣ ᠴᡝᠴᡳᡴᡝᠨᡤᡤᡝ ᠮᡠᡴᡧᠠᠨ",
+    "ᡥᠣᡵᠣᠩᡤᠣ ᠴᡝᠴᡳᡴᡝᠩᡤᡝ ᠮᡠᡴᡧᠠᠨ",
     "a pole with an image of the horonggo cecike attached to the end"
   ],
   "horonggo gurgu": [
-    "ᡥᠣᡵᠣᠨᡤᡤᠣ ᡤᡠᡵᡤᡠ",
+    "ᡥᠣᡵᠣᠩᡤᠣ ᡤᡠᡵᡤᡠ",
     "a fabulous beast with a long tail and two horns"
   ],
   "horonggo gurgvngge kiru": [
-    "ᡥᠣᡵᠣᠨᡤᡤᠣ ᡤᡠᡵᡤᡡᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᡥᠣᡵᠣᠩᡤᠣ ᡤᡠᡵᡤᡡᠩᡤᡝ ᡴᡳᡵᡠ",
     "a banner of the imperial escort with the image of the horonggo gurgu embroidered on it"
   ],
   "horonggo yangsangga deyen i bithe weilere ba bh": [
-    "ᡥᠣᡵᠣᠨᡤᡤᠣ ᠶᠠᠨᡤᠰᠠᠨᡤᡤᠠ ᡩᡝᠶᡝᠨ ᡳ ᠪᡳᡨᡥᡝ ᠸᡝᡳᠯᡝᡵᡝ ᠪᠠ ᠪᡥ",
+    "ᡥᠣᡵᠣᠩᡤᠣ ᠶᠠᠩᠰᠠᠩᡤᠠ ᡩᡝᠶᡝᠨ ᡳ ᠪᡳᡨᡥᡝ ᠸᡝᡳᠯᡝᡵᡝ ᠪᠠ ᠪᡥ",
     "Printing Office and Book-bindery at the Throne Hall, 94"
   ],
   "horontu mahatun": [
@@ -38276,7 +38276,7 @@ const dictionary = {
     "the same as hose"
   ],
   "hoseri dengjan": [
-    "ᡥᠣᠰᡝᡵᡳ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡥᠣᠰᡝᡵᡳ ᡩᡝᠩᠵᠠᠨ",
     "a fireworks box"
   ],
   "hoshori": [
@@ -38328,7 +38328,7 @@ const dictionary = {
     "a four-cornered observation tower of the examination hall"
   ],
   "hoxoi cin wang bh i5": [
-    "ᡥᠣᡧᠣᡳ ᠴᡳᠨ ᠸᠠᠨᡤ ᠪᡥ ᡳ5",
+    "ᡥᠣᡧᠣᡳ ᠴᡳᠨ ᠸᠠᠩ ᠪᡥ ᡳ5",
     "Prince of the Blood of the first degree,"
   ],
   "hoxoi duka": [
@@ -38348,11 +38348,11 @@ const dictionary = {
     "the daughter of a hošoi cin twana"
   ],
   "hoxoi gungju bh i4": [
-    "ᡥᠣᡧᠣᡳ ᡤᡠᠨᡤᠵᡠ ᠪᡥ ᡳ4",
+    "ᡥᠣᡧᠣᡳ ᡤᡠᠩᠵᡠ ᠪᡥ ᡳ4",
     "the Daughter of the Emperor by an Imperial Concubine,"
   ],
   "hoxoi gungju i hoxoi efu": [
-    "ᡥᠣᡧᠣᡳ ᡤᡠᠨᡤᠵᡠ ᡳ ᡥᠣᡧᠣᡳ ᡝᡶᡠ",
+    "ᡥᠣᡧᠣᡳ ᡤᡠᠩᠵᡠ ᡳ ᡥᠣᡧᠣᡳ ᡝᡶᡠ",
     "the husband of a hošoi gungju"
   ],
   "hoxon": [
@@ -38360,7 +38360,7 @@ const dictionary = {
     "1. quarter, precinct 2. square"
   ],
   "hoxonggo": [
-    "ᡥᠣᡧᠣᠨᡤᡤᠣ",
+    "ᡥᠣᡧᠣᠩᡤᠣ",
     "square, four-sided"
   ],
   "hoxotolobumbi": [
@@ -38372,11 +38372,11 @@ const dictionary = {
     "1. to let a corner protrude 2. to make into a square"
   ],
   "hoxotonggo": [
-    "ᡥᠣᡧᠣᡨᠣᠨᡤᡤᠣ",
+    "ᡥᠣᡧᠣᡨᠣᠩᡤᠣ",
     "having corners, angular"
   ],
   "hoxotonggo xufatu": [
-    "ᡥᠣᡧᠣᡨᠣᠨᡤᡤᠣ ᡧᡠᡶᠠᡨᡠ",
+    "ᡥᠣᡧᠣᡨᠣᠩᡤᠣ ᡧᡠᡶᠠᡨᡠ",
     "a square-shaped turban"
   ],
   "hoxxobumbi": [
@@ -38404,7 +38404,7 @@ const dictionary = {
     "the third stomach of a ruminant"
   ],
   "hoto hengke": [
-    "ᡥᠣᡨᠣ ᡥᡝᠨᡤᡴᡝ",
+    "ᡥᠣᡨᠣ ᡥᡝᠩᡴᡝ",
     "squash"
   ],
   "hoto yoo": [
@@ -38516,7 +38516,7 @@ const dictionary = {
     "see hoise"
   ],
   "hujengge gasha": [
-    "ᡥᡠᠵᡝᠨᡤᡤᡝ ᡤᠠᠰᡥᠠ",
+    "ᡥᡠᠵᡝᠩᡤᡝ ᡤᠠᠰᡥᠠ",
     "one name for the owl; cf. yabulan"
   ],
   "huju": [
@@ -38668,35 +38668,35 @@ const dictionary = {
     "the same as humtu"
   ],
   "hunggiyanglambi": [
-    "ᡥᡠᠨᡤᡤᡳᠶᠠᠨᡤᠯᠠᠮᠪᡳ",
+    "ᡥᡠᠩᡤᡳᠶᠠᠩᠯᠠᠮᠪᡳ",
     "to play cards"
   ],
   "hungken": [
-    "ᡥᡠᠨᡤᡴᡝᠨ",
+    "ᡥᡠᠩᡴᡝᠨ",
     "see emu hungken jiha"
   ],
   "hungkerebumbi": [
-    "ᡥᡠᠨᡤᡴᡝᡵᡝᠪᡠᠮᠪᡳ",
+    "ᡥᡠᠩᡴᡝᡵᡝᠪᡠᠮᠪᡳ",
     "caus. of hungkerembi"
   ],
   "hungkerembi": [
-    "ᡥᡠᠨᡤᡴᡝᡵᡝᠮᠪᡳ",
+    "ᡥᡠᠩᡴᡝᡵᡝᠮᠪᡳ",
     "1. to pour 2. to cast (metal)"
   ],
   "hungkereme": [
-    "ᡥᡠᠨᡤᡴᡝᡵᡝᠮᡝ",
+    "ᡥᡠᠩᡴᡝᡵᡝᠮᡝ",
     "in profusion, copiously"
   ],
   "hungkereme agambi": [
-    "ᡥᡠᠨᡤᡴᡝᡵᡝᠮᡝ ᠠᡤᠠᠮᠪᡳ",
+    "ᡥᡠᠩᡴᡝᡵᡝᠮᡝ ᠠᡤᠠᠮᠪᡳ",
     "to rain cats and dogs"
   ],
   "hungkereme feksimbi": [
-    "ᡥᡠᠨᡤᡴᡝᡵᡝᠮᡝ ᡶᡝᡴᠰᡳᠮᠪᡳ",
+    "ᡥᡠᠩᡴᡝᡵᡝᠮᡝ ᡶᡝᡴᠰᡳᠮᠪᡳ",
     "to run at breakneck speed"
   ],
   "hungkimbi": [
-    "ᡥᡠᠨᡤᡴᡳᠮᠪᡳ",
+    "ᡥᡠᠩᡴᡳᠮᠪᡳ",
     "to become soft, to become pulverized (of dry things)"
   ],
   "hunio": [
@@ -38756,7 +38756,7 @@ const dictionary = {
     "see hurenembi"
   ],
   "hurungge": [
-    "ᡥᡠᡵᡠᠨᡤᡤᡝ",
+    "ᡥᡠᡵᡠᠩᡤᡝ",
     "having a shell"
   ],
   "huterembi": [
@@ -38796,7 +38796,7 @@ const dictionary = {
     "to curve up at the ends"
   ],
   "hutungge": [
-    "ᡥᡠᡨᡠᠨᡤᡤᡝ",
+    "ᡥᡠᡨᡠᠩᡤᡝ",
     "1. devilish, demonic 2. hateful, deceitful"
   ],
   "huturcembi": [
@@ -38816,7 +38816,7 @@ const dictionary = {
     "a screen"
   ],
   "huwejehengge tojin": [
-    "ᡥᡠᠸᡝᠵᡝᡥᡝᠨᡤᡤᡝ ᡨᠣᠵᡳᠨ",
+    "ᡥᡠᠸᡝᠵᡝᡥᡝᠩᡤᡝ ᡨᠣᠵᡳᠨ",
     "a peacock with its tail feathers spread"
   ],
   "huwejembi": [
@@ -38828,7 +38828,7 @@ const dictionary = {
     "1. a board covering for the top of an oven-bed 2. a board covering for a cooking pot 3. a weir for catching fish in fast water 4. see huwejehen"
   ],
   "huwejengge duka": [
-    "ᡥᡠᠸᡝᠵᡝᠨᡤᡤᡝ ᡩᡠᡴᠠ",
+    "ᡥᡠᠸᡝᠵᡝᠩᡤᡝ ᡩᡠᡴᠠ",
     "a screen placed by a door"
   ],
   "huweki": [
@@ -38864,11 +38864,11 @@ const dictionary = {
     "see heolen"
   ],
   "huwengge": [
-    "ᡥᡠᠸᡝᠨᡤᡤᡝ",
+    "ᡥᡠᠸᡝᠩᡤᡝ",
     "luxuriant, abundant"
   ],
   "huwengkiyembi": [
-    "ᡥᡠᠸᡝᠨᡤᡴᡳᠶᡝᠮᠪᡳ",
+    "ᡥᡠᠸᡝᠩᡴᡳᠶᡝᠮᠪᡳ",
     "to peck out of a shell (of chicks)"
   ],
   "huwenji": [
@@ -39004,7 +39004,7 @@ const dictionary = {
     "to clean out a well"
   ],
   "hvcingga": [
-    "ᡥᡡᠴᡳᠨᡤᡤᠠ",
+    "ᡥᡡᠴᡳᠩᡤᠠ",
     "pertaining to a well"
   ],
   "hvda": [
@@ -39020,7 +39020,7 @@ const dictionary = {
     "business"
   ],
   "hvda mangga": [
-    "ᡥᡡᡩᠠ ᠮᠠᠨᡤᡤᠠ",
+    "ᡥᡡᡩᠠ ᠮᠠᠩᡤᠠ",
     "expensive"
   ],
   "hvda toktosi": [
@@ -39084,7 +39084,7 @@ const dictionary = {
     "boil, carbuncle"
   ],
   "hvdungga": [
-    "ᡥᡡᡩᡠᠨᡤᡤᠠ",
+    "ᡥᡡᡩᡠᠩᡤᠠ",
     "speedy, swift"
   ],
   "hvfan": [
@@ -39132,7 +39132,7 @@ const dictionary = {
     "dizzy, unsteady"
   ],
   "hvi hiyang": [
-    "ᡥᡡᡳ ᡥᡳᠶᠠᠨᡤ",
+    "ᡥᡡᡳ ᡥᡳᠶᠠᠩ",
     "fennel"
   ],
   "hvi hvwa ilha": [
@@ -39252,11 +39252,11 @@ const dictionary = {
     "to call together, to read together"
   ],
   "hvlangga coko": [
-    "ᡥᡡᠯᠠᠨᡤᡤᠠ ᠴᠣᡴᠣ",
+    "ᡥᡡᠯᠠᠩᡤᠠ ᠴᠣᡴᠣ",
     "one name for the chicken; cf. coko"
   ],
   "hvlangga gasha": [
-    "ᡥᡡᠯᠠᠨᡤᡤᠠ ᡤᠠᠰᡥᠠ",
+    "ᡥᡡᠯᠠᠩᡤᠠ ᡤᠠᠰᡥᠠ",
     "see hūlangga coko"
   ],
   "hvlanjimbi": [
@@ -39296,7 +39296,7 @@ const dictionary = {
     "1. bandit, robber, thief 2. rebel 3. secret, on the sly"
   ],
   "hvlha be jafara tinggin bh 795a-d": [
-    "ᡥᡡᠯᡥᠠ ᠪᡝ ᠵᠠᡶᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ ᠪᡥ 795ᠠ ᡩ",
+    "ᡥᡡᠯᡥᠠ ᠪᡝ ᠵᠠᡶᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ ᠪᡥ 795ᠠ ᡩ",
     "Bureau of Police Affairs,"
   ],
   "hvlha holo": [
@@ -39400,39 +39400,39 @@ const dictionary = {
     "the name of a Manchu tribe"
   ],
   "hvng hiyong": [
-    "ᡥᡡᠨᡤ ᡥᡳᠶᠣᠨᡤ",
+    "ᡥᡡᠩ ᡥᡳᠶᠣᠩ",
     "(onom.) 1. the sound of the tide 2. the sound of running horses"
   ],
   "hvng i poo": [
-    "ᡥᡡᠨᡤ ᡳ ᡦᠣᠣ",
+    "ᡥᡡᠩ ᡳ ᡦᠣᠣ",
     "a European cannon"
   ],
   "hvng seme": [
-    "ᡥᡡᠨᡤ ᠰᡝᠮᡝ",
+    "ᡥᡡᠩ ᠰᡝᠮᡝ",
     "(onom.) the sound of a fire"
   ],
   "hvngko": [
-    "ᡥᡡᠨᡤᡴᠣ",
+    "ᡥᡡᠩᡴᠣ",
     "the front part of a ship, the bow"
   ],
   "hvngniyoolambi": [
-    "ᡥᡡᠨᡤᠨᡳᠶᠣᠣᠯᠠᠮᠪᡳ",
+    "ᡥᡡᠩᠨᡳᠶᠣᠣᠯᠠᠮᠪᡳ",
     "to rain while the sun is shining"
   ],
   "hvngsi": [
-    "ᡥᡡᠨᡤᠰᡳ",
+    "ᡥᡡᠩᠰᡳ",
     "1. pebble 2. Chinese little grebe (Poliocephalus rufficollis)"
   ],
   "hvngsibumbi": [
-    "ᡥᡡᠨᡤᠰᡳᠪᡠᠮᠪᡳ",
+    "ᡥᡡᠩᠰᡳᠪᡠᠮᠪᡳ",
     "caus. of hūngsimbi"
   ],
   "hvngsimbi": [
-    "ᡥᡡᠨᡤᠰᡳᠮᠪᡳ",
+    "ᡥᡡᠩᠰᡳᠮᠪᡳ",
     "1. to fling, to hurl, to hurl to the ground, to throw away, to discard 2. to talk nonsense, to talk wildly"
   ],
   "hvngsitu gasha": [
-    "ᡥᡡᠨᡤᠰᡳᡨᡠ ᡤᠠᠰᡥᠠ",
+    "ᡥᡡᠩᠰᡳᡨᡠ ᡤᠠᠰᡥᠠ",
     "the same as kuringge gasha"
   ],
   "hvnoolambi": [
@@ -39560,7 +39560,7 @@ const dictionary = {
     "bearded"
   ],
   "hvsha monggon": [
-    "ᡥᡡᠰᡥᠠ ᠮᠣᠨᡤᡤᠣᠨ",
+    "ᡥᡡᠰᡥᠠ ᠮᠣᠩᡤᠣᠨ",
     "windpipe"
   ],
   "hvshvri coko": [
@@ -39600,7 +39600,7 @@ const dictionary = {
     "a linen hat worn in ancient times"
   ],
   "hvsingga sijigiyan": [
-    "ᡥᡡᠰᡳᠨᡤᡤᠠ ᠰᡳᠵᡳᡤᡳᠶᠠᠨ",
+    "ᡥᡡᠰᡳᠩᡤᠠ ᠰᡳᠵᡳᡤᡳᠶᠠᠨ",
     "a broad-sleeved habit worn by Buddhist and Taoist monks"
   ],
   "hvsiri moo": [
@@ -39632,7 +39632,7 @@ const dictionary = {
     "powerful, healthy"
   ],
   "hvsun faksi i kunggeri": [
-    "ᡥᡡᠰᡠᠨ ᡶᠠᡴᠰᡳ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡥᡡᠰᡠᠨ ᡶᠠᡴᠰᡳ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     ""
   ],
   "hvsun hamirakv": [
@@ -39660,11 +39660,11 @@ const dictionary = {
     "to work, to do physical labor"
   ],
   "hvsungge": [
-    "ᡥᡡᠰᡠᠨᡤᡤᡝ",
+    "ᡥᡡᠰᡠᠩᡤᡝ",
     "powerful, mighty"
   ],
   "hvsungge boo": [
-    "ᡥᡡᠰᡠᠨᡤᡤᡝ ᠪᠣᠣ",
+    "ᡥᡡᠰᡠᠩᡤᡝ ᠪᠣᠣ",
     "a powerful rich family"
   ],
   "hvsuri": [
@@ -39704,7 +39704,7 @@ const dictionary = {
     "see kūthūri"
   ],
   "hvtung": [
-    "ᡥᡡᡨᡠᠨᡤ",
+    "ᡥᡡᡨᡠᠩ",
     "alley, lane"
   ],
   "hvturi": [
@@ -39716,11 +39716,11 @@ const dictionary = {
     "to pray for good fortune"
   ],
   "hvturi fengxen aiximbi": [
-    "ᡥᡡᡨᡠᡵᡳ ᡶᡝᠨᡤᡧᡝᠨ ᠠᡳᡧᡳᠮᠪᡳ",
+    "ᡥᡡᡨᡠᡵᡳ ᡶᡝᠩᡧᡝᠨ ᠠᡳᡧᡳᠮᠪᡳ",
     "to bestow good fortune and prosperity"
   ],
   "hvturi fengxen jalafun": [
-    "ᡥᡡᡨᡠᡵᡳ ᡶᡝᠨᡤᡧᡝᠨ ᠵᠠᠯᠠᡶᡠᠨ",
+    "ᡥᡡᡨᡠᡵᡳ ᡶᡝᠩᡧᡝᠨ ᠵᠠᠯᠠᡶᡠᠨ",
     "good fortune, prosperity (many sons), and long life"
   ],
   "hvturi imiyambi": [
@@ -39740,7 +39740,7 @@ const dictionary = {
     "wine offered by the emperor at state sacrifices"
   ],
   "hvturingga": [
-    "ᡥᡡᡨᡠᡵᡳᠨᡤᡤᠠ",
+    "ᡥᡡᡨᡠᡵᡳᠩᡤᠠ",
     "possessing good fortune, fortunate"
   ],
   "hvwa": [
@@ -39756,7 +39756,7 @@ const dictionary = {
     "to snore"
   ],
   "hvwacihiyan enggemu": [
-    "ᡥᡡᠸᠠᠴᡳᡥᡳᠶᠠᠨ ᡝᠨᡤᡤᡝᠮᡠ",
+    "ᡥᡡᠸᠠᠴᡳᡥᡳᠶᠠᠨ ᡝᠩᡤᡝᠮᡠ",
     "a saddle with a horn-shaped saddle horn"
   ],
   "hvwafihiya": [
@@ -39772,7 +39772,7 @@ const dictionary = {
     "to shave an arrow shaft smooth"
   ],
   "hvwai mukengge kiru": [
-    "ᡥᡡᠸᠠᡳ ᠮᡠᡴᡝᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᡥᡡᠸᠠᡳ ᠮᡠᡴᡝᠩᡤᡝ ᡴᡳᡵᡠ",
     "a blue banner of the imperial escort depicting waves on a green background"
   ],
   "hvwai seme": [
@@ -39920,79 +39920,79 @@ const dictionary = {
     "to peel, to shell"
   ],
   "hvwang be": [
-    "ᡥᡡᠸᠠᠨᡤ ᠪᡝ",
+    "ᡥᡡᠸᠠᠩ ᠪᡝ",
     "Phellodendron amurense--a kind of oak whose bark is used in Chinese medicine"
   ],
   "hvwang doo": [
-    "ᡥᡡᠸᠠᠨᡤ ᡩᠣᠣ",
+    "ᡥᡡᠸᠠᠩ ᡩᠣᠣ",
     "the ecliptic"
   ],
   "hvwang guifei bh": [
-    "ᡥᡡᠸᠠᠨᡤ ᡤᡠᡳᡶᡝᡳ ᠪᡥ",
+    "ᡥᡡᠸᠠᠩ ᡤᡠᡳᡶᡝᡳ ᠪᡥ",
     "Imperial Concubine of the First Rank, 6"
   ],
   "hvwang li": [
-    "ᡥᡡᠸᠠᠨᡤ ᠯᡳ",
+    "ᡥᡡᠸᠠᠩ ᠯᡳ",
     "see hūwangli"
   ],
   "hvwang taid bh": [
-    "ᡥᡡᠸᠠᠨᡤ ᡨᠠᡳᡩ ᠪᡥ",
+    "ᡥᡡᠸᠠᠩ ᡨᠠᡳᡩ ᠪᡥ",
     "the Heir Apparent, 12"
   ],
   "hvwang taid i fei": [
-    "ᡥᡡᠸᠠᠨᡤ ᡨᠠᡳᡩ ᡳ ᡶᡝᡳ",
+    "ᡥᡡᠸᠠᠩ ᡨᠠᡳᡩ ᡳ ᡶᡝᡳ",
     "concubine of the Heir Apparent"
   ],
   "hvwangdan": [
-    "ᡥᡡᠸᠠᠨᡤᡩᠠᠨ",
+    "ᡥᡡᠸᠠᠩᡩᠠᠨ",
     "yellow lead ore"
   ],
   "hvwangdana": [
-    "ᡥᡡᠸᠠᠨᡤᡩᠠᠨᠠ",
+    "ᡥᡡᠸᠠᠩᡩᠠᠨᠠ",
     "yellow-breasted bunting (Embereza aureola)"
   ],
   "hvwangdi": [
-    "ᡥᡡᠸᠠᠨᡤᡩᡳ",
+    "ᡥᡡᠸᠠᠩᡩᡳ",
     "emperor"
   ],
   "hvwangga": [
-    "ᡥᡡᠸᠠᠨᡤᡤᠠ",
+    "ᡥᡡᠸᠠᠩᡤᠠ",
     "on good terms with, in concord"
   ],
   "hvwanggar seme": [
-    "ᡥᡡᠸᠠᠨᡤᡤᠠᡵ ᠰᡝᠮᡝ",
+    "ᡥᡡᠸᠠᠩᡤᠠᡵ ᠰᡝᠮᡝ",
     "surging and roaring"
   ],
   "hvwanggar seme agambi": [
-    "ᡥᡡᠸᠠᠨᡤᡤᠠᡵ ᠰᡝᠮᡝ ᠠᡤᠠᠮᠪᡳ",
+    "ᡥᡡᠸᠠᠩᡤᠠᡵ ᠰᡝᠮᡝ ᠠᡤᠠᠮᠪᡳ",
     "to rain copiously"
   ],
   "hvwanggar hvwalar": [
-    "ᡥᡡᠸᠠᠨᡤᡤᠠᡵ ᡥᡡᠸᠠᠯᠠᡵ",
+    "ᡥᡡᠸᠠᠩᡤᠠᡵ ᡥᡡᠸᠠᠯᠠᡵ",
     "roaring and splashing"
   ],
   "hvwanggiyambi": [
-    "ᡥᡡᠸᠠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡥᡡᠸᠠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to prevent, to stand in the way"
   ],
   "hvwanggiyarakv": [
-    "ᡥᡡᠸᠠᠨᡤᡤᡳᠶᠠᡵᠠᡴᡡ",
+    "ᡥᡡᠸᠠᠩᡤᡳᠶᠠᡵᠠᡴᡡ",
     "there is no harm, it does not stand in the way, it makes no difference"
   ],
   "hvwanggiyan": [
-    "ᡥᡡᠸᠠᠨᡤᡤᡳᠶᠠᠨ",
+    "ᡥᡡᠸᠠᠩᡤᡳᠶᠠᠨ",
     "a quiver worn on the back"
   ],
   "hvwangheo": [
-    "ᡥᡡᠸᠠᠨᡤᡥᡝᠣ",
+    "ᡥᡡᠸᠠᠩᡥᡝᠣ",
     "empress"
   ],
   "hvwangli": [
-    "ᡥᡡᠸᠠᠨᡤᠯᡳ",
+    "ᡥᡡᠸᠠᠩᠯᡳ",
     "calendar, almanac"
   ],
   "hvwangse": [
-    "ᡥᡡᠸᠠᠨᡤᠰᡝ",
+    "ᡥᡡᠸᠠᠩᠰᡝ",
     "orpiment"
   ],
   "hvwanta": [
@@ -40088,7 +40088,7 @@ const dictionary = {
     "section on monastic affairs"
   ],
   "hvwaxan doose i kunggeri": [
-    "ᡥᡡᠸᠠᡧᠠᠨ ᡩᠣᠣᠰᡝ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡥᡡᠸᠠᡧᠠᠨ ᡩᠣᠣᠰᡝ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of Buddhist and Taoist affairs in the Board of Rites"
   ],
   "hvwaxasa": [
@@ -40208,7 +40208,7 @@ const dictionary = {
     "1. caus. of ibembi 2. to offer, to present"
   ],
   "ibebume wesimbure kunggeri": [
-    "ᡳᠪᡝᠪᡠᠮᡝ ᠸᡝᠰᡳᠮᠪᡠᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡳᠪᡝᠪᡠᠮᡝ ᠸᡝᠰᡳᠮᠪᡠᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "an office in the Grand Secretariat in charge of petitions and memorials"
   ],
   "ibedembi": [
@@ -40356,7 +40356,7 @@ const dictionary = {
     "1. to neigh 2. see acambi 3. see isambi"
   ],
   "icangga": [
-    "ᡳᠴᠠᠨᡤᡤᠠ",
+    "ᡳᠴᠠᠩᡤᠠ",
     "1. suitable, fitting, proper 2. good tasting 3. comfortable"
   ],
   "ice": [
@@ -40384,7 +40384,7 @@ const dictionary = {
     "bridegroom"
   ],
   "ice ilhangga suje": [
-    "ᡳᠴᡝ ᡳᠯᡥᠠᠨᡤᡤᠠ ᠰᡠᠵᡝ",
+    "ᡳᠴᡝ ᡳᠯᡥᠠᠩᡤᠠ ᠰᡠᠵᡝ",
     "new-style flowered silk"
   ],
   "ice nimaha": [
@@ -40508,11 +40508,11 @@ const dictionary = {
     "see icakūšambi"
   ],
   "icingga": [
-    "ᡳᠴᡳᠨᡤᡤᠠ",
+    "ᡳᠴᡳᠩᡤᠠ",
     "1. having direction, purposeful 2. experienced, competent, skilled"
   ],
   "icingga aku": [
-    "ᡳᠴᡳᠨᡤᡤᠠ ᠠᡴᡠ",
+    "ᡳᠴᡳᠩᡤᠠ ᠠᡴᡠ",
     "inexperienced, incompetent, unskilled"
   ],
   "icixambi": [
@@ -40676,11 +40676,11 @@ const dictionary = {
     "reed warbler (Phragomaticola aedon)"
   ],
   "ihangga": [
-    "ᡳᡥᠠᠨᡤᡤᠠ",
+    "ᡳᡥᠠᠩᡤᠠ",
     "pertaining to the cow"
   ],
   "ihangga aniya": [
-    "ᡳᡥᠠᠨᡤᡤᠠ ᠠᠨᡳᠶᠠ",
+    "ᡳᡥᠠᠩᡤᠠ ᠠᠨᡳᠶᠠ",
     "the year of the cow"
   ],
   "ihaxi": [
@@ -40688,7 +40688,7 @@ const dictionary = {
     "rhinoceros"
   ],
   "ihasingga kiru": [
-    "ᡳᡥᠠᠰᡳᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᡳᡥᠠᠰᡳᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner embroidered with the image of a rhinoceros"
   ],
   "ihida": [
@@ -40816,7 +40816,7 @@ const dictionary = {
     "the white hair on the sides of a roe's tail"
   ],
   "ikengge": [
-    "ᡳᡴᡝᠨᡤᡤᡝ",
+    "ᡳᡴᡝᠩᡤᡝ",
     "1. original 2. chief, great, large"
   ],
   "ikiri": [
@@ -40832,11 +40832,11 @@ const dictionary = {
     "one name for the chicken; see coko"
   ],
   "ikiri jungken": [
-    "ᡳᡴᡳᡵᡳ ᠵᡠᠨᡤᡴᡝᠨ",
+    "ᡳᡴᡳᡵᡳ ᠵᡠᠩᡴᡝᠨ",
     "a set of sixteen bronze bells hung in pairs, each producing a different tone"
   ],
   "ikiri kingken": [
-    "ᡳᡴᡳᡵᡳ ᡴᡳᠨᡤᡴᡝᠨ",
+    "ᡳᡴᡳᡵᡳ ᡴᡳᠩᡴᡝᠨ",
     "a set of sixteen L-shaped stones hung in pairs, each producing a different tone"
   ],
   "ikiri mulu": [
@@ -40864,7 +40864,7 @@ const dictionary = {
     "1. accumulation, piling up 2. in Buddhist writings skandha"
   ],
   "iktangga": [
-    "ᡳᡴᡨᠠᠨᡤᡤᠠ",
+    "ᡳᡴᡨᠠᠩᡤᠠ",
     "implicit, hidden"
   ],
   "ikvbumbi": [
@@ -40940,11 +40940,11 @@ const dictionary = {
     "three"
   ],
   "ilan acangga hergen": [
-    "ᡳᠯᠠᠨ ᠠᠴᠠᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡳᠯᠠᠨ ᠠᠴᠠᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "three Chinese characters used to represent the sound of a Manchu word"
   ],
   "ilan bethengge hvntahan": [
-    "ᡳᠯᠠᠨ ᠪᡝᡨᡥᡝᠨᡤᡤᡝ ᡥᡡᠨᡨᠠᡥᠠᠨ",
+    "ᡳᠯᠠᠨ ᠪᡝᡨᡥᡝᠩᡤᡝ ᡥᡡᠨᡨᠠᡥᠠᠨ",
     "a three-legged gold or jade wine vessel used for sacrificial purposes"
   ],
   "ilan biya": [
@@ -40972,7 +40972,7 @@ const dictionary = {
     "the hottest period of the summer occurring right after the summer solstice"
   ],
   "ilan gusai menggun afabure toksoi da sabe kadalara ba bh 78a": [
-    "ᡳᠯᠠᠨ ᡤᡠᠰᠠᡳ ᠮᡝᠨᡤᡤᡠᠨ ᠠᡶᠠᠪᡠᡵᡝ ᡨᠣᡴᠰᠣᡳ ᡩᠠ ᠰᠠᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᠪᠠ ᠪᡥ 78ᠠ",
+    "ᡳᠯᠠᠨ ᡤᡠᠰᠠᡳ ᠮᡝᠩᡤᡠᠨ ᠠᡶᠠᠪᡠᡵᡝ ᡨᠣᡴᠰᠣᡳ ᡩᠠ ᠰᠠᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᠪᠠ ᠪᡥ 78ᠠ",
     "Office for collecting rents on Imperial lands,"
   ],
   "ilan hafu bithei kvren": [
@@ -40984,7 +40984,7 @@ const dictionary = {
     "the three moral relationships: prince-subject, father-son, husband-wife"
   ],
   "ilan irungge mahatun": [
-    "ᡳᠯᠠᠨ ᡳᡵᡠᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᡳᠯᠠᠨ ᡳᡵᡠᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "an ancientstyle hat with three high ridges on top"
   ],
   "ilan jaifan": [
@@ -40996,7 +40996,7 @@ const dictionary = {
     "silk having a three-tier round pattern"
   ],
   "ilan namun i dangse boo": [
-    "ᡳᠯᠠᠨ ᠨᠠᠮᡠᠨ ᡳ ᡩᠠᠨᡤᠰᡝ ᠪᠣᠣ",
+    "ᡳᠯᠠᠨ ᠨᠠᠮᡠᠨ ᡳ ᡩᠠᠩᠰᡝ ᠪᠣᠣ",
     "business office of the three palace storehouses (for silver, textiles, and pigments)"
   ],
   "ilan niyakvn": [
@@ -41016,11 +41016,11 @@ const dictionary = {
     "an ancientstyle hat topped with three jeweled pendants"
   ],
   "ilan unggala miyoocan": [
-    "ᡳᠯᠠᠨ ᡠᠨᡤᡤᠠᠯᠠ ᠮᡳᠶᠣᠣᠴᠠᠨ",
+    "ᡳᠯᠠᠨ ᡠᠩᡤᠠᠯᠠ ᠮᡳᠶᠣᠣᠴᠠᠨ",
     "a three-barreled musket"
   ],
   "ilanggeri": [
-    "ᡳᠯᠠᠨᡤᡤᡝᡵᡳ",
+    "ᡳᠯᠠᠩᡤᡝᡵᡳ",
     "three times"
   ],
   "ilari boso": [
@@ -41080,7 +41080,7 @@ const dictionary = {
     "1. elegant, refined 2. agile, quick-witted, bright"
   ],
   "ildamungga": [
-    "ᡳᠯᡩᠠᠮᡠᠨᡤᡤᠠ",
+    "ᡳᠯᡩᠠᠮᡠᠩᡤᠠ",
     "elegant, graceful, tasteful"
   ],
   "ildedei": [
@@ -41104,7 +41104,7 @@ const dictionary = {
     "caus. of ildumbi"
   ],
   "ildufun giranggi": [
-    "ᡳᠯᡩᡠᡶᡠᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡳᠯᡩᡠᡶᡠᠨ ᡤᡳᡵᠠᠩᡤᡳ",
     "see ildefun"
   ],
   "ildumbi": [
@@ -41120,15 +41120,15 @@ const dictionary = {
     "taking advantage of, according to one's convenience"
   ],
   "ildungga": [
-    "ᡳᠯᡩᡠᠨᡤᡤᠠ",
+    "ᡳᠯᡩᡠᠩᡤᠠ",
     "acquainted, on good terms"
   ],
   "ildungga afaha": [
-    "ᡳᠯᡩᡠᠨᡤᡤᠠ ᠠᡶᠠᡥᠠ",
+    "ᡳᠯᡩᡠᠩᡤᠠ ᠠᡶᠠᡥᠠ",
     "a summary of official documents"
   ],
   "ildvngga duka": [
-    "ᡳᠯᡩᡡᠨᡤᡤᠠ ᡩᡠᡴᠠ",
+    "ᡳᠯᡩᡡᠩᡤᠠ ᡩᡠᡴᠠ",
     "side door, service door"
   ],
   "ilduxambi": [
@@ -41152,15 +41152,15 @@ const dictionary = {
     "1. to lick 2. to remove the stems from hemp"
   ],
   "ilenggu": [
-    "ᡳᠯᡝᠨᡤᡤᡠ",
+    "ᡳᠯᡝᠩᡤᡠ",
     "1. tongue 2. the trigger of a trap 3. a wooden stick hanging from the nose ring of a domestic beast 4. the clapper of a bell"
   ],
   "ilenggu dasakv": [
-    "ᡳᠯᡝᠨᡤᡤᡠ ᡩᠠᠰᠠᡴᡡ",
+    "ᡳᠯᡝᠩᡤᡠ ᡩᠠᠰᠠᡴᡡ",
     "tongue scraper"
   ],
   "ilenggu dube": [
-    "ᡳᠯᡝᠨᡤᡤᡠ ᡩᡠᠪᡝ",
+    "ᡳᠯᡝᠩᡤᡠ ᡩᡠᠪᡝ",
     "the tip of the tongue"
   ],
   "ilerebumbi": [
@@ -41216,11 +41216,11 @@ const dictionary = {
     "1. elucidation, clearing up 2. chart, table 3. see iletu"
   ],
   "iletungge": [
-    "ᡳᠯᡝᡨᡠᠨᡤᡤᡝ",
+    "ᡳᠯᡝᡨᡠᠩᡤᡝ",
     "bright, clear"
   ],
   "iletungge gu": [
-    "ᡳᠯᡝᡨᡠᠨᡤᡤᡝ ᡤᡠ",
+    "ᡳᠯᡝᡨᡠᠩᡤᡝ ᡤᡠ",
     "a jade ornament, symbol of a male child, used in ceremonies in ancient times"
   ],
   "ilgabumbi": [
@@ -41252,7 +41252,7 @@ const dictionary = {
     "to distinguish (of a group)"
   ],
   "ilgangga": [
-    "ᡳᠯᡤᠠᠨᡤᡤᠠ",
+    "ᡳᠯᡤᠠᠩᡤᠠ",
     "see ilhangga"
   ],
   "ilgari": [
@@ -41276,7 +41276,7 @@ const dictionary = {
     "skin from which the hair has been removed, leather"
   ],
   "ilgin i xoxonggo mahala": [
-    "ᡳᠯᡤᡳᠨ ᡳ ᡧᠣᡧᠣᠨᡤᡤᠣ ᠮᠠᡥᠠᠯᠠ",
+    "ᡳᠯᡤᡳᠨ ᡳ ᡧᠣᡧᠣᠩᡤᠣ ᠮᠠᡥᠠᠯᠠ",
     "an ancient-style leather hat used during war-time"
   ],
   "ilgiri niyehe": [
@@ -41296,7 +41296,7 @@ const dictionary = {
     "plain thin pongee"
   ],
   "ilha cecikengge loho": [
-    "ᡳᠯᡥᠠ ᠴᡝᠴᡳᡴᡝᠨᡤᡤᡝ ᠯᠣᡥᠣ",
+    "ᡳᠯᡥᠠ ᠴᡝᠴᡳᡴᡝᠩᡤᡝ ᠯᠣᡥᠣ",
     "a sword decorated with colored bird patterns"
   ],
   "ilha i felhen": [
@@ -41304,7 +41304,7 @@ const dictionary = {
     "a flower stand"
   ],
   "ilha i fengse": [
-    "ᡳᠯᡥᠠ ᡳ ᡶᡝᠨᡤᠰᡝ",
+    "ᡳᠯᡥᠠ ᡳ ᡶᡝᠩᠰᡝ",
     "a vessel with a miniature landscape in it"
   ],
   "ilha i simen": [
@@ -41320,7 +41320,7 @@ const dictionary = {
     "flower vase"
   ],
   "ilhai hvngkerekv": [
-    "ᡳᠯᡥᠠᡳ ᡥᡡᠨᡤᡴᡝᡵᡝᡴᡡ",
+    "ᡳᠯᡥᠠᡳ ᡥᡡᠩᡴᡝᡵᡝᡴᡡ",
     "a watering can for flowers"
   ],
   "ilhai niyaman": [
@@ -41360,39 +41360,39 @@ const dictionary = {
     "1. to bloom 2. to grow dim (of the eyes)"
   ],
   "ilhangga": [
-    "ᡳᠯᡥᠠᠨᡤᡤᠠ",
+    "ᡳᠯᡥᠠᠩᡤᠠ",
     "colored, patterned, flowery"
   ],
   "ilhangga cuse moo": [
-    "ᡳᠯᡥᠠᠨᡤᡤᠠ ᠴᡠᠰᡝ ᠮᠣᠣ",
+    "ᡳᠯᡥᠠᠩᡤᠠ ᠴᡠᠰᡝ ᠮᠣᠣ",
     "golden bamboo"
   ],
   "ilhangga fungkv": [
-    "ᡳᠯᡥᠠᠨᡤᡤᠠ ᡶᡠᠨᡤᡴᡡ",
+    "ᡳᠯᡥᠠᠩᡤᠠ ᡶᡠᠩᡴᡡ",
     "a brightly colored carved or embroidered stool"
   ],
   "ilhangga moo": [
-    "ᡳᠯᡥᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᡳᠯᡥᠠᠩᡤᠠ ᠮᠣᠣ",
     "rosewood"
   ],
   "ilhangga sirgeri": [
-    "ᡳᠯᡥᠠᠨᡤᡤᠠ ᠰᡳᡵᡤᡝᡵᡳ",
+    "ᡳᠯᡥᠠᠩᡤᠠ ᠰᡳᡵᡤᡝᡵᡳ",
     "thin silk having a brightly colored pattern"
   ],
   "ilhangga xobin": [
-    "ᡳᠯᡥᠠᠨᡤᡤᠠ ᡧᠣᠪᡳᠨ",
+    "ᡳᠯᡥᠠᠩᡤᠠ ᡧᠣᠪᡳᠨ",
     "cakes with colored patterns stamped on them"
   ],
   "ilhangga turtun": [
-    "ᡳᠯᡥᠠᠨᡤᡤᠠ ᡨᡠᡵᡨᡠᠨ",
+    "ᡳᠯᡥᠠᠩᡤᠠ ᡨᡠᡵᡨᡠᠨ",
     "brightly patterned thin silk"
   ],
   "ilhangga wehei niowarikv": [
-    "ᡳᠯᡥᠠᠨᡤᡤᠠ ᠸᡝᡥᡝᡳ ᠨᡳᠣᠸᠠᡵᡳᡴᡡ",
+    "ᡳᠯᡥᠠᠩᡤᠠ ᠸᡝᡥᡝᡳ ᠨᡳᠣᠸᠠᡵᡳᡴᡡ",
     "malachite green"
   ],
   "ilhangga yabihan": [
-    "ᡳᠯᡥᠠᠨᡤᡤᠠ ᠶᠠᠪᡳᡥᠠᠨ",
+    "ᡳᠯᡥᠠᠩᡤᠠ ᠶᠠᠪᡳᡥᠠᠨ",
     "coffered ceiling"
   ],
   "ilhari": [
@@ -41412,7 +41412,7 @@ const dictionary = {
     "in order, one after another"
   ],
   "ilhi bayarai jalan i janggin bh": [
-    "ᡳᠯᡥᡳ ᠪᠠᠶᠠᡵᠠᡳ ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡳᠯᡥᡳ ᠪᠠᠶᠠᡵᠠᡳ ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Lieutenant-Colonel, 734"
   ],
   "ilhi hafan": [
@@ -41428,7 +41428,7 @@ const dictionary = {
     "to have dysentery"
   ],
   "ilhi jalan i janggin bh": [
-    "ᡳᠯᡥᡳ ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡳᠯᡥᡳ ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Lieutenant-Colonel, 658"
   ],
   "ilhi jorisi bh 796a": [
@@ -41492,7 +41492,7 @@ const dictionary = {
     "1. upright, vertical 2. appropriate, suitable"
   ],
   "ilhvngga": [
-    "ᡳᠯᡥᡡᠨᡤᡤᠠ",
+    "ᡳᠯᡥᡡᠩᡤᠠ",
     "lying straight (of hair on an animal)"
   ],
   "ilibumbi": [
@@ -41520,7 +41520,7 @@ const dictionary = {
     "killed him on the spot"
   ],
   "ilihangga": [
-    "ᡳᠯᡳᡥᠠᠨᡤᡤᠠ",
+    "ᡳᠯᡳᡥᠠᠩᡤᠠ",
     "strong, durable (of silk products)"
   ],
   "ilimbahabumbi": [
@@ -41552,11 +41552,11 @@ const dictionary = {
     "to go to stand on, to settle down, to stop (on)"
   ],
   "ilingga hengketv": [
-    "ᡳᠯᡳᠨᡤᡤᠠ ᡥᡝᠨᡤᡴᡝᡨᡡ",
+    "ᡳᠯᡳᠩᡤᠠ ᡥᡝᠩᡴᡝᡨᡡ",
     "a wooden emblem carved in the shape of a melon"
   ],
   "ilingga hiyan": [
-    "ᡳᠯᡳᠨᡤᡤᠠ ᡥᡳᠶᠠᠨ",
+    "ᡳᠯᡳᠩᡤᠠ ᡥᡳᠶᠠᠨ",
     "incense in the form of long sticks"
   ],
   "ilinjambi": [
@@ -41632,19 +41632,19 @@ const dictionary = {
     "to beat an imcin"
   ],
   "imengge moo": [
-    "ᡳᠮᡝᠨᡤᡤᡝ ᠮᠣᠣ",
+    "ᡳᠮᡝᠩᡤᡝ ᠮᠣᠣ",
     "Chinese tallow tree"
   ],
   "imenggi": [
-    "ᡳᠮᡝᠨᡤᡤᡳ",
+    "ᡳᠮᡝᠩᡤᡳ",
     "vegetable oil"
   ],
   "imenggi dabuku": [
-    "ᡳᠮᡝᠨᡤᡤᡳ ᡩᠠᠪᡠᡴᡠ",
+    "ᡳᠮᡝᠩᡤᡳ ᡩᠠᠪᡠᡴᡠ",
     "oil lamp"
   ],
   "imenggilembi": [
-    "ᡳᠮᡝᠨᡤᡤᡳᠯᡝᠮᠪᡳ",
+    "ᡳᠮᡝᠩᡤᡳᠯᡝᠮᠪᡳ",
     "to oil, to rub with oil"
   ],
   "imete": [
@@ -41660,7 +41660,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "imhe tokdonggo kiru": [
-    "ᡳᠮᡥᡝ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡳᠮᡥᡝ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation imhe"
   ],
   "imisun": [
@@ -41680,7 +41680,7 @@ const dictionary = {
     "to assemble, to gather"
   ],
   "imiyara sabintungge kiru": [
-    "ᡳᠮᡳᠶᠠᡵᠠ ᠰᠠᠪᡳᠨᡨᡠᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᡳᠮᡳᠶᠠᡵᠠ ᠰᠠᠪᡳᠨᡨᡠᠩᡤᡝ ᡴᡳᡵᡠ",
     "a banner with the image of a unicorn on it"
   ],
   "imiyan": [
@@ -41712,7 +41712,7 @@ const dictionary = {
     "vaginal discharge, menstrual discharge"
   ],
   "in yang": [
-    "ᡳᠨ ᠶᠠᠨᡤ",
+    "ᡳᠨ ᠶᠠᠩ",
     "the male (positive) and female (negative) principles"
   ],
   "in du gurun": [
@@ -41764,7 +41764,7 @@ const dictionary = {
     "a dog-fly"
   ],
   "indahvn manggisu": [
-    "ᡳᠨᡩᠠᡥᡡᠨ ᠮᠠᠨᡤᡤᡳᠰᡠ",
+    "ᡳᠨᡩᠠᡥᡡᠨ ᠮᠠᠩᡤᡳᠰᡠ",
     "one name for the badger; cf. dorgon"
   ],
   "indahvn mucu": [
@@ -41792,11 +41792,11 @@ const dictionary = {
     "kennel"
   ],
   "indahvngga": [
-    "ᡳᠨᡩᠠᡥᡡᠨᡤᡤᠠ",
+    "ᡳᠨᡩᠠᡥᡡᠩᡤᠠ",
     "pertaining to the dog"
   ],
   "indahvngga aniya": [
-    "ᡳᠨᡩᠠᡥᡡᠨᡤᡤᠠ ᠠᠨᡳᠶᠠ",
+    "ᡳᠨᡩᠠᡥᡡᠩᡤᠠ ᠠᠨᡳᠶᠠ",
     "the year of the dog"
   ],
   "indan": [
@@ -41844,7 +41844,7 @@ const dictionary = {
     "this month"
   ],
   "ineku inenggi": [
-    "ᡳᠨᡝᡴᡠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡳᠨᡝᡴᡠ ᡳᠨᡝᠩᡤᡳ",
     "today"
   ],
   "ineku jihe fucihi": [
@@ -41864,123 +41864,123 @@ const dictionary = {
     "see ine mene"
   ],
   "inenggi": [
-    "ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡳᠨᡝᠩᡤᡳ",
     "1. day 2. a type of sea fish resembling the sea bream"
   ],
   "inenggi abkai tampin": [
-    "ᡳᠨᡝᠨᡤᡤᡳ ᠠᠪᡴᠠᡳ ᡨᠠᠮᡦᡳᠨ",
+    "ᡳᠨᡝᠩᡤᡳ ᠠᠪᡴᠠᡳ ᡨᠠᠮᡦᡳᠨ",
     "the upper part of a water clock"
   ],
   "inenggi dobori akv": [
-    "ᡳᠨᡝᠨᡤᡤᡳ ᡩᠣᠪᠣᡵᡳ ᠠᡴᡡ",
+    "ᡳᠨᡝᠩᡤᡳ ᡩᠣᠪᠣᡵᡳ ᠠᡴᡡ",
     "both day and night, ceaselessly"
   ],
   "inenggi dulin": [
-    "ᡳᠨᡝᠨᡤᡤᡳ ᡩᡠᠯᡳᠨ",
+    "ᡳᠨᡝᠩᡤᡳ ᡩᡠᠯᡳᠨ",
     "midday, noon"
   ],
   "inenggi hetumbumbi": [
-    "ᡳᠨᡝᠨᡤᡤᡳ ᡥᡝᡨᡠᠮᠪᡠᠮᠪᡳ",
+    "ᡳᠨᡝᠩᡤᡳ ᡥᡝᡨᡠᠮᠪᡠᠮᠪᡳ",
     "to live, to get by"
   ],
   "inenggi xun de": [
-    "ᡳᠨᡝᠨᡤᡤᡳ ᡧᡠᠨ ᡩᡝ",
+    "ᡳᠨᡝᠩᡤᡳ ᡧᡠᠨ ᡩᡝ",
     "in the daytime"
   ],
   "inenggi tome": [
-    "ᡳᠨᡝᠨᡤᡤᡳ ᡨᠣᠮᡝ",
+    "ᡳᠨᡝᠩᡤᡳ ᡨᠣᠮᡝ",
     "every day"
   ],
   "inenggidari": [
-    "ᡳᠨᡝᠨᡤᡤᡳᡩᠠᡵᡳ",
+    "ᡳᠨᡝᠩᡤᡳᡩᠠᡵᡳ",
     "every day"
   ],
   "inenggishvn": [
-    "ᡳᠨᡝᠨᡤᡤᡳᠰᡥᡡᠨ",
+    "ᡳᠨᡝᠩᡤᡳᠰᡥᡡᠨ",
     "around noon, close to midday"
   ],
   "ing": [
-    "ᡳᠨᡤ",
+    "ᡳᠩ",
     "1. camp, military encampment 2. battalion"
   ],
   "ing ilimbi": [
-    "ᡳᠨᡤ ᡳᠯᡳᠮᠪᡳ",
+    "ᡳᠩ ᡳᠯᡳᠮᠪᡳ",
     "for a camp to be set up"
   ],
   "ing cing": [
-    "ᡳᠨᡤ ᠴᡳᠨᡤ",
+    "ᡳᠩ ᠴᡳᠩ",
     "sapphire"
   ],
   "ing gasha": [
-    "ᡳᠨᡤ ᡤᠠᠰᡥᠠ",
+    "ᡳᠩ ᡤᠠᠰᡥᠠ",
     "eagle"
   ],
   "ing hvng": [
-    "ᡳᠨᡤ ᡥᡡᠨᡤ",
+    "ᡳᠩ ᡥᡡᠩ",
     "ruby"
   ],
   "ing lo": [
-    "ᡳᠨᡤ ᠯᠣ",
+    "ᡳᠩ ᠯᠣ",
     "tassel"
   ],
   "ingga moo": [
-    "ᡳᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᡳᠩᡤᠠ ᠮᠣᠣ",
     "a type of camphor tree"
   ],
   "inggaha": [
-    "ᡳᠨᡤᡤᠠᡥᠠ",
+    "ᡳᠩᡤᠠᡥᠠ",
     "1. down, fluff 2. the fuzz on the bloom of a cattail"
   ],
   "inggaha cece": [
-    "ᡳᠨᡤᡤᠠᡥᠠ ᠴᡝᠴᡝ",
+    "ᡳᠩᡤᠠᡥᠠ ᠴᡝᠴᡝ",
     "a type of very light fabric made of down"
   ],
   "inggaha cekemu": [
-    "ᡳᠨᡤᡤᠠᡥᠠ ᠴᡝᡴᡝᠮᡠ",
+    "ᡳᠩᡤᠠᡥᠠ ᠴᡝᡴᡝᠮᡠ",
     "velvet"
   ],
   "inggaha suje": [
-    "ᡳᠨᡤᡤᠠᡥᠠ ᠰᡠᠵᡝ",
+    "ᡳᠩᡤᠠᡥᠠ ᠰᡠᠵᡝ",
     "a type of tightly woven thick woolen that resembles satin"
   ],
   "inggaha xufanaha suri": [
-    "ᡳᠨᡤᡤᠠᡥᠠ ᡧᡠᡶᠠᠨᠠᡥᠠ ᠰᡠᡵᡳ",
+    "ᡳᠩᡤᠠᡥᠠ ᡧᡠᡶᠠᠨᠠᡥᠠ ᠰᡠᡵᡳ",
     "a sort of silk crepe"
   ],
   "inggala": [
-    "ᡳᠨᡤᡤᠠᠯᠠ",
+    "ᡳᠩᡤᠠᠯᠠ",
     "1. down, fluff 2. the mealy redpoll"
   ],
   "inggali": [
-    "ᡳᠨᡤᡤᠠᠯᡳ",
+    "ᡳᠩᡤᠠᠯᡳ",
     "wagtail, a bird of the genus Motacilla"
   ],
   "inggari": [
-    "ᡳᠨᡤᡤᠠᡵᡳ",
+    "ᡳᠩᡤᠠᡵᡳ",
     "the down or fuzz from the bloom of the willow tree"
   ],
   "inggari orho": [
-    "ᡳᠨᡤᡤᠠᡵᡳ ᠣᡵᡥᠣ",
+    "ᡳᠩᡤᠠᡵᡳ ᠣᡵᡥᠣ",
     "duckweed"
   ],
   "inggiri gurun": [
-    "ᡳᠨᡤᡤᡳᡵᡳ ᡤᡠᡵᡠᠨ",
+    "ᡳᠩᡤᡳᡵᡳ ᡤᡠᡵᡠᠨ",
     "England"
   ],
   "ingguhe": [
-    "ᡳᠨᡤᡤᡠᡥᡝ",
+    "ᡳᠩᡤᡠᡥᡝ",
     "see yengguhe"
   ],
   "ingtori": [
-    "ᡳᠨᡤᡨᠣᡵᡳ",
+    "ᡳᠩᡨᠣᡵᡳ",
     "cherry"
   ],
   "ingturi": [
-    "ᡳᠨᡤᡨᡠᡵᡳ",
+    "ᡳᠩᡨᡠᡵᡳ",
     "see ingtori"
   ],
   "ingyang xeme": [
-    "ᡳᠨᡤᠶᠠᠨᡤ ᡧᡝᠮᡝ",
+    "ᡳᠩᠶᠠᠩ ᡧᡝᠮᡝ",
     "buzzing (of flies)"
   ],
   "ini": [
@@ -41992,7 +41992,7 @@ const dictionary = {
     "on his own initiative, by itself, of its own accord"
   ],
   "iningge": [
-    "ᡳᠨᡳᠨᡤᡤᡝ",
+    "ᡳᠨᡳᠩᡤᡝ",
     "his, her"
   ],
   "iniyaha": [
@@ -42028,7 +42028,7 @@ const dictionary = {
     "to joke"
   ],
   "injekungge": [
-    "ᡳᠨᠵᡝᡴᡠᠨᡤᡤᡝ",
+    "ᡳᠨᠵᡝᡴᡠᠩᡤᡝ",
     "comical, gay, jovial"
   ],
   "injekuxembi": [
@@ -42068,7 +42068,7 @@ const dictionary = {
     "oil, paint, lacquer"
   ],
   "io gang cing": [
-    "ᡳᠣ ᡤᠠᠨᡤ ᠴᡳᠨᡤ",
+    "ᡳᠣ ᡤᠠᠩ ᠴᡳᠩ",
     "a kind of brown cloth"
   ],
   "iodan": [
@@ -42176,7 +42176,7 @@ const dictionary = {
     "people, the common people"
   ],
   "irgen i kunggeri": [
-    "ᡳᡵᡤᡝᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡳᡵᡤᡝᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "section of civil affairs (of various governmental organs)"
   ],
   "irgen sere temgetu": [
@@ -42228,7 +42228,7 @@ const dictionary = {
     "1. a row of tiles 2. rows between furrows in a field 3. raised path between fields 4. the inside part of an oven-bed"
   ],
   "irungge mahatun": [
-    "ᡳᡵᡠᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᡳᡵᡠᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "an ancient-style hat that indicates rank by the number of ridges on top"
   ],
   "irushvn": [
@@ -42276,7 +42276,7 @@ const dictionary = {
     "to gather together"
   ],
   "isangga mekten": [
-    "ᡳᠰᠠᠨᡤᡤᠠ ᠮᡝᡴᡨᡝᠨ",
+    "ᡳᠰᠠᠩᡤᠠ ᠮᡝᡴᡨᡝᠨ",
     "a game of chance in which a number of people make bets on a monthly drawing of tallies"
   ],
   "isanjimbi": [
@@ -42284,7 +42284,7 @@ const dictionary = {
     "to come to assemble"
   ],
   "isanjingga boo": [
-    "ᡳᠰᠠᠨᠵᡳᠨᡤᡤᠠ ᠪᠣᠣ",
+    "ᡳᠰᠠᠨᠵᡳᠩᡤᠠ ᠪᠣᠣ",
     "the antechamber of the throne room where those who awaited audiences assembled"
   ],
   "isarlambi": [
@@ -42456,7 +42456,7 @@ const dictionary = {
     "1. to reach, to arrive (at that place) 2. to go so far as to . . ."
   ],
   "isingga": [
-    "ᡳᠰᡳᠨᡤᡤᠠ",
+    "ᡳᠰᡳᠩᡤᠠ",
     "sufficient, adequate"
   ],
   "isinjimbi": [
@@ -42496,7 +42496,7 @@ const dictionary = {
     "golden eagle"
   ],
   "isungge xufatu": [
-    "ᡳᠰᡠᠨᡤᡤᡝ ᡧᡠᡶᠠᡨᡠ",
+    "ᡳᠰᡠᠩᡤᡝ ᡧᡠᡶᠠᡨᡠ",
     "a military head covering of ancient times made from black satin"
   ],
   "itele": [
@@ -42584,7 +42584,7 @@ const dictionary = {
     "1. interval, pause 2. free time"
   ],
   "jabduhangga": [
-    "ᠵᠠᠪᡩᡠᡥᠠᠨᡤᡤᠠ",
+    "ᠵᠠᠪᡩᡠᡥᠠᠩᡤᠠ",
     "at leisure, relaxed, natural, leisurely"
   ],
   "jabdumbi": [
@@ -42604,7 +42604,7 @@ const dictionary = {
     "1. doesn't have time to 2. taken unawares, taken by surprise"
   ],
   "jabdungga": [
-    "ᠵᠠᠪᡩᡠᠨᡤᡤᠠ",
+    "ᠵᠠᠪᡩᡠᠩᡤᠠ",
     "leisurely"
   ],
   "jabhv": [
@@ -42612,7 +42612,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "jabhv tokdonggo kiru": [
-    "ᠵᠠᠪᡥᡡ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠵᠠᠪᡥᡡ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner on which the constellation jabhū was depicted"
   ],
   "jabjan": [
@@ -42696,7 +42696,7 @@ const dictionary = {
     "second, other"
   ],
   "jacingge": [
-    "ᠵᠠᠴᡳᠨᡤᡤᡝ",
+    "ᠵᠠᠴᡳᠩᡤᡝ",
     "second born"
   ],
   "jadaha": [
@@ -42728,15 +42728,15 @@ const dictionary = {
     "a bow with a"
   ],
   "jafakvngga": [
-    "ᠵᠠᡶᠠᡴᡡᠨᡤᡤᠠ",
+    "ᠵᠠᡶᠠᡴᡡᠩᡤᠠ",
     "having a handle"
   ],
   "jafakvngga dengjan": [
-    "ᠵᠠᡶᠠᡴᡡᠨᡤᡤᠠ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠵᠠᡶᠠᡴᡡᠩᡤᠠ ᡩᡝᠩᠵᠠᠨ",
     "a lantern with a handle"
   ],
   "jafakvngga tungken": [
-    "ᠵᠠᡶᠠᡴᡡᠨᡤᡤᠠ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᠵᠠᡶᠠᡴᡡᠩᡤᠠ ᡨᡠᠩᡴᡝᠨ",
     "a large drum with a handle"
   ],
   "jafambi": [
@@ -42752,7 +42752,7 @@ const dictionary = {
     "to go to seize, to go to offer"
   ],
   "jafangga": [
-    "ᠵᠠᡶᠠᠨᡤᡤᠠ",
+    "ᠵᠠᡶᠠᠩᡤᠠ",
     "pertaining to holding"
   ],
   "jafanjimbi": [
@@ -42792,7 +42792,7 @@ const dictionary = {
     "a felt cushion or pad"
   ],
   "jafukvngga": [
-    "ᠵᠠᡶᡠᡴᡡᠨᡤᡤᠠ",
+    "ᠵᠠᡶᡠᡴᡡᠩᡤᠠ",
     "economical, thrifty"
   ],
   "jafunambi": [
@@ -42812,7 +42812,7 @@ const dictionary = {
     "see jafata"
   ],
   "jaguri tungken": [
-    "ᠵᠠᡤᡠᡵᡳ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᠵᠠᡤᡠᡵᡳ ᡨᡠᠩᡴᡝᠨ",
     "a foot-long drum used by the imperial escort"
   ],
   "jaha": [
@@ -42836,7 +42836,7 @@ const dictionary = {
     "pebbles and stones found along a river bed"
   ],
   "jahari dalangga": [
-    "ᠵᠠᡥᠠᡵᡳ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠵᠠᡥᠠᡵᡳ ᡩᠠᠯᠠᠩᡤᠠ",
     "a dam of pebbles and river stones"
   ],
   "jahari wehe": [
@@ -42864,7 +42864,7 @@ const dictionary = {
     "1. next, following, second 2. still, again, more 3. later 4. and"
   ],
   "jai inenggi": [
-    "ᠵᠠᡳ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠵᠠᡳ ᡳᠨᡝᠩᡤᡳ",
     "the following day"
   ],
   "jai jalan i omolo": [
@@ -43096,19 +43096,19 @@ const dictionary = {
     "colored clouds (at dawn or dusk)"
   ],
   "jaksangga": [
-    "ᠵᠠᡴᠰᠠᠨᡤᡤᠠ",
+    "ᠵᠠᡴᠰᠠᠩᡤᠠ",
     "dusk-colored"
   ],
   "jaksangga gurung": [
-    "ᠵᠠᡴᠰᠠᠨᡤᡤᠠ ᡤᡠᡵᡠᠨᡤ",
+    "ᠵᠠᡴᠰᠠᠩᡤᠠ ᡤᡠᡵᡠᠩ",
     "the name of a constellation"
   ],
   "jaksangga ilha": [
-    "ᠵᠠᡴᠰᠠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᠵᠠᡴᠰᠠᠩᡤᠠ ᡳᠯᡥᠠ",
     "crape-myrtle"
   ],
   "jaksangga ten": [
-    "ᠵᠠᡴᠰᠠᠨᡤᡤᠠ ᡨᡝᠨ",
+    "ᠵᠠᡴᠰᠠᠩᡤᠠ ᡨᡝᠨ",
     "the name of a constellation, also called dergi bikita"
   ],
   "jaksari moo": [
@@ -43136,7 +43136,7 @@ const dictionary = {
     "the eighth month"
   ],
   "jakvn edungge kiru": [
-    "ᠵᠠᡴᡡᠨ ᡝᡩᡠᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᠵᠠᡴᡡᠨ ᡝᡩᡠᠩᡤᡝ ᡴᡳᡵᡠ",
     "the eight-wind banners"
   ],
   "jakvn fafun": [
@@ -43152,7 +43152,7 @@ const dictionary = {
     "the eight banners of the Manchus"
   ],
   "jakvn gvsai kunggeri": [
-    "ᠵᠠᡴᡡᠨ ᡤᡡᠰᠠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠵᠠᡴᡡᠨ ᡤᡡᠰᠠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office in charge of the eight banners' affairs in the Board of Civil Appointments in Mukden"
   ],
   "jakvn gvsai ne beidere baita icihiyara ba": [
@@ -43180,23 +43180,23 @@ const dictionary = {
     "a golden sedan chair carried by eight porters and used by imperial concubines"
   ],
   "jakvn ubu de dosika gung": [
-    "ᠵᠠᡴᡡᠨ ᡠᠪᡠ ᡩᡝ ᡩᠣᠰᡳᡴᠠ ᡤᡠᠨᡤ",
+    "ᠵᠠᡴᡡᠨ ᡠᠪᡠ ᡩᡝ ᡩᠣᠰᡳᡴᠠ ᡤᡠᠩ",
     "a duke who possessed the eight privileges"
   ],
   "jakvn ubu de dosimbuhakv gurun be dalire gung bh": [
-    "ᠵᠠᡴᡡᠨ ᡠᠪᡠ ᡩᡝ ᡩᠣᠰᡳᠮᠪᡠᡥᠠᡴᡡ ᡤᡠᡵᡠᠨ ᠪᡝ ᡩᠠᠯᡳᡵᡝ ᡤᡠᠨᡤ ᠪᡥ",
+    "ᠵᠠᡴᡡᠨ ᡠᠪᡠ ᡩᡝ ᡩᠣᠰᡳᠮᠪᡠᡥᠠᡴᡡ ᡤᡠᡵᡠᠨ ᠪᡝ ᡩᠠᠯᡳᡵᡝ ᡤᡠᠩ ᠪᡥ",
     "Prince of the Blood of the seventh degree, 22"
   ],
   "jakvn ubu de dosimbuhakv gurun de aisilara gung bh": [
-    "ᠵᠠᡴᡡᠨ ᡠᠪᡠ ᡩᡝ ᡩᠣᠰᡳᠮᠪᡠᡥᠠᡴᡡ ᡤᡠᡵᡠᠨ ᡩᡝ ᠠᡳᠰᡳᠯᠠᡵᠠ ᡤᡠᠨᡤ ᠪᡥ",
+    "ᠵᠠᡴᡡᠨ ᡠᠪᡠ ᡩᡝ ᡩᠣᠰᡳᠮᠪᡠᡥᠠᡴᡡ ᡤᡠᡵᡠᠨ ᡩᡝ ᠠᡳᠰᡳᠯᠠᡵᠠ ᡤᡠᠩ ᠪᡥ",
     "Prince of the Blood of the eighth degree, 23"
   ],
   "jakvn ubui narhvngga fukjingga hergen": [
-    "ᠵᠠᡴᡡᠨ ᡠᠪᡠᡳ ᠨᠠᡵᡥᡡᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠵᠠᡴᡡᠨ ᡠᠪᡠᡳ ᠨᠠᡵᡥᡡᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "jakvnggeri": [
-    "ᠵᠠᡴᡡᠨᡤᡤᡝᡵᡳ",
+    "ᠵᠠᡴᡡᠩᡤᡝᡵᡳ",
     "eight times"
   ],
   "jakvnju": [
@@ -43240,19 +43240,19 @@ const dictionary = {
     "long life"
   ],
   "jalafun hergengge xun dalikv": [
-    "ᠵᠠᠯᠠᡶᡠᠨ ᡥᡝᡵᡤᡝᠨᡤᡤᡝ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
+    "ᠵᠠᠯᠠᡶᡠᠨ ᡥᡝᡵᡤᡝᠩᡤᡝ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
     "a parasol of the escort with the word jalafun written upon it"
   ],
   "jalafungga": [
-    "ᠵᠠᠯᠠᡶᡠᠨᡤᡤᠠ",
+    "ᠵᠠᠯᠠᡶᡠᠩᡤᠠ",
     "possessing long life, long-lived"
   ],
   "jalafungga ilha": [
-    "ᠵᠠᠯᠠᡶᡠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᠵᠠᠯᠠᡶᡠᠩᡤᠠ ᡳᠯᡥᠠ",
     "the flower Tupistra chinensis"
   ],
   "jalafungga kiltan": [
-    "ᠵᠠᠯᠠᡶᡠᠨᡤᡤᠠ ᡴᡳᠯᡨᠠᠨ",
+    "ᠵᠠᠯᠠᡶᡠᠩᡤᠠ ᡴᡳᠯᡨᠠᠨ",
     "a pennant of the imperial escort bearing the word jalafungga"
   ],
   "jalafuri ilha": [
@@ -43328,7 +43328,7 @@ const dictionary = {
     "hereditary banner chief"
   ],
   "jalan i janggin bh": [
-    "ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᠵᠠᠯᠠᠨ ᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Colonel, 658, 659"
   ],
   "jalan jalan i": [
@@ -43352,11 +43352,11 @@ const dictionary = {
     "hereditary official"
   ],
   "jalangga": [
-    "ᠵᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠵᠠᠯᠠᠩᡤᠠ",
     "1. measured, temperate, economical 2. chaste 3. pertaining to a generation"
   ],
   "jalangga hehe": [
-    "ᠵᠠᠯᠠᠨᡤᡤᠠ ᡥᡝᡥᡝ",
+    "ᠵᠠᠯᠠᠩᡤᠠ ᡥᡝᡥᡝ",
     "chaste woman--usually refers to a widow who remained unmarried"
   ],
   "jalari": [
@@ -43396,7 +43396,7 @@ const dictionary = {
     "1. length of life, span 2. fate, destiny, lot"
   ],
   "jalgangga": [
-    "ᠵᠠᠯᡤᠠᠨᡤᡤᠠ",
+    "ᠵᠠᠯᡤᠠᠩᡤᠠ",
     "pertaining to long life"
   ],
   "jalgari monio": [
@@ -43456,19 +43456,19 @@ const dictionary = {
     "(postposition) for the sake of"
   ],
   "jalingga": [
-    "ᠵᠠᠯᡳᠨᡤᡤᠠ",
+    "ᠵᠠᠯᡳᠩᡤᠠ",
     "traitorous, wicked, crafty"
   ],
   "jalingga kiyangkiyan": [
-    "ᠵᠠᠯᡳᠨᡤᡤᠠ ᡴᡳᠶᠠᠨᡤᡴᡳᠶᠠᠨ",
+    "ᠵᠠᠯᡳᠩᡤᠠ ᡴᡳᠶᠠᠩᡴᡳᠶᠠᠨ",
     "wicked and violent"
   ],
   "jalingga koimali": [
-    "ᠵᠠᠯᡳᠨᡤᡤᠠ ᡴᠣᡳᠮᠠᠯᡳ",
+    "ᠵᠠᠯᡳᠩᡤᠠ ᡴᠣᡳᠮᠠᠯᡳ",
     "wicked and deceitful"
   ],
   "jalingga xuban": [
-    "ᠵᠠᠯᡳᠨᡤᡤᠠ ᡧᡠᠪᠠᠨ",
+    "ᠵᠠᠯᡳᠩᡤᠠ ᡧᡠᠪᠠᠨ",
     "a wicked official, subordinate"
   ],
   "jaliyun": [
@@ -43484,7 +43484,7 @@ const dictionary = {
     "full, fullness"
   ],
   "jalu eldembure dengjan": [
-    "ᠵᠠᠯᡠ ᡝᠯᡩᡝᠮᠪᡠᡵᡝ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠵᠠᠯᡠ ᡝᠯᡩᡝᠮᠪᡠᡵᡝ ᡩᡝᠩᠵᠠᠨ",
     "a hanging lantern in which a number of candles burn"
   ],
   "jalu gurun": [
@@ -43544,7 +43544,7 @@ const dictionary = {
     "curtain, net (for mosquitoes)"
   ],
   "jampangga cece": [
-    "ᠵᠠᠮᡦᠠᠨᡤᡤᠠ ᠴᡝᠴᡝ",
+    "ᠵᠠᠮᡦᠠᠩᡤᠠ ᠴᡝᠴᡝ",
     "fine gauze used for curtains"
   ],
   "jampin": [
@@ -43588,7 +43588,7 @@ const dictionary = {
     "sweet, pleasant, agreeable"
   ],
   "jancuhvn hengke": [
-    "ᠵᠠᠨᠴᡠᡥᡡᠨ ᡥᡝᠨᡤᡴᡝ",
+    "ᠵᠠᠨᠴᡠᡥᡡᠨ ᡥᡝᠩᡴᡝ",
     "sweet melon (Cucumis melo)"
   ],
   "jancuhvn jofohori": [
@@ -43600,7 +43600,7 @@ const dictionary = {
     "carrot"
   ],
   "jancuhvn silenggi": [
-    "ᠵᠠᠨᠴᡠᡥᡡᠨ ᠰᡳᠯᡝᠨᡤᡤᡳ",
+    "ᠵᠠᠨᠴᡠᡥᡡᠨ ᠰᡳᠯᡝᠩᡤᡳ",
     "sweet dew"
   ],
   "jancuhvn usiha": [
@@ -43620,111 +43620,111 @@ const dictionary = {
     "licorice"
   ],
   "jang": [
-    "ᠵᠠᠨᡤ",
+    "ᠵᠠᠩ",
     "1. ten Chinese feet; cf. jušuru 2. a pole used for beating criminals"
   ],
   "jang bithe": [
-    "ᠵᠠᠨᡤ ᠪᡳᡨᡥᡝ",
+    "ᠵᠠᠩ ᠪᡳᡨᡥᡝ",
     "accounts books"
   ],
   "jang jing": [
-    "ᠵᠠᠨᡤ ᠵᡳᠨᡤ",
+    "ᠵᠠᠩ ᠵᡳᠩ",
     "(onom.) the sound made by birds looking for one another"
   ],
   "jang loo": [
-    "ᠵᠠᠨᡤ ᠯᠣᠣ",
+    "ᠵᠠᠩ ᠯᠣᠣ",
     "elder"
   ],
   "jang loo hvwaxan": [
-    "ᠵᠠᠨᡤ ᠯᠣᠣ ᡥᡡᠸᠠᡧᠠᠨ",
+    "ᠵᠠᠩ ᠯᠣᠣ ᡥᡡᠸᠠᡧᠠᠨ",
     "Buddhist abbot"
   ],
   "jangci": [
-    "ᠵᠠᠨᡤᠴᡳ",
+    "ᠵᠠᠩᠴᡳ",
     "a felt cape worn during snow or rain"
   ],
   "jangcin": [
-    "ᠵᠠᠨᡤᠴᡳᠨ",
+    "ᠵᠠᠩᠴᡳᠨ",
     "see jangci"
   ],
   "jangd": [
-    "ᠵᠠᠨᡤᡩ",
+    "ᠵᠠᠩᡩ",
     "the son of a prince of the second class"
   ],
   "jangga moo": [
-    "ᠵᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠵᠠᠩᡤᠠ ᠮᠣᠣ",
     "camphor tree"
   ],
   "jangga niru": [
-    "ᠵᠠᠨᡤᡤᠠ ᠨᡳᡵᡠ",
+    "ᠵᠠᠩᡤᠠ ᠨᡳᡵᡠ",
     "a whistling arrow with a bone head"
   ],
   "janggalcambi": [
-    "ᠵᠠᠨᡤᡤᠠᠯᠴᠠᠮᠪᡳ",
+    "ᠵᠠᠩᡤᠠᠯᠴᠠᠮᠪᡳ",
     "to amble (of horses)"
   ],
   "janggalibumbi": [
-    "ᠵᠠᠨᡤᡤᠠᠯᡳᠪᡠᠮᠪᡳ",
+    "ᠵᠠᠩᡤᠠᠯᡳᠪᡠᠮᠪᡳ",
     "caus. of janggalimbi"
   ],
   "janggalimbi": [
-    "ᠵᠠᠨᡤᡤᠠᠯᡳᠮᠪᡳ",
+    "ᠵᠠᠩᡤᠠᠯᡳᠮᠪᡳ",
     "to be in dire straits, to be hard pressed"
   ],
   "janggin bh": [
-    "ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "1. secretary in various government organs 2. Adjutant (of a banner), 724, 874"
   ],
   "janggin deli": [
-    "ᠵᠠᠨᡤᡤᡳᠨ ᡩᡝᠯᡳ",
+    "ᠵᠠᠩᡤᡳᠨ ᡩᡝᠯᡳ",
     "a large stone used to bar a gate"
   ],
   "janggin hadahan": [
-    "ᠵᠠᠨᡤᡤᡳᠨ ᡥᠠᡩᠠᡥᠠᠨ",
+    "ᠵᠠᠩᡤᡳᠨ ᡥᠠᡩᠠᡥᠠᠨ",
     "linchpin on a cart"
   ],
   "janggin xufatu": [
-    "ᠵᠠᠨᡤᡤᡳᠨ ᡧᡠᡶᠠᡨᡠ",
+    "ᠵᠠᠩᡤᡳᠨ ᡧᡠᡶᠠᡨᡠ",
     "a type of turban worn by military officers in ancient times"
   ],
   "janggisa": [
-    "ᠵᠠᠨᡤᡤᡳᠰᠠ",
+    "ᠵᠠᠩᡤᡳᠰᠠ",
     "plural of janggin"
   ],
   "janggvwan": [
-    "ᠵᠠᠨᡤᡤᡡᠸᠠᠨ",
+    "ᠵᠠᠩᡤᡡᠸᠠᠨ",
     "pickled or preserved vegetables, melons, etc."
   ],
   "jangju": [
-    "ᠵᠠᠨᡤᠵᡠ",
+    "ᠵᠠᠩᠵᡠ",
     "chess"
   ],
   "jangju cekemu": [
-    "ᠵᠠᠨᡤᠵᡠ ᠴᡝᡴᡝᠮᡠ",
+    "ᠵᠠᠩᠵᡠ ᠴᡝᡴᡝᠮᡠ",
     "a type of velvet produced in Changchow"
   ],
   "jangkiri coko": [
-    "ᠵᠠᠨᡤᡴᡳᡵᡳ ᠴᠣᡴᠣ",
+    "ᠵᠠᠩᡴᡳᡵᡳ ᠴᠣᡴᠣ",
     "one name for the peewit; cf. niyo coko"
   ],
   "jangkv": [
-    "ᠵᠠᠨᡤᡴᡡ",
+    "ᠵᠠᠩᡴᡡ",
     "a long-handled sword"
   ],
   "janglabumbi": [
-    "ᠵᠠᠨᡤᠯᠠᠪᡠᠮᠪᡳ",
+    "ᠵᠠᠩᠯᠠᠪᡠᠮᠪᡳ",
     "caus. of janglambi"
   ],
   "janglambi": [
-    "ᠵᠠᠨᡤᠯᠠᠮᠪᡳ",
+    "ᠵᠠᠩᠯᠠᠮᠪᡳ",
     "to beat with a pole (as a punishment)"
   ],
   "jangnambi": [
-    "ᠵᠠᠨᡤᠨᠠᠮᠪᡳ",
+    "ᠵᠠᠩᠨᠠᠮᠪᡳ",
     "to take hold of"
   ],
   "jangturi": [
-    "ᠵᠠᠨᡤᡨᡠᡵᡳ",
+    "ᠵᠠᠩᡨᡠᡵᡳ",
     "a village head"
   ],
   "janjuri": [
@@ -43796,7 +43796,7 @@ const dictionary = {
     "chief of a Mongol banner"
   ],
   "jasak i dangsei bolgobure fiyenten bh": [
-    "ᠵᠠᠰᠠᡴ ᡳ ᡩᠠᠨᡤᠰᡝᡳ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
+    "ᠵᠠᠰᠠᡴ ᡳ ᡩᠠᠩᠰᡝᡳ ᠪᠣᠯᡤᠣᠪᡠᡵᡝ ᡶᡳᠶᡝᠨᡨᡝᠨ ᠪᡥ",
     "Department of the Inner Mongols, 495"
   ],
   "jase": [
@@ -43812,11 +43812,11 @@ const dictionary = {
     "frontier, border region"
   ],
   "jasei amargi fiyelenggu": [
-    "ᠵᠠᠰᡝᡳ ᠠᠮᠠᡵᡤᡳ ᡶᡳᠶᡝᠯᡝᠨᡤᡤᡠ",
+    "ᠵᠠᠰᡝᡳ ᠠᠮᠠᡵᡤᡳ ᡶᡳᠶᡝᠯᡝᠩᡤᡠ",
     "the Mongolian Tetrastes bonasia"
   ],
   "jasei dukai janggin": [
-    "ᠵᠠᠰᡝᡳ ᡩᡠᡴᠠᡳ ᠵᠠᠨᡤᡤᡳᠨ",
+    "ᠵᠠᠰᡝᡳ ᡩᡠᡴᠠᡳ ᠵᠠᠩᡤᡳᠨ",
     "banner-chief of a frontier gate"
   ],
   "jasei hafan": [
@@ -43996,7 +43996,7 @@ const dictionary = {
     "to guard one's purity"
   ],
   "jeku be kadalara tinggin": [
-    "ᠵᡝᡴᡠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠵᡝᡴᡠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ",
     "grain administration bureau"
   ],
   "jeku hara": [
@@ -44012,7 +44012,7 @@ const dictionary = {
     "office of grain matters of the Board of Revenue in Mukden"
   ],
   "jeku juwere hafan be ilgara kvnggeri": [
-    "ᠵᡝᡴᡠ ᠵᡠᠸᡝᡵᡝ ᡥᠠᡶᠠᠨ ᠪᡝ ᡳᠯᡤᠠᡵᠠ ᡴᡡᠨᡤᡤᡝᡵᡳ",
+    "ᠵᡝᡴᡠ ᠵᡠᠸᡝᡵᡝ ᡥᠠᡶᠠᠨ ᠪᡝ ᡳᠯᡤᠠᡵᠠ ᡴᡡᠩᡤᡝᡵᡳ",
     "office of grain administration in the Board of Gar"
   ],
   "jeku teksilehe": [
@@ -44024,7 +44024,7 @@ const dictionary = {
     "office of the Supervisor of Government granaries in the Capital"
   ],
   "jekui kunggeri": [
-    "ᠵᡝᡴᡠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠵᡝᡴᡠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "grain section in the Board of Revenues in Shensi"
   ],
   "jekuju": [
@@ -44084,7 +44084,7 @@ const dictionary = {
     "a chaste maiden"
   ],
   "jekdungge": [
-    "ᠵᡝᡴᡩᡠᠨᡤᡤᡝ",
+    "ᠵᡝᡴᡩᡠᠩᡤᡝ",
     "chaste, pure; cf. jekdun"
   ],
   "jekenembi": [
@@ -44124,11 +44124,11 @@ const dictionary = {
     "one of the twenty-four divisions of the solar year--falling on April twentieth or twenty-firs"
   ],
   "jeku be baicara tinggin": [
-    "ᠵᡝᡴᡠ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠵᡝᡴᡠ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ",
     "grain control office along the waterways used for grain transport"
   ],
   "jeku be faringgiyambi": [
-    "ᠵᡝᡴᡠ ᠪᡝ ᡶᠠᡵᡳᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠵᡝᡴᡠ ᠪᡝ ᡶᠠᡵᡳᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to cut grain and lay it out to dry"
   ],
   "jembi": [
@@ -44168,7 +44168,7 @@ const dictionary = {
     "wet nurse"
   ],
   "jemengge": [
-    "ᠵᡝᠮᡝᠨᡤᡤᡝ",
+    "ᠵᡝᠮᡝᠩᡤᡝ",
     "food, foodstuffs"
   ],
   "jemetu lorin": [
@@ -44196,7 +44196,7 @@ const dictionary = {
     "fried cakes of buckwheat or wheat filled with meat or vegetables"
   ],
   "jempin inenggi": [
-    "ᠵᡝᠮᡦᡳᠨ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠵᡝᠮᡦᡳᠨ ᡳᠨᡝᠩᡤᡳ",
     "the second day of the second month when pan-fried cakes are eaten"
   ],
   "jen žin": [
@@ -44240,15 +44240,15 @@ const dictionary = {
     "secrecy, secret"
   ],
   "jengd": [
-    "ᠵᡝᠨᡤᡩ",
+    "ᠵᡝᠩᡩ",
     "title of one of the heir apparent's tutors"
   ],
   "jengge": [
-    "ᠵᡝᠨᡤᡤᡝ",
+    "ᠵᡝᠩᡤᡝ",
     "1. food, provisions 2. pure, incorruptible"
   ],
   "jengke": [
-    "ᠵᡝᠨᡤᡴᡝ",
+    "ᠵᡝᠩᡴᡝ",
     "perfect participle of jembi (2)"
   ],
   "jenumbi": [
@@ -44296,7 +44296,7 @@ const dictionary = {
     "a hut with a round roof made of birchbark"
   ],
   "jeofingge boo": [
-    "ᠵᡝᠣᡶᡳᠨᡤᡤᡝ ᠪᠣᠣ",
+    "ᠵᡝᠣᡶᡳᠩᡤᡝ ᠪᠣᠣ",
     "a hermit's hut"
   ],
   "jerde": [
@@ -44320,7 +44320,7 @@ const dictionary = {
     "sequence, succession"
   ],
   "jergi tangkan i alin": [
-    "ᠵᡝᡵᡤᡳ ᡨᠠᠨᡤᡴᠠᠨ ᡳ ᠠᠯᡳᠨ",
+    "ᠵᡝᡵᡤᡳ ᡨᠠᠩᡴᠠᠨ ᡳ ᠠᠯᡳᠨ",
     "a small bronze monument in the courtyard before the main throne room in Peking on which the ranks of officials were inscribed"
   ],
   "jergicelembi": [
@@ -44340,15 +44340,15 @@ const dictionary = {
     "ranking, ordering"
   ],
   "jergingge": [
-    "ᠵᡝᡵᡤᡳᠨᡤᡤᡝ",
+    "ᠵᡝᡵᡤᡳᠩᡤᡝ",
     "of the same rank, of the same sort, of the same layer, consisting of layers"
   ],
   "jergingge dalangga": [
-    "ᠵᡝᡵᡤᡳᠨᡤᡤᡝ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠵᡝᡵᡤᡳᠩᡤᡝ ᡩᠠᠯᠠᠩᡤᠠ",
     "a dam built in layers resembling fish scales"
   ],
   "jerginnge hoseri": [
-    "ᠵᡝᡵᡤᡳᠨᠨᡤᡝ ᡥᠣᠰᡝᡵᡳ",
+    "ᠵᡝᡵᡤᡳᠨᠩᡝ ᡥᠣᠰᡝᡵᡳ",
     "boxes containing food arranged layerlike on a rack"
   ],
   "jergixembi": [
@@ -44372,11 +44372,11 @@ const dictionary = {
     "1. railing, fence 2. the horizontal posts of a railing 3. the horizontal stones of a stone railing 4. horizontal stones on the steps to the palace"
   ],
   "jerguwen i bongko": [
-    "ᠵᡝᡵᡤᡠᠸᡝᠨ ᡳ ᠪᠣᠨᡤᡴᠣ",
+    "ᠵᡝᡵᡤᡠᠸᡝᠨ ᡳ ᠪᠣᠩᡴᠣ",
     "a railing post knob"
   ],
   "jerguwen i dengjan": [
-    "ᠵᡝᡵᡤᡠᠸᡝᠨ ᡳ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠵᡝᡵᡤᡠᠸᡝᠨ ᡳ ᡩᡝᠩᠵᠠᠨ",
     "red lantern hung on the post knobs of a railing at New Year's"
   ],
   "jerin": [
@@ -44384,7 +44384,7 @@ const dictionary = {
     "1. edge, border 2. anvil"
   ],
   "jeringge wise": [
-    "ᠵᡝᡵᡳᠨᡤᡤᡝ ᠸᡳᠰᡝ",
+    "ᠵᡝᡵᡳᠩᡤᡝ ᠸᡳᠰᡝ",
     "tile with decorative borders"
   ],
   "jerkin": [
@@ -44396,7 +44396,7 @@ const dictionary = {
     "Kousa (Cornus kousa)"
   ],
   "jerkingge ilhangga loho": [
-    "ᠵᡝᡵᡴᡳᠨᡤᡤᡝ ᡳᠯᡥᠠᠨᡤᡤᠠ ᠯᠣᡥᠣ",
+    "ᠵᡝᡵᡴᡳᠩᡤᡝ ᡳᠯᡥᠠᠩᡤᠠ ᠯᠣᡥᠣ",
     "a sword made of highly polished steel"
   ],
   "jerkixembi": [
@@ -44420,7 +44420,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "jeten tokdonggo kiru": [
-    "ᠵᡝᡨᡝᠨ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠵᡝᡨᡝᠨ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation jeten"
   ],
   "jeyen": [
@@ -44432,7 +44432,7 @@ const dictionary = {
     "point (of a knife's blade)"
   ],
   "jeyengge": [
-    "ᠵᡝᠶᡝᠨᡤᡤᡝ",
+    "ᠵᡝᠶᡝᠩᡤᡝ",
     "having a blade, sword"
   ],
   "ji gida": [
@@ -44560,7 +44560,7 @@ const dictionary = {
     "a calker"
   ],
   "jifu nunggele": [
-    "ᠵᡳᡶᡠ ᠨᡠᠨᡤᡤᡝᠯᡝ",
+    "ᠵᡳᡶᡠ ᠨᡠᠩᡤᡝᠯᡝ",
     "Mallotopus japonicus"
   ],
   "jifubumbi": [
@@ -44620,7 +44620,7 @@ const dictionary = {
     "a small plate"
   ],
   "jiha hungkerere kvwaran i takvrakv i yamun": [
-    "ᠵᡳᡥᠠ ᡥᡠᠨᡤᡴᡝᡵᡝᡵᡝ ᡴᡡᠸᠠᡵᠠᠨ ᡳ ᡨᠠᡴᡡᡵᠠᡴᡡ ᡳ ᠶᠠᠮᡠᠨ",
+    "ᠵᡳᡥᠠ ᡥᡠᠩᡴᡝᡵᡝᡵᡝ ᡴᡡᠸᠠᡵᠠᠨ ᡳ ᡨᠠᡴᡡᡵᠠᡴᡡ ᡳ ᠶᠠᠮᡠᠨ",
     "operations office of the mint"
   ],
   "jiha i kemneku": [
@@ -44652,7 +44652,7 @@ const dictionary = {
     "to bloom (of grains)"
   ],
   "jihari yanggali": [
-    "ᠵᡳᡥᠠᡵᡳ ᠶᠠᠨᡤᡤᠠᠯᡳ",
+    "ᠵᡳᡥᠠᡵᡳ ᠶᠠᠩᡤᠠᠯᡳ",
     "the name of a small bird--the feathers around the neck resemble a string of cash"
   ],
   "jiji jaja": [
@@ -44696,7 +44696,7 @@ const dictionary = {
     "stroke, line, lines of a divination figure"
   ],
   "jijungge": [
-    "ᠵᡳᠵᡠᠨᡤᡤᡝ",
+    "ᠵᡳᠵᡠᠩᡤᡝ",
     "pertaining to divination"
   ],
   "jilabumbi": [
@@ -44728,11 +44728,11 @@ const dictionary = {
     "1. compassion, pity, love 2. a place where water doesn't freeze because of a fast current"
   ],
   "jilan mukengge kiru": [
-    "ᠵᡳᠯᠠᠨ ᠮᡠᡴᡝᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᠵᡳᠯᠠᠨ ᠮᡠᡴᡝᠩᡤᡝ ᡴᡳᡵᡠ",
     "a banner of the imperial escort with a design of flowing water depicted on a green background"
   ],
   "jilangga": [
-    "ᠵᡳᠯᠠᠨᡤᡤᠠ",
+    "ᠵᡳᠯᠠᠩᡤᠠ",
     "compassionate, gentle"
   ],
   "jilari gaha": [
@@ -44772,7 +44772,7 @@ const dictionary = {
     "sound, noise, voice"
   ],
   "jilgan i bulekuere toosengge fusa": [
-    "ᠵᡳᠯᡤᠠᠨ ᡳ ᠪᡠᠯᡝᡴᡠᡝᡵᡝ ᡨᠣᠣᠰᡝᠨᡤᡤᡝ ᡶᡠᠰᠠ",
+    "ᠵᡳᠯᡤᠠᠨ ᡳ ᠪᡠᠯᡝᡴᡠᡝᡵᡝ ᡨᠣᠣᠰᡝᠩᡤᡝ ᡶᡠᠰᠠ",
     "Bodhisattva Avalokitesvara"
   ],
   "jilgandumbi": [
@@ -44780,7 +44780,7 @@ const dictionary = {
     "to shout together"
   ],
   "jilgangga gasha": [
-    "ᠵᡳᠯᡤᠠᠨᡤᡤᠠ ᡤᠠᠰᡥᠠ",
+    "ᠵᡳᠯᡤᠠᠩᡤᠠ ᡤᠠᠰᡥᠠ",
     "the name of a bird that sings at night--its voice can be heard, but its form is never seen"
   ],
   "jilgibumbi": [
@@ -44800,7 +44800,7 @@ const dictionary = {
     "to burn to ashes; cf. gilgambi"
   ],
   "jilhangga ilha jili": [
-    "ᠵᡳᠯᡥᠠᠨᡤᡤᠠ ᡳᠯᡥᠠ ᠵᡳᠯᡳ",
+    "ᠵᡳᠯᡥᠠᠩᡤᠠ ᡳᠯᡥᠠ ᠵᡳᠯᡳ",
     "the name of an exotic flower--its stem and leaves resemble the camellia, has large buds, and is very fragrant 1. anger, temper 2. the base of the horn on deer, roe, etc."
   ],
   "jili banjicuka": [
@@ -44832,15 +44832,15 @@ const dictionary = {
     "to become angry and agitated"
   ],
   "jilihangga": [
-    "ᠵᡳᠯᡳᡥᠠᠨᡤᡤᠠ",
+    "ᠵᡳᠯᡳᡥᠠᠩᡤᠠ",
     "1. excitable 2. ardent, intense 3. virtuous, chaste (of women)"
   ],
   "jilihangga hehe": [
-    "ᠵᡳᠯᡳᡥᠠᠨᡤᡤᠠ ᡥᡝᡥᡝ",
+    "ᠵᡳᠯᡳᡥᠠᠩᡤᠠ ᡥᡝᡥᡝ",
     "a widow who remains unmarried after her husband's death"
   ],
   "jilihangga sargan jui": [
-    "ᠵᡳᠯᡳᡥᠠᠨᡤᡤᠠ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ",
+    "ᠵᡳᠯᡳᡥᠠᠩᡤᠠ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ",
     "a betrothed girl who commits suicide upon hearing of the death of her fiance"
   ],
   "jilinambi": [
@@ -44860,7 +44860,7 @@ const dictionary = {
     "sesame"
   ],
   "jima malanggv": [
-    "ᠵᡳᠮᠠ ᠮᠠᠯᠠᠨᡤᡤᡡ",
+    "ᠵᡳᠮᠠ ᠮᠠᠯᠠᠩᡤᡡ",
     "white sesame"
   ],
   "jima xobin": [
@@ -44884,111 +44884,111 @@ const dictionary = {
     "the same as dosikasi"
   ],
   "jing": [
-    "ᠵᡳᠨᡤ",
+    "ᠵᡳᠩ",
     "1. just, just at the time when, on the point of 2. often, frequently, all the time, keep on . ."
   ],
   "jing seme": [
-    "ᠵᡳᠨᡤ ᠰᡝᠮᡝ",
+    "ᠵᡳᠩ ᠰᡝᠮᡝ",
     "all the time, keep on . . ."
   ],
   "jing jiyang": [
-    "ᠵᡳᠨᡤ ᠵᡳᠶᠠᠨᡤ",
+    "ᠵᡳᠩ ᠵᡳᠶᠠᠩ",
     "(onom.) the sound of flutes and stone bells"
   ],
   "jing yang": [
-    "ᠵᡳᠨᡤ ᠶᠠᠨᡤ",
+    "ᠵᡳᠩ ᠶᠠᠩ",
     "(onom.) the sound of birds singing harmoniously"
   ],
   "jinggeri": [
-    "ᠵᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠵᡳᠩᡤᡝᡵᡳ",
     "1. a small nail with a large head 2. a nail on armor"
   ],
   "jinggeri fangkambi": [
-    "ᠵᡳᠨᡤᡤᡝᡵᡳ ᡶᠠᠨᡤᡴᠠᠮᠪᡳ",
+    "ᠵᡳᠩᡤᡝᡵᡳ ᡶᠠᠩᡴᠠᠮᠪᡳ",
     "to drive in an armor nail"
   ],
   "jinggiya": [
-    "ᠵᡳᠨᡤᡤᡳᠶᠠ",
+    "ᠵᡳᠩᡤᡳᠶᠠ",
     "a sty on the eye"
   ],
   "jingjan": [
-    "ᠵᡳᠨᡤᠵᠠᠨ",
+    "ᠵᡳᠩᠵᠠᠨ",
     "small and colorless"
   ],
   "jingjanambi": [
-    "ᠵᡳᠨᡤᠵᠠᠨᠠᠮᠪᡳ",
+    "ᠵᡳᠩᠵᠠᠨᠠᠮᠪᡳ",
     "to be very small or short"
   ],
   "jingjara": [
-    "ᠵᡳᠨᡤᠵᠠᡵᠠ",
+    "ᠵᡳᠩᠵᠠᡵᠠ",
     "1. yellow-browed bunting (Emberiza chrysophrys) 2. the common sparrow"
   ],
   "jingji": [
-    "ᠵᡳᠨᡤᠵᡳ",
+    "ᠵᡳᠩᠵᡳ",
     "1. heavy, steady, firm 2. grave, ceremonious"
   ],
   "jingjing jangjang": [
-    "ᠵᡳᠨᡤᠵᡳᠨᡤ ᠵᠠᠨᡤᠵᠠᠨᡤ",
+    "ᠵᡳᠩᠵᡳᠩ ᠵᠠᠩᠵᠠᠩ",
     "(onom.) 1. the sound of various types of flutes and pipes 2. the sound of a flock of birds singing in the springtime"
   ],
   "jingkini": [
-    "ᠵᡳᠨᡤᡴᡳᠨᡳ",
+    "ᠵᡳᠩᡴᡳᠨᡳ",
     "1. honest, upright, orderly, regular 2. chief, main, principal"
   ],
   "jingkini beye": [
-    "ᠵᡳᠨᡤᡴᡳᠨᡳ ᠪᡝᠶᡝ",
+    "ᠵᡳᠩᡴᡳᠨᡳ ᠪᡝᠶᡝ",
     "one's own person, in person"
   ],
   "jingkini cifun": [
-    "ᠵᡳᠨᡤᡴᡳᠨᡳ ᠴᡳᡶᡠᠨ",
+    "ᠵᡳᠩᡴᡳᠨᡳ ᠴᡳᡶᡠᠨ",
     "chief tax, main tax, regular tax"
   ],
   "jingkini doron jafaha hafan": [
-    "ᠵᡳᠨᡤᡴᡳᠨᡳ ᡩᠣᡵᠣᠨ ᠵᠠᡶᠠᡥᠠ ᡥᠠᡶᠠᠨ",
+    "ᠵᡳᠩᡴᡳᠨᡳ ᡩᠣᡵᠣᠨ ᠵᠠᡶᠠᡥᠠ ᡥᠠᡶᠠᠨ",
     "chief magistrate"
   ],
   "jingkini ilhi": [
-    "ᠵᡳᠨᡤᡴᡳᠨᡳ ᡳᠯᡥᡳ",
+    "ᠵᡳᠩᡴᡳᠨᡳ ᡳᠯᡥᡳ",
     "chief and subordinate"
   ],
   "jingkini kadalara da bh": [
-    "ᠵᡳᠨᡤᡴᡳᠨᡳ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡩᠠ ᠪᡥ",
+    "ᠵᡳᠩᡴᡳᠨᡳ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡩᠠ ᠪᡥ",
     "Director of the School for Imperial CMansmen; cf, 717"
   ],
   "jingkini uju jergi 1-a,": [
-    "ᠵᡳᠨᡤᡴᡳᠨᡳ ᡠᠵᡠ ᠵᡝᡵᡤᡳ 1 ᠠ᠈",
+    "ᠵᡳᠩᡴᡳᠨᡳ ᡠᠵᡠ ᠵᡝᡵᡤᡳ 1 ᠠ᠈",
     "rank chief rank of the first order"
   ],
   "jingkini wesimbure bithe": [
-    "ᠵᡳᠨᡤᡴᡳᠨᡳ ᠸᡝᠰᡳᠮᠪᡠᡵᡝ ᠪᡳᡨᡥᡝ",
+    "ᠵᡳᠩᡴᡳᠨᡳ ᠸᡝᠰᡳᠮᠪᡠᡵᡝ ᠪᡳᡨᡥᡝ",
     "the original copy of a memorial (the one read by the emperor-- the"
   ],
   "jingnembi": [
-    "ᠵᡳᠨᡤᠨᡝᠮᠪᡳ",
+    "ᠵᡳᠩᠨᡝᠮᠪᡳ",
     "to advance by pairs at a funeral to offer a libation of wine"
   ],
   "jingse": [
-    "ᠵᡳᠨᡤᠰᡝ",
+    "ᠵᡳᠩᠰᡝ",
     "knob indicating rank on an official cap"
   ],
   "jingse i aligan": [
-    "ᠵᡳᠨᡤᠰᡝ ᡳ ᠠᠯᡳᡤᠠᠨ",
+    "ᠵᡳᠩᠰᡝ ᡳ ᠠᠯᡳᡤᠠᠨ",
     "the support for a knob on an official cap"
   ],
   "jingse kiyamnambi": [
-    "ᠵᡳᠨᡤᠰᡝ ᡴᡳᠶᠠᠮᠨᠠᠮᠪᡳ",
+    "ᠵᡳᠩᠰᡝ ᡴᡳᠶᠠᠮᠨᠠᠮᠪᡳ",
     "to attach a knob to an official hat"
   ],
   "jingse umiyesun bisirengge": [
-    "ᠵᡳᠨᡤᠰᡝ ᡠᠮᡳᠶᡝᠰᡠᠨ ᠪᡳᠰᡳᡵᡝᠨᡤᡤᡝ",
+    "ᠵᡳᠩᠰᡝ ᡠᠮᡳᠶᡝᠰᡠᠨ ᠪᡳᠰᡳᡵᡝᠩᡤᡝ",
     "possessing knob and sash--1.e., an official"
   ],
   "jingsitun": [
-    "ᠵᡳᠨᡤᠰᡳᡨᡠᠨ",
+    "ᠵᡳᠩᠰᡳᡨᡠᠨ",
     "the name of a constellation"
   ],
   "jingsitun tokdonggo kiru": [
-    "ᠵᡳᠨᡤᠰᡳᡨᡠᠨ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠵᡳᠩᠰᡳᡨᡠᠨ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner with the constellation jingsitun depicted on it"
   ],
   "jinjaha": [
@@ -45124,15 +45124,15 @@ const dictionary = {
     "a lip of paper"
   ],
   "jiyang wang asu": [
-    "ᠵᡳᠶᠠᠨᡤ ᠸᠠᠨᡤ ᠠᠰᡠ",
+    "ᠵᡳᠶᠠᠩ ᠸᠠᠩ ᠠᠰᡠ",
     "a large fishnet used from a boat in still water; cf. horilakū asu"
   ],
   "jiyang žung": [
-    "ᠵᡳᠶᠠᠨᡤ žᡠᠨᡤ",
+    "ᠵᡳᠶᠠᠩ žᡠᠩ",
     "velvet"
   ],
   "jiyanggiyvn bh": [
-    "ᠵᡳᠶᠠᠨᡤᡤᡳᠶᡡᠨ ᠪᡥ",
+    "ᠵᡳᠶᠠᠩᡤᡳᠶᡡᠨ ᠪᡥ",
     "1. general 2. Manchu General-in-Chief, 744"
   ],
   "jiye": [
@@ -45236,7 +45236,7 @@ const dictionary = {
     "Imperial Weaving and Dyeing Office, 96"
   ],
   "jodoro weilere kunggeri": [
-    "ᠵᠣᡩᠣᡵᠣ ᠸᡝᡳᠯᡝᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠵᠣᡩᠣᡵᠣ ᠸᡝᡳᠯᡝᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "section on weaving and manufacturing in the Board of Works"
   ],
   "jodon": [
@@ -45244,7 +45244,7 @@ const dictionary = {
     "grass linen"
   ],
   "jodongga cece": [
-    "ᠵᠣᡩᠣᠨᡤᡤᠠ ᠴᡝᠴᡝ",
+    "ᠵᠣᡩᠣᠩᡤᠠ ᠴᡝᠴᡝ",
     "gauze of coarse linen"
   ],
   "jodorgan usiha": [
@@ -45268,7 +45268,7 @@ const dictionary = {
     "pomelo"
   ],
   "jofohonggo": [
-    "ᠵᠣᡶᠣᡥᠣᠨᡤᡤᠣ",
+    "ᠵᠣᡶᠣᡥᠣᠩᡤᠣ",
     "pointed, projecting"
   ],
   "jofohori": [
@@ -45308,11 +45308,11 @@ const dictionary = {
     "to slacken the reins"
   ],
   "jojin i songgiha": [
-    "ᠵᠣᠵᡳᠨ ᡳ ᠰᠣᠨᡤᡤᡳᡥᠠ",
+    "ᠵᠣᠵᡳᠨ ᡳ ᠰᠣᠩᡤᡳᡥᠠ",
     "crossbar"
   ],
   "jojingga": [
-    "ᠵᠣᠵᡳᠨᡤᡤᠠ",
+    "ᠵᠣᠵᡳᠩᡤᠠ",
     "pertaining to a bit"
   ],
   "jok seme": [
@@ -45452,19 +45452,19 @@ const dictionary = {
     "to recall to mind, to mention, to bring up, to concentrate on"
   ],
   "jong jong seme": [
-    "ᠵᠣᠨᡤ ᠵᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᠵᠣᠩ ᠵᠣᠩ ᠰᡝᠮᡝ",
     "grumbling, complaining"
   ],
   "jong jong seme gaxambi": [
-    "ᠵᠣᠨᡤ ᠵᠣᠨᡤ ᠰᡝᠮᡝ ᡤᠠᡧᠠᠮᠪᡳ",
+    "ᠵᠣᠩ ᠵᠣᠩ ᠰᡝᠮᡝ ᡤᠠᡧᠠᠮᠪᡳ",
     "to grumble from discontent"
   ],
   "jongdon": [
-    "ᠵᠣᠨᡤᡩᠣᠨ",
+    "ᠵᠣᠩᡩᠣᠨ",
     "bright satin with gold threads woven through it"
   ],
   "jongginambi": [
-    "ᠵᠣᠨᡤᡤᡳᠨᠠᠮᠪᡳ",
+    "ᠵᠣᠩᡤᡳᠨᠠᠮᠪᡳ",
     "to knit the brow from anxiety"
   ],
   "joni": [
@@ -45544,7 +45544,7 @@ const dictionary = {
     "to go to redeem"
   ],
   "joolingga": [
-    "ᠵᠣᠣᠯᡳᠨᡤᡤᠠ",
+    "ᠵᠣᠣᠯᡳᠩᡤᠠ",
     "pertaining to ransom, ransom money"
   ],
   "joolinjimbi": [
@@ -45600,7 +45600,7 @@ const dictionary = {
     "the twelfth month"
   ],
   "jorgon inenggi": [
-    "ᠵᠣᡵᡤᠣᠨ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠵᠣᡵᡤᠣᠨ ᡳᠨᡝᠩᡤᡳ",
     "the eighth day of the twelfth month"
   ],
   "jorho": [
@@ -45616,7 +45616,7 @@ const dictionary = {
     "Salix gracilistyla--a type of willow from which arrow shafts were made"
   ],
   "jorho singgeri": [
-    "ᠵᠣᡵᡥᠣ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠵᠣᡵᡥᠣ ᠰᡳᠩᡤᡝᡵᡳ",
     "mole"
   ],
   "joribumbi": [
@@ -45652,27 +45652,27 @@ const dictionary = {
     "good shot, steady aim"
   ],
   "joringga": [
-    "ᠵᠣᡵᡳᠨᡤᡤᠠ",
+    "ᠵᠣᡵᡳᠩᡤᠠ",
     "theme (on an examination)"
   ],
   "joringga hooxan": [
-    "ᠵᠣᡵᡳᠨᡤᡤᠠ ᡥᠣᠣᡧᠠᠨ",
+    "ᠵᠣᡵᡳᠩᡤᠠ ᡥᠣᠣᡧᠠᠨ",
     "examination paper"
   ],
   "joringga i acabun": [
-    "ᠵᠣᡵᡳᠨᡤᡤᠠ ᡳ ᠠᠴᠠᠪᡠᠨ",
+    "ᠵᠣᡵᡳᠩᡤᠠ ᡳ ᠠᠴᠠᠪᡠᠨ",
     "the second part of a formal essay (immediately following the joringga i faksabun)"
   ],
   "joringga i faksabun": [
-    "ᠵᠣᡵᡳᠨᡤᡤᠠ ᡳ ᡶᠠᡴᠰᠠᠪᡠᠨ",
+    "ᠵᠣᡵᡳᠩᡤᠠ ᡳ ᡶᠠᡴᠰᠠᠪᡠᠨ",
     "the first two sentences of a formal essay"
   ],
   "joringga i tucibun": [
-    "ᠵᠣᡵᡳᠨᡤᡤᠠ ᡳ ᡨᡠᠴᡳᠪᡠᠨ",
+    "ᠵᠣᡵᡳᠩᡤᠠ ᡳ ᡨᡠᠴᡳᠪᡠᠨ",
     "the section following the introduction (deribume fiyentehe) in a formal essay"
   ],
   "joringga i yarun": [
-    "ᠵᠣᡵᡳᠨᡤᡤᠠ ᡳ ᠶᠠᡵᡠᠨ",
+    "ᠵᠣᡵᡳᠩᡤᠠ ᡳ ᠶᠠᡵᡠᠨ",
     "the part of an official essay following the opening expositon (deribume giyangnan)"
   ],
   "jorisi": [
@@ -45696,7 +45696,7 @@ const dictionary = {
     "1. deliberately, willfully 2. pretending"
   ],
   "jortanggi": [
-    "ᠵᠣᡵᡨᠠᠨᡤᡤᡳ",
+    "ᠵᠣᡵᡨᠠᠩᡤᡳ",
     "the same as jartai"
   ],
   "jotombi": [
@@ -45720,7 +45720,7 @@ const dictionary = {
     "to tell a story"
   ],
   "jubengge": [
-    "ᠵᡠᠪᡝᠨᡤᡤᡝ",
+    "ᠵᡠᠪᡝᠩᡤᡝ",
     "tale-carrier"
   ],
   "jubesi": [
@@ -45740,11 +45740,11 @@ const dictionary = {
     "clerk, recorder, registrar; cf. dangse jafašakū"
   ],
   "jubungga": [
-    "ᠵᡠᠪᡠᠨᡤᡤᠠ",
+    "ᠵᡠᠪᡠᠩᡤᠠ",
     "pertaining to a clerk"
   ],
   "jubungge": [
-    "ᠵᡠᠪᡠᠨᡤᡤᡝ",
+    "ᠵᡠᠪᡠᠩᡤᡝ",
     "see jubengge"
   ],
   "juburambi": [
@@ -45812,11 +45812,11 @@ const dictionary = {
     "a theatrical troupe"
   ],
   "jucungge": [
-    "ᠵᡠᠴᡠᠨᡤᡤᡝ",
+    "ᠵᡠᠴᡠᠩᡤᡝ",
     "pertaining to the stage, theatrical"
   ],
   "jucungge karan": [
-    "ᠵᡠᠴᡠᠨᡤᡤᡝ ᡴᠠᡵᠠᠨ",
+    "ᠵᡠᠴᡠᠩᡤᡝ ᡴᠠᡵᠠᠨ",
     "stage"
   ],
   "juda": [
@@ -45868,15 +45868,15 @@ const dictionary = {
     "1. road, way, street 2. the name for a province during Sung and Yuan times"
   ],
   "jugvn cinggiya": [
-    "ᠵᡠᡤᡡᠨ ᠴᡳᠨᡤᡤᡳᠶᠠ",
+    "ᠵᡠᡤᡡᠨ ᠴᡳᠩᡤᡳᠶᠠ",
     "the way is short"
   ],
   "jugvn giyai be kadalara tinggin bh 796a": [
-    "ᠵᡠᡤᡡᠨ ᡤᡳᠶᠠᡳ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ ᠪᡥ 796ᠠ",
+    "ᠵᡠᡤᡡᠨ ᡤᡳᠶᠠᡳ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ ᠪᡥ 796ᠠ",
     "Roadway Office,"
   ],
   "jugvn giyai be kadalara tinggin i hafan": [
-    "ᠵᡠᡤᡡᠨ ᡤᡳᠶᠠᡳ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ ᡳ ᡥᠠᡶᠠᠨ",
+    "ᠵᡠᡤᡡᠨ ᡤᡳᠶᠠᡳ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ ᡳ ᡥᠠᡶᠠᠨ",
     "head of the Roadway Office"
   ],
   "jugvn i andala": [
@@ -45948,7 +45948,7 @@ const dictionary = {
     "the ice has fallen (into the water at the thaw)"
   ],
   "juhen singgeri": [
-    "ᠵᡠᡥᡝᠨ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠵᡠᡥᡝᠨ ᠰᡳᠩᡤᡝᡵᡳ",
     "mammoth frozen in the ice in Siberia"
   ],
   "juhenembi": [
@@ -45972,7 +45972,7 @@ const dictionary = {
     "the generation of one's children (including nephews and nieces)"
   ],
   "jui jongko": [
-    "ᠵᡠᡳ ᠵᠣᠨᡤᡴᠣ",
+    "ᠵᡠᡳ ᠵᠣᠩᡴᠣ",
     "the child has moved in the womb"
   ],
   "jui taksiha": [
@@ -45980,7 +45980,7 @@ const dictionary = {
     "has become pregnant"
   ],
   "juingge": [
-    "ᠵᡠᡳᠨᡤᡤᡝ",
+    "ᠵᡠᡳᠩᡤᡝ",
     "pertaining to children or sons"
   ],
   "jujin": [
@@ -46152,7 +46152,7 @@ const dictionary = {
     "a storehouse in Peking belonging to the Board of Finance"
   ],
   "julergi juwere jekui kunggeri": [
-    "ᠵᡠᠯᡝᡵᡤᡳ ᠵᡠᠸᡝᡵᡝ ᠵᡝᡴᡠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠵᡠᠯᡝᡵᡤᡳ ᠵᡠᠸᡝᡵᡝ ᠵᡝᡴᡠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of grain transport in Yunnan"
   ],
   "julergi kvwaran i calu": [
@@ -46252,7 +46252,7 @@ const dictionary = {
     "1. the depression at the base of the neck or throat 2. depression on the chest of animals"
   ],
   "julungga": [
-    "ᠵᡠᠯᡠᠨᡤᡤᠠ",
+    "ᠵᡠᠯᡠᠩᡤᠠ",
     "docile, obedient"
   ],
   "jumalambi": [
@@ -46264,15 +46264,15 @@ const dictionary = {
     "a level area above the opening on a stove"
   ],
   "jumangga ilha": [
-    "ᠵᡠᠮᠠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᠵᡠᠮᠠᠩᡤᠠ ᡳᠯᡥᠠ",
     "the name of an exotic blue flower"
   ],
   "jumanggi": [
-    "ᠵᡠᠮᠠᠨᡤᡤᡳ",
+    "ᠵᡠᠮᠠᠩᡤᡳ",
     "a small bag"
   ],
   "jumanggilambi": [
-    "ᠵᡠᠮᠠᠨᡤᡤᡳᠯᠠᠮᠪᡳ",
+    "ᠵᡠᠮᠠᠩᡤᡳᠯᠠᠮᠪᡳ",
     "to put in a small bag"
   ],
   "jumara": [
@@ -46312,7 +46312,7 @@ const dictionary = {
     "a depressed area near the opening of a stove"
   ],
   "jun i xenggin": [
-    "ᠵᡠᠨ ᡳ ᡧᡝᠨᡤᡤᡳᠨ",
+    "ᠵᡠᠨ ᡳ ᡧᡝᠩᡤᡳᠨ",
     "an area jutting out on the front of a stove--used for adding fuel"
   ],
   "jun i wecen": [
@@ -46320,7 +46320,7 @@ const dictionary = {
     "sacrifice to the kitchen god"
   ],
   "jun tonggo": [
-    "ᠵᡠᠨ ᡨᠣᠨᡤᡤᠣ",
+    "ᠵᡠᠨ ᡨᠣᠩᡤᠣ",
     "strong three-strand thread"
   ],
   "junafi": [
@@ -46332,103 +46332,103 @@ const dictionary = {
     "one name for the partridge; cf. jukidun"
   ],
   "jung": [
-    "ᠵᡠᠨᡤ",
+    "ᠵᡠᠩ",
     "bell--the same as jungken"
   ],
   "jung yuwan": [
-    "ᠵᡠᠨᡤ ᠶᡠᠸᠠᠨ",
+    "ᠵᡠᠩ ᠶᡠᠸᠠᠨ",
     "the Yellow River Plain"
   ],
   "junggala": [
-    "ᠵᡠᠨᡤᡤᠠᠯᠠ",
+    "ᠵᡠᠩᡤᠠᠯᠠ",
     "the inside of a stove--the firebox"
   ],
   "jungge": [
-    "ᠵᡠᠨᡤᡤᡝ",
+    "ᠵᡠᠩᡤᡝ",
     "veined"
   ],
   "jungge suje": [
-    "ᠵᡠᠨᡤᡤᡝ ᠰᡠᠵᡝ",
+    "ᠵᡠᠩᡤᡝ ᠰᡠᠵᡝ",
     "veined silk"
   ],
   "jungge suri": [
-    "ᠵᡠᠨᡤᡤᡝ ᠰᡠᡵᡳ",
+    "ᠵᡠᠩᡤᡝ ᠰᡠᡵᡳ",
     "veined satin"
   ],
   "junggebumbi": [
-    "ᠵᡠᠨᡤᡤᡝᠪᡠᠮᠪᡳ",
+    "ᠵᡠᠩᡤᡝᠪᡠᠮᠪᡳ",
     "caus. of junggembi"
   ],
   "junggembi": [
-    "ᠵᡠᠨᡤᡤᡝᠮᠪᡳ",
+    "ᠵᡠᠩᡤᡝᠮᠪᡳ",
     "to transfer a person's possessions to another place secretly"
   ],
   "junggidei kiyoo": [
-    "ᠵᡠᠨᡤᡤᡳᡩᡝᡳ ᡴᡳᠶᠣᠣ",
+    "ᠵᡠᠩᡤᡳᡩᡝᡳ ᡴᡳᠶᠣᠣ",
     "a sedan chair used by the imperial concubines that was carried by sixteen men"
   ],
   "junggila gasha": [
-    "ᠵᡠᠨᡤᡤᡳᠯᠠ ᡤᠠᠰᡥᠠ",
+    "ᠵᡠᠩᡤᡳᠯᠠ ᡤᠠᠰᡥᠠ",
     "one name for the turkey; cf. ildedei"
   ],
   "junggin": [
-    "ᠵᡠᠨᡤᡤᡳᠨ",
+    "ᠵᡠᠩᡤᡳᠨ",
     "brocade"
   ],
   "junggin abuha ilha": [
-    "ᠵᡠᠨᡤᡤᡳᠨ ᠠᠪᡠᡥᠠ ᡳᠯᡥᠠ",
+    "ᠵᡠᠩᡤᡳᠨ ᠠᠪᡠᡥᠠ ᡳᠯᡥᠠ",
     "a type of swallow (Malva sylvestris)"
   ],
   "jungginambi": [
-    "ᠵᡠᠨᡤᡤᡳᠨᠠᠮᠪᡳ",
+    "ᠵᡠᠩᡤᡳᠨᠠᠮᠪᡳ",
     "to become like brocade--to get furrows on the forehead, to worry"
   ],
   "junggingge hooxan": [
-    "ᠵᡠᠨᡤᡤᡳᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᠵᡠᠩᡤᡳᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "\"brocade paper\"--a strong paper with a pattern on it"
   ],
   "junggiri coko": [
-    "ᠵᡠᠨᡤᡤᡳᡵᡳ ᠴᠣᡴᠣ",
+    "ᠵᡠᠩᡤᡳᡵᡳ ᠴᠣᡴᠣ",
     "the golden pheasant (Chrysolophus pictus)"
   ],
   "junggisun": [
-    "ᠵᡠᠨᡤᡤᡳᠰᡠᠨ",
+    "ᠵᡠᠩᡤᡳᠰᡠᠨ",
     "the same as garunggū"
   ],
   "junggisun coko": [
-    "ᠵᡠᠨᡤᡤᡳᠰᡠᠨ ᠴᠣᡴᠣ",
+    "ᠵᡠᠩᡤᡳᠰᡠᠨ ᠴᠣᡴᠣ",
     "a type of phoenix resembling the pheasant"
   ],
   "junggisun ilha": [
-    "ᠵᡠᠨᡤᡤᡳᠰᡠᠨ ᡳᠯᡥᠠ",
+    "ᠵᡠᠩᡤᡳᠰᡠᠨ ᡳᠯᡥᠠ",
     "Diervilla ambiflora"
   ],
   "junggitu": [
-    "ᠵᡠᠨᡤᡤᡳᡨᡠ",
+    "ᠵᡠᠩᡤᡳᡨᡠ",
     "an ancient name for the pheasant"
   ],
   "jungguhe": [
-    "ᠵᡠᠨᡤᡤᡠᡥᡝ",
+    "ᠵᡠᠩᡤᡠᡥᡝ",
     "a spotted myna"
   ],
   "jungken": [
-    "ᠵᡠᠨᡤᡴᡝᠨ",
+    "ᠵᡠᠩᡴᡝᠨ",
     "bell"
   ],
   "jungken mucihiyangga fukjingga hergen": [
-    "ᠵᡠᠨᡤᡴᡝᠨ ᠮᡠᠴᡳᡥᡳᠶᠠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠵᡠᠩᡴᡝᠨ ᠮᡠᠴᡳᡥᡳᠶᠠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "jungkengge": [
-    "ᠵᡠᠨᡤᡴᡝᠨᡤᡤᡝ",
+    "ᠵᡠᠩᡴᡝᠩᡤᡝ",
     "1. a measure of volume equaling six bushels and four pecks 2. pertaining to a bell"
   ],
   "jungxu bh": [
-    "ᠵᡠᠨᡤᡧᡠ ᠪᡥ",
+    "ᠵᡠᠩᡧᡠ ᠪᡥ",
     "Secretary of the Grand Secretariat, 137"
   ],
   "jungxun": [
-    "ᠵᡠᠨᡤᡧᡠᠨ",
+    "ᠵᡠᠩᡧᡠᠨ",
     "water or wine poured in a"
   ],
   "junihin": [
@@ -46436,7 +46436,7 @@ const dictionary = {
     "a type of ancient land tax"
   ],
   "juningge": [
-    "ᠵᡠᠨᡳᠨᡤᡤᡝ",
+    "ᠵᡠᠨᡳᠩᡤᡝ",
     "a measure of volume equaling 18 pecks"
   ],
   "juniru": [
@@ -46524,7 +46524,7 @@ const dictionary = {
     "line by line, row by row, column by column"
   ],
   "jurgan singgeri": [
-    "ᠵᡠᡵᡤᠠᠨ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠵᡠᡵᡤᠠᠨ ᠰᡳᠩᡤᡝᡵᡳ",
     "a type of short-tailed rodent--when a number of them move, they align themselves by carrying the tail of the one ahead in their mouths"
   ],
   "jurgan tondo": [
@@ -46532,35 +46532,35 @@ const dictionary = {
     "the trajectory is straight (of an arrow shot from horseback)"
   ],
   "jurgangga": [
-    "ᠵᡠᡵᡤᠠᠨᡤᡤᠠ",
+    "ᠵᡠᡵᡤᠠᠩᡤᠠ",
     "1. honorable, loyal, upright, righteous 2. for the public benefit"
   ],
   "jurgangga gasha": [
-    "ᠵᡠᡵᡤᠠᠨᡤᡤᠠ ᡤᠠᠰᡥᠠ",
+    "ᠵᡠᡵᡤᠠᠩᡤᠠ ᡤᠠᠰᡥᠠ",
     "one name for the wild goose"
   ],
   "jurgangga haha": [
-    "ᠵᡠᡵᡤᠠᠨᡤᡤᠠ ᡥᠠᡥᠠ",
+    "ᠵᡠᡵᡤᠠᠩᡤᠠ ᡥᠠᡥᠠ",
     "a widower who has not remarried after the death of his wife"
   ],
   "jurgangga hehe": [
-    "ᠵᡠᡵᡤᠠᠨᡤᡤᠠ ᡥᡝᡥᡝ",
+    "ᠵᡠᡵᡤᠠᠩᡤᠠ ᡥᡝᡥᡝ",
     "a widow who has not remarried after the death of her husband; cf. jalangga hehe, ilihangga hehe"
   ],
   "jurgangga inenggi": [
-    "ᠵᡠᡵᡤᠠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠵᡠᡵᡤᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "the day on which the sixty-day cycle begins anew"
   ],
   "jurgangga saisa": [
-    "ᠵᡠᡵᡤᠠᠨᡤᡤᠠ ᠰᠠᡳᠰᠠ",
+    "ᠵᡠᡵᡤᠠᠩᡤᠠ ᠰᠠᡳᠰᠠ",
     "an honorable man, a devoted generous person"
   ],
   "jurgangga taciku": [
-    "ᠵᡠᡵᡤᠠᠨᡤᡤᠠ ᡨᠠᠴᡳᡴᡠ",
+    "ᠵᡠᡵᡤᠠᠩᡤᠠ ᡨᠠᠴᡳᡴᡠ",
     "a free school"
   ],
   "jvrgangga yabun": [
-    "ᠵᡡᡵᡤᠠᠨᡤᡤᠠ ᠶᠠᠪᡠᠨ",
+    "ᠵᡡᡵᡤᠠᠩᡤᠠ ᠶᠠᠪᡠᠨ",
     "a proper act, an act of loyalty"
   ],
   "jurgatu gasha": [
@@ -46584,7 +46584,7 @@ const dictionary = {
     "colored coarse linen cloth"
   ],
   "jurhu fungku": [
-    "ᠵᡠᡵᡥᡠ ᡶᡠᠨᡤᡴᡠ",
+    "ᠵᡠᡵᡥᡠ ᡶᡠᠩᡴᡠ",
     "a towel made of colored coarse linen cloth"
   ],
   "jurhu suri": [
@@ -46664,7 +46664,7 @@ const dictionary = {
     "a matched couplet"
   ],
   "juru gisun i dengjan": [
-    "ᠵᡠᡵᡠ ᡤᡳᠰᡠᠨ ᡳ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠵᡠᡵᡠ ᡤᡳᠰᡠᠨ ᡳ ᡩᡝᠩᠵᠠᠨ",
     "a matched couplet hung on the \"myriad year lantern\" in the palace during the first month"
   ],
   "juru hclbon": [
@@ -46676,7 +46676,7 @@ const dictionary = {
     "a \"double-sailed ship\"--the name of a large warship"
   ],
   "juru muduringga suwayan xun dalikv": [
-    "ᠵᡠᡵᡠ ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᠰᡠᠸᠠᠶᠠᠨ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
+    "ᠵᡠᡵᡠ ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᠰᡠᠸᠠᠶᠠᠨ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
     "a parasol of the escort with a pair of dragons embroidered on it"
   ],
   "juru niyaman": [
@@ -46688,7 +46688,7 @@ const dictionary = {
     "the stars alpha and beta"
   ],
   "juru songgiha fitheku beri": [
-    "ᠵᡠᡵᡠ ᠰᠣᠨᡤᡤᡳᡥᠠ ᡶᡳᡨᡥᡝᡴᡠ ᠪᡝᡵᡳ",
+    "ᠵᡠᡵᡠ ᠰᠣᠩᡤᡳᡥᠠ ᡶᡳᡨᡥᡝᡴᡠ ᠪᡝᡵᡳ",
     "a crossbow with a double mechanism"
   ],
   "juru usiha": [
@@ -46724,7 +46724,7 @@ const dictionary = {
     "a rat- or mousehole"
   ],
   "jurungge gasha": [
-    "ᠵᡠᡵᡠᠨᡤᡤᡝ ᡤᠠᠰᡥᠠ",
+    "ᠵᡠᡵᡠᠩᡤᡝ ᡤᠠᠰᡥᠠ",
     "one name for the mandarin duck; cf. ijifun niyehe"
   ],
   "juse": [
@@ -46800,7 +46800,7 @@ const dictionary = {
     "a strip used for sealing houses or vessels"
   ],
   "justangga soro": [
-    "ᠵᡠᠰᡨᠠᠨᡤᡤᠠ ᠰᠣᡵᠣ",
+    "ᠵᡠᠰᡨᠠᠩᡤᠠ ᠰᠣᡵᠣ",
     "striped jujube"
   ],
   "jusubumbi": [
@@ -46840,7 +46840,7 @@ const dictionary = {
     "serf's quarters"
   ],
   "juxen halangga niyalma": [
-    "ᠵᡠᡧᡝᠨ ᡥᠠᠯᠠᠨᡤᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᠵᡠᡧᡝᠨ ᡥᠠᠯᠠᠩᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
     "a serf of the Manchus"
   ],
   "juxuci": [
@@ -46908,7 +46908,7 @@ const dictionary = {
     "a five-stringed musical instrument played with a bamboo pick"
   ],
   "jutungga jodon": [
-    "ᠵᡠᡨᡠᠨᡤᡤᠠ ᠵᠣᡩᠣᠨ",
+    "ᠵᡠᡨᡠᠩᡤᠠ ᠵᠣᡩᠣᠨ",
     "a piece of coarse grass linen sufficient for the production of two articles of clothing"
   ],
   "juturi cecike": [
@@ -46980,15 +46980,15 @@ const dictionary = {
     "chief of ten, decurion"
   ],
   "juwangduwan": [
-    "ᠵᡠᠸᠠᠨᡤᡩᡠᠸᠠᠨ",
+    "ᠵᡠᠸᠠᠩᡩᡠᠸᠠᠨ",
     "colored satin with gold threads inwoven"
   ],
   "juwangga": [
-    "ᠵᡠᠸᠠᠨᡤᡤᠠ",
+    "ᠵᡠᠸᠠᠩᡤᠠ",
     "preserved cucumbers"
   ],
   "juwanggeri": [
-    "ᠵᡠᠸᠠᠨᡤᡤᡝᡵᡳ",
+    "ᠵᡠᠸᠠᠩᡤᡝᡵᡳ",
     "ten times"
   ],
   "juwanta": [
@@ -47028,7 +47028,7 @@ const dictionary = {
     "the summer sacrifice to the ancestors"
   ],
   "juwaringga junggidei": [
-    "ᠵᡠᠸᠠᡵᡳᠨᡤᡤᠠ ᠵᡠᠨᡤᡤᡳᡩᡝᡳ",
+    "ᠵᡠᠸᠠᡵᡳᠩᡤᠠ ᠵᡠᠩᡤᡳᡩᡝᡳ",
     "the mountain pheasant with its summer plumage"
   ],
   "juwata": [
@@ -47044,15 +47044,15 @@ const dictionary = {
     "the second month, two months"
   ],
   "juwe dube xolonggo": [
-    "ᠵᡠᠸᡝ ᡩᡠᠪᡝ ᡧᠣᠯᠣᠨᡤᡤᠣ",
+    "ᠵᡠᠸᡝ ᡩᡠᠪᡝ ᡧᠣᠯᠣᠩᡤᠣ",
     "pointed at both ends"
   ],
   "juwe irungge mahatun": [
-    "ᠵᡠᠸᡝ ᡳᡵᡠᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᠵᡠᠸᡝ ᡳᡵᡠᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "an ancient-style hat with two ridges on top"
   ],
   "juwe jeyengge suhe": [
-    "ᠵᡠᠸᡝ ᠵᡝᠶᡝᠨᡤᡤᡝ ᠰᡠᡥᡝ",
+    "ᠵᡠᠸᡝ ᠵᡝᠶᡝᠩᡤᡝ ᠰᡠᡥᡝ",
     "a double-edged ax"
   ],
   "juwe muru": [
@@ -47072,7 +47072,7 @@ const dictionary = {
     "both ends"
   ],
   "juwe ujan xolonggo": [
-    "ᠵᡠᠸᡝ ᡠᠵᠠᠨ ᡧᠣᠯᠣᠨᡤᡤᠣ",
+    "ᠵᡠᠸᡝ ᡠᠵᠠᠨ ᡧᠣᠯᠣᠩᡤᠣ",
     "the same as juwe dube šolonggo"
   ],
   "juwebumbi": [
@@ -47100,7 +47100,7 @@ const dictionary = {
     "to transport, to ship, to transfer, to move"
   ],
   "juwere birai angga": [
-    "ᠵᡠᠸᡝᡵᡝ ᠪᡳᡵᠠᡳ ᠠᠨᡤᡤᠠ",
+    "ᠵᡠᠸᡝᡵᡝ ᠪᡳᡵᠠᡳ ᠠᠩᡤᠠ",
     "canal junction"
   ],
   "juwere data": [
@@ -47156,7 +47156,7 @@ const dictionary = {
     "loans and debts"
   ],
   "juwenggeri": [
-    "ᠵᡠᠸᡝᠨᡤᡤᡝᡵᡳ",
+    "ᠵᡠᠸᡝᠩᡤᡝᡵᡳ",
     "twice"
   ],
   "juwenusi": [
@@ -47188,7 +47188,7 @@ const dictionary = {
     "a short padded cotton jacket"
   ],
   "j cuwang nimeku": [
-    "ᠵ ᠴᡠᠸᠠᠨᡤ ᠨᡳᠮᡝᡴᡠ",
+    "ᠵ ᠴᡠᠸᠠᠩ ᠨᡳᠮᡝᡴᡠ",
     "hemorrhoids"
   ],
   "j gi": [
@@ -47248,7 +47248,7 @@ const dictionary = {
     "to form a pair"
   ],
   "kabangga jui": [
-    "ᡴᠠᠪᠠᠨᡤᡤᠠ ᠵᡠᡳ",
+    "ᡴᠠᠪᠠᠩᡤᠠ ᠵᡠᡳ",
     "twin; cf. kaba jui"
   ],
   "kabarabumbi": [
@@ -47284,11 +47284,11 @@ const dictionary = {
     "caus./pass. of kambi"
   ],
   "kacang seme": [
-    "ᡴᠠᠴᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡴᠠᠴᠠᠩ ᠰᡝᠮᡝ",
     "hard (of foods), sound made when hitting something hard"
   ],
   "kacang seme mangga": [
-    "ᡴᠠᠴᠠᠨᡤ ᠰᡝᠮᡝ ᠮᠠᠨᡤᡤᠠ",
+    "ᡴᠠᠴᠠᠩ ᠰᡝᠮᡝ ᠮᠠᠩᡤᠠ",
     "stiff and hard"
   ],
   "kacar kicir": [
@@ -47336,7 +47336,7 @@ const dictionary = {
     "1. administration, control 2. a rectangular-shaped seal used by high provincial officials, 984"
   ],
   "kadalangga bh": [
-    "ᡴᠠᡩᠠᠯᠠᠨᡤᡤᠠ ᠪᡥ",
+    "ᡴᠠᡩᠠᠯᠠᠩᡤᠠ ᠪᡥ",
     "Brigade General, 751"
   ],
   "kadalasi": [
@@ -47468,7 +47468,7 @@ const dictionary = {
     "a brown horse with black mane and tail"
   ],
   "kailun niongniyaha": [
-    "ᡴᠠᡳᠯᡠᠨ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡴᠠᡳᠯᡠᠨ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "a brown wild goose"
   ],
   "kaipi": [
@@ -47540,11 +47540,11 @@ const dictionary = {
     "the horizontal boards in a water gate that cut off the flow of water"
   ],
   "kakvng kikung": [
-    "ᡴᠠᡴᡡᠨᡤ ᡴᡳᡴᡠᠨᡤ",
+    "ᡴᠠᡴᡡᠩ ᡴᡳᡴᡠᠩ",
     "(onom.) the sound made by a heavily loaded cart or by a heavy load"
   ],
   "kakvng seme": [
-    "ᡴᠠᡴᡡᠨᡤ ᠰᡝᠮᡝ",
+    "ᡴᠠᡴᡡᠩ ᠰᡝᠮᡝ",
     "gritting the teeth, with hate, with effort"
   ],
   "kakvr": [
@@ -47556,11 +47556,11 @@ const dictionary = {
     "(onom.) the sound made by ropes and pegs when securing a load on a wagon"
   ],
   "kalang": [
-    "ᡴᠠᠯᠠᠨᡤ",
+    "ᡴᠠᠯᠠᠩ",
     "(onom.) the sound of metal or stone objects banging together"
   ],
   "kalang kiling": [
-    "ᡴᠠᠯᠠᠨᡤ ᡴᡳᠯᡳᠨᡤ",
+    "ᡴᠠᠯᠠᠩ ᡴᡳᠯᡳᠩ",
     "(onom.) the same as kalang"
   ],
   "kalar kalar": [
@@ -47616,7 +47616,7 @@ const dictionary = {
     "in good spirits"
   ],
   "kalcunggi": [
-    "ᡴᠠᠯᠴᡠᠨᡤᡤᡳ",
+    "ᡴᠠᠯᠴᡠᠩᡤᡳ",
     "high-spirited, energetic, full of vitality"
   ],
   "kalfimbi": [
@@ -47672,7 +47672,7 @@ const dictionary = {
     "one name for the stork; cf. weijun"
   ],
   "kaljangga ijifun niyehe": [
-    "ᡴᠠᠯᠵᠠᠨᡤᡤᠠ ᡳᠵᡳᡶᡠᠨ ᠨᡳᠶᡝᡥᡝ",
+    "ᡴᠠᠯᠵᠠᠩᡤᠠ ᡳᠵᡳᡶᡠᠨ ᠨᡳᠶᡝᡥᡝ",
     "a mandarin duck with white stripes"
   ],
   "kalju": [
@@ -47688,15 +47688,15 @@ const dictionary = {
     "shields and spears--metaphor for war"
   ],
   "kalkangga": [
-    "ᡴᠠᠯᡴᠠᠨᡤᡤᠠ",
+    "ᡴᠠᠯᡴᠠᠩᡤᠠ",
     "pertaining to a shield"
   ],
   "kalkangga cooha": [
-    "ᡴᠠᠯᡴᠠᠨᡤᡤᠠ ᠴᠣᠣᡥᠠ",
+    "ᡴᠠᠯᡴᠠᠩᡤᠠ ᠴᠣᠣᡥᠠ",
     "troops carrying shields"
   ],
   "kalkangga loho": [
-    "ᡴᠠᠯᡴᠠᠨᡤᡤᠠ ᠯᠣᡥᠣ",
+    "ᡴᠠᠯᡴᠠᠩᡤᠠ ᠯᠣᡥᠣ",
     "a sword carried along with a shield"
   ],
   "kaltara": [
@@ -47832,95 +47832,95 @@ const dictionary = {
     "a decoration attached to the bridle that hangs down from the horse's jaw"
   ],
   "kang seme": [
-    "ᡴᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡴᠠᠩ ᠰᡝᠮᡝ",
     "aloud, out loud"
   ],
   "kanggarambi": [
-    "ᡴᠠᠨᡤᡤᠠᡵᠠᠮᠪᡳ",
+    "ᡴᠠᠩᡤᠠᡵᠠᠮᠪᡳ",
     "1. to slip slightly 2. to pierce the skin with an arrow"
   ],
   "kanggarxambi": [
-    "ᡴᠠᠨᡤᡤᠠᡵᡧᠠᠮᠪᡳ",
+    "ᡴᠠᠩᡤᠠᡵᡧᠠᠮᠪᡳ",
     "to keep on slipping"
   ],
   "kanggasikv": [
-    "ᡴᠠᠨᡤᡤᠠᠰᡳᡴᡡ",
+    "ᡴᠠᠩᡤᠠᠰᡳᡴᡡ",
     "an overbearing person, braggart"
   ],
   "kanggasitambi": [
-    "ᡴᠠᠨᡤᡤᠠᠰᡳᡨᠠᠮᠪᡳ",
+    "ᡴᠠᠩᡤᠠᠰᡳᡨᠠᠮᠪᡳ",
     "to be overbearing, to be a braggart"
   ],
   "kanggaxambi": [
-    "ᡴᠠᠨᡤᡤᠠᡧᠠᠮᠪᡳ",
+    "ᡴᠠᠩᡤᠠᡧᠠᠮᠪᡳ",
     "to swagger, to act haughtily"
   ],
   "kanggili": [
-    "ᡴᠠᠨᡤᡤᡳᠯᡳ",
+    "ᡴᠠᠩᡤᡳᠯᡳ",
     "slim, shapely, possessing a fine delicate build"
   ],
   "kanggiljambi": [
-    "ᡴᠠᠨᡤᡤᡳᠯᠵᠠᠮᠪᡳ",
+    "ᡴᠠᠩᡤᡳᠯᠵᠠᠮᠪᡳ",
     "(-ka) to become slim and shapely"
   ],
   "kanggir": [
-    "ᡴᠠᠨᡤᡤᡳᡵ",
+    "ᡴᠠᠩᡤᡳᡵ",
     "(onom.) the sound of metal or porcelain falling"
   ],
   "kanggir kinggir": [
-    "ᡴᠠᠨᡤᡤᡳᡵ ᡴᡳᠨᡤᡤᡳᡵ",
+    "ᡴᠠᠩᡤᡳᡵ ᡴᡳᠩᡤᡳᡵ",
     "(onom.) the sound of bells"
   ],
   "kanggir seme": [
-    "ᡴᠠᠨᡤᡤᡳᡵ ᠰᡝᠮᡝ",
+    "ᡴᠠᠩᡤᡳᡵ ᠰᡝᠮᡝ",
     "(onom.) the sound of metal or porcelain falling"
   ],
   "kanggiri": [
-    "ᡴᠠᠨᡤᡤᡳᡵᡳ",
+    "ᡴᠠᠩᡤᡳᡵᡳ",
     "the fitting on a box or cabinet into which the clasp is inserted"
   ],
   "kaanggiri ilha": [
-    "ᡴᠠᠠᠨᡤᡤᡳᡵᡳ ᡳᠯᡥᠠ",
+    "ᡴᠠᠠᠩᡤᡳᡵᡳ ᡳᠯᡥᠠ",
     "an exotic flower that grows in clusters and flutters even when there is no wind"
   ],
   "kanggv niyehe": [
-    "ᡴᠠᠨᡤᡤᡡ ᠨᡳᠶᡝᡥᡝ",
+    "ᡴᠠᠩᡤᡡ ᠨᡳᠶᡝᡥᡝ",
     "smew (Mergellus albellus)"
   ],
   "kanggvr kinggvr": [
-    "ᡴᠠᠨᡤᡤᡡᡵ ᡴᡳᠨᡤᡤᡡᡵ",
+    "ᡴᠠᠩᡤᡡᡵ ᡴᡳᠩᡤᡡᡵ",
     "(onom.) the sound of a large structure collapsing"
   ],
   "kanggvr seme": [
-    "ᡴᠠᠨᡤᡤᡡᡵ ᠰᡝᠮᡝ",
+    "ᡴᠠᠩᡤᡡᡵ ᠰᡝᠮᡝ",
     "1. (onom.) the sound of a wall falling 2. foolhardy, reckless, impudent"
   ],
   "kangkambi": [
-    "ᡴᠠᠨᡤᡴᠠᠮᠪᡳ",
+    "ᡴᠠᠩᡴᠠᠮᠪᡳ",
     "to be thirsty"
   ],
   "kangnambi": [
-    "ᡴᠠᠨᡤᠨᠠᠮᠪᡳ",
+    "ᡴᠠᠩᠨᠠᠮᠪᡳ",
     "1. to ride bareback 2. to leap onto (a horse)"
   ],
   "kangsambi": [
-    "ᡴᠠᠨᡤᠰᠠᠮᠪᡳ",
+    "ᡴᠠᠩᠰᠠᠮᠪᡳ",
     "to shave hair off a pelt"
   ],
   "kangsanggi": [
-    "ᡴᠠᠨᡤᠰᠠᠨᡤᡤᡳ",
+    "ᡴᠠᠩᠰᠠᠩᡤᡳ",
     "an arrogant and reckless person"
   ],
   "kangsiri": [
-    "ᡴᠠᠨᡤᠰᡳᡵᡳ",
+    "ᡴᠠᠩᠰᡳᡵᡳ",
     "the top of the nose ridge just below the eyes"
   ],
   "kangtarambi": [
-    "ᡴᠠᠨᡤᡨᠠᡵᠠᠮᠪᡳ",
+    "ᡴᠠᠩᡨᠠᡵᠠᠮᠪᡳ",
     "1. to rise up in the front, especially a cart that is loaded too heavily at the rear 2. to tie the reins of a horse to the pommel of a saddle to keep the horse from wandering"
   ],
   "kangtarxambi": [
-    "ᡴᠠᠨᡤᡨᠠᡵᡧᠠᠮᠪᡳ",
+    "ᡴᠠᠩᡨᠠᡵᡧᠠᠮᠪᡳ",
     "to walk with the head high, to act in a proud manner"
   ],
   "kani": [
@@ -47944,7 +47944,7 @@ const dictionary = {
     "see kani akū"
   ],
   "kaningga": [
-    "ᡴᠠᠨᡳᠨᡤᡤᠠ",
+    "ᡴᠠᠨᡳᠩᡤᠠ",
     "having a relationship, related, of the same sort"
   ],
   "kanirakv": [
@@ -47964,7 +47964,7 @@ const dictionary = {
     "a cow with a white nose"
   ],
   "kanjiha niongniyaha": [
-    "ᡴᠠᠨᠵᡳᡥᠠ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡴᠠᠨᠵᡳᡥᠠ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "a small wild goose with a red beak and a red fleshy crest on the head"
   ],
   "kanjimbi": [
@@ -48032,7 +48032,7 @@ const dictionary = {
     "a dark brown horse"
   ],
   "kara kiongguhe": [
-    "ᡴᠠᡵᠠ ᡴᡳᠣᠨᡤᡤᡠᡥᡝ",
+    "ᡴᠠᡵᠠ ᡴᡳᠣᠩᡤᡠᡥᡝ",
     "a black myna"
   ],
   "kara saksaha": [
@@ -48076,7 +48076,7 @@ const dictionary = {
     "to look down from a height, to gaze into the distance"
   ],
   "karara dengjan": [
-    "ᡴᠠᡵᠠᡵᠠ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡴᠠᡵᠠᡵᠠ ᡩᡝᠩᠵᠠᠨ",
     "a lantern that shines very far at night, a signal lantern"
   ],
   "karan": [
@@ -48100,7 +48100,7 @@ const dictionary = {
     "see karanidun"
   ],
   "karangga taktu": [
-    "ᡴᠠᡵᠠᠨᡤᡤᠠ ᡨᠠᡴᡨᡠ",
+    "ᡴᠠᡵᠠᠩᡤᠠ ᡨᠠᡴᡨᡠ",
     "watchtower, sentry tower"
   ],
   "karanidun": [
@@ -48216,7 +48216,7 @@ const dictionary = {
     "to protect together, to protect one another"
   ],
   "karmangga bh": [
-    "ᡴᠠᡵᠮᠠᠨᡤᡤᠠ ᠪᡥ",
+    "ᡴᠠᡵᠮᠠᠩᡤᠠ ᠪᡥ",
     "First Class Transport Station (on the Grand Canal), 834"
   ],
   "karmani": [
@@ -48236,7 +48236,7 @@ const dictionary = {
     "to protect continually"
   ],
   "karmatangga": [
-    "ᡴᠠᡵᠮᠠᡨᠠᠨᡤᡤᠠ",
+    "ᡴᠠᡵᠮᠠᡨᠠᠩᡤᠠ",
     "protective"
   ],
   "karmatu mahatun": [
@@ -48356,11 +48356,11 @@ const dictionary = {
     "dried meat"
   ],
   "katang seme": [
-    "ᡴᠠᡨᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡴᠠᡨᠠᠩ ᠰᡝᠮᡝ",
     "very hard, solid"
   ],
   "katangga soro": [
-    "ᡴᠠᡨᠠᠨᡤᡤᠠ ᠰᠣᡵᠣ",
+    "ᡴᠠᡨᠠᠩᡤᠠ ᠰᠣᡵᠣ",
     "jujubes dried in the sun"
   ],
   "katar fatar": [
@@ -48384,7 +48384,7 @@ const dictionary = {
     "brocade embroidered in silk"
   ],
   "kati jongdon": [
-    "ᡴᠠᡨᡳ ᠵᠣᠨᡤᡩᠣᠨ",
+    "ᡴᠠᡨᡳ ᠵᠣᠩᡩᠣᠨ",
     "grass linen with brocade embroidery work on it"
   ],
   "katun": [
@@ -48584,7 +48584,7 @@ const dictionary = {
     "joy, gratification"
   ],
   "keksengge gohon": [
-    "ᡴᡝᡴᠰᡝᠨᡤᡤᡝ ᡤᠣᡥᠣᠨ",
+    "ᡴᡝᡴᠰᡝᠩᡤᡝ ᡤᠣᡥᠣᠨ",
     "a hook for hanging curtains made in the shape of a good-luck scepter"
   ],
   "kekte kakta": [
@@ -48608,11 +48608,11 @@ const dictionary = {
     "a variety of cuckoo"
   ],
   "keleng kalang": [
-    "ᡴᡝᠯᡝᠨᡤ ᡴᠠᠯᠠᠨᡤ",
+    "ᡴᡝᠯᡝᠩ ᡴᠠᠯᠠᠩ",
     "slack, loose, lax"
   ],
   "keleng kalang umesi sula": [
-    "ᡴᡝᠯᡝᠨᡤ ᡴᠠᠯᠠᠨᡤ ᡠᠮᡝᠰᡳ ᠰᡠᠯᠠ",
+    "ᡴᡝᠯᡝᠩ ᡴᠠᠯᠠᠩ ᡠᠮᡝᠰᡳ ᠰᡠᠯᠠ",
     "limp, tired out (of horses and cows)"
   ],
   "keler kalar": [
@@ -48768,11 +48768,11 @@ const dictionary = {
     "reckoning, measuring"
   ],
   "kemun yangse": [
-    "ᡴᡝᠮᡠᠨ ᠶᠠᠨᡤᠰᡝ",
+    "ᡴᡝᠮᡠᠨ ᠶᠠᠩᠰᡝ",
     "manners, deportment"
   ],
   "kemungge": [
-    "ᡴᡝᠮᡠᠨᡤᡤᡝ",
+    "ᡴᡝᠮᡠᠩᡤᡝ",
     "1. having measure, frugal 2. simple"
   ],
   "kemuni": [
@@ -48804,7 +48804,7 @@ const dictionary = {
     "the long hair under the neck of a camel"
   ],
   "kenderhen niongniyaha": [
-    "ᡴᡝᠨᡩᡝᡵᡥᡝᠨ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡴᡝᠨᡩᡝᡵᡥᡝᠨ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "one name for the wild goose; cf. jurgangga gasha"
   ],
   "kenderhen niyehe": [
@@ -48828,79 +48828,79 @@ const dictionary = {
     "doubt, suspicion"
   ],
   "keng": [
-    "ᡴᡝᠨᡤ",
+    "ᡴᡝᠩ",
     "(onom.) the sound of coughing"
   ],
   "keng kang": [
-    "ᡴᡝᠨᡤ ᡴᠠᠨᡤ",
+    "ᡴᡝᠩ ᡴᠠᠩ",
     "(onom.) the sound of many people coughing or clearing their throats"
   ],
   "keng keng": [
-    "ᡴᡝᠨᡤ ᡴᡝᠨᡤ",
+    "ᡴᡝᠩ ᡴᡝᠩ",
     "(onom.) the sound of kowtowing"
   ],
   "keng seme": [
-    "ᡴᡝᠨᡤ ᠰᡝᠮᡝ",
+    "ᡴᡝᠩ ᠰᡝᠮᡝ",
     "see kek sembi"
   ],
   "kengcembi": [
-    "ᡴᡝᠨᡤᠴᡝᠮᠪᡳ",
+    "ᡴᡝᠩᠴᡝᠮᠪᡳ",
     "to break, to collapse (of soft things)"
   ],
   "kenggehun": [
-    "ᡴᡝᠨᡤᡤᡝᡥᡠᠨ",
+    "ᡴᡝᠩᡤᡝᡥᡠᠨ",
     "1. emaciated 2. empty, vacant"
   ],
   "kenggehun kanggahvn": [
-    "ᡴᡝᠨᡤᡤᡝᡥᡠᠨ ᡴᠠᠨᡤᡤᠠᡥᡡᠨ",
+    "ᡴᡝᠩᡤᡝᡥᡠᠨ ᡴᠠᠩᡤᠠᡥᡡᠨ",
     "empty, vacant"
   ],
   "kenggeri": [
-    "ᡴᡝᠨᡤᡤᡝᡵᡳ",
+    "ᡴᡝᠩᡤᡝᡵᡳ",
     "1. diaphragm 2. the front section of a slaughtered animal 3. the clavicle of a bird"
   ],
   "kenggin": [
-    "ᡴᡝᠨᡤᡤᡳᠨ",
+    "ᡴᡝᠩᡤᡳᠨ",
     "walrus"
   ],
   "kengkembi": [
-    "ᡴᡝᠨᡤᡴᡝᠮᠪᡳ",
+    "ᡴᡝᠩᡴᡝᠮᠪᡳ",
     "1. to dry out, to be dried up 2. to be famished, to be very hungry and thirsty"
   ],
   "kengkexembi": [
-    "ᡴᡝᠨᡤᡴᡝᡧᡝᠮᠪᡳ",
+    "ᡴᡝᠩᡴᡝᡧᡝᠮᠪᡳ",
     "to crave, to desire greatly"
   ],
   "kengse": [
-    "ᡴᡝᠨᡤᠰᡝ",
+    "ᡴᡝᠩᠰᡝ",
     "resolute, determined"
   ],
   "kengse lasha": [
-    "ᡴᡝᠨᡤᠰᡝ ᠯᠠᠰᡥᠠ",
+    "ᡴᡝᠩᠰᡝ ᠯᠠᠰᡥᠠ",
     "decisive, resolute"
   ],
   "kengsejembi": [
-    "ᡴᡝᠨᡤᠰᡝᠵᡝᠮᠪᡳ",
+    "ᡴᡝᠩᠰᡝᠵᡝᠮᠪᡳ",
     "to become worn (of ropes and fine objects)"
   ],
   "kengselebumbi": [
-    "ᡴᡝᠨᡤᠰᡝᠯᡝᠪᡠᠮᠪᡳ",
+    "ᡴᡝᠩᠰᡝᠯᡝᠪᡠᠮᠪᡳ",
     "caus. of kengselembi"
   ],
   "kengselembi": [
-    "ᡴᡝᠨᡤᠰᡝᠯᡝᠮᠪᡳ",
+    "ᡴᡝᠩᠰᡝᠯᡝᠮᠪᡳ",
     "to decide, to determine"
   ],
   "kengsimbi": [
-    "ᡴᡝᠨᡤᠰᡳᠮᠪᡳ",
+    "ᡴᡝᠩᠰᡳᠮᠪᡳ",
     "1. to call (of the cuckoo) 2. to cough, to hack, to clear the throat"
   ],
   "kengtehun": [
-    "ᡴᡝᠨᡤᡨᡝᡥᡠᠨ",
+    "ᡴᡝᠩᡨᡝᡥᡠᠨ",
     "1. stooped, hunched 2. towering above the herd"
   ],
   "kengtehun amba": [
-    "ᡴᡝᠨᡤᡨᡝᡥᡠᠨ ᠠᠮᠪᠠ",
+    "ᡴᡝᠩᡨᡝᡥᡠᠨ ᠠᠮᠪᠠ",
     "larger than the rest"
   ],
   "kenje": [
@@ -49024,15 +49024,15 @@ const dictionary = {
     "the name of an insignia of the imperial escort"
   ],
   "kesi be tuwakiyara gurun be dalire gung bh": [
-    "ᡴᡝᠰᡳ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᡤᡠᡵᡠᠨ ᠪᡝ ᡩᠠᠯᡳᡵᡝ ᡤᡠᠨᡤ ᠪᡥ",
+    "ᡴᡝᠰᡳ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᡤᡠᡵᡠᠨ ᠪᡝ ᡩᠠᠯᡳᡵᡝ ᡤᡠᠩ ᠪᡥ",
     "Prince of the Blood of the fifth degree, 20"
   ],
   "kesi be tuwakiyara gvrun de aisilara gung bh": [
-    "ᡴᡝᠰᡳ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᡤᡡᡵᡠᠨ ᡩᡝ ᠠᡳᠰᡳᠯᠠᡵᠠ ᡤᡠᠨᡤ ᠪᡥ",
+    "ᡴᡝᠰᡳ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᡤᡡᡵᡠᠨ ᡩᡝ ᠠᡳᠰᡳᠯᠠᡵᠠ ᡤᡠᠩ ᠪᡥ",
     "Prince of the Blood of the sixth degree, 21"
   ],
   "kesi be tuwakiyara janggin bh 27a": [
-    "ᡴᡝᠰᡳ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ 27ᠠ",
+    "ᡴᡝᠰᡳ ᠪᡝ ᡨᡠᠸᠠᡴᡳᠶᠠᡵᠠ ᠵᠠᠩᡤᡳᠨ ᠪᡥ 27ᠠ",
     "Noble of the Imperial lineage by Imperial Favor,"
   ],
   "kesi bele i calu": [
@@ -49040,7 +49040,7 @@ const dictionary = {
     "a granary of the Board of Finance in Peking"
   ],
   "kesi de hengkilembi": [
-    "ᡴᡝᠰᡳ ᡩᡝ ᡥᡝᠨᡤᡴᡳᠯᡝᠮᠪᡳ",
+    "ᡴᡝᠰᡳ ᡩᡝ ᡥᡝᠩᡴᡳᠯᡝᠮᠪᡳ",
     "to kowtow as an act of thanksgiving for the emperor's favor"
   ],
   "kesi isibumbi": [
@@ -49048,7 +49048,7 @@ const dictionary = {
     "to bestow favor"
   ],
   "kesi menggun i namun": [
-    "ᡴᡝᠰᡳ ᠮᡝᠨᡤᡤᡠᠨ ᡳ ᠨᠠᠮᡠᠨ",
+    "ᡴᡝᠰᡳ ᠮᡝᠩᡤᡠᠨ ᡳ ᠨᠠᠮᡠᠨ",
     "a treasury located in every banner for rewarding the troops"
   ],
   "kesi simehe": [
@@ -49056,7 +49056,7 @@ const dictionary = {
     "his grace has permeated (everywhere)"
   ],
   "kesi xangnahan i kunggeri": [
-    "ᡴᡝᠰᡳ ᡧᠠᠨᡤᠨᠠᡥᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡴᡝᠰᡳ ᡧᠠᠩᠨᠠᡥᠠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of rewards and besowals in the Board of Rites"
   ],
   "kesi yali": [
@@ -49072,11 +49072,11 @@ const dictionary = {
     "a wild herb whose leaves resemble cat's paws"
   ],
   "kesingge": [
-    "ᡴᡝᠰᡳᠨᡤᡤᡝ",
+    "ᡴᡝᠰᡳᠩᡤᡝ",
     "blessed with good fortune, blessed, favored"
   ],
   "kesingge hafan be": [
-    "ᡴᡝᠰᡳᠨᡤᡤᡝ ᡥᠠᡶᠠᠨ ᠪᡝ",
+    "ᡴᡝᠰᡳᠩᡤᡝ ᡥᠠᡶᠠᠨ ᠪᡝ",
     "a hereditary rank of the ninth grade, 944"
   ],
   "kesiri masiri": [
@@ -49116,7 +49116,7 @@ const dictionary = {
     "police commissioner"
   ],
   "ki yang jodon": [
-    "ᡴᡳ ᠶᠠᠨᡤ ᠵᠣᡩᠣᠨ",
+    "ᡴᡳ ᠶᠠᠩ ᠵᠣᡩᠣᠨ",
     "a type of coarse grass linen produced in Chi-yang in Hunan"
   ],
   "kib seme": [
@@ -49208,7 +49208,7 @@ const dictionary = {
     "a very small cooking pot"
   ],
   "kilang kalangga": [
-    "ᡴᡳᠯᠠᠨᡤ ᡴᠠᠯᠠᠨᡤᡤᠠ",
+    "ᡴᡳᠯᠠᠩ ᡴᠠᠯᠠᠩᡤᠠ",
     "(onom.) the sound of ringing or tingling"
   ],
   "kilhana": [
@@ -49224,7 +49224,7 @@ const dictionary = {
     "banner, pennant"
   ],
   "kiltangga": [
-    "ᡴᡳᠯᡨᠠᠨᡤᡤᠠ",
+    "ᡴᡳᠯᡨᠠᠩᡤᠠ",
     "bearing a banner or pennant"
   ],
   "kiltari": [
@@ -49316,7 +49316,7 @@ const dictionary = {
     "to get revenge on one another, to have a grudge against one another"
   ],
   "kimungge": [
-    "ᡴᡳᠮᡠᠨᡤᡤᡝ",
+    "ᡴᡳᠮᡠᠩᡤᡝ",
     "1. having a grudge, harboring enmity 2. a personal enemy"
   ],
   "kin": [
@@ -49336,31 +49336,31 @@ const dictionary = {
     "henna (Lawsonia inermis)"
   ],
   "king": [
-    "ᡴᡳᠨᡤ",
+    "ᡴᡳᠩ",
     "1. (onom.) the sound of a heavy object falling 2. a musical stone 3. land measure equal to one hundred mu"
   ],
   "kinggir seme": [
-    "ᡴᡳᠨᡤᡤᡳᡵ ᠰᡝᠮᡝ",
+    "ᡴᡳᠩᡤᡳᡵ ᠰᡝᠮᡝ",
     "clinking, clattering"
   ],
   "kinggiri": [
-    "ᡴᡳᠨᡤᡤᡳᡵᡳ",
+    "ᡴᡳᠩᡤᡳᡵᡳ",
     "one name for the hill myna"
   ],
   "kinggiri seme": [
-    "ᡴᡳᠨᡤᡤᡳᡵᡳ ᠰᡝᠮᡝ",
+    "ᡴᡳᠩᡤᡳᡵᡳ ᠰᡝᠮᡝ",
     "(onom.) the sound of breaking into many small pieces"
   ],
   "kingguhe": [
-    "ᡴᡳᠨᡤᡤᡠᡥᡝ",
+    "ᡴᡳᠩᡤᡠᡥᡝ",
     "one name for the myna"
   ],
   "kingken": [
-    "ᡴᡳᠨᡤᡴᡝᠨ",
+    "ᡴᡳᠩᡴᡝᠨ",
     "musical stone"
   ],
   "kingkiri seme": [
-    "ᡴᡳᠨᡤᡴᡳᡵᡳ ᠰᡝᠮᡝ",
+    "ᡴᡳᠩᡴᡳᡵᡳ ᠰᡝᠮᡝ",
     "crashing loudly"
   ],
   "kintala": [
@@ -49372,15 +49372,15 @@ const dictionary = {
     "to loathe, to despise"
   ],
   "kiongguhe": [
-    "ᡴᡳᠣᠨᡤᡤᡠᡥᡝ",
+    "ᡴᡳᠣᠩᡤᡠᡥᡝ",
     "myna of South China (Acridotheres cristatellus)"
   ],
   "kionggun": [
-    "ᡴᡳᠣᠨᡤᡤᡠᠨ",
+    "ᡴᡳᠣᠩᡤᡠᠨ",
     "firm, unshakable"
   ],
   "kiongguri ilha": [
-    "ᡴᡳᠣᠨᡤᡤᡠᡵᡳ ᡳᠯᡥᠠ",
+    "ᡴᡳᠣᠩᡤᡠᡵᡳ ᡳᠯᡥᠠ",
     "hydrangea"
   ],
   "kior seme": [
@@ -49496,7 +49496,7 @@ const dictionary = {
     "the base of a lute"
   ],
   "kituhangga": [
-    "ᡴᡳᡨᡠᡥᠠᠨᡤᡤᠠ",
+    "ᡴᡳᡨᡠᡥᠠᠩᡤᠠ",
     "pertaining to the sevenstringed lute"
   ],
   "kiya": [
@@ -49560,15 +49560,15 @@ const dictionary = {
     "a hawk of mixed breed--considered useless for falconry"
   ],
   "kiyakvng": [
-    "ᡴᡳᠶᠠᡴᡡᠨᡤ",
+    "ᡴᡳᠶᠠᡴᡡᠩ",
     "(onom.) the sound made by a heavily loaded wagon, with a rumbling sound"
   ],
   "kiyakvng kikvng": [
-    "ᡴᡳᠶᠠᡴᡡᠨᡤ ᡴᡳᡴᡡᠨᡤ",
+    "ᡴᡳᠶᠠᡴᡡᠩ ᡴᡳᡴᡡᠩ",
     "the same as kiyakūng"
   ],
   "kiyaakvng seme guwembi": [
-    "ᡴᡳᠶᠠᠠᡴᡡᠨᡤ ᠰᡝᠮᡝ ᡤᡠᠸᡝᠮᠪᡳ",
+    "ᡴᡳᠶᠠᠠᡴᡡᠩ ᠰᡝᠮᡝ ᡤᡠᠸᡝᠮᠪᡳ",
     "to make a rumbling sound (of a heavy wagon)"
   ],
   "kiyalabumbi": [
@@ -49584,11 +49584,11 @@ const dictionary = {
     "bookbindery in the Printing Office and Bookbindery; cf. 94"
   ],
   "kiyalang": [
-    "ᡴᡳᠶᠠᠯᠠᠨᡤ",
+    "ᡴᡳᠶᠠᠯᠠᠩ",
     "(onom.) 1. the sound of a single bell 2. the sound of metal colliding with another object"
   ],
   "kiyalang sembi": [
-    "ᡴᡳᠶᠠᠯᠠᠨᡤ ᠰᡝᠮᠪᡳ",
+    "ᡴᡳᠶᠠᠯᠠᠩ ᠰᡝᠮᠪᡳ",
     "to ring, to clang"
   ],
   "kiyalmabumbi": [
@@ -49620,35 +49620,35 @@ const dictionary = {
     "1. a paper measure equaling twenty-five sheets, a quire 2. anything folded or bound together"
   ],
   "kiyangdu": [
-    "ᡴᡳᠶᠠᠨᡤᡩᡠ",
+    "ᡴᡳᠶᠠᠩᡩᡠ",
     "powerful, forceful"
   ],
   "kiyangdukan": [
-    "ᡴᡳᠶᠠᠨᡤᡩᡠᡴᠠᠨ",
+    "ᡴᡳᠶᠠᠩᡩᡠᡴᠠᠨ",
     "rather powerful, rather forceful"
   ],
   "kiyangdulabumbi": [
-    "ᡴᡳᠶᠠᠨᡤᡩᡠᠯᠠᠪᡠᠮᠪᡳ",
+    "ᡴᡳᠶᠠᠩᡩᡠᠯᠠᠪᡠᠮᠪᡳ",
     "caus./pass. of kiyangdulambi"
   ],
   "kiyangdulambi": [
-    "ᡴᡳᠶᠠᠨᡤᡩᡠᠯᠠᠮᠪᡳ",
+    "ᡴᡳᠶᠠᠩᡩᡠᠯᠠᠮᠪᡳ",
     "to use force, to take by force"
   ],
   "kiyangkiyan": [
-    "ᡴᡳᠶᠠᠨᡤᡴᡳᠶᠠᠨ",
+    "ᡴᡳᠶᠠᠩᡴᡳᠶᠠᠨ",
     "powerful, excelling"
   ],
   "kiyangkiyaxabumbi": [
-    "ᡴᡳᠶᠠᠨᡤᡴᡳᠶᠠᡧᠠᠪᡠᠮᠪᡳ",
+    "ᡴᡳᠶᠠᠩᡴᡳᠶᠠᡧᠠᠪᡠᠮᠪᡳ",
     "caus./pass. of kiyangkiyašambi"
   ],
   "kiyangkiyaxambi": [
-    "ᡴᡳᠶᠠᠨᡤᡴᡳᠶᠠᡧᠠᠮᠪᡳ",
+    "ᡴᡳᠶᠠᠩᡴᡳᠶᠠᡧᠠᠮᠪᡳ",
     "to offer powerful resistance"
   ],
   "kiyangkiyatu mahatun": [
-    "ᡴᡳᠶᠠᠨᡤᡴᡳᠶᠠᡨᡠ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᡴᡳᠶᠠᠩᡴᡳᠶᠠᡨᡠ ᠮᠠᡥᠠᡨᡠᠨ",
     "a style of hat worn by heroes in ancient times"
   ],
   "kiyar": [
@@ -49708,7 +49708,7 @@ const dictionary = {
     "(onom.) the sound of clods being crushed under wagon wheels"
   ],
   "kiyei nan hiyang": [
-    "ᡴᡳᠶᡝᡳ ᠨᠠᠨ ᡥᡳᠶᠠᠨᡤ",
+    "ᡴᡳᠶᡝᡳ ᠨᠠᠨ ᡥᡳᠶᠠᠩ",
     "a type of incense"
   ],
   "kiyob seme": [
@@ -49724,7 +49724,7 @@ const dictionary = {
     "the name of an edible wild plant with hollow stems"
   ],
   "kiyokiyon giranggi": [
-    "ᡴᡳᠶᠣᡴᡳᠶᠣᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡴᡳᠶᠣᡴᡳᠶᠣᠨ ᡤᡳᡵᠠᠩᡤᡳ",
     "the tail bone"
   ],
   "kiyolorjombi": [
@@ -49744,7 +49744,7 @@ const dictionary = {
     "to cross a bridge"
   ],
   "kiyoo niongniyaha": [
-    "ᡴᡳᠶᠣᠣ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡴᡳᠶᠣᠣ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "a small blackheaded wild goose"
   ],
   "kiyoo sejen": [
@@ -49776,7 +49776,7 @@ const dictionary = {
     "(onom.) sound made when something gets caught in the throat,"
   ],
   "ko sangga": [
-    "ᡴᠣ ᠰᠠᠨᡤᡤᠠ",
+    "ᡴᠣ ᠰᠠᠩᡤᠠ",
     "sewer, ditch"
   ],
   "ko moo": [
@@ -49856,7 +49856,7 @@ const dictionary = {
     "respect, reverence"
   ],
   "kobtonggo": [
-    "ᡴᠣᠪᡨᠣᠨᡤᡤᠣ",
+    "ᡴᠣᠪᡨᠣᠩᡤᠣ",
     "respectful, deferential"
   ],
   "koco": [
@@ -49900,7 +49900,7 @@ const dictionary = {
     "to cry (of pheasants in the autumn)"
   ],
   "kohong kohong": [
-    "ᡴᠣᡥᠣᠨᡤ ᡴᠣᡥᠣᠨᡤ",
+    "ᡴᠣᡥᠣᠩ ᡴᠣᡥᠣᠩ",
     "(onom.) the sound of repeated coughing"
   ],
   "koika": [
@@ -49968,7 +49968,7 @@ const dictionary = {
     "trick, deceit, subterfuge"
   ],
   "koitonggo": [
-    "ᡴᠣᡳᡨᠣᠨᡤᡤᠣ",
+    "ᡴᠣᡳᡨᠣᠩᡤᠣ",
     "cunning, tricky"
   ],
   "koki": [
@@ -49980,7 +49980,7 @@ const dictionary = {
     "poverty-stricken, indigent"
   ],
   "kokingga fukjingga hergen": [
-    "ᡴᠣᡴᡳᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡴᠣᡴᡳᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "kokirabumbi": [
@@ -50004,7 +50004,7 @@ const dictionary = {
     "to harm one another"
   ],
   "kokirangga inenggi": [
-    "ᡴᠣᡴᡳᡵᠠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡴᠣᡴᡳᡵᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "a day on which the earth's branch overcomes the heaven's stem"
   ],
   "koko": [
@@ -50044,7 +50044,7 @@ const dictionary = {
     "channel, furrow"
   ],
   "kolongso": [
-    "ᡴᠣᠯᠣᠨᡤᠰᠣ",
+    "ᡴᠣᠯᠣᠩᠰᠣ",
     "bad body odor, the odor of"
   ],
   "kolor seme": [
@@ -50064,7 +50064,7 @@ const dictionary = {
     "to put on a felt saddle blanket, to put a felt pad on a camel"
   ],
   "komoloho enggemu": [
-    "ᡴᠣᠮᠣᠯᠣᡥᠣ ᡝᠨᡤᡤᡝᠮᡠ",
+    "ᡴᠣᠮᠣᠯᠣᡥᠣ ᡝᠩᡤᡝᠮᡠ",
     "a saddle with felt padding for skinny or saddle-sore horses"
   ],
   "komon": [
@@ -50092,43 +50092,43 @@ const dictionary = {
     "see komsolambi"
   ],
   "komsongge": [
-    "ᡴᠣᠮᠰᠣᠨᡤᡤᡝ",
+    "ᡴᠣᠮᠰᠣᠩᡤᡝ",
     "what is few, that which is little"
   ],
   "konggir": [
-    "ᡴᠣᠨᡤᡤᡳᡵ",
+    "ᡴᠣᠩᡤᡳᡵ",
     "(onom.) the sound of a small bell"
   ],
   "konggir kanggir": [
-    "ᡴᠣᠨᡤᡤᡳᡵ ᡴᠠᠨᡤᡤᡳᡵ",
+    "ᡴᠣᠩᡤᡳᡵ ᡴᠠᠩᡤᡳᡵ",
     "(onom.) the sound of many small bells"
   ],
   "konggir seme": [
-    "ᡴᠣᠨᡤᡤᡳᡵ ᠰᡝᠮᡝ",
+    "ᡴᠣᠩᡤᡳᡵ ᠰᡝᠮᡝ",
     "(onom.) ringing, tinkling"
   ],
   "konggohon": [
-    "ᡴᠣᠨᡤᡤᠣᡥᠣᠨ",
+    "ᡴᠣᠩᡤᠣᡥᠣᠨ",
     "1. sunken (eyes) 2. emaciated"
   ],
   "konggolo": [
-    "ᡴᠣᠨᡤᡤᠣᠯᠣ",
+    "ᡴᠣᠩᡤᠣᠯᠣ",
     "the crop of a bird"
   ],
   "konggor": [
-    "ᡴᠣᠨᡤᡤᠣᡵ",
+    "ᡴᠣᠩᡤᠣᡵ",
     "(onom.) the sound of pouring water"
   ],
   "konggor seme": [
-    "ᡴᠣᠨᡤᡤᠣᡵ ᠰᡝᠮᡝ",
+    "ᡴᠣᠩᡤᠣᡵ ᠰᡝᠮᡝ",
     "flowing swiftly"
   ],
   "konggoro": [
-    "ᡴᠣᠨᡤᡤᠣᡵᠣ",
+    "ᡴᠣᠩᡤᠣᡵᠣ",
     "Isabella colored, an Isabella horse"
   ],
   "kongsimbi": [
-    "ᡴᠣᠨᡤᠰᡳᠮᠪᡳ",
+    "ᡴᠣᠩᠰᡳᠮᠪᡳ",
     "to speak nonsense in a loud voice"
   ],
   "konjisun": [
@@ -50184,7 +50184,7 @@ const dictionary = {
     "to make into a rule, to make the norm"
   ],
   "koolingga": [
-    "ᡴᠣᠣᠯᡳᠨᡤᡤᠠ",
+    "ᡴᠣᠣᠯᡳᠩᡤᠠ",
     "prescribed, ordered, ordained"
   ],
   "koosa": [
@@ -50216,7 +50216,7 @@ const dictionary = {
     "to erode, to hollow out, to dig out, to cut out"
   ],
   "korkong korkong": [
-    "ᡴᠣᡵᡴᠣᠨᡤ ᡴᠣᡵᡴᠣᠨᡤ",
+    "ᡴᠣᡵᡴᠣᠩ ᡴᠣᡵᡴᠣᠩ",
     "(onom.) the sound of repeated coughing"
   ],
   "koro": [
@@ -50300,11 +50300,11 @@ const dictionary = {
     "sail (of a ship)"
   ],
   "kotong": [
-    "ᡴᠣᡨᠣᠨᡤ",
+    "ᡴᠣᡨᠣᠩ",
     "hard and dry"
   ],
   "kotong katang seme": [
-    "ᡴᠣᡨᠣᠨᡤ ᡴᠠᡨᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡴᠣᡨᠣᠩ ᡴᠠᡨᠠᠩ ᠰᡝᠮᡝ",
     "hard and dry"
   ],
   "kotor": [
@@ -50408,11 +50408,11 @@ const dictionary = {
     "to become mushy (of melons)"
   ],
   "kubungge hooxan": [
-    "ᡴᡠᠪᡠᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᡴᡠᠪᡠᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "a type of soft thin paper"
   ],
   "kubungge moo": [
-    "ᡴᡠᠪᡠᠨᡤᡤᡝ ᠮᠣᠣ",
+    "ᡴᡠᠪᡠᠩᡤᡝ ᠮᠣᠣ",
     "a tree that grows in Szechuan with fruit resembling cotton and which can be woven into cloth"
   ],
   "kuburgen": [
@@ -50428,7 +50428,7 @@ const dictionary = {
     "a horse with a dark mane and tail"
   ],
   "kucung seme": [
-    "ᡴᡠᠴᡠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡴᡠᠴᡠᠩ ᠰᡝᠮᡝ",
     "diligent, assiduous"
   ],
   "kude": [
@@ -50456,7 +50456,7 @@ const dictionary = {
     "two partitioned rooms at both sides of the main house"
   ],
   "kufang": [
-    "ᡴᡠᡶᠠᠨᡤ",
+    "ᡴᡠᡶᠠᠩ",
     "see kufan"
   ],
   "kufumbi": [
@@ -50480,7 +50480,7 @@ const dictionary = {
     "1. a large blood vessel in the belly of livestock that is attached to the spine 2. in traditional Chinese anatomy, a vessel along the spine that was thought to nourish the five vital organs 3. grooves on a knife, sword, or arrowhead 4. sprouts on a tree"
   ],
   "kuhengge": [
-    "ᡴᡠᡥᡝᠨᡤᡤᡝ",
+    "ᡴᡠᡥᡝᠩᡤᡝ",
     "swollen up lout! (oath used toward a lazy person)"
   ],
   "kui hvwa": [
@@ -50508,7 +50508,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "kuinihe tokdonggo kiru": [
-    "ᡴᡠᡳᠨᡳᡥᡝ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡴᡠᡳᠨᡳᡥᡝ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation kuinihe"
   ],
   "kukduri": [
@@ -50652,7 +50652,7 @@ const dictionary = {
     "the Board of State Music, 387"
   ],
   "kumun i karmangga bh": [
-    "ᡴᡠᠮᡠᠨ ᡳ ᡴᠠᡵᠮᠠᠨᡤᡤᠠ ᠪᡥ",
+    "ᡴᡠᠮᡠᠨ ᡳ ᡴᠠᡵᠮᠠᠩᡤᠠ ᠪᡥ",
     "Standard-bearers Section, 122"
   ],
   "kumun i niyalma": [
@@ -50660,11 +50660,11 @@ const dictionary = {
     "musician"
   ],
   "kumungge": [
-    "ᡴᡠᠮᡠᠨᡤᡤᡝ",
+    "ᡴᡠᠮᡠᠩᡤᡝ",
     "noisy, festive, exciting, lively, animated"
   ],
   "kumungge simengge": [
-    "ᡴᡠᠮᡠᠨᡤᡤᡝ ᠰᡳᠮᡝᠨᡤᡤᡝ",
+    "ᡴᡠᠮᡠᠩᡤᡝ ᠰᡳᠮᡝᠩᡤᡝ",
     "noisy and exciting, full of bustle and excitement"
   ],
   "kumusi": [
@@ -50712,75 +50712,75 @@ const dictionary = {
     "provisions (for a journey)"
   ],
   "kung": [
-    "ᡴᡠᠨᡤ",
+    "ᡴᡠᠩ",
     "(onom.) the sound of a large object falling to the ground"
   ],
   "kung cang": [
-    "ᡴᡠᠨᡤ ᠴᠠᠨᡤ",
+    "ᡴᡠᠩ ᠴᠠᠩ",
     "(onom.) the sound of drums and cymbals"
   ],
   "kung cang seme banjimbi": [
-    "ᡴᡠᠨᡤ ᠴᠠᠨᡤ ᠰᡝᠮᡝ ᠪᠠᠨᠵᡳᠮᠪᡳ",
+    "ᡴᡠᠩ ᠴᠠᠩ ᠰᡝᠮᡝ ᠪᠠᠨᠵᡳᠮᠪᡳ",
     "to live on a a grand scale"
   ],
   "kungge yamun": [
-    "ᡴᡠᠨᡤᡤᡝ ᠶᠠᠮᡠᠨ",
+    "ᡴᡠᠩᡤᡝ ᠶᠠᠮᡠᠨ",
     "a section (of an organization)"
   ],
   "kungger seme": [
-    "ᡴᡠᠨᡤᡤᡝᡵ ᠰᡝᠮᡝ",
+    "ᡴᡠᠩᡤᡝᡵ ᠰᡝᠮᡝ",
     "incessantly"
   ],
   "kunggeri": [
-    "ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡴᡠᠩᡤᡝᡵᡳ",
     "bureau"
   ],
   "kunggeri seme": [
-    "ᡴᡠᠨᡤᡤᡝᡵᡳ ᠰᡝᠮᡝ",
+    "ᡴᡠᠩᡤᡝᡵᡳ ᠰᡝᠮᡝ",
     "see kungger seme"
   ],
   "kungguhen": [
-    "ᡴᡠᠨᡤᡤᡠᡥᡝᠨ",
+    "ᡴᡠᠩᡤᡠᡥᡝᠨ",
     "see kungguhun"
   ],
   "kungguhun": [
-    "ᡴᡠᠨᡤᡤᡠᡥᡠᠨ",
+    "ᡴᡠᠩᡤᡠᡥᡠᠨ",
     "having sunken eyes"
   ],
   "kunggur": [
-    "ᡴᡠᠨᡤᡤᡠᡵ",
+    "ᡴᡠᠩᡤᡠᡵ",
     "(onom.) 1. the sound made by empty wagons 2. the sound of heavy thunder"
   ],
   "kunggur kanggar": [
-    "ᡴᡠᠨᡤᡤᡠᡵ ᡴᠠᠨᡤᡤᠠᡵ",
+    "ᡴᡠᠩᡤᡠᡵ ᡴᠠᠩᡤᠠᡵ",
     "(onom.) the sound of thunder"
   ],
   "kunggur seme": [
-    "ᡴᡠᠨᡤᡤᡠᡵ ᠰᡝᠮᡝ",
+    "ᡴᡠᠩᡤᡠᡵ ᠰᡝᠮᡝ",
     "1. the same as kunggur 2. in droves"
   ],
   "kunggur seme yamulambi": [
-    "ᡴᡠᠨᡤᡤᡠᡵ ᠰᡝᠮᡝ ᠶᠠᠮᡠᠯᠠᠮᠪᡳ",
+    "ᡴᡠᠩᡤᡠᡵ ᠰᡝᠮᡝ ᠶᠠᠮᡠᠯᠠᠮᠪᡳ",
     "to go to the yamen in droves"
   ],
   "kungguri seme": [
-    "ᡴᡠᠨᡤᡤᡠᡵᡳ ᠰᡝᠮᡝ",
+    "ᡴᡠᠩᡤᡠᡵᡳ ᠰᡝᠮᡝ",
     "see kunggur seme"
   ],
   "kungxuken": [
-    "ᡴᡠᠨᡤᡧᡠᡴᡝᠨ",
+    "ᡴᡠᠩᡧᡠᡴᡝᠨ",
     "a little burnt or scorched"
   ],
   "kungxumbi": [
-    "ᡴᡠᠨᡤᡧᡠᠮᠪᡳ",
+    "ᡴᡠᠩᡧᡠᠮᠪᡳ",
     "to burn, to scorch, to boil (milk)"
   ],
   "kungxun": [
-    "ᡴᡠᠨᡤᡧᡠᠨ",
+    "ᡴᡠᠩᡧᡠᠨ",
     "burnt, scorched, scalded"
   ],
   "kungxun wa": [
-    "ᡴᡠᠨᡤᡧᡠᠨ ᠸᠠ",
+    "ᡴᡠᠩᡧᡠᠨ ᠸᠠ",
     "the odor of something scorched or scalded"
   ],
   "kunusun": [
@@ -50880,15 +50880,15 @@ const dictionary = {
     "a black-spotted dog"
   ],
   "kuringge": [
-    "ᡴᡠᡵᡳᠨᡤᡤᡝ",
+    "ᡴᡠᡵᡳᠩᡤᡝ",
     "spotted, striped"
   ],
   "kuringge gasha": [
-    "ᡴᡠᡵᡳᠨᡤᡤᡝ ᡤᠠᠰᡥᠠ",
+    "ᡴᡠᡵᡳᠩᡤᡝ ᡤᠠᠰᡥᠠ",
     "a black-headed bird with a spotted body"
   ],
   "kuringge hoohan": [
-    "ᡴᡠᡵᡳᠨᡤᡤᡝ ᡥᠣᠣᡥᠠᠨ",
+    "ᡴᡠᡵᡳᠩᡤᡝ ᡥᠣᠣᡥᠠᠨ",
     "a black-striped"
   ],
   "kumdun moo": [
@@ -50984,7 +50984,7 @@ const dictionary = {
     "1. disgusted, sick of, unwell 2. not well-fitting (clothes)"
   ],
   "kuxungge suri": [
-    "ᡴᡠᡧᡠᠨᡤᡤᡝ ᠰᡠᡵᡳ",
+    "ᡴᡠᡧᡠᠩᡤᡝ ᠰᡠᡵᡳ",
     "silk crepe"
   ],
   "kuteci": [
@@ -51008,7 +51008,7 @@ const dictionary = {
     "to lead (animals)"
   ],
   "kutung": [
-    "ᡴᡠᡨᡠᠨᡤ",
+    "ᡴᡠᡨᡠᠩ",
     "(onom.) the sound of a large object falling to the ground"
   ],
   "kutur fatar": [
@@ -51032,15 +51032,15 @@ const dictionary = {
     "see kūwalar, hūwalar"
   ],
   "kuwang cang seme": [
-    "ᡴᡠᠸᠠᠨᡤ ᠴᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡴᡠᠸᠠᠩ ᠴᠠᠩ ᠰᡝᠮᡝ",
     "see kūwang cang seme"
   ],
   "kuwanggar seme": [
-    "ᡴᡠᠸᠠᠨᡤᡤᠠᡵ ᠰᡝᠮᡝ",
+    "ᡴᡠᠸᠠᠩᡤᠠᡵ ᠰᡝᠮᡝ",
     "see hūwanggar seme"
   ],
   "kuwangse": [
-    "ᡴᡠᠸᠠᠨᡤᠰᡝ",
+    "ᡴᡠᠸᠠᠩᠰᡝ",
     "basket"
   ],
   "kuwecehe": [
@@ -51096,7 +51096,7 @@ const dictionary = {
     "change, alteration, revolt"
   ],
   "kvbulin ilenggu cecike": [
-    "ᡴᡡᠪᡠᠯᡳᠨ ᡳᠯᡝᠨᡤᡤᡠ ᠴᡝᠴᡳᡴᡝ",
+    "ᡴᡡᠪᡠᠯᡳᠨ ᡳᠯᡝᠩᡤᡠ ᠴᡝᠴᡳᡴᡝ",
     "one name for the myna"
   ],
   "kvca": [
@@ -51160,7 +51160,7 @@ const dictionary = {
     "see kūwarame"
   ],
   "kvngga": [
-    "ᡴᡡᠨᡤᡤᠠ",
+    "ᡴᡡᠩᡤᠠ",
     "deep valley, canyon"
   ],
   "kvr kar": [
@@ -51344,23 +51344,23 @@ const dictionary = {
     "to speak in a straightforward manner"
   ],
   "kvwang": [
-    "ᡴᡡᠸᠠᠨᡤ",
+    "ᡴᡡᠸᠠᠩ",
     "(onom.) 1. the sound of an explosion 2. the sound of knocking on wood"
   ],
   "kvwang cang": [
-    "ᡴᡡᠸᠠᠨᡤ ᠴᠠᠨᡤ",
+    "ᡴᡡᠸᠠᠩ ᠴᠠᠩ",
     "(onom.) the sound of drums and cymbals"
   ],
   "kvwang seme": [
-    "ᡴᡡᠸᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡴᡡᠸᠠᠩ ᠰᡝᠮᡝ",
     "(onom.) the sound of many people talking"
   ],
   "kvwangkar seme": [
-    "ᡴᡡᠸᠠᠨᡤᡴᠠᡵ ᠰᡝᠮᡝ",
+    "ᡴᡡᠸᠠᠩᡴᠠᡵ ᠰᡝᠮᡝ",
     "see hūwanggar seme"
   ],
   "kvwangtahvn": [
-    "ᡴᡡᠸᠠᠨᡤᡨᠠᡥᡡᠨ",
+    "ᡴᡡᠸᠠᠩᡨᠠᡥᡡᠨ",
     "1. an area without trees or plants 2. bare, waste"
   ],
   "kvwar": [
@@ -51408,7 +51408,7 @@ const dictionary = {
     "a commander elected by the officers of a camp"
   ],
   "kvwaran i kunggeri": [
-    "ᡴᡡᠸᠠᡵᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡴᡡᠸᠠᡵᠠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "the barracks office of the Board of War"
   ],
   "kvwaranambi": [
@@ -51452,7 +51452,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "kamduri tokdonggo kiru": [
-    "ᡴᠠᠮᡩᡠᡵᡳ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡴᠠᠮᡩᡠᡵᡳ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation k'amduri"
   ],
   "karsi": [
@@ -51504,7 +51504,7 @@ const dictionary = {
     "hanging down, drooping"
   ],
   "labdahvn suduli i fukjingga hergen": [
-    "ᠯᠠᠪᡩᠠᡥᡡᠨ ᠰᡠᡩᡠᠯᡳ ᡳ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠯᠠᠪᡩᠠᡥᡡᠨ ᠰᡠᡩᡠᠯᡳ ᡳ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "labdu": [
@@ -51520,7 +51520,7 @@ const dictionary = {
     "to increase, to make more"
   ],
   "labdungge": [
-    "ᠯᠠᠪᡩᡠᠨᡤᡤᡝ",
+    "ᠯᠠᠪᡩᡠᠩᡤᡝ",
     "much, many"
   ],
   "labi": [
@@ -51788,7 +51788,7 @@ const dictionary = {
     "to hang, to let hang, to hang up, to suspend"
   ],
   "lakiyaha ulmengge fukjingga hergen": [
-    "ᠯᠠᡴᡳᠶᠠᡥᠠ ᡠᠯᠮᡝᠨᡤᡤᡝ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠯᠠᡴᡳᠶᠠᡥᠠ ᡠᠯᠮᡝᠩᡤᡝ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "lakiyan": [
@@ -51796,15 +51796,15 @@ const dictionary = {
     "a string of cash"
   ],
   "lakiyangga": [
-    "ᠯᠠᡴᡳᠶᠠᠨᡤᡤᠠ",
+    "ᠯᠠᡴᡳᠶᠠᠩᡤᠠ",
     "hanging, suspended"
   ],
   "lakiyangga hangse": [
-    "ᠯᠠᡴᡳᠶᠠᠨᡤᡤᠠ ᡥᠠᠨᡤᠰᡝ",
+    "ᠯᠠᡴᡳᠶᠠᠩᡤᠠ ᡥᠠᠩᠰᡝ",
     "noodles that are hung out to dry"
   ],
   "lakiyangga huwejehen": [
-    "ᠯᠠᡴᡳᠶᠠᠨᡤᡤᠠ ᡥᡠᠸᡝᠵᡝᡥᡝᠨ",
+    "ᠯᠠᡴᡳᠶᠠᠩᡤᠠ ᡥᡠᠸᡝᠵᡝᡥᡝᠨ",
     "a screen that is hung on the wall"
   ],
   "lakiyari monio": [
@@ -51884,7 +51884,7 @@ const dictionary = {
     "to be mixed up"
   ],
   "lampangga": [
-    "ᠯᠠᠮᡦᠠᠨᡤᡤᠠ",
+    "ᠯᠠᠮᡦᠠᠩᡤᠠ",
     "desolate, primitive"
   ],
   "lamu": [
@@ -51920,11 +51920,11 @@ const dictionary = {
     "an exotic blue flower that resembles a small bird"
   ],
   "lamun funggala bh": [
-    "ᠯᠠᠮᡠᠨ ᡶᡠᠨᡤᡤᠠᠯᠠ ᠪᡥ",
+    "ᠯᠠᠮᡠᠨ ᡶᡠᠩᡤᠠᠯᠠ ᠪᡥ",
     "Junior Bodyguard wearing the Blue Feather), 99"
   ],
   "lamun funggala be boro de hadambi": [
-    "ᠯᠠᠮᡠᠨ ᡶᡠᠨᡤᡤᠠᠯᠠ ᠪᡝ ᠪᠣᡵᠣ ᡩᡝ ᡥᠠᡩᠠᠮᠪᡳ",
+    "ᠯᠠᠮᡠᠨ ᡶᡠᠩᡤᠠᠯᠠ ᠪᡝ ᠪᠣᡵᠣ ᡩᡝ ᡥᠠᡩᠠᠮᠪᡳ",
     "to attach a blue feather to the summer hat"
   ],
   "lamun garudai": [
@@ -51948,11 +51948,11 @@ const dictionary = {
     "a black kite, a black vulture"
   ],
   "lamun muheliyengge gu": [
-    "ᠯᠠᠮᡠᠨ ᠮᡠᡥᡝᠯᡳᠶᡝᠨᡤᡤᡝ ᡤᡠ",
+    "ᠯᠠᠮᡠᠨ ᠮᡠᡥᡝᠯᡳᠶᡝᠩᡤᡝ ᡤᡠ",
     "a flat piece of blue jade with a hole in the center used in sacrifices to heaven"
   ],
   "lamun narhvngga holbonggo hooxan": [
-    "ᠯᠠᠮᡠᠨ ᠨᠠᡵᡥᡡᠨᡤᡤᠠ ᡥᠣᠯᠪᠣᠨᡤᡤᠣ ᡥᠣᠣᡧᠠᠨ",
+    "ᠯᠠᠮᡠᠨ ᠨᠠᡵᡥᡡᠩᡤᠠ ᡥᠣᠯᠪᠣᠩᡤᠣ ᡥᠣᠣᡧᠠᠨ",
     "a type of blue paper used for mounting things"
   ],
   "lamun samsu": [
@@ -51992,71 +51992,71 @@ const dictionary = {
     "indigo plant; cf. lamu orho"
   ],
   "lang lang seme": [
-    "ᠯᠠᠨᡤ ᠯᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᠯᠠᠩ ᠯᠠᠩ ᠰᡝᠮᡝ",
     "(eating) with the mouth stuffed full"
   ],
   "langca": [
-    "ᠯᠠᠨᡤᠴᠠ",
+    "ᠯᠠᠩᠴᠠ",
     "garnet"
   ],
   "langgabumbi": [
-    "ᠯᠠᠨᡤᡤᠠᠪᡠᠮᠪᡳ",
+    "ᠯᠠᠩᡤᠠᠪᡠᠮᠪᡳ",
     "caus./pass. of langgambi"
   ],
   "langgambi": [
-    "ᠯᠠᠨᡤᡤᠠᠮᠪᡳ",
+    "ᠯᠠᠩᡤᠠᠮᠪᡳ",
     "to detain, to hold up, to delay"
   ],
   "langgaxambi": [
-    "ᠯᠠᠨᡤᡤᠠᡧᠠᠮᠪᡳ",
+    "ᠯᠠᠩᡤᠠᡧᠠᠮᠪᡳ",
     "to be indecisive"
   ],
   "langgv": [
-    "ᠯᠠᠨᡤᡤᡡ",
+    "ᠯᠠᠩᡤᡡ",
     "pumpkin"
   ],
   "langju": [
-    "ᠯᠠᠨᡤᠵᡠ",
+    "ᠯᠠᠩᠵᡠ",
     "one ten-millionth (of a Chinese foot)"
   ],
   "langka": [
-    "ᠯᠠᠨᡤᡴᠠ",
+    "ᠯᠠᠩᡴᠠ",
     "the flower of reeds or rushes"
   ],
   "langlai": [
-    "ᠯᠠᠨᡤᠯᠠᡳ",
+    "ᠯᠠᠩᠯᠠᡳ",
     "dung beetle"
   ],
   "langse": [
-    "ᠯᠠᠨᡤᠰᡝ",
+    "ᠯᠠᠩᠰᡝ",
     "dirty, unclean"
   ],
   "langse moo": [
-    "ᠯᠠᠨᡤᠰᡝ ᠮᠣᠣ",
+    "ᠯᠠᠩᠰᡝ ᠮᠣᠣ",
     "the horizontal wooden supports at both ends of a wagon or sedan chair"
   ],
   "langsedambi": [
-    "ᠯᠠᠨᡤᠰᡝᡩᠠᠮᠪᡳ",
+    "ᠯᠠᠩᠰᡝᡩᠠᠮᠪᡳ",
     "to act or speak in a dirty manner, to be dirty"
   ],
   "langtanambi": [
-    "ᠯᠠᠨᡤᡨᠠᠨᠠᠮᠪᡳ",
+    "ᠯᠠᠩᡨᠠᠨᠠᠮᠪᡳ",
     "to have a large head, to be thick or heavy at an extremity"
   ],
   "langtangga": [
-    "ᠯᠠᠨᡤᡨᠠᠨᡤᡤᠠ",
+    "ᠯᠠᠩᡨᠠᠩᡤᠠ",
     "see langtungga"
   ],
   "langtu": [
-    "ᠯᠠᠨᡤᡨᡠ",
+    "ᠯᠠᠩᡨᡠ",
     "a large double-headed hammer for use on iron"
   ],
   "langtulambi": [
-    "ᠯᠠᠨᡤᡨᡠᠯᠠᠮᠪᡳ",
+    "ᠯᠠᠩᡨᡠᠯᠠᠮᠪᡳ",
     "to hit with a double-headed hammer"
   ],
   "langtungga": [
-    "ᠯᠠᠨᡤᡨᡠᠨᡤᡤᠠ",
+    "ᠯᠠᠩᡨᡠᠩᡤᠠ",
     "large-headed"
   ],
   "lar lir seme": [
@@ -52172,7 +52172,7 @@ const dictionary = {
     "cutting off, decision"
   ],
   "lashangga jahvdai": [
-    "ᠯᠠᠰᡥᠠᠨᡤᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
+    "ᠯᠠᠰᡥᠠᠩᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
     "a boat used in rapids or shallows"
   ],
   "lashatai": [
@@ -52196,7 +52196,7 @@ const dictionary = {
     "1. thongs with balls at the end that are attached to a drum and that strike the drum when shaken 2. a weapon consisting of a pole with a shorter pole attached to its end by a chain, a flail"
   ],
   "lasihikv tungken": [
-    "ᠯᠠᠰᡳᡥᡳᡴᡡ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᠯᠠᠰᡳᡥᡳᡴᡡ ᡨᡠᠩᡴᡝᠨ",
     "a hand drum with thongs attached that have balls at the end"
   ],
   "lasihimbi": [
@@ -52212,7 +52212,7 @@ const dictionary = {
     "grass script--the most cursive of the Chinese scripts"
   ],
   "lasihire jangkv": [
-    "ᠯᠠᠰᡳᡥᡳᡵᡝ ᠵᠠᠨᡤᡴᡡ",
+    "ᠯᠠᠰᡳᡥᡳᡵᡝ ᠵᠠᠩᡴᡡ",
     "a sword with a very long handle (more like a spear with a long curved blade)"
   ],
   "lasiri": [
@@ -52272,7 +52272,7 @@ const dictionary = {
     "to go to incite, to go to encroach, to go to commit an illicit sexual act"
   ],
   "latungga": [
-    "ᠯᠠᡨᡠᠨᡤᡤᠠ",
+    "ᠯᠠᡨᡠᠩᡤᠠ",
     "fond of interfering, fond of causing dissension, fond of butting into other people's business"
   ],
   "latunjimbi": [
@@ -52304,15 +52304,15 @@ const dictionary = {
     "(-ke) 1. to lack talent, to appear stupid 2. to be spineless, to go limp, to droop (of birds' wings)"
   ],
   "lebenggi": [
-    "ᠯᡝᠪᡝᠨᡤᡤᡳ",
+    "ᠯᡝᠪᡝᠩᡤᡳ",
     "swampy, marshy, damp, muddy"
   ],
   "lebenggi ba": [
-    "ᠯᡝᠪᡝᠨᡤᡤᡳ ᠪᠠ",
+    "ᠯᡝᠪᡝᠩᡤᡳ ᠪᠠ",
     "marsh, swamp"
   ],
   "lebenggi usin": [
-    "ᠯᡝᠪᡝᠨᡤᡤᡳ ᡠᠰᡳᠨ",
+    "ᠯᡝᠪᡝᠩᡤᡳ ᡠᠰᡳᠨ",
     "muddy field"
   ],
   "lebkidembi": [
@@ -52396,7 +52396,7 @@ const dictionary = {
     "(-ke) to have an unkempt, dirty appearance"
   ],
   "lekderi niongniyaha": [
-    "ᠯᡝᡴᡩᡝᡵᡳ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᠯᡝᡴᡩᡝᡵᡳ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "one name for the wild goose; cf., e.g., jurgangga gasha, kenderhen niongniyaha"
   ],
   "lekderi niyehe": [
@@ -52472,31 +52472,31 @@ const dictionary = {
     "one name for the chicken; cf. kemuri coko"
   ],
   "lenggeri": [
-    "ᠯᡝᠨᡤᡤᡝᡵᡳ",
+    "ᠯᡝᠩᡤᡝᡵᡳ",
     "a type of large rat"
   ],
   "lenggetu": [
-    "ᠯᡝᠨᡤᡤᡝᡨᡠ",
+    "ᠯᡝᠩᡤᡝᡨᡠ",
     "the name of a ceremonial hat of the Hsia dynasty"
   ],
   "lengken": [
-    "ᠯᡝᠨᡤᡴᡝᠨ",
+    "ᠯᡝᠩᡴᡝᠨ",
     "rather big and strong"
   ],
   "lenglen langlan seme": [
-    "ᠯᡝᠨᡤᠯᡝᠨ ᠯᠠᠨᡤᠯᠠᠨ ᠰᡝᠮᡝ",
+    "ᠯᡝᠩᠯᡝᠨ ᠯᠠᠩᠯᠠᠨ ᠰᡝᠮᡝ",
     "sloppy, careless, slovenly"
   ],
   "lengseki": [
-    "ᠯᡝᠨᡤᠰᡝᡴᡳ",
+    "ᠯᡝᠩᠰᡝᡴᡳ",
     "coarse, crude, clumsy, awkward"
   ],
   "lengsenggi": [
-    "ᠯᡝᠨᡤᠰᡝᠨᡤᡤᡳ",
+    "ᠯᡝᠩᠰᡝᠩᡤᡳ",
     "see lengseki"
   ],
   "lengtenembi": [
-    "ᠯᡝᠨᡤᡨᡝᠨᡝᠮᠪᡳ",
+    "ᠯᡝᠩᡨᡝᠨᡝᠮᠪᡳ",
     "to be crude or awkward"
   ],
   "leolebumbi": [
@@ -52672,39 +52672,39 @@ const dictionary = {
     "see icihiyasi"
   ],
   "ling pai": [
-    "ᠯᡳᠨᡤ ᡦᠠᡳ",
+    "ᠯᡳᠩ ᡦᠠᡳ",
     "tally with a charm written on it--used by Taoist priests"
   ],
   "ling seme": [
-    "ᠯᡳᠨᡤ ᠰᡝᠮᡝ",
+    "ᠯᡳᠩ ᠰᡝᠮᡝ",
     "heavy, burdensome"
   ],
   "ling yabumbi": [
-    "ᠯᡳᠨᡤ ᠶᠠᠪᡠᠮᠪᡳ",
+    "ᠯᡳᠩ ᠶᠠᠪᡠᠮᠪᡳ",
     "to play wine-drinking games"
   ],
   "lingdan": [
-    "ᠯᡳᠨᡤᡩᠠᠨ",
+    "ᠯᡳᠩᡩᠠᠨ",
     "a miraculous medicine, elixir"
   ],
   "lingge": [
-    "ᠯᡳᠨᡤᡤᡝ",
+    "ᠯᡳᠩᡤᡝ",
     "a shining deed, glorious deed"
   ],
   "lingj": [
-    "ᠯᡳᠨᡤᠵ",
+    "ᠯᡳᠩᠵ",
     "a kind of auspicious fungus (Forces ,japonicas)"
   ],
   "lingse": [
-    "ᠯᡳᠨᡤᠰᡝ",
+    "ᠯᡳᠩᠰᡝ",
     "1. a type of thin satinlike material, damask 2. collar"
   ],
   "lingsika": [
-    "ᠯᡳᠨᡤᠰᡳᡴᠠ",
+    "ᠯᡳᠩᠰᡳᡴᠠ",
     "one name for the tiger"
   ],
   "lio hvwang": [
-    "ᠯᡳᠣ ᡥᡡᠸᠠᠨᡤ",
+    "ᠯᡳᠣ ᡥᡡᠸᠠᠩ",
     "sulphur"
   ],
   "lio kio gurun i kuren": [
@@ -52712,7 +52712,7 @@ const dictionary = {
     "an establishment for taking care of Ryukyuan emissaries"
   ],
   "lio sing usiha": [
-    "ᠯᡳᠣ ᠰᡳᠨᡤ ᡠᠰᡳᡥᠠ",
+    "ᠯᡳᠣ ᠰᡳᠩ ᡠᠰᡳᡥᠠ",
     "meteor"
   ],
   "lioho": [
@@ -52720,7 +52720,7 @@ const dictionary = {
     "a white-striped sea fish, Siberian salmon"
   ],
   "liohvwang": [
-    "ᠯᡳᠣᡥᡡᠸᠠᠨᡤ",
+    "ᠯᡳᠣᡥᡡᠸᠠᠩ",
     "the same as lio hūwang"
   ],
   "lir liyar seme": [
@@ -52732,7 +52732,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "lirha tokdonggo kiru": [
-    "ᠯᡳᡵᡥᠠ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠯᡳᡵᡥᠠ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation lirha"
   ],
   "liyanse": [
@@ -52928,43 +52928,43 @@ const dictionary = {
     "a light yellow gem resembling the cat's-eye"
   ],
   "long long seme": [
-    "ᠯᠣᠨᡤ ᠯᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᠯᠣᠩ ᠯᠣᠩ ᠰᡝᠮᡝ",
     "see long seme"
   ],
   "long seme": [
-    "ᠯᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᠯᠣᠩ ᠰᡝᠮᡝ",
     "to keep on talking foolishly, to talk nonsense"
   ],
   "longko": [
-    "ᠯᠣᠨᡤᡴᠣ",
+    "ᠯᠣᠩᡴᠣ",
     "a cooking pot made of bronze or copper"
   ],
   "longkon": [
-    "ᠯᠣᠨᡤᡴᠣᠨ",
+    "ᠯᠣᠩᡴᠣᠨ",
     "a gong or cymbal"
   ],
   "longsikv": [
-    "ᠯᠣᠨᡤᠰᡳᡴᡡ",
+    "ᠯᠣᠩᠰᡳᡴᡡ",
     "a person who chatters on and on"
   ],
   "longsimbi": [
-    "ᠯᠣᠨᡤᠰᡳᠮᠪᡳ",
+    "ᠯᠣᠩᠰᡳᠮᠪᡳ",
     "to chatter on and on, to talk foolishness"
   ],
   "longto": [
-    "ᠯᠣᠨᡤᡨᠣ",
+    "ᠯᠣᠩᡨᠣ",
     "halter, headstall"
   ],
   "longtolobumbi": [
-    "ᠯᠣᠨᡤᡨᠣᠯᠣᠪᡠᠮᠪᡳ",
+    "ᠯᠣᠩᡨᠣᠯᠣᠪᡠᠮᠪᡳ",
     "caus. of longtolombi"
   ],
   "longtolombi": [
-    "ᠯᠣᠨᡤᡨᠣᠯᠣᠮᠪᡳ",
+    "ᠯᠣᠩᡨᠣᠯᠣᠮᠪᡳ",
     "to wear a halter or head-stall"
   ],
   "longtu": [
-    "ᠯᠣᠨᡤᡨᡠ",
+    "ᠯᠣᠩᡨᡠ",
     "see longto"
   ],
   "loo": [
@@ -52984,11 +52984,11 @@ const dictionary = {
     "maternal grandmother"
   ],
   "loo niyang": [
-    "ᠯᠣᠣ ᠨᡳᠶᠠᠨᡤ",
+    "ᠯᠣᠣ ᠨᡳᠶᠠᠩ",
     "old lady, lady of the household"
   ],
   "loo siyan xeng": [
-    "ᠯᠣᠣ ᠰᡳᠶᠠᠨ ᡧᡝᠨᡤ",
+    "ᠯᠣᠣ ᠰᡳᠶᠠᠨ ᡧᡝᠩ",
     "old man, old gentleman"
   ],
   "loodan": [
@@ -53052,7 +53052,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "ludahvn tokdonggo kiru": [
-    "ᠯᡠᡩᠠᡥᡡᠨ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠯᡠᡩᠠᡥᡡᠨ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation ludahūn"
   ],
   "ludun": [
@@ -53072,7 +53072,7 @@ const dictionary = {
     "oven, stove"
   ],
   "lugiya hengke": [
-    "ᠯᡠᡤᡳᠶᠠ ᡥᡝᠨᡤᡴᡝ",
+    "ᠯᡠᡤᡳᠶᠠ ᡥᡝᠩᡴᡝ",
     "bitter melon (Momordica charantia)"
   ],
   "luhu": [
@@ -53204,11 +53204,11 @@ const dictionary = {
     "to be soft, not firm (of wet earth)"
   ],
   "lung seme": [
-    "ᠯᡠᠨᡤ ᠰᡝᠮᡝ",
+    "ᠯᡠᠩ ᠰᡝᠮᡝ",
     "see luk seme"
   ],
   "lunggu": [
-    "ᠯᡠᠨᡤᡤᡠ",
+    "ᠯᡠᠩᡤᡠ",
     "a male sable; cf. seke"
   ],
   "lur seme": [
@@ -53252,7 +53252,7 @@ const dictionary = {
     "the male of a colorful phoenix-like bird that was considered a symbol of concord between prince and minister as well as between husband and wife"
   ],
   "luwanggon": [
-    "ᠯᡠᠸᠠᠨᡤᡤᠣᠨ",
+    "ᠯᡠᠸᠠᠩᡤᠣᠨ",
     "small bells on the bits of the horses that drew the imperial coach"
   ],
   "ma": [
@@ -53340,7 +53340,7 @@ const dictionary = {
     "1. to expand, to swell, to grow (of interest) 2. to stand on end (of hair)"
   ],
   "madangga": [
-    "ᠮᠠᡩᠠᠨᡤᡤᠠ",
+    "ᠮᠠᡩᠠᠩᡤᠠ",
     "elastic, extensile"
   ],
   "madari uju": [
@@ -53360,7 +53360,7 @@ const dictionary = {
     "grandfather, ancestor, old man"
   ],
   "mafangge": [
-    "ᠮᠠᡶᠠᠨᡤᡤᡝ",
+    "ᠮᠠᡶᠠᠩᡤᡝ",
     "having a grandfather or ancestor"
   ],
   "mafari": [
@@ -53604,7 +53604,7 @@ const dictionary = {
     "to dance"
   ],
   "maksire garudangga kiru": [
-    "ᠮᠠᡴᠰᡳᡵᡝ ᡤᠠᡵᡠᡩᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠮᠠᡴᠰᡳᡵᡝ ᡤᠠᡵᡠᡩᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner on which a dancing phoenix is embroidered"
   ],
   "maksin": [
@@ -53660,31 +53660,31 @@ const dictionary = {
     "a striped yellow wild cat"
   ],
   "malanggv": [
-    "ᠮᠠᠯᠠᠨᡤᡤᡡ",
+    "ᠮᠠᠯᠠᠩᡤᡡ",
     "sesame"
   ],
   "malanggv abdaha efen": [
-    "ᠮᠠᠯᠠᠨᡤᡤᡡ ᠠᠪᡩᠠᡥᠠ ᡝᡶᡝᠨ",
+    "ᠮᠠᠯᠠᠩᡤᡡ ᠠᠪᡩᠠᡥᠠ ᡝᡶᡝᠨ",
     "thin sesame cakes used by the Manchus at offerings in the sixth month"
   ],
   "malanggv cai": [
-    "ᠮᠠᠯᠠᠨᡤᡤᡡ ᠴᠠᡳ",
+    "ᠮᠠᠯᠠᠩᡤᡡ ᠴᠠᡳ",
     "tea with sesame added"
   ],
   "malanggv haksangga efen": [
-    "ᠮᠠᠯᠠᠨᡤᡤᡡ ᡥᠠᡴᠰᠠᠨᡤᡤᠠ ᡝᡶᡝᠨ",
+    "ᠮᠠᠯᠠᠩᡤᡡ ᡥᠠᡴᠰᠠᠩᡤᠠ ᡝᡶᡝᠨ",
     "baked wheat cakes garnished with sesame seeds"
   ],
   "malanggv ira fisihe maise turi": [
-    "ᠮᠠᠯᠠᠨᡤᡤᡡ ᡳᡵᠠ ᡶᡳᠰᡳᡥᡝ ᠮᠠᡳᠰᡝ ᡨᡠᡵᡳ",
+    "ᠮᠠᠯᠠᠩᡤᡡ ᡳᡵᠠ ᡶᡳᠰᡳᡥᡝ ᠮᠠᡳᠰᡝ ᡨᡠᡵᡳ",
     "sesame, glutinous millet, panicled millet, wheat, and beans--the five grains"
   ],
   "malanggv misun": [
-    "ᠮᠠᠯᠠᠨᡤᡤᡡ ᠮᡳᠰᡠᠨ",
+    "ᠮᠠᠯᠠᠩᡤᡡ ᠮᡳᠰᡠᠨ",
     "sesame paste"
   ],
   "malanggv xobin": [
-    "ᠮᠠᠯᠠᠨᡤᡤᡡ ᡧᠣᠪᡳᠨ",
+    "ᠮᠠᠯᠠᠩᡤᡡ ᡧᠣᠪᡳᠨ",
     "baked wheat cakes covered with sesame seeds"
   ],
   "malari": [
@@ -53708,11 +53708,11 @@ const dictionary = {
     "1. economical, frugal 2. seemingly near but really far, long and dull (road) 3. thick at one end"
   ],
   "malhvn yokcingga": [
-    "ᠮᠠᠯᡥᡡᠨ ᠶᠣᡴᠴᡳᠨᡤᡤᠠ",
+    "ᠮᠠᠯᡥᡡᠨ ᠶᠣᡴᠴᡳᠩᡤᠠ",
     "modest and (still) good looking"
   ],
   "malhvngga": [
-    "ᠮᠠᠯᡥᡡᠨᡤᡤᠠ",
+    "ᠮᠠᠯᡥᡡᠩᡤᠠ",
     "1. frugal 2. sufficient for use 3. long and boring (road)"
   ],
   "malhvxabumbi": [
@@ -53824,7 +53824,7 @@ const dictionary = {
     "knot"
   ],
   "mampingga ilha": [
-    "ᠮᠠᠮᡦᡳᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᠮᠠᠮᡦᡳᠩᡤᠠ ᡳᠯᡥᠠ",
     "the name of a light yellow flower--Edgeworthia chrysantha"
   ],
   "mamugiya": [
@@ -53840,7 +53840,7 @@ const dictionary = {
     "a skylight"
   ],
   "mamuhan sangga": [
-    "ᠮᠠᠮᡠᡥᠠᠨ ᠰᠠᠨᡤᡤᠠ",
+    "ᠮᠠᠮᡠᡥᠠᠨ ᠰᠠᠩᡤᠠ",
     "ventilation hole in the wall of a house"
   ],
   "mamuhan sihan": [
@@ -53928,139 +53928,139 @@ const dictionary = {
     "to mature, to grow up"
   ],
   "mang orho": [
-    "ᠮᠠᠨᡤ ᠣᡵᡥᠣ",
+    "ᠮᠠᠩ ᠣᡵᡥᠣ",
     "Illicium anisatum"
   ],
   "mang orho usenembi": [
-    "ᠮᠠᠨᡤ ᠣᡵᡥᠣ ᡠᠰᡝᠨᡝᠮᠪᡳ",
+    "ᠮᠠᠩ ᠣᡵᡥᠣ ᡠᠰᡝᠨᡝᠮᠪᡳ",
     "one of the divisions of the solar year falling on June 7th or 8th"
   ],
   "mangga": [
-    "ᠮᠠᠨᡤᡤᠠ",
+    "ᠮᠠᠩᡤᠠ",
     "1. hard (not soft), difficult 2. expensive 3. expert at, strong in, capable 4. expertly made, well-crafted 5. strong, fierce, a strong man"
   ],
   "mangga arambi": [
-    "ᠮᠠᠨᡤᡤᠠ ᠠᡵᠠᠮᠪᡳ",
+    "ᠮᠠᠩᡤᠠ ᠠᡵᠠᠮᠪᡳ",
     "to show off one's strength, to intimidate"
   ],
   "mangga buda": [
-    "ᠮᠠᠨᡤᡤᠠ ᠪᡠᡩᠠ",
+    "ᠮᠠᠩᡤᠠ ᠪᡠᡩᠠ",
     "pastry"
   ],
   "mangga cece": [
-    "ᠮᠠᠨᡤᡤᠠ ᠴᡝᠴᡝ",
+    "ᠮᠠᠩᡤᠠ ᠴᡝᠴᡝ",
     "hard silk gauze"
   ],
   "mangga ceceri": [
-    "ᠮᠠᠨᡤᡤᠠ ᠴᡝᠴᡝᡵᡳ",
+    "ᠮᠠᠩᡤᠠ ᠴᡝᠴᡝᡵᡳ",
     "a type of hard, strong silk"
   ],
   "mangga doose": [
-    "ᠮᠠᠨᡤᡤᠠ ᡩᠣᠣᠰᡝ",
+    "ᠮᠠᠩᡤᠠ ᡩᠣᠣᠰᡝ",
     "a skilled Taoist"
   ],
   "mangga fili": [
-    "ᠮᠠᠨᡤᡤᠠ ᡶᡳᠯᡳ",
+    "ᠮᠠᠩᡤᠠ ᡶᡳᠯᡳ",
     "hard and fast"
   ],
   "mangga moo": [
-    "ᠮᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠮᠠᠩᡤᠠ ᠮᠣᠣ",
     "oak"
   ],
   "mangga moo i usiha": [
-    "ᠮᠠᠨᡤᡤᠠ ᠮᠣᠣ ᡳ ᡠᠰᡳᡥᠠ",
+    "ᠮᠠᠩᡤᠠ ᠮᠣᠣ ᡳ ᡠᠰᡳᡥᠠ",
     "acorn"
   ],
   "mangga niyecen": [
-    "ᠮᠠᠨᡤᡤᠠ ᠨᡳᠶᡝᠴᡝᠨ",
+    "ᠮᠠᠩᡤᠠ ᠨᡳᠶᡝᠴᡝᠨ",
     "leather patch attached to the inner side of a boot's heel"
   ],
   "mangga tangga": [
-    "ᠮᠠᠨᡤᡤᠠ ᡨᠠᠨᡤᡤᠠ",
+    "ᠮᠠᠩᡤᠠ ᡨᠠᠩᡤᠠ",
     "tough, too hard to chew"
   ],
   "mangga tuwabungga hooxan": [
-    "ᠮᠠᠨᡤᡤᠠ ᡨᡠᠸᠠᠪᡠᠨᡤᡤᠠ ᡥᠣᠣᡧᠠᠨ",
+    "ᠮᠠᠩᡤᠠ ᡨᡠᠸᠠᠪᡠᠩᡤᠠ ᡥᠣᠣᡧᠠᠨ",
     "a type of hard, thick poster paper"
   ],
   "manggaburu": [
-    "ᠮᠠᠨᡤᡤᠠᠪᡠᡵᡠ",
+    "ᠮᠠᠩᡤᠠᠪᡠᡵᡠ",
     "a daring fellow"
   ],
   "manggai": [
-    "ᠮᠠᠨᡤᡤᠠᡳ",
+    "ᠮᠠᠩᡤᠠᡳ",
     "merely, simply"
   ],
   "manggai oci": [
-    "ᠮᠠᠨᡤᡤᠠᡳ ᠣᠴᡳ",
+    "ᠮᠠᠩᡤᠠᡳ ᠣᠴᡳ",
     "if worst comes to worst, if it is with difficulty, in extreme cases"
   ],
   "manggakan": [
-    "ᠮᠠᠨᡤᡤᠠᡴᠠᠨ",
+    "ᠮᠠᠩᡤᠠᡴᠠᠨ",
     "rather hard, difficult, capable, etc."
   ],
   "manggalambi": [
-    "ᠮᠠᠨᡤᡤᠠᠯᠠᠮᠪᡳ",
+    "ᠮᠠᠩᡤᠠᠯᠠᠮᠪᡳ",
     "to be difficult, to be serious (of an illness), to worsen, to act in a hard or vigorous manner"
   ],
   "manggasa": [
-    "ᠮᠠᠨᡤᡤᠠᠰᠠ",
+    "ᠮᠠᠩᡤᠠᠰᠠ",
     "plural of mangga: strong men"
   ],
   "manggaxabumbi": [
-    "ᠮᠠᠨᡤᡤᠠᡧᠠᠪᡠᠮᠪᡳ",
+    "ᠮᠠᠩᡤᠠᡧᠠᠪᡠᠮᠪᡳ",
     "caus. of manggašambi"
   ],
   "manggaxacuka": [
-    "ᠮᠠᠨᡤᡤᠠᡧᠠᠴᡠᡴᠠ",
+    "ᠮᠠᠩᡤᠠᡧᠠᠴᡠᡴᠠ",
     "difficult, embarrassing"
   ],
   "manggaxambi": [
-    "ᠮᠠᠨᡤᡤᠠᡧᠠᠮᠪᡳ",
+    "ᠮᠠᠩᡤᠠᡧᠠᠮᠪᡳ",
     "to have difficulties, to be shy, to be hesitant (about doing something)"
   ],
   "manggi": [
-    "ᠮᠠᠨᡤᡤᡳ",
+    "ᠮᠠᠩᡤᡳ",
     "after (after the perfect participle or imperative)"
   ],
   "manggici": [
-    "ᠮᠠᠨᡤᡤᡳᠴᡳ",
+    "ᠮᠠᠩᡤᡳᠴᡳ",
     "if worst comes to worst"
   ],
   "manggisu": [
-    "ᠮᠠᠨᡤᡤᡳᠰᡠ",
+    "ᠮᠠᠩᡤᡳᠰᡠ",
     "badger; cf. Jargon"
   ],
   "manggiyan": [
-    "ᠮᠠᠨᡤᡤᡳᠶᠠᠨ",
+    "ᠮᠠᠩᡤᡳᠶᠠᠨ",
     "1. running nose (of horses and cattle) 2. a spirit that descends into a shaman who has invoked the tiger god, causing the shaman to dance"
   ],
   "manggiyan weceku wasika": [
-    "ᠮᠠᠨᡤᡤᡳᠶᠠᠨ ᠸᡝᠴᡝᡴᡠ ᠸᠠᠰᡳᡴᠠ",
+    "ᠮᠠᠩᡤᡳᠶᠠᠨ ᠸᡝᠴᡝᡴᡠ ᠸᠠᠰᡳᡴᠠ",
     "the spirit who causes the shaman to dance has descended"
   ],
   "manggiyanambi": [
-    "ᠮᠠᠨᡤᡤᡳᠶᠠᠨᠠᠮᠪᡳ",
+    "ᠮᠠᠩᡤᡳᠶᠠᠨᠠᠮᠪᡳ",
     "to get a running nose (of livestock)"
   ],
   "manggo": [
-    "ᠮᠠᠨᡤᡤᠣ",
+    "ᠮᠠᠩᡤᠣ",
     "same as manggao"
   ],
   "mangkan": [
-    "ᠮᠠᠨᡤᡴᠠᠨ",
+    "ᠮᠠᠩᡴᠠᠨ",
     "sand dune"
   ],
   "mangkan gvwara": [
-    "ᠮᠠᠨᡤᡴᠠᠨ ᡤᡡᠸᠠᡵᠠ",
+    "ᠮᠠᠩᡴᠠᠨ ᡤᡡᠸᠠᡵᠠ",
     "another name for the elben gūwara"
   ],
   "mangkara": [
-    "ᠮᠠᠨᡤᡴᠠᡵᠠ",
+    "ᠮᠠᠩᡴᠠᡵᠠ",
     "a horse or dog with white hair on the head, eyes, and muzzle"
   ],
   "mangkara gaha": [
-    "ᠮᠠᠨᡤᡴᠠᡵᠠ ᡤᠠᡥᠠ",
+    "ᠮᠠᠩᡴᠠᡵᠠ ᡤᠠᡥᠠ",
     "1. white-headed Crow 2. same as mahala gaha"
   ],
   "manjiha": [
@@ -54076,7 +54076,7 @@ const dictionary = {
     "Manchu writing, Manchu text"
   ],
   "manju dangse boo bh": [
-    "ᠮᠠᠨᠵᡠ ᡩᠠᠨᡤᠰᡝ ᠪᠣᠣ ᠪᡥ",
+    "ᠮᠠᠨᠵᡠ ᡩᠠᠩᠰᡝ ᠪᠣᠣ ᠪᡥ",
     "Record and Registry Office (also in charge of preparing Manchu documents), 379"
   ],
   "manju gvsa": [
@@ -54088,7 +54088,7 @@ const dictionary = {
     "Manchu script, Manchu letter (of the alphabet)"
   ],
   "manju monggo bithe ubaliyambure boo": [
-    "ᠮᠠᠨᠵᡠ ᠮᠣᠨᡤᡤᠣ ᠪᡳᡨᡥᡝ ᡠᠪᠠᠯᡳᠶᠠᠮᠪᡠᡵᡝ ᠪᠣᠣ",
+    "ᠮᠠᠨᠵᡠ ᠮᠣᠩᡤᠣ ᠪᡳᡨᡥᡝ ᡠᠪᠠᠯᡳᠶᠠᠮᠪᡠᡵᡝ ᠪᠣᠣ",
     "the Manchu translation Office of the Court of Colonial Affairs"
   ],
   "manju wesimbure bithei ba bh": [
@@ -54276,7 +54276,7 @@ const dictionary = {
     "to obtain support, to get something to hold on to"
   ],
   "maxangga niyalma": [
-    "ᠮᠠᡧᠠᠨᡤᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᠮᠠᡧᠠᠩᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
     "a person who understands how to manage affairs well"
   ],
   "matabumbi": [
@@ -54296,11 +54296,11 @@ const dictionary = {
     "a kind of sweet food made from barley, malt candy"
   ],
   "matangga": [
-    "ᠮᠠᡨᠠᠨᡤᡤᠠ",
+    "ᠮᠠᡨᠠᠩᡤᠠ",
     "caved in (cheeks), sunken and pursed (lips)"
   ],
   "matangga wase": [
-    "ᠮᠠᡨᠠᠨᡤᡤᠠ ᠸᠠᠰᡝ",
+    "ᠮᠠᡨᠠᠩᡤᠠ ᠸᠠᠰᡝ",
     "a ridge tile"
   ],
   "matarakv": [
@@ -54356,7 +54356,7 @@ const dictionary = {
     "to give news, to bring news"
   ],
   "medebure dengjan": [
-    "ᠮᡝᡩᡝᠪᡠᡵᡝ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠮᡝᡩᡝᠪᡠᡵᡝ ᡩᡝᠩᠵᠠᠨ",
     "a red lantern that was hoisted as a signal at certain intervals while the emperor was traveling"
   ],
   "medege": [
@@ -54396,7 +54396,7 @@ const dictionary = {
     "seal; cf. lekerhin"
   ],
   "mederi gubci taifin necingge mudan": [
-    "ᠮᡝᡩᡝᡵᡳ ᡤᡠᠪᠴᡳ ᡨᠠᡳᡶᡳᠨ ᠨᡝᠴᡳᠨᡤᡤᡝ ᠮᡠᡩᠠᠨ",
+    "ᠮᡝᡩᡝᡵᡳ ᡤᡠᠪᠴᡳ ᡨᠠᡳᡶᡳᠨ ᠨᡝᠴᡳᠩᡤᡝ ᠮᡠᡩᠠᠨ",
     "a piece of music played while tea was brought in at great banquets"
   ],
   "mederi hvlha": [
@@ -54424,7 +54424,7 @@ const dictionary = {
     "seagull; cf. medege gasha"
   ],
   "mederi kiongguhe": [
-    "ᠮᡝᡩᡝᡵᡳ ᡴᡳᠣᠨᡤᡤᡠᡥᡝ",
+    "ᠮᡝᡩᡝᡵᡳ ᡴᡳᠣᠩᡤᡠᡥᡝ",
     "the sea myna of Fukien"
   ],
   "mederi melkexembi": [
@@ -54544,7 +54544,7 @@ const dictionary = {
     "Gastrodia, from which oil is extracted"
   ],
   "meihe giranggi": [
-    "ᠮᡝᡳᡥᡝ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᠮᡝᡳᡥᡝ ᡤᡳᡵᠠᠩᡤᡳ",
     "snake bones!--an oath"
   ],
   "meihe gvn halambi": [
@@ -54564,15 +54564,15 @@ const dictionary = {
     "see meihe geleku"
   ],
   "meihen singgeri": [
-    "ᠮᡝᡳᡥᡝᠨ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠮᡝᡳᡥᡝᠨ ᠰᡳᠩᡤᡝᡵᡳ",
     "mongoose"
   ],
   "meihengge": [
-    "ᠮᡝᡳᡥᡝᠨᡤᡤᡝ",
+    "ᠮᡝᡳᡥᡝᠩᡤᡝ",
     "pertaining to the snake"
   ],
   "meihengge aniya": [
-    "ᠮᡝᡳᡥᡝᠨᡤᡤᡝ ᠠᠨᡳᠶᠠ",
+    "ᠮᡝᡳᡥᡝᠩᡤᡝ ᠠᠨᡳᠶᠠ",
     "the year of the serpent"
   ],
   "meiherebumbi": [
@@ -54592,7 +54592,7 @@ const dictionary = {
     "mud eel--Apterigia immaculata"
   ],
   "meihetu hengke": [
-    "ᠮᡝᡳᡥᡝᡨᡠ ᡥᡝᠨᡤᡴᡝ",
+    "ᠮᡝᡳᡥᡝᡨᡠ ᡥᡝᠩᡴᡝ",
     "fiber melon (Luffa cylindrica)"
   ],
   "meijebumbi": [
@@ -54624,15 +54624,15 @@ const dictionary = {
     "shoulder to shoulder, side by side"
   ],
   "meiren giranggi": [
-    "ᠮᡝᡳᡵᡝᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᠮᡝᡳᡵᡝᠨ ᡤᡳᡵᠠᠩᡤᡳ",
     "shoulder bone"
   ],
   "meiren i janggin bh": [
-    "ᠮᡝᡳᡵᡝᠨ ᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᠮᡝᡳᡵᡝᠨ ᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Lieutenant-general, 658"
   ],
   "meirengge": [
-    "ᠮᡝᡳᡵᡝᠨᡤᡤᡝ",
+    "ᠮᡝᡳᡵᡝᠩᡤᡝ",
     "having shoulders"
   ],
   "meiretu": [
@@ -54816,7 +54816,7 @@ const dictionary = {
     "to rise (of vapor from the earth,, to form a mirage"
   ],
   "melkexere dengjan": [
-    "ᠮᡝᠯᡴᡝᡧᡝᡵᡝ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠮᡝᠯᡴᡝᡧᡝᡵᡝ ᡩᡝᠩᠵᠠᠨ",
     "lanterna magica"
   ],
   "melketu": [
@@ -54908,63 +54908,63 @@ const dictionary = {
     "(-ke) 1. to be stupid, to be silly 2. to be numb, to be asleep (of parts of the body) 3. to be paralyzed"
   ],
   "mengde": [
-    "ᠮᡝᠨᡤᡩᡝ",
+    "ᠮᡝᠩᡩᡝ",
     "a window that does not open, a blind window"
   ],
   "mengdelembi": [
-    "ᠮᡝᠨᡤᡩᡝᠯᡝᠮᠪᡳ",
+    "ᠮᡝᠩᡩᡝᠯᡝᠮᠪᡳ",
     "to be fixed, to be strong"
   ],
   "mengge": [
-    "ᠮᡝᠨᡤᡤᡝ",
+    "ᠮᡝᠩᡤᡝ",
     "hard (of foods), hard to chew"
   ],
   "menggun": [
-    "ᠮᡝᠨᡤᡤᡠᠨ",
+    "ᠮᡝᠩᡤᡠᠨ",
     "silver"
   ],
   "menggun guilehe": [
-    "ᠮᡝᠨᡤᡤᡠᠨ ᡤᡠᡳᠯᡝᡥᡝ",
+    "ᠮᡝᠩᡤᡠᠨ ᡤᡠᡳᠯᡝᡥᡝ",
     "the fruit of the ginkgo"
   ],
   "menggun i namun bh": [
-    "ᠮᡝᠨᡤᡤᡠᠨ ᡳ ᠨᠠᠮᡠᠨ ᠪᡥ",
+    "ᠮᡝᠩᡤᡠᠨ ᡳ ᠨᠠᠮᡠᠨ ᠪᡥ",
     "silver depository, treasury, Bullion Vaults, 7], 497"
   ],
   "menggun inggali": [
-    "ᠮᡝᠨᡤᡤᡠᠨ ᡳᠨᡤᡤᠠᠯᡳ",
+    "ᠮᡝᠩᡤᡠᠨ ᡳᠩᡤᠠᠯᡳ",
     "the name of a small white bird"
   ],
   "menggun jalungga namun": [
-    "ᠮᡝᠨᡤᡤᡠᠨ ᠵᠠᠯᡠᠨᡤᡤᠠ ᠨᠠᠮᡠᠨ",
+    "ᠮᡝᠩᡤᡠᠨ ᠵᠠᠯᡠᠩᡤᠠ ᠨᠠᠮᡠᠨ",
     "the name of a silver depository in Tatung, northern Shansi"
   ],
   "menggun nisiha": [
-    "ᠮᡝᠨᡤᡤᡠᠨ ᠨᡳᠰᡳᡥᠠ",
+    "ᠮᡝᠩᡤᡠᠨ ᠨᡳᠰᡳᡥᠠ",
     "silverfish--a tasty white fish that is taken from frozen water in the winter"
   ],
   "menggun urebumbi": [
-    "ᠮᡝᠨᡤᡤᡠᠨ ᡠᡵᡝᠪᡠᠮᠪᡳ",
+    "ᠮᡝᠩᡤᡠᠨ ᡠᡵᡝᠪᡠᠮᠪᡳ",
     "to mine silver ore"
   ],
   "menglen": [
-    "ᠮᡝᠨᡤᠯᡝᠨ",
+    "ᠮᡝᠩᠯᡝᠨ",
     "vain, futile"
   ],
   "mengse": [
-    "ᠮᡝᠨᡤᠰᡝ",
+    "ᠮᡝᠩᠰᡝ",
     "a curtain, drapery"
   ],
   "mengseku": [
-    "ᠮᡝᠨᡤᠰᡝᡴᡠ",
+    "ᠮᡝᠩᠰᡝᡴᡠ",
     "curtain made of cloth or felt"
   ],
   "mengseku i lakiyakv": [
-    "ᠮᡝᠨᡤᠰᡝᡴᡠ ᡳ ᠯᠠᡴᡳᠶᠠᡴᡡ",
+    "ᠮᡝᠩᠰᡝᡴᡠ ᡳ ᠯᠠᡴᡳᠶᠠᡴᡡ",
     "rod for hanging a door curtain"
   ],
   "mengseku i namun": [
-    "ᠮᡝᠨᡤᠰᡝᡴᡠ ᡳ ᠨᠠᠮᡠᠨ",
+    "ᠮᡝᠩᠰᡝᡴᡠ ᡳ ᠨᠠᠮᡠᠨ",
     "depository of door curtains belonging to the Board of Works"
   ],
   "meni": [
@@ -54976,7 +54976,7 @@ const dictionary = {
     "each, every, severally"
   ],
   "meningge": [
-    "ᠮᡝᠨᡳᠨᡤᡤᡝ",
+    "ᠮᡝᠨᡳᠩᡤᡝ",
     "ours"
   ],
   "menji": [
@@ -55024,7 +55024,7 @@ const dictionary = {
     "fried cakes made of buckwheat"
   ],
   "mere nimanggi": [
-    "ᠮᡝᡵᡝ ᠨᡳᠮᠠᠨᡤᡤᡳ",
+    "ᠮᡝᡵᡝ ᠨᡳᠮᠠᠩᡤᡳ",
     "snow that has frozen into small beads the size of a grain of buckwheat"
   ],
   "meren ilha": [
@@ -55052,7 +55052,7 @@ const dictionary = {
     "title of honor of the third rank conferred upon the wife of a meritorious official"
   ],
   "mergengge mahatun": [
-    "ᠮᡝᡵᡤᡝᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᠮᡝᡵᡤᡝᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "a hat worn by worthies and scholars in ancient times"
   ],
   "mergese": [
@@ -55084,11 +55084,11 @@ const dictionary = {
     "recall, memory, consciousness"
   ],
   "merkingge": [
-    "ᠮᡝᡵᡴᡳᠨᡤᡤᡝ",
+    "ᠮᡝᡵᡴᡳᠩᡤᡝ",
     "alert, conscious"
   ],
   "merpingge niyehe": [
-    "ᠮᡝᡵᡦᡳᠨᡤᡤᡝ ᠨᡳᠶᡝᡥᡝ",
+    "ᠮᡝᡵᡦᡳᠩᡤᡝ ᠨᡳᠶᡝᡥᡝ",
     "one name for the common duck"
   ],
   "mersen": [
@@ -55100,19 +55100,19 @@ const dictionary = {
     "to get small black spots on the face"
   ],
   "mersengge": [
-    "ᠮᡝᡵᠰᡝᠨᡤᡤᡝ",
+    "ᠮᡝᡵᠰᡝᠩᡤᡝ",
     "spotted"
   ],
   "mersengge asha": [
-    "ᠮᡝᡵᠰᡝᠨᡤᡤᡝ ᠠᠰᡥᠠ",
+    "ᠮᡝᡵᠰᡝᠩᡤᡝ ᠠᠰᡥᠠ",
     "a quail with small spots on the wing"
   ],
   "mersengge cuse moo": [
-    "ᠮᡝᡵᠰᡝᠨᡤᡤᡝ ᠴᡠᠰᡝ ᠮᠣᠣ",
+    "ᠮᡝᡵᠰᡝᠩᡤᡝ ᠴᡠᠰᡝ ᠮᠣᠣ",
     "spotted bamboo"
   ],
   "mersengge dudu": [
-    "ᠮᡝᡵᠰᡝᠨᡤᡤᡝ ᡩᡠᡩᡠ",
+    "ᠮᡝᡵᠰᡝᠩᡤᡝ ᡩᡠᡩᡠ",
     "a small spotted purple dove"
   ],
   "merseri": [
@@ -55172,7 +55172,7 @@ const dictionary = {
     "section by section, piece by piece, etc."
   ],
   "meyengge cargilakv": [
-    "ᠮᡝᠶᡝᠨᡤᡤᡝ ᠴᠠᡵᡤᡳᠯᠠᡴᡡ",
+    "ᠮᡝᠶᡝᠩᡤᡝ ᠴᠠᡵᡤᡳᠯᠠᡴᡡ",
     "firecrackers that explode in rapid succession"
   ],
   "meyete": [
@@ -55364,47 +55364,47 @@ const dictionary = {
     "a brush"
   ],
   "mingga": [
-    "ᠮᡳᠨᡤᡤᠠ",
+    "ᠮᡳᠩᡤᠠ",
     "see minggan"
   ],
   "minggaci": [
-    "ᠮᡳᠨᡤᡤᠠᠴᡳ",
+    "ᠮᡳᠩᡤᠠᠴᡳ",
     "thousandth"
   ],
   "minggada": [
-    "ᠮᡳᠨᡤᡤᠠᡩᠠ",
+    "ᠮᡳᠩᡤᠠᡩᠠ",
     "chiliarch"
   ],
   "minggaha": [
-    "ᠮᡳᠨᡤᡤᠠᡥᠠ",
+    "ᠮᡳᠩᡤᠠᡥᠠ",
     "the name of an exotic fruit that grows on a vine, has up to two hundred seeds in a pod, and tastes like a chestnut"
   ],
   "minggan": [
-    "ᠮᡳᠨᡤᡤᠠᠨ",
+    "ᠮᡳᠩᡤᠠᠨ",
     "one thousand"
   ],
   "minggan tumen": [
-    "ᠮᡳᠨᡤᡤᠠᠨ ᡨᡠᠮᡝᠨ",
+    "ᠮᡳᠩᡤᠠᠨ ᡨᡠᠮᡝᠨ",
     "ten million"
   ],
   "mingganggeri": [
-    "ᠮᡳᠨᡤᡤᠠᠨᡤᡤᡝᡵᡳ",
+    "ᠮᡳᠩᡤᠠᠩᡤᡝᡵᡳ",
     "one thousand times"
   ],
   "minggari": [
-    "ᠮᡳᠨᡤᡤᠠᡵᡳ",
+    "ᠮᡳᠩᡤᠠᡵᡳ",
     "one thousand square li"
   ],
   "minggata": [
-    "ᠮᡳᠨᡤᡤᠠᡨᠠ",
+    "ᠮᡳᠩᡤᠠᡨᠠ",
     "one thousand each"
   ],
   "minggatu bh 752e,": [
-    "ᠮᡳᠨᡤᡤᠠᡨᡠ ᠪᡥ 752ᡝ᠈",
+    "ᠮᡳᠩᡤᠠᡨᡠ ᠪᡥ 752ᡝ᠈",
     "chiliarch, lieutenant, 796, etc."
   ],
   "mingmiyaha": [
-    "ᠮᡳᠨᡤᠮᡳᠶᠠᡥᠠ",
+    "ᠮᡳᠩᠮᡳᠶᠠᡥᠠ",
     "a small green bug found on the mulberry"
   ],
   "mini": [
@@ -55416,7 +55416,7 @@ const dictionary = {
     "myself"
   ],
   "miningge": [
-    "ᠮᡳᠨᡳᠨᡤᡤᡝ",
+    "ᠮᡳᠨᡳᠩᡤᡝ",
     "mine"
   ],
   "miodori miodori": [
@@ -55484,7 +55484,7 @@ const dictionary = {
     "caus. of mishambi"
   ],
   "mishabure dalangga": [
-    "ᠮᡳᠰᡥᠠᠪᡠᡵᡝ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠮᡳᠰᡥᠠᠪᡠᡵᡝ ᡩᠠᠯᠠᠩᡤᠠ",
     "a dam through which the current is regulated"
   ],
   "mishalabumbi": [
@@ -55584,7 +55584,7 @@ const dictionary = {
     "musk deer (Moschus moschiferus)"
   ],
   "miyahv fungsan": [
-    "ᠮᡳᠶᠠᡥᡡ ᡶᡠᠨᡤᠰᠠᠨ",
+    "ᠮᡳᠶᠠᡥᡡ ᡶᡠᠩᠰᠠᠨ",
     "musk"
   ],
   "miyahvtu": [
@@ -55660,15 +55660,15 @@ const dictionary = {
     "gluten"
   ],
   "miyang": [
-    "ᠮᡳᠶᠠᠨᡤ",
+    "ᠮᡳᠶᠠᠩ",
     "(onom.) the sound of a child's crying"
   ],
   "miyang ming": [
-    "ᠮᡳᠶᠠᠨᡤ ᠮᡳᠨᡤ",
+    "ᠮᡳᠶᠠᠩ ᠮᡳᠩ",
     "(onom.) 1. the sound of many children crying 2. the sound made by the young of deer, roe, and sheep"
   ],
   "miyanggin": [
-    "ᠮᡳᠶᠠᠨᡤᡤᡳᠨ",
+    "ᠮᡳᠶᠠᠩᡤᡳᠨ",
     "wheat gluten"
   ],
   "miyanq hvlha": [
@@ -55920,7 +55920,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "moko tokdonggo kiru": [
-    "ᠮᠣᡴᠣ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠮᠣᡴᠣ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner de"
   ],
   "mokso": [
@@ -55940,7 +55940,7 @@ const dictionary = {
     "1. docked off, bobbed 2. violent 3. bare, bald (of an animal's tail)"
   ],
   "mokto xoxonggo mahala": [
-    "ᠮᠣᡴᡨᠣ ᡧᠣᡧᠣᠨᡤᡤᠣ ᠮᠠᡥᠠᠯᠠ",
+    "ᠮᠣᡴᡨᠣ ᡧᠣᡧᠣᠩᡤᠣ ᠮᠠᡥᠠᠯᠠ",
     "an ancient-style hat similar to the mahatu but without a fringe"
   ],
   "molho": [
@@ -55992,151 +55992,151 @@ const dictionary = {
     "knob on a cap shaped like a chrysanthemum"
   ],
   "monggo": [
-    "ᠮᠣᠨᡤᡤᠣ",
+    "ᠮᠣᠩᡤᠣ",
     "Mongolia, Mongolian"
   ],
   "monggo aisin hergengge loho": [
-    "ᠮᠣᠨᡤᡤᠣ ᠠᡳᠰᡳᠨ ᡥᡝᡵᡤᡝᠨᡤᡤᡝ ᠯᠣᡥᠣ",
+    "ᠮᠣᠩᡤᠣ ᠠᡳᠰᡳᠨ ᡥᡝᡵᡤᡝᠩᡤᡝ ᠯᠣᡥᠣ",
     "a sword with a Mongolian inscription in gold letters"
   ],
   "monggo bithei ba bh": [
-    "ᠮᠣᠨᡤᡤᠣ ᠪᡳᡨᡥᡝᡳ ᠪᠠ ᠪᡥ",
+    "ᠮᠣᠩᡤᠣ ᠪᡳᡨᡥᡝᡳ ᠪᠠ ᠪᡥ",
     "Mongolian Copying Office, 138"
   ],
   "monggo boo": [
-    "ᠮᠣᠨᡤᡤᠣ ᠪᠣᠣ",
+    "ᠮᠣᠩᡤᠣ ᠪᠣᠣ",
     "a yurt"
   ],
   "monggo buda": [
-    "ᠮᠣᠨᡤᡤᠣ ᠪᡠᡩᠠ",
+    "ᠮᠣᠩᡤᠣ ᠪᡠᡩᠠ",
     "a broth made of meat and rice"
   ],
   "monggo buren": [
-    "ᠮᠣᠨᡤᡤᠣ ᠪᡠᡵᡝᠨ",
+    "ᠮᠣᠩᡤᠣ ᠪᡠᡵᡝᠨ",
     "a long horn used by Mongolian lamas"
   ],
   "monggo cibin": [
-    "ᠮᠣᠨᡤᡤᠣ ᠴᡳᠪᡳᠨ",
+    "ᠮᠣᠩᡤᠣ ᠴᡳᠪᡳᠨ",
     "the Mongolian swallow"
   ],
   "monggo cooha": [
-    "ᠮᠣᠨᡤᡤᠣ ᠴᠣᠣᡥᠠ",
+    "ᠮᠣᠩᡤᠣ ᠴᠣᠣᡥᠠ",
     "Mongolian troops"
   ],
   "monggo dashvwan dube": [
-    "ᠮᠣᠨᡤᡤᠣ ᡩᠠᠰᡥᡡᠸᠠᠨ ᡩᡠᠪᡝ",
+    "ᠮᠣᠩᡤᠣ ᡩᠠᠰᡥᡡᠸᠠᠨ ᡩᡠᠪᡝ",
     "the second jalan of the Mongols"
   ],
   "monggo gvsa": [
-    "ᠮᠣᠨᡤᡤᠣ ᡤᡡᠰᠠ",
+    "ᠮᠣᠩᡤᠣ ᡤᡡᠰᠠ",
     "1. a Mongolian banner 2. Lieutenant-General of a Mongolian banner"
   ],
   "monggo hergen": [
-    "ᠮᠣᠨᡤᡤᠣ ᡥᡝᡵᡤᡝᠨ",
+    "ᠮᠣᠩᡤᠣ ᡥᡝᡵᡤᡝᠨ",
     "the Mongolian written language, Mongolian writing or letters"
   ],
   "monggo jebele dube": [
-    "ᠮᠣᠨᡤᡤᠣ ᠵᡝᠪᡝᠯᡝ ᡩᡠᠪᡝ",
+    "ᠮᠣᠩᡤᠣ ᠵᡝᠪᡝᠯᡝ ᡩᡠᠪᡝ",
     "the first jalan of the Mongols"
   ],
   "monggo jurgan bh": [
-    "ᠮᠣᠨᡤᡤᠣ ᠵᡠᡵᡤᠠᠨ ᠪᡥ",
+    "ᠮᠣᠩᡤᠣ ᠵᡠᡵᡤᠠᠨ ᠪᡥ",
     "another name for the Tulergi gold be dasara jurgan--Court of Colonial Affairs, 491"
   ],
   "monggo sedo": [
-    "ᠮᠣᠨᡤᡤᠣ ᠰᡝᡩᠣ",
+    "ᠮᠣᠩᡤᠣ ᠰᡝᡩᠣ",
     "the name of a wild plant with edible stalks--the same as fulgiyan selbete"
   ],
   "monggo tala": [
-    "ᠮᠣᠨᡤᡤᠣ ᡨᠠᠯᠠ",
+    "ᠮᠣᠩᡤᠣ ᡨᠠᠯᠠ",
     "the Mongolian plateau, Mongolia"
   ],
   "monggo yoro": [
-    "ᠮᠣᠨᡤᡤᠣ ᠶᠣᡵᠣ",
+    "ᠮᠣᠩᡤᠣ ᠶᠣᡵᠣ",
     "an arrow with a square birch-wood head with holes in it used for shooting rabbits on rocky terrain"
   ],
   "monggocon": [
-    "ᠮᠣᠨᡤᡤᠣᠴᠣᠨ",
+    "ᠮᠣᠩᡤᠣᠴᠣᠨ",
     "a bottle with a narrow mouth and long neck"
   ],
   "monggocun": [
-    "ᠮᠣᠨᡤᡤᠣᠴᡠᠨ",
+    "ᠮᠣᠩᡤᠣᠴᡠᠨ",
     "see monggocon"
   ],
   "monggolibumbi": [
-    "ᠮᠣᠨᡤᡤᠣᠯᡳᠪᡠᠮᠪᡳ",
+    "ᠮᠣᠩᡤᠣᠯᡳᠪᡠᠮᠪᡳ",
     "caus. of monggolimbi"
   ],
   "monggolikv": [
-    "ᠮᠣᠨᡤᡤᠣᠯᡳᡴᡡ",
+    "ᠮᠣᠩᡤᠣᠯᡳᡴᡡ",
     "1. ornamental neckband worn by women 2. dog collar"
   ],
   "monggolimbi": [
-    "ᠮᠣᠨᡤᡤᠣᠯᡳᠮᠪᡳ",
+    "ᠮᠣᠩᡤᠣᠯᡳᠮᠪᡳ",
     "to wear on the neck"
   ],
   "monggon": [
-    "ᠮᠣᠨᡤᡤᠣᠨ",
+    "ᠮᠣᠩᡤᠣᠨ",
     "neck, throat"
   ],
   "monggon faitambi": [
-    "ᠮᠣᠨᡤᡤᠣᠨ ᡶᠠᡳᡨᠠᠮᠪᡳ",
+    "ᠮᠣᠩᡤᠣᠨ ᡶᠠᡳᡨᠠᠮᠪᡳ",
     "to cut the throat"
   ],
   "monggon husikv": [
-    "ᠮᠣᠨᡤᡤᠣᠨ ᡥᡠᠰᡳᡴᡡ",
+    "ᠮᠣᠩᡤᠣᠨ ᡥᡠᠰᡳᡴᡡ",
     "1. a protective piece of armor for the neck 2. a collar around the neck"
   ],
   "monggon soyombi": [
-    "ᠮᠣᠨᡤᡤᠣᠨ ᠰᠣᠶᠣᠮᠪᡳ",
+    "ᠮᠣᠩᡤᠣᠨ ᠰᠣᠶᠣᠮᠪᡳ",
     "to draw in the neck"
   ],
   "monggorobumbi": [
-    "ᠮᠣᠨᡤᡤᠣᡵᠣᠪᡠᠮᠪᡳ",
+    "ᠮᠣᠩᡤᠣᡵᠣᠪᡠᠮᠪᡳ",
     "caus. of monggorombi"
   ],
   "monggorokv": [
-    "ᠮᠣᠨᡤᡤᠣᡵᠣᡴᡡ",
+    "ᠮᠣᠩᡤᠣᡵᠣᡴᡡ",
     "a bordered collar fixed to a jacket"
   ],
   "monggorokv husikv": [
-    "ᠮᠣᠨᡤᡤᠣᡵᠣᡴᡡ ᡥᡠᠰᡳᡴᡡ",
+    "ᠮᠣᠩᡤᠣᡵᠣᡴᡡ ᡥᡠᠰᡳᡴᡡ",
     "neckpiece, neck-scarf"
   ],
   "monggorokv sijigiyan": [
-    "ᠮᠣᠨᡤᡤᠣᡵᠣᡴᡡ ᠰᡳᠵᡳᡤᡳᠶᠠᠨ",
+    "ᠮᠣᠩᡤᠣᡵᠣᡴᡡ ᠰᡳᠵᡳᡤᡳᠶᠠᠨ",
     "a gown with collar and cuffs trimmed in brocade"
   ],
   "monggorokv ulhi wahan": [
-    "ᠮᠣᠨᡤᡤᠣᡵᠣᡴᡡ ᡠᠯᡥᡳ ᠸᠠᡥᠠᠨ",
+    "ᠮᠣᠩᡤᠣᡵᠣᡴᡡ ᡠᠯᡥᡳ ᠸᠠᡥᠠᠨ",
     "collar and cuffs trimmed in brocade"
   ],
   "monggorombi": [
-    "ᠮᠣᠨᡤᡤᠣᡵᠣᠮᠪᡳ",
+    "ᠮᠣᠩᡤᠣᡵᠣᠮᠪᡳ",
     "1. to act in a Mongolian manner 2. to speak Mongolian, to use Mongolian 3. to kick the shuttlecock"
   ],
   "monggorome": [
-    "ᠮᠣᠨᡤᡤᠣᡵᠣᠮᡝ",
+    "ᠮᠣᠩᡤᠣᡵᠣᠮᡝ",
     "in the Mongolian manner"
   ],
   "monggorome tembi": [
-    "ᠮᠣᠨᡤᡤᠣᡵᠣᠮᡝ ᡨᡝᠮᠪᡳ",
+    "ᠮᠣᠩᡤᠣᡵᠣᠮᡝ ᡨᡝᠮᠪᡳ",
     "to sit in the Mongolian manner--i.e., with one foot under the buttocks"
   ],
   "monggoso": [
-    "ᠮᠣᠨᡤᡤᠣᠰᠣ",
+    "ᠮᠣᠩᡤᠣᠰᠣ",
     "plural of monggo"
   ],
   "monggoxun": [
-    "ᠮᠣᠨᡤᡤᠣᡧᡠᠨ",
+    "ᠮᠣᠩᡤᠣᡧᡠᠨ",
     "crucian (carp)"
   ],
   "monggv": [
-    "ᠮᠣᠨᡤᡤᡡ",
+    "ᠮᠣᠩᡤᡡ",
     "see monggo"
   ],
   "mongniohon": [
-    "ᠮᠣᠨᡤᠨᡳᠣᡥᠣᠨ",
+    "ᠮᠣᠩᠨᡳᠣᡥᠣᠨ",
     "gasping for breath"
   ],
   "monio": [
@@ -56176,7 +56176,7 @@ const dictionary = {
     "an arrow with a four-sided wooden head with a barb sticking out from each side--used for shooting pheasants and rabbits"
   ],
   "moo hengke": [
-    "ᠮᠣᠣ ᡥᡝᠨᡤᡴᡝ",
+    "ᠮᠣᠣ ᡥᡝᠩᡴᡝ",
     "quince"
   ],
   "moo i beri": [
@@ -56184,7 +56184,7 @@ const dictionary = {
     "a wooden bow used for preparing cotton"
   ],
   "moo i calu i kunggeri": [
-    "ᠮᠣᠣ ᡳ ᠴᠠᠯᡠ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠮᠣᠣ ᡳ ᠴᠠᠯᡠ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of wood storehouses in the"
   ],
   "moo i fuktala": [
@@ -56328,7 +56328,7 @@ const dictionary = {
     "horse affairs"
   ],
   "morin i baitai kunggeri": [
-    "ᠮᠣᡵᡳᠨ ᡳ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠮᠣᡵᡳᠨ ᡳ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of horse affairs in the Board of War"
   ],
   "morin i jalin wecembi": [
@@ -56368,27 +56368,27 @@ const dictionary = {
     "a sore in children's mouths"
   ],
   "moringga": [
-    "ᠮᠣᡵᡳᠨᡤᡤᠠ",
+    "ᠮᠣᡵᡳᠩᡤᠠ",
     "1. pertaining to the horse, mounted 2. horseman, rider"
   ],
   "moringga aniya": [
-    "ᠮᠣᡵᡳᠨᡤᡤᠠ ᠠᠨᡳᠶᠠ",
+    "ᠮᠣᡵᡳᠩᡤᠠ ᠠᠨᡳᠶᠠ",
     "the year of the horse"
   ],
   "moringga cooha": [
-    "ᠮᠣᡵᡳᠨᡤᡤᠠ ᠴᠣᠣᡥᠠ",
+    "ᠮᠣᡵᡳᠩᡤᠠ ᠴᠣᠣᡥᠠ",
     "cavalry, mounted troops"
   ],
   "moringga faidan": [
-    "ᠮᠣᡵᡳᠨᡤᡤᠠ ᡶᠠᡳᡩᠠᠨ",
+    "ᠮᠣᡵᡳᠩᡤᠠ ᡶᠠᡳᡩᠠᠨ",
     "the mounted imperial escort"
   ],
   "moringga hvlha": [
-    "ᠮᠣᡵᡳᠨᡤᡤᠠ ᡥᡡᠯᡥᠠ",
+    "ᠮᠣᡵᡳᠩᡤᠠ ᡥᡡᠯᡥᠠ",
     "mounted bandit"
   ],
   "moringga uksin": [
-    "ᠮᠣᡵᡳᠨᡤᡤᠠ ᡠᡴᠰᡳᠨ",
+    "ᠮᠣᡵᡳᠩᡤᠠ ᡠᡴᠰᡳᠨ",
     "armor for a horse"
   ],
   "moro": [
@@ -56492,7 +56492,7 @@ const dictionary = {
     "a cooking pot, caldron"
   ],
   "mucengge": [
-    "ᠮᡠᠴᡝᠨᡤᡤᡝ",
+    "ᠮᡠᠴᡝᠩᡤᡝ",
     "1. pertaining to a cooking pot 2. a measure equaling 6 pecks and 4 quarts"
   ],
   "mucesi": [
@@ -56500,7 +56500,7 @@ const dictionary = {
     "a cook"
   ],
   "mucesi i kunggeri": [
-    "ᠮᡠᠴᡝᠰᡳ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠮᡠᠴᡝᠰᡳ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "an office in charge of preparing sacrificial animals"
   ],
   "muciha": [
@@ -56536,11 +56536,11 @@ const dictionary = {
     "grape"
   ],
   "mucu bocoi haksangga efen": [
-    "ᠮᡠᠴᡠ ᠪᠣᠴᠣᡳ ᡥᠠᡴᠰᠠᠨᡤᡤᠠ ᡝᡶᡝᠨ",
+    "ᠮᡠᠴᡠ ᠪᠣᠴᠣᡳ ᡥᠠᡴᠰᠠᠩᡤᠠ ᡝᡶᡝᠨ",
     "crisp grape-colored cake"
   ],
   "mucu bocoi jiyoo bing": [
-    "ᠮᡠᠴᡠ ᠪᠣᠴᠣᡳ ᠵᡳᠶᠣᠣ ᠪᡳᠨᡤ",
+    "ᠮᡠᠴᡠ ᠪᠣᠴᠣᡳ ᠵᡳᠶᠣᠣ ᠪᡳᠩ",
     "the same as mucu bocoi haksangga efen"
   ],
   "mucu halu i sacima": [
@@ -56548,7 +56548,7 @@ const dictionary = {
     "cake made of flour, sesame oil, sesame seeds, sugar, and grapes"
   ],
   "mucunggai gasha": [
-    "ᠮᡠᠴᡠᠨᡤᡤᠠᡳ ᡤᠠᠰᡥᠠ",
+    "ᠮᡠᠴᡠᠩᡤᠠᡳ ᡤᠠᠰᡥᠠ",
     "one of the names of the spotted kingfisher; cf. cunggai"
   ],
   "mudaci ilha": [
@@ -56644,23 +56644,23 @@ const dictionary = {
     "see mudan dari"
   ],
   "mudangga": [
-    "ᠮᡠᡩᠠᠨᡤᡤᠠ",
+    "ᠮᡠᡩᠠᠩᡤᠠ",
     "1. curved, bent 2. having sound or tone"
   ],
   "mudangga dalan": [
-    "ᠮᡠᡩᠠᠨᡤᡤᠠ ᡩᠠᠯᠠᠨ",
+    "ᠮᡠᡩᠠᠩᡤᠠ ᡩᠠᠯᠠᠨ",
     "a dike that follows the curves of a river"
   ],
   "mudangga fesin i haksan bocoi suje sara": [
-    "ᠮᡠᡩᠠᠨᡤᡤᠠ ᡶᡝᠰᡳᠨ ᡳ ᡥᠠᡴᠰᠠᠨ ᠪᠣᠴᠣᡳ ᠰᡠᠵᡝ ᠰᠠᡵᠠ",
+    "ᠮᡠᡩᠠᠩᡤᠠ ᡶᡝᠰᡳᠨ ᡳ ᡥᠠᡴᠰᠠᠨ ᠪᠣᠴᠣᡳ ᠰᡠᠵᡝ ᠰᠠᡵᠠ",
     "a yellow silk umbrella with a crooked handle used as an insignia by the imperial concubines"
   ],
   "mudangga jugvn": [
-    "ᠮᡠᡩᠠᠨᡤᡤᠠ ᠵᡠᡤᡡᠨ",
+    "ᠮᡠᡩᠠᠩᡤᠠ ᠵᡠᡤᡡᠨ",
     "a crooked road"
   ],
   "mudangga nahan": [
-    "ᠮᡠᡩᠠᠨᡤᡤᠠ ᠨᠠᡥᠠᠨ",
+    "ᠮᡠᡩᠠᠩᡤᠠ ᠨᠠᡥᠠᠨ",
     "a crooked oven-bed"
   ],
   "mudari": [
@@ -56692,7 +56692,7 @@ const dictionary = {
     "the name of the ceremonial arch behind the second door of the Examination Hall"
   ],
   "muduri dukai dalangga": [
-    "ᠮᡠᡩᡠᡵᡳ ᡩᡠᡴᠠᡳ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠮᡠᡩᡠᡵᡳ ᡩᡠᡴᠠᡳ ᡩᠠᠯᠠᠩᡤᠠ",
     "a dam with a sluice"
   ],
   "muduri garudai suwayan suje sun dalikv": [
@@ -56708,7 +56708,7 @@ const dictionary = {
     "crying like a dragon and growling like a tiger"
   ],
   "muduri oxohonggo fukjingga hergen": [
-    "ᠮᡠᡩᡠᡵᡳ ᠣᡧᠣᡥᠣᠨᡤᡤᠣ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠮᡠᡩᡠᡵᡳ ᠣᡧᠣᡥᠣᠩᡤᠣ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "muduri soorin de wesimbi": [
@@ -56716,7 +56716,7 @@ const dictionary = {
     "to ascend the Dragon Throne"
   ],
   "muduri ujungge girdan": [
-    "ᠮᡠᡩᡠᡵᡳ ᡠᠵᡠᠨᡤᡤᡝ ᡤᡳᡵᡩᠠᠨ",
+    "ᠮᡠᡩᡠᡵᡳ ᡠᠵᡠᠩᡤᡝ ᡤᡳᡵᡩᠠᠨ",
     "the 'dragon-headed pennant'--the name of an insignia of the escort"
   ],
   "mudurikv": [
@@ -56724,27 +56724,27 @@ const dictionary = {
     "tile figures of dragons on both ends of the ridge of the roofs of palaces"
   ],
   "muduringga": [
-    "ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ",
+    "ᠮᡠᡩᡠᡵᡳᠩᡤᠠ",
     "pertaining to the dragon"
   ],
   "muduringga aniya": [
-    "ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᠠᠨᡳᠶᠠ",
+    "ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᠠᠨᡳᠶᠠ",
     "the year of the dragon"
   ],
   "muduringga doyonggo": [
-    "ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᡩᠣᠶᠣᠨᡤᡤᠣ",
+    "ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᡩᠣᠶᠣᠩᡤᠣ",
     "gold brocade with inwoven walking dragons"
   ],
   "muduringga fukjingga hergen": [
-    "ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "muduringga giyancihiyan hooxan": [
-    "ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᡤᡳᠶᠠᠨᠴᡳᡥᡳᠶᠠᠨ ᡥᠣᠣᡧᠠᠨ",
+    "ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᡤᡳᠶᠠᠨᠴᡳᡥᡳᠶᠠᠨ ᡥᠣᠣᡧᠠᠨ",
     "letter paper with a dragon design"
   ],
   "muduringga hiyan moo": [
-    "ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᡥᡳᠶᠠᠨ ᠮᠣᠣ",
+    "ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᡥᡳᠶᠠᠨ ᠮᠣᠣ",
     "Dryobalanops camphora"
   ],
   "mufi ilha": [
@@ -56884,15 +56884,15 @@ const dictionary = {
     "carpenter"
   ],
   "mujangga": [
-    "ᠮᡠᠵᠠᠨᡤᡤᠠ",
+    "ᠮᡠᠵᠠᠩᡤᠠ",
     "truly, indeed, actually, true, real, correct"
   ],
   "mujanggao": [
-    "ᠮᡠᠵᠠᠨᡤᡤᠠᠣ",
+    "ᠮᡠᠵᠠᠩᡤᠠᠣ",
     "is it true that . . . ? can it be that . . .?"
   ],
   "mujanggo": [
-    "ᠮᡠᠵᠠᠨᡤᡤᠣ",
+    "ᠮᡠᠵᠠᠩᡤᠣ",
     "the same as mujanggao"
   ],
   "muji": [
@@ -56952,7 +56952,7 @@ const dictionary = {
     "to have a change of heart, to alter one's intentions"
   ],
   "mijilen hungkerehe": [
-    "ᠮᡳᠵᡳᠯᡝᠨ ᡥᡠᠨᡤᡴᡝᡵᡝᡥᡝ",
+    "ᠮᡳᠵᡳᠯᡝᠨ ᡥᡠᠩᡴᡝᡵᡝᡥᡝ",
     "repented, was remorseful"
   ],
   "mujilen icakv": [
@@ -56996,7 +56996,7 @@ const dictionary = {
     "to be troubled, to be upset"
   ],
   "mujilen teng seme jafambi": [
-    "ᠮᡠᠵᡳᠯᡝᠨ ᡨᡝᠨᡤ ᠰᡝᠮᡝ ᠵᠠᡶᠠᠮᠪᡳ",
+    "ᠮᡠᠵᡳᠯᡝᠨ ᡨᡝᠩ ᠰᡝᠮᡝ ᠵᠠᡶᠠᠮᠪᡳ",
     "to make a strong resolution, to have a strong intention"
   ],
   "mujilen usambi": [
@@ -57008,7 +57008,7 @@ const dictionary = {
     "fell into grief or despair"
   ],
   "mujilengge": [
-    "ᠮᡠᠵᡳᠯᡝᠨᡤᡤᡝ",
+    "ᠮᡠᠵᡳᠯᡝᠩᡤᡝ",
     "1. having purpose or aim 2. spirited, stout-hearted"
   ],
   "mujimbi": [
@@ -57024,7 +57024,7 @@ const dictionary = {
     "to nurture an ambition, to follow the goal that one's parents have set"
   ],
   "mujin be wesihulere tanggin": [
-    "ᠮᡠᠵᡳᠨ ᠪᡝ ᠸᡝᠰᡳᡥᡠᠯᡝᡵᡝ ᡨᠠᠨᡤᡤᡳᠨ",
+    "ᠮᡠᠵᡳᠨ ᠪᡝ ᠸᡝᠰᡳᡥᡠᠯᡝᡵᡝ ᡨᠠᠩᡤᡳᠨ",
     "name of the third hall of the east gallery of the Imperial Academy of Learning"
   ],
   "mujin de acabumbi": [
@@ -57032,7 +57032,7 @@ const dictionary = {
     "to attain one's ambitions"
   ],
   "mujingga": [
-    "ᠮᡠᠵᡳᠨᡤᡤᠠ",
+    "ᠮᡠᠵᡳᠩᡤᠠ",
     "strong-willed, ambitious"
   ],
   "mujuhu": [
@@ -57084,7 +57084,7 @@ const dictionary = {
     "the board of Finance in Mukden"
   ],
   "mukden i ilan munggan i kadalan jafaha hafan i yanun": [
-    "ᠮᡠᡴᡩᡝᠨ ᡳ ᡳᠯᠠᠨ ᠮᡠᠨᡤᡤᠠᠨ ᡳ ᡴᠠᡩᠠᠯᠠᠨ ᠵᠠᡶᠠᡥᠠ ᡥᠠᡶᠠᠨ ᡳ ᠶᠠᠨᡠᠨ",
+    "ᠮᡠᡴᡩᡝᠨ ᡳ ᡳᠯᠠᠨ ᠮᡠᠩᡤᠠᠨ ᡳ ᡴᠠᡩᠠᠯᠠᠨ ᠵᠠᡶᠠᡥᠠ ᡥᠠᡶᠠᠨ ᡳ ᠶᠠᠨᡠᠨ",
     "the office of the official in charge of the three mausoleums of Mukden"
   ],
   "mukdendembi": [
@@ -57156,7 +57156,7 @@ const dictionary = {
     "the planet Mercury"
   ],
   "mukei aisi be yendebure tinggin": [
-    "ᠮᡠᡴᡝᡳ ᠠᡳᠰᡳ ᠪᡝ ᠶᡝᠨᡩᡝᠪᡠᡵᡝ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠮᡠᡴᡝᡳ ᠠᡳᠰᡳ ᠪᡝ ᠶᡝᠨᡩᡝᠪᡠᡵᡝ ᡨᡳᠩᡤᡳᠨ",
     "office of an official in charge of water conservancy, irrigation, etc."
   ],
   "mukei cifun": [
@@ -57220,7 +57220,7 @@ const dictionary = {
     "bend in a river"
   ],
   "mukei niowangga moo": [
-    "ᠮᡠᡴᡝᡳ ᠨᡳᠣᠸᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠮᡠᡴᡝᡳ ᠨᡳᠣᠸᠠᠩᡤᠠ ᠮᠣᠣ",
     "a tree that grows near water (Xylosma racenosum)"
   ],
   "mukei nure": [
@@ -57228,7 +57228,7 @@ const dictionary = {
     "clear wine, wine clear as water"
   ],
   "mukei singgeri": [
-    "ᠮᡠᡴᡝᡳ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠮᡠᡴᡝᡳ ᠰᡳᠩᡤᡝᡵᡳ",
     "water mouse"
   ],
   "mukei xurdeku": [
@@ -57448,39 +57448,39 @@ const dictionary = {
     "a round exotic fruit that at first tastes bitter then turns sweet when eaten"
   ],
   "mung mang": [
-    "ᠮᡠᠨᡤ ᠮᠠᠨᡤ",
+    "ᠮᡠᠩ ᠮᠠᠩ",
     "(onom.) sound made by cattle or deer"
   ],
   "mung mang seme": [
-    "ᠮᡠᠨᡤ ᠮᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᠮᡠᠩ ᠮᠠᠩ ᠰᡝᠮᡝ",
     "lowing, bellowing, roaring"
   ],
   "mung mung seme": [
-    "ᠮᡠᠨᡤ ᠮᡠᠨᡤ ᠰᡝᠮᡝ",
+    "ᠮᡠᠩ ᠮᡠᠩ ᠰᡝᠮᡝ",
     "see mung mang seme"
   ],
   "mungga": [
-    "ᠮᡠᠨᡤᡤᠠ",
+    "ᠮᡠᠩᡤᠠ",
     "see munggan"
   ],
   "munggan": [
-    "ᠮᡠᠨᡤᡤᠠᠨ",
+    "ᠮᡠᠩᡤᠠᠨ",
     "1. low hill, mound, tumulus 2. tomb, mausoleum"
   ],
   "mungge niongniyaha": [
-    "ᠮᡠᠨᡤᡤᡝ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᠮᡠᠩᡤᡝ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "one name for the wild goose"
   ],
   "munggirembi": [
-    "ᠮᡠᠨᡤᡤᡳᡵᡝᠮᠪᡳ",
+    "ᠮᡠᠩᡤᡳᡵᡝᠮᠪᡳ",
     "to play boisterously, to romp"
   ],
   "mungkeri ilha": [
-    "ᠮᡠᠨᡤᡴᡝᡵᡳ ᡳᠯᡥᠠ",
+    "ᠮᡠᠩᡴᡝᡵᡳ ᡳᠯᡥᠠ",
     "laurel magnolia"
   ],
   "mungku": [
-    "ᠮᡠᠨᡤᡴᡠ",
+    "ᠮᡠᠩᡴᡠ",
     "a fish frozen in the ice"
   ],
   "munjimbi": [
@@ -57628,11 +57628,11 @@ const dictionary = {
     "has taken form"
   ],
   "murung": [
-    "ᠮᡠᡵᡠᠨᡤ",
+    "ᠮᡠᡵᡠᠩ",
     "a spotted wildcat"
   ],
   "murungga": [
-    "ᠮᡠᡵᡠᠨᡤᡤᠠ",
+    "ᠮᡠᡵᡠᠩᡤᠠ",
     "1. similar in appearance 2. exemplary, model"
   ],
   "muruxembi": [
@@ -57652,7 +57652,7 @@ const dictionary = {
     "caus. of musembi"
   ],
   "museingge": [
-    "ᠮᡠᠰᡝᡳᠨᡤᡤᡝ",
+    "ᠮᡠᠰᡝᡳᠩᡤᡝ",
     "ours"
   ],
   "musembi": [
@@ -57668,7 +57668,7 @@ const dictionary = {
     "1. bending, warping 2. an open grave 3. outer coffin"
   ],
   "musengge": [
-    "ᠮᡠᠰᡝᠨᡤᡤᡝ",
+    "ᠮᡠᠰᡝᠩᡤᡝ",
     "the same as museingge"
   ],
   "musha": [
@@ -57760,7 +57760,7 @@ const dictionary = {
     "to show off one's abilities or talents"
   ],
   "mutengge": [
-    "ᠮᡠᡨᡝᠨᡤᡤᡝ",
+    "ᠮᡠᡨᡝᠩᡤᡝ",
     "skilled, talented"
   ],
   "mutulhen": [
@@ -57804,7 +57804,7 @@ const dictionary = {
     "a type of paper made from bamboo"
   ],
   "muwa uhungge hooxan": [
-    "ᠮᡠᠸᠠ ᡠᡥᡠᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᠮᡠᠸᠠ ᡠᡥᡠᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "a type of coarse yellow wrapping paper"
   ],
   "muwa wehe": [
@@ -57816,7 +57816,7 @@ const dictionary = {
     "rather coarse, crude, rough"
   ],
   "muwarungga fukjingga hergen": [
-    "ᠮᡠᠸᠠᡵᡠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠮᡠᠸᠠᡵᡠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy--the great seal"
   ],
   "muwaxambi": [
@@ -57848,7 +57848,7 @@ const dictionary = {
     "'dragon's eye'--longan (Nephelium longana)"
   ],
   "mvnggu": [
-    "ᠮᡡᠨᡤᡤᡠ",
+    "ᠮᡡᠩᡤᡠ",
     "bird's nest--the edible nest of a type of swallow"
   ],
   "na": [
@@ -57884,15 +57884,15 @@ const dictionary = {
     "hell, the underworld"
   ],
   "na i mangga ba": [
-    "ᠨᠠ ᡳ ᠮᠠᠨᡤᡤᠠ ᠪᠠ",
+    "ᠨᠠ ᡳ ᠮᠠᠩᡤᠠ ᠪᠠ",
     "firm earth"
   ],
   "na i oilo hetu i durungga tetun": [
-    "ᠨᠠ ᡳ ᠣᡳᠯᠣ ᡥᡝᡨᡠ ᡳ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᠨᠠ ᡳ ᠣᡳᠯᠣ ᡥᡝᡨᡠ ᡳ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "the name of an astronomical instrument in the Peking observatory"
   ],
   "na i oilo hetu undu i durungga tetun": [
-    "ᠨᠠ ᡳ ᠣᡳᠯᠣ ᡥᡝᡨᡠ ᡠᠨᡩᡠ ᡳ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᠨᠠ ᡳ ᠣᡳᠯᠣ ᡥᡝᡨᡠ ᡠᠨᡩᡠ ᡳ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "the name of an astronomical instrument in the Peking observatory"
   ],
   "na i tan": [
@@ -57940,7 +57940,7 @@ const dictionary = {
     "the seventh month"
   ],
   "nadan irungge mahatun": [
-    "ᠨᠠᡩᠠᠨ ᡳᡵᡠᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᠨᠠᡩᠠᠨ ᡳᡵᡠᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "an ancient-style hat with seven ridges on top"
   ],
   "nadan tvhebvkv i mahatu": [
@@ -57956,19 +57956,19 @@ const dictionary = {
     "seventh"
   ],
   "nadangga": [
-    "ᠨᠠᡩᠠᠨᡤᡤᠠ",
+    "ᠨᠠᡩᠠᠩᡤᠠ",
     "pertaining to the number seven"
   ],
   "nadangga hooxan": [
-    "ᠨᠠᡩᠠᠨᡤᡤᠠ ᡥᠣᠣᡧᠠᠨ",
+    "ᠨᠠᡩᠠᠩᡤᠠ ᡥᠣᠣᡧᠠᠨ",
     "seven-layered paper"
   ],
   "nadangga inenggi": [
-    "ᠨᠠᡩᠠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠨᠠᡩᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "the seventh day of the seventh month"
   ],
   "nadanggeri": [
-    "ᠨᠠᡩᠠᠨᡤᡤᡝᡵᡳ",
+    "ᠨᠠᡩᠠᠩᡤᡝᡵᡳ",
     "seven times"
   ],
   "nadanjv": [
@@ -58032,7 +58032,7 @@ const dictionary = {
     "the same as nadan usiha"
   ],
   "naihv de xvcunangga loho": [
-    "ᠨᠠᡳᡥᡡ ᡩᡝ ᡧᡡᠴᡠᠨᠠᠨᡤᡤᠠ ᠯᠣᡥᠣ",
+    "ᠨᠠᡳᡥᡡ ᡩᡝ ᡧᡡᠴᡠᠨᠠᠩᡤᠠ ᠯᠣᡥᠣ",
     "a sword that glitters when it is drawn from the scabbard"
   ],
   "naihvbumbi": [
@@ -58164,7 +58164,7 @@ const dictionary = {
     "1. ocean, sea 2. overseas, foreign 3. a large-leafed green vegetable eaten raw, lettuce"
   ],
   "namu angga": [
-    "ᠨᠠᠮᡠ ᠠᠨᡤᡤᠠ",
+    "ᠨᠠᠮᡠ ᠠᠩᡤᠠ",
     "port, harbor"
   ],
   "namu coko": [
@@ -58172,7 +58172,7 @@ const dictionary = {
     "a peacock; see tojin"
   ],
   "namu dengjan": [
-    "ᠨᠠᠮᡠ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᠨᠠᠮᡠ ᡩᡝᠩᠵᠠᠨ",
     "a lamp made of a sheep's horn hung before a Buddha image"
   ],
   "namu niyehe": [
@@ -58188,7 +58188,7 @@ const dictionary = {
     "dolphin"
   ],
   "namu urangga moo": [
-    "ᠨᠠᠮᡠ ᡠᡵᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠨᠠᠮᡠ ᡠᡵᠠᠩᡤᠠ ᠮᠣᠣ",
     "a type of conifer in Annam"
   ],
   "namun": [
@@ -58216,19 +58216,19 @@ const dictionary = {
     "to ask for something for nothing, to demand"
   ],
   "nanggin": [
-    "ᠨᠠᠨᡤᡤᡳᠨ",
+    "ᠨᠠᠩᡤᡳᠨ",
     "porch, veranda, gallery, corridor"
   ],
   "nanggixambi": [
-    "ᠨᠠᠨᡤᡤᡳᡧᠠᠮᠪᡳ",
+    "ᠨᠠᠩᡤᡳᡧᠠᠮᠪᡳ",
     "to show off one's charms, to ingratiate oneself with, to allure with one's charms"
   ],
   "nanggitu coko": [
-    "ᠨᠠᠨᡤᡤᡳᡨᡠ ᠴᠣᡴᠣ",
+    "ᠨᠠᠩᡤᡳᡨᡠ ᠴᠣᡴᠣ",
     "one name for the turkey; cf, junggila gasha"
   ],
   "nanggv": [
-    "ᠨᠠᠨᡤᡤᡡ",
+    "ᠨᠠᠩᡤᡡ",
     "a trap for badger and raccoon-dogs"
   ],
   "nantuhvn": [
@@ -58260,7 +58260,7 @@ const dictionary = {
     "(-ka) to long for, to feel attached to, to linger over"
   ],
   "naranggi": [
-    "ᠨᠠᡵᠠᠨᡤᡤᡳ",
+    "ᠨᠠᡵᠠᠩᡤᡳ",
     "finally, after all, really"
   ],
   "naraxambi": [
@@ -58336,11 +58336,11 @@ const dictionary = {
     "a stone polished smoothly"
   ],
   "narhvngga": [
-    "ᠨᠠᡵᡥᡡᠨᡤᡤᠠ",
+    "ᠨᠠᡵᡥᡡᠩᡤᠠ",
     "fine, refined, detailed"
   ],
   "narhvngga fukjingga hergen": [
-    "ᠨᠠᡵᡥᡡᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠨᠠᡵᡥᡡᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     ""
   ],
   "narhvnjambi": [
@@ -58360,7 +58360,7 @@ const dictionary = {
     "bureau for sealing (examination papers)"
   ],
   "narhvxame fempilere falgangga": [
-    "ᠨᠠᡵᡥᡡᡧᠠᠮᡝ ᡶᡝᠮᡦᡳᠯᡝᡵᡝ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ",
+    "ᠨᠠᡵᡥᡡᡧᠠᠮᡝ ᡶᡝᠮᡦᡳᠯᡝᡵᡝ ᡶᠠᠯᡤᠠᠩᡤᠠ",
     "the same as narhūšame fempilere ba"
   ],
   "narhvxame fempilere hafan bh 652f": [
@@ -58408,7 +58408,7 @@ const dictionary = {
     "to make salted cabbage"
   ],
   "nasan hengke": [
-    "ᠨᠠᠰᠠᠨ ᡥᡝᠨᡤᡴᡝ",
+    "ᠨᠠᠰᠠᠨ ᡥᡝᠩᡴᡝ",
     "salted cucumber, pickle"
   ],
   "nashvlabumbi": [
@@ -58432,7 +58432,7 @@ const dictionary = {
     "large black bear (Ursus arctos)"
   ],
   "nasucungga": [
-    "ᠨᠠᠰᡠᠴᡠᠨᡤᡤᠠ",
+    "ᠨᠠᠰᡠᠴᡠᠩᡤᠠ",
     "regrettable, pitiable"
   ],
   "naya": [
@@ -58504,27 +58504,27 @@ const dictionary = {
     "to go to encroach or provoke, to go to attack"
   ],
   "necingge": [
-    "ᠨᡝᠴᡳᠨᡤᡤᡝ",
+    "ᠨᡝᠴᡳᠩᡤᡝ",
     "level, flat"
   ],
   "necingge karan": [
-    "ᠨᡝᠴᡳᠨᡤᡤᡝ ᡴᠠᡵᠠᠨ",
+    "ᠨᡝᠴᡳᠩᡤᡝ ᡴᠠᡵᠠᠨ",
     "watchtower, lookout tower"
   ],
   "necingge kemun": [
-    "ᠨᡝᠴᡳᠨᡤᡤᡝ ᡴᡝᠮᡠᠨ",
+    "ᠨᡝᠴᡳᠩᡤᡝ ᡴᡝᠮᡠᠨ",
     "a level"
   ],
   "necingge mahatun": [
-    "ᠨᡝᠴᡳᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᠨᡝᠴᡳᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "an ancient-style hat with a flat board on top"
   ],
   "necingge mudan": [
-    "ᠨᡝᠴᡳᠨᡤᡤᡝ ᠮᡠᡩᠠᠨ",
+    "ᠨᡝᠴᡳᠩᡤᡝ ᠮᡠᡩᠠᠨ",
     "the level tone of Chinese"
   ],
   "necingge saifi": [
-    "ᠨᡝᠴᡳᠨᡤᡤᡝ ᠰᠠᡳᡶᡳ",
+    "ᠨᡝᠴᡳᠩᡤᡝ ᠰᠠᡳᡶᡳ",
     "a flat spoon"
   ],
   "necinjimbi": [
@@ -58660,7 +58660,7 @@ const dictionary = {
     "a variety of thin silk"
   ],
   "nekeliyen holbonggo hooxan": [
-    "ᠨᡝᡴᡝᠯᡳᠶᡝᠨ ᡥᠣᠯᠪᠣᠨᡤᡤᠣ ᡥᠣᠣᡧᠠᠨ",
+    "ᠨᡝᡴᡝᠯᡳᠶᡝᠨ ᡥᠣᠯᠪᠣᠩᡤᠣ ᡥᠣᠣᡧᠠᠨ",
     "a variety of strong thin paper made from bamboo"
   ],
   "nekeliyen xobin": [
@@ -58828,11 +58828,11 @@ const dictionary = {
     "previous month"
   ],
   "nenehe enduringge saisa": [
-    "ᠨᡝᠨᡝᡥᡝ ᡝᠨᡩᡠᡵᡳᠨᡤᡤᡝ ᠰᠠᡳᠰᠠ",
+    "ᠨᡝᠨᡝᡥᡝ ᡝᠨᡩᡠᡵᡳᠩᡤᡝ ᠰᠠᡳᠰᠠ",
     "former holy sages, sages of antiquity"
   ],
   "nenehe inenggi": [
-    "ᠨᡝᠨᡝᡥᡝ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠨᡝᠨᡝᡥᡝ ᡳᠨᡝᠩᡤᡳ",
     "former day, previous day"
   ],
   "nenehe jalan": [
@@ -58848,27 +58848,27 @@ const dictionary = {
     "formerly, previously, beforehand"
   ],
   "nengge": [
-    "ᠨᡝᠨᡤᡤᡝ",
+    "ᠨᡝᠩᡤᡝ",
     "a white spot on the eye"
   ],
   "nenggelebumbi": [
-    "ᠨᡝᠨᡤᡤᡝᠯᡝᠪᡠᠮᠪᡳ",
+    "ᠨᡝᠩᡤᡝᠯᡝᠪᡠᠮᠪᡳ",
     "to cushion, to support, to prop up"
   ],
   "nenggeleku": [
-    "ᠨᡝᠨᡤᡤᡝᠯᡝᡴᡠ",
+    "ᠨᡝᠩᡤᡝᠯᡝᡴᡠ",
     "see fi i nenggeleku"
   ],
   "nenggerebumbi": [
-    "ᠨᡝᠨᡤᡤᡝᡵᡝᠪᡠᠮᠪᡳ",
+    "ᠨᡝᠩᡤᡝᡵᡝᠪᡠᠮᠪᡳ",
     "the same as nenggelebumbi"
   ],
   "nenggereshvn": [
-    "ᠨᡝᠨᡤᡤᡝᡵᡝᠰᡥᡡᠨ",
+    "ᠨᡝᠩᡤᡝᡵᡝᠰᡥᡡᠨ",
     "cushioned, supported"
   ],
   "nenggeshvn": [
-    "ᠨᡝᠨᡤᡤᡝᠰᡥᡡᠨ",
+    "ᠨᡝᠩᡤᡝᠰᡥᡡᠨ",
     "see nenggereshun"
   ],
   "neombi": [
@@ -58928,7 +58928,7 @@ const dictionary = {
     "a temporary worker"
   ],
   "nergingge": [
-    "ᠨᡝᡵᡤᡳᠨᡤᡤᡝ",
+    "ᠨᡝᡵᡤᡳᠩᡤᡝ",
     "clever at grasping opportunity"
   ],
   "nerkimbi": [
@@ -58976,7 +58976,7 @@ const dictionary = {
     "to notice, to note, to record"
   ],
   "nicangga tungken": [
-    "ᠨᡳᠴᠠᠨᡤᡤᠠ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᠨᡳᠴᠠᠩᡤᠠ ᡨᡠᠩᡴᡝᠨ",
     "a large drum on a stand"
   ],
   "nicarambi": [
@@ -58988,7 +58988,7 @@ const dictionary = {
     "pearl"
   ],
   "nicuhe xungkeri ilha": [
-    "ᠨᡳᠴᡠᡥᡝ ᡧᡠᠨᡤᡴᡝᡵᡳ ᡳᠯᡥᠠ",
+    "ᠨᡳᠴᡠᡥᡝ ᡧᡠᠩᡴᡝᡵᡳ ᡳᠯᡥᠠ",
     "a type of Chinese orchid with fragrant purple blossoms"
   ],
   "nicuhei xurdehen": [
@@ -59060,11 +59060,11 @@ const dictionary = {
     "Chinese"
   ],
   "nikan bithei kunggeri boo bh": [
-    "ᠨᡳᡴᠠᠨ ᠪᡳᡨᡥᡝᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ ᠪᠣᠣ ᠪᡥ",
+    "ᠨᡳᡴᠠᠨ ᠪᡳᡨᡥᡝᡳ ᡴᡠᠩᡤᡝᡵᡳ ᠪᠣᠣ ᠪᡥ",
     "Chinese Copying Office, 138"
   ],
   "nikan dangse boo": [
-    "ᠨᡳᡴᠠᠨ ᡩᠠᠨᡤᠰᡝ ᠪᠣᠣ",
+    "ᠨᡳᡴᠠᠨ ᡩᠠᠩᠰᡝ ᠪᠣᠣ",
     "Translation Office (for Manchu and Chinese)"
   ],
   "nikan gvldargan": [
@@ -59072,7 +59072,7 @@ const dictionary = {
     "a small type of swallow that is fond of chirping"
   ],
   "nikan hengke": [
-    "ᠨᡳᡴᠠᠨ ᡥᡝᠨᡤᡴᡝ",
+    "ᠨᡳᡴᠠᠨ ᡥᡝᠩᡴᡝ",
     "a variety of sweet-tasting melon somewhat larger than the 'sweet melon' (Cucumis meln)"
   ],
   "nikan hergen": [
@@ -59152,7 +59152,7 @@ const dictionary = {
     "covering or cushion on a chair"
   ],
   "nikekungge sektefun": [
-    "ᠨᡳᡴᡝᡴᡠᠨᡤᡤᡝ ᠰᡝᡴᡨᡝᡶᡠᠨ",
+    "ᠨᡳᡴᡝᡴᡠᠩᡤᡝ ᠰᡝᡴᡨᡝᡶᡠᠨ",
     "cushion or padding on the back of a chair"
   ],
   "nikembi": [
@@ -59208,19 +59208,19 @@ const dictionary = {
     "at peace, peaceful"
   ],
   "niktongga": [
-    "ᠨᡳᡴᡨᠣᠨᡤᡤᠠ",
+    "ᠨᡳᡴᡨᠣᠩᡤᠠ",
     "peaceful, tranquil"
   ],
   "niktongga gecuheri": [
-    "ᠨᡳᡴᡨᠣᠨᡤᡤᠠ ᡤᡝᠴᡠᡥᡝᡵᡳ",
+    "ᠨᡳᡴᡨᠣᠩᡤᠠ ᡤᡝᠴᡠᡥᡝᡵᡳ",
     "a type of silk decorated with dragon figures produced in Nanking"
   ],
   "niktongga suri": [
-    "ᠨᡳᡴᡨᠣᠨᡤᡤᠠ ᠰᡠᡵᡳ",
+    "ᠨᡳᡴᡨᠣᠩᡤᠠ ᠰᡠᡵᡳ",
     "a fine silken fabric from Nanking"
   ],
   "niktongga undurakv": [
-    "ᠨᡳᡴᡨᠣᠨᡤᡤᠠ ᡠᠨᡩᡠᡵᠠᡴᡡ",
+    "ᠨᡳᡴᡨᠣᠩᡤᠠ ᡠᠨᡩᡠᡵᠠᡴᡡ",
     "a silken fabric from Nanking with a design of prancing dragons"
   ],
   "nilabumbi": [
@@ -59236,7 +59236,7 @@ const dictionary = {
     "to grind, to polish (lenses)"
   ],
   "nilara yonggan": [
-    "ᠨᡳᠯᠠᡵᠠ ᠶᠣᠨᡤᡤᠠᠨ",
+    "ᠨᡳᠯᠠᡵᠠ ᠶᠣᠩᡤᠠᠨ",
     "fine sand used for polishing jade, glass, etc."
   ],
   "nilembi": [
@@ -59252,7 +59252,7 @@ const dictionary = {
     "a variety of shiny satin"
   ],
   "nilgiyangga": [
-    "ᠨᡳᠯᡤᡳᠶᠠᠨᡤᡤᠠ",
+    "ᠨᡳᠯᡤᡳᠶᠠᠩᡤᠠ",
     "lustrous, brilliant, shining"
   ],
   "nilhi": [
@@ -59352,19 +59352,19 @@ const dictionary = {
     "goat"
   ],
   "nimanggi": [
-    "ᠨᡳᠮᠠᠨᡤᡤᡳ",
+    "ᠨᡳᠮᠠᠩᡤᡳ",
     "snow"
   ],
   "nimanggi ilha": [
-    "ᠨᡳᠮᠠᠨᡤᡤᡳ ᡳᠯᡥᠠ",
+    "ᠨᡳᠮᠠᠩᡤᡳ ᡳᠯᡥᠠ",
     "snowflake, snow crystal"
   ],
   "nimanggi kiyalmambi": [
-    "ᠨᡳᠮᠠᠨᡤᡤᡳ ᡴᡳᠶᠠᠯᠮᠠᠮᠪᡳ",
+    "ᠨᡳᠮᠠᠩᡤᡳ ᡴᡳᠶᠠᠯᠮᠠᠮᠪᡳ",
     "(the wind) drives the snow in whirls"
   ],
   "nimanggi labsan": [
-    "ᠨᡳᠮᠠᠨᡤᡤᡳ ᠯᠠᠪᠰᠠᠨ",
+    "ᠨᡳᠮᠠᠩᡤᡳ ᠯᠠᠪᠰᠠᠨ",
     "snowflake"
   ],
   "nimarambi": [
@@ -59388,7 +59388,7 @@ const dictionary = {
     "rose-of-China (Hibiscus rosa—sinensis)"
   ],
   "nimari yanggali": [
-    "ᠨᡳᠮᠠᡵᡳ ᠶᠠᠨᡤᡤᠠᠯᡳ",
+    "ᠨᡳᠮᠠᡵᡳ ᠶᠠᠩᡤᠠᠯᡳ",
     "a small bird with snow-white feathers--when it sings it is supposed to snow"
   ],
   "nimasi": [
@@ -59416,7 +59416,7 @@ const dictionary = {
     "1. painful, excruciating 2. frightful, terrible 3. cruel 4. strong (of liquor)"
   ],
   "nimecuke horonggo poo": [
-    "ᠨᡳᠮᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠨᡤᡤᠣ ᡦᠣᠣ",
+    "ᠨᡳᠮᡝᠴᡠᡴᡝ ᡥᠣᡵᠣᠩᡤᠣ ᡦᠣᠣ",
     "the name of an iron cannon four feet eight and one-half inches long"
   ],
   "nimeku": [
@@ -59444,7 +59444,7 @@ const dictionary = {
     "to become ill, to develop an illness"
   ],
   "nimekungge": [
-    "ᠨᡳᠮᡝᡴᡠᠨᡤᡤᡝ",
+    "ᠨᡳᠮᡝᡴᡠᠩᡤᡝ",
     "ill, sick, one who is ill"
   ],
   "nimembi": [
@@ -59452,19 +59452,19 @@ const dictionary = {
     "to ache, to be painful, to suffer, to be ill"
   ],
   "nimenggi": [
-    "ᠨᡳᠮᡝᠨᡤᡤᡳ",
+    "ᠨᡳᠮᡝᠩᡤᡳ",
     "oil, fat; cf. imenggi"
   ],
   "nimenggi noho": [
-    "ᠨᡳᠮᡝᠨᡤᡤᡳ ᠨᠣᡥᠣ",
+    "ᠨᡳᠮᡝᠩᡤᡳ ᠨᠣᡥᠣ",
     "covered with oil, full of fat"
   ],
   "nimenggi yasa": [
-    "ᠨᡳᠮᡝᠨᡤᡤᡳ ᠶᠠᠰᠠ",
+    "ᠨᡳᠮᡝᠩᡤᡳ ᠶᠠᠰᠠ",
     "the two depressions on the coccyx of a man"
   ],
   "nimenggilembi": [
-    "ᠨᡳᠮᡝᠨᡤᡤᡳᠯᡝᠮᠪᡳ",
+    "ᠨᡳᠮᡝᠩᡤᡳᠯᡝᠮᠪᡳ",
     "to grease, to oil, to press oil, to produce oil"
   ],
   "nimetembi": [
@@ -59484,115 +59484,115 @@ const dictionary = {
     "to pay compliments to, to flirt"
   ],
   "ningceo": [
-    "ᠨᡳᠨᡤᠴᡝᠣ",
+    "ᠨᡳᠩᠴᡝᠣ",
     "Nanking silk"
   ],
   "ningcu": [
-    "ᠨᡳᠨᡤᠴᡠ",
+    "ᠨᡳᠩᠴᡠ",
     "see ningceo"
   ],
   "ningdan": [
-    "ᠨᡳᠨᡤᡩᠠᠨ",
+    "ᠨᡳᠩᡩᠠᠨ",
     "a growth on the neck, goiter"
   ],
   "ningdangga": [
-    "ᠨᡳᠨᡤᡩᠠᠨᡤᡤᠠ",
+    "ᠨᡳᠩᡩᠠᠩᡤᠠ",
     "having a growth on the neck, having a goiter"
   ],
   "ningge": [
-    "ᠨᡳᠨᡤᡤᡝ",
+    "ᠨᡳᠩᡤᡝ",
     "the one which . . . , he who . . ."
   ],
   "ninggixambi": [
-    "ᠨᡳᠨᡤᡤᡳᡧᠠᠮᠪᡳ",
+    "ᠨᡳᠩᡤᡳᡧᠠᠮᠪᡳ",
     "see nindaršambi"
   ],
   "ninggiya": [
-    "ᠨᡳᠨᡤᡤᡳᠶᠠ",
+    "ᠨᡳᠩᡤᡳᠶᠠ",
     "1. water caltrop, horn chestnut (Trapa natans) 2. anchor 3. a weapon used for stopping enemy horses"
   ],
   "ninggiya bula": [
-    "ᠨᡳᠨᡤᡤᡳᠶᠠ ᠪᡠᠯᠠ",
+    "ᠨᡳᠩᡤᡳᠶᠠ ᠪᡠᠯᠠ",
     "Tribulus terrestris"
   ],
   "ninggiya efen": [
-    "ᠨᡳᠨᡤᡤᡳᠶᠠ ᡝᡶᡝᠨ",
+    "ᠨᡳᠩᡤᡳᠶᠠ ᡝᡶᡝᠨ",
     "small meat-filled dumplings boiled in soup"
   ],
   "ninggiya moo": [
-    "ᠨᡳᠨᡤᡤᡳᠶᠠ ᠮᠣᠣ",
+    "ᠨᡳᠩᡤᡳᠶᠠ ᠮᠣᠣ",
     "an anchor made of wood"
   ],
   "ninggiya sele": [
-    "ᠨᡳᠨᡤᡤᡳᠶᠠ ᠰᡝᠯᡝ",
+    "ᠨᡳᠩᡤᡳᠶᠠ ᠰᡝᠯᡝ",
     "1. an iron anchor 2. a horseshoe with teeth or cleats"
   ],
   "ninggiyan": [
-    "ᠨᡳᠨᡤᡤᡳᠶᠠᠨ",
+    "ᠨᡳᠩᡤᡳᠶᠠᠨ",
     "see ninggiya"
   ],
   "ninggu": [
-    "ᠨᡳᠨᡤᡤᡠ",
+    "ᠨᡳᠩᡤᡠ",
     "top, on top"
   ],
   "ningguci": [
-    "ᠨᡳᠨᡤᡤᡠᠴᡳ",
+    "ᠨᡳᠩᡤᡠᠴᡳ",
     "sixth"
   ],
   "ninggude": [
-    "ᠨᡳᠨᡤᡤᡠᡩᡝ",
+    "ᠨᡳᠩᡤᡠᡩᡝ",
     "(postposition) on top of"
   ],
   "ninggule": [
-    "ᠨᡳᠨᡤᡤᡠᠯᡝ",
+    "ᠨᡳᠩᡤᡠᠯᡝ",
     "linden tree"
   ],
   "ninggun": [
-    "ᠨᡳᠨᡤᡤᡠᠨ",
+    "ᠨᡳᠩᡤᡠᠨ",
     "1. six 2. same as ninggu"
   ],
   "ninggun acan": [
-    "ᠨᡳᠨᡤᡤᡠᠨ ᠠᠴᠠᠨ",
+    "ᠨᡳᠩᡤᡠᠨ ᠠᠴᠠᠨ",
     "the six directions: north, south, east, west, up, and down"
   ],
   "ninggun biya": [
-    "ᠨᡳᠨᡤᡤᡠᠨ ᠪᡳᠶᠠ",
+    "ᠨᡳᠩᡤᡠᠨ ᠪᡳᠶᠠ",
     "the sixth month"
   ],
   "ninggun irungge mahatun": [
-    "ᠨᡳᠨᡤᡤᡠᠨ ᡳᡵᡠᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᠨᡳᠩᡤᡠᠨ ᡳᡵᡠᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "an ancient-style hat with six ridges on top"
   ],
   "ninggun muten": [
-    "ᠨᡳᠨᡤᡤᡠᠨ ᠮᡠᡨᡝᠨ",
+    "ᠨᡳᠩᡤᡠᠨ ᠮᡠᡨᡝᠨ",
     "the six skills: rites, music, archery, chariot-driving, calligraphy, and arithmetic"
   ],
   "ninggun yangsangga inenggi": [
-    "ᠨᡳᠨᡤᡤᡠᠨ ᠶᠠᠨᡤᠰᠠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠨᡳᠩᡤᡠᠨ ᠶᠠᠩᠰᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "the six auspicious days of the year"
   ],
   "ninggunggeri": [
-    "ᠨᡳᠨᡤᡤᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠨᡳᠩᡤᡠᠩᡤᡝᡵᡳ",
     "six times"
   ],
   "ninggureme": [
-    "ᠨᡳᠨᡤᡤᡠᡵᡝᠮᡝ",
+    "ᠨᡳᠩᡤᡠᡵᡝᠮᡝ",
     "on top, over, upward"
   ],
   "ningguse": [
-    "ᠨᡳᠨᡤᡤᡠᠰᡝ",
+    "ᠨᡳᠩᡤᡠᠰᡝ",
     "six years old"
   ],
   "ninggute": [
-    "ᠨᡳᠨᡤᡤᡠᡨᡝ",
+    "ᠨᡳᠩᡤᡠᡨᡝ",
     "six each"
   ],
   "ningkabumbi": [
-    "ᠨᡳᠨᡤᡴᠠᠪᡠᠮᠪᡳ",
+    "ᠨᡳᠩᡴᠠᠪᡠᠮᠪᡳ",
     "to be inflated, to become puffed up"
   ],
   "ningniyen": [
-    "ᠨᡳᠨᡤᠨᡳᠶᡝᠨ",
+    "ᠨᡳᠩᠨᡳᠶᡝᠨ",
     "see ninggiya"
   ],
   "niniyarilambi": [
@@ -59608,7 +59608,7 @@ const dictionary = {
     "sixty"
   ],
   "ninju dulefun i durungga tetun": [
-    "ᠨᡳᠨᠵᡠ ᡩᡠᠯᡝᡶᡠᠨ ᡳ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᠨᡳᠨᠵᡠ ᡩᡠᠯᡝᡶᡠᠨ ᡳ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "an astronomical instrument of the Peking observatory used for observing the variation in degrees among the equator, ecliptic, sun moon, and stars"
   ],
   "ninjuci": [
@@ -59664,7 +59664,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "niohan tokdonggo kiru": [
-    "ᠨᡳᠣᡥᠠᠨ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠨᡳᠣᡥᠠᠨ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation niohan"
   ],
   "niohe": [
@@ -59704,7 +59704,7 @@ const dictionary = {
     "the blue sky"
   ],
   "niohon elbengge fukjingga hergen": [
-    "ᠨᡳᠣᡥᠣᠨ ᡝᠯᠪᡝᠨᡤᡤᡝ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠨᡳᠣᡥᠣᠨ ᡝᠯᠪᡝᠩᡤᡝ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "niohon jili banjimbi": [
@@ -59712,11 +59712,11 @@ const dictionary = {
     "to fly into a blue rage"
   ],
   "niohon talkiyangga loho": [
-    "ᠨᡳᠣᡥᠣᠨ ᡨᠠᠯᡴᡳᠶᠠᠨᡤᡤᠠ ᠯᠣᡥᠣ",
+    "ᠨᡳᠣᡥᠣᠨ ᡨᠠᠯᡴᡳᠶᠠᠩᡤᠠ ᠯᠣᡥᠣ",
     "the name of a type of sword"
   ],
   "niohon temgetungge gu": [
-    "ᠨᡳᠣᡥᠣᠨ ᡨᡝᠮᡤᡝᡨᡠᠨᡤᡤᡝ ᡤᡠ",
+    "ᠨᡳᠣᡥᠣᠨ ᡨᡝᠮᡤᡝᡨᡠᠩᡤᡝ ᡤᡠ",
     "a flat piece of jade with a hole in the center used at certain feudal investitures and at sacrifices"
   ],
   "niohubumbi": [
@@ -59816,7 +59816,7 @@ const dictionary = {
     "without helmet and armor"
   ],
   "niolmonggi": [
-    "ᠨᡳᠣᠯᠮᠣᠨᡤᡤᡳ",
+    "ᠨᡳᠣᠯᠮᠣᠩᡤᡳ",
     "moss on rocks in water; cf. niokji"
   ],
   "niolocuka": [
@@ -59852,39 +59852,39 @@ const dictionary = {
     "see niomošon"
   ],
   "nionggajambi": [
-    "ᠨᡳᠣᠨᡤᡤᠠᠵᠠᠮᠪᡳ",
+    "ᠨᡳᠣᠩᡤᠠᠵᠠᠮᠪᡳ",
     "1. to damage a surface with metal, wood, stone, etc. 2. to pierce"
   ],
   "nionggajara adali": [
-    "ᠨᡳᠣᠨᡤᡤᠠᠵᠠᡵᠠ ᠠᡩᠠᠯᡳ",
+    "ᠨᡳᠣᠩᡤᠠᠵᠠᡵᠠ ᠠᡩᠠᠯᡳ",
     "as if pierced (on seeing something pitiful)"
   ],
   "nionggajarahv": [
-    "ᠨᡳᠣᠨᡤᡤᠠᠵᠠᡵᠠᡥᡡ",
+    "ᠨᡳᠣᠩᡤᠠᠵᠠᡵᠠᡥᡡ",
     "oh that he may not be hurt:"
   ],
   "nionggalabumbi": [
-    "ᠨᡳᠣᠨᡤᡤᠠᠯᠠᠪᡠᠮᠪᡳ",
+    "ᠨᡳᠣᠩᡤᠠᠯᠠᠪᡠᠮᠪᡳ",
     "caus./pass. of nionggal-ambi"
   ],
   "nionggalambi": [
-    "ᠨᡳᠣᠨᡤᡤᠠᠯᠠᠮᠪᡳ",
+    "ᠨᡳᠣᠩᡤᠠᠯᠠᠮᠪᡳ",
     "to damage the surface of some object slightly"
   ],
   "niongnio": [
-    "ᠨᡳᠣᠨᡤᠨᡳᠣ",
+    "ᠨᡳᠣᠩᠨᡳᠣ",
     "1. the largest feather on a bird's wing 2. outstanding, best, superior"
   ],
   "niongnio dethe": [
-    "ᠨᡳᠣᠨᡤᠨᡳᠣ ᡩᡝᡨᡥᡝ",
+    "ᠨᡳᠣᠩᠨᡳᠣ ᡩᡝᡨᡥᡝ",
     "the largest and toughest feather on a bird's wing"
   ],
   "niongniyaha": [
-    "ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "goose"
   ],
   "niongniyaha i be": [
-    "ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ ᡳ ᠪᡝ",
+    "ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ ᡳ ᠪᡝ",
     "the name of a plant that is the same as meihe šari"
   ],
   "nionio": [
@@ -59924,7 +59924,7 @@ const dictionary = {
     "the rainbow appeared"
   ],
   "nioron gocingga loho": [
-    "ᠨᡳᠣᡵᠣᠨ ᡤᠣᠴᡳᠨᡤᡤᠠ ᠯᠣᡥᠣ",
+    "ᠨᡳᠣᡵᠣᠨ ᡤᠣᠴᡳᠩᡤᠠ ᠯᠣᡥᠣ",
     "a sword that sparkles like a rainbow"
   ],
   "nioron samsiha": [
@@ -59932,11 +59932,11 @@ const dictionary = {
     "the rainbow has gone"
   ],
   "nioronggo dabtangga loho": [
-    "ᠨᡳᠣᡵᠣᠨᡤᡤᠣ ᡩᠠᠪᡨᠠᠨᡤᡤᠠ ᠯᠣᡥᠣ",
+    "ᠨᡳᠣᡵᠣᠩᡤᠣ ᡩᠠᠪᡨᠠᠩᡤᠠ ᠯᠣᡥᠣ",
     "a sword forged like a rainbow"
   ],
   "nioronggo kiltan": [
-    "ᠨᡳᠣᡵᠣᠨᡤᡤᠣ ᡴᡳᠯᡨᠠᠨ",
+    "ᠨᡳᠣᡵᠣᠩᡤᠣ ᡴᡳᠯᡨᠠᠨ",
     "a pennant of the imperial escort that is colored like a rainbow"
   ],
   "niorumbi": [
@@ -59952,75 +59952,75 @@ const dictionary = {
     "smelling of new-mown hay or grass, having the fragrance of grass"
   ],
   "niowangga ilha": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᠨᡳᠣᠸᠠᠩᡤᠠ ᡳᠯᡥᠠ",
     "Lychnis fulgens"
   ],
   "niowangga moo": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠨᡳᠣᠸᠠᠩᡤᠠ ᠮᠣᠣ",
     "Ilex pedunculosa"
   ],
   "niowanggiyakan": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᡴᠠᠨ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᡴᠠᠨ",
     "apple-green, light green, greenish"
   ],
   "niowanggiyan": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ",
     "1. green 2. the ninth of the earth's branches"
   ],
   "niowanggiyan derhuwe": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡩᡝᡵᡥᡠᠸᡝ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡩᡝᡵᡥᡠᠸᡝ",
     "a green fly"
   ],
   "niowanggiyan fiyorhon": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡶᡳᠶᠣᡵᡥᠣᠨ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡶᡳᠶᠣᡵᡥᠣᠨ",
     "green wood-pecker"
   ],
   "niowanggiyan fulan": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡶᡠᠯᠠᠨ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡶᡠᠯᠠᠨ",
     "a blue-black horse"
   ],
   "niowanggiyan fulha": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡶᡠᠯᡥᠠ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡶᡠᠯᡥᠠ",
     "a green poplar"
   ],
   "niowanggiyan gu": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡤᡠ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡤᡠ",
     "turquoise"
   ],
   "niowanggiyan gurjen": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡤᡠᡵᠵᡝᠨ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡤᡠᡵᠵᡝᠨ",
     "a type of large green cricket of North China; cf. gergen"
   ],
   "niowanggiyan muduringga kiru": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner of the imperial escort embroidered with a green dragon"
   ],
   "niowanggiyan tu i cooha": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡨᡠ ᡳ ᠴᠣᠣᡥᠠ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡨᡠ ᡳ ᠴᠣᠣᡥᠠ",
     "Chinese troops of the green banner"
   ],
   "niowanggiyan turi": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡨᡠᡵᡳ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡨᡠᡵᡳ",
     "green pea, green bean"
   ],
   "niowanggiyan turun": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡨᡠᡵᡠᠨ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡨᡠᡵᡠᠨ",
     "the green banner, i.e., the Chinese troops of the provinces"
   ],
   "niowanggiyan turun cooha": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡨᡠᡵᡠᠨ ᠴᠣᠣᡥᠠ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡨᡠᡵᡠᠨ ᠴᠣᠣᡥᠠ",
     "the Chinese troops of the green banner"
   ],
   "niowanggiyan uju": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᡠᠵᡠ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᡠᠵᡠ",
     "a green lacquered tablet on which a person granted an audience with the emperor wrote his name and rank"
   ],
   "niowanggiyan yenggehe": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᠶᡝᠨᡤᡤᡝᡥᡝ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᠶᡝᠩᡤᡝᡥᡝ",
     "a green parrot"
   ],
   "niowanggiyan yenggetu": [
-    "ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ ᠶᡝᠨᡤᡤᡝᡨᡠ",
+    "ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᠶᡝᠩᡤᡝᡨᡠ",
     "a type of macaw"
   ],
   "niowaniori hiyaban": [
@@ -60072,7 +60072,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "nirehe tokdonggo kiru": [
-    "ᠨᡳᡵᡝᡥᡝ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠨᡳᡵᡝᡥᡝ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation nirehe"
   ],
   "nirga": [
@@ -60108,7 +60108,7 @@ const dictionary = {
     "the meeting place of a banner company"
   ],
   "nirui janggin bh": [
-    "ᠨᡳᡵᡠᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᠨᡳᡵᡠᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Captain, 726"
   ],
   "nirubumbi": [
@@ -60252,7 +60252,7 @@ const dictionary = {
     "gold that is not 100 percent pure"
   ],
   "nitan menggun": [
-    "ᠨᡳᡨᠠᠨ ᠮᡝᠨᡤᡤᡠᠨ",
+    "ᠨᡳᡨᠠᠨ ᠮᡝᠩᡤᡠᠨ",
     "silver that is not 100 percent pure"
   ],
   "nitarambi": [
@@ -60304,7 +60304,7 @@ const dictionary = {
     "'child's flower'--a small flower that grows in thick clusters"
   ],
   "niyahari nunggele moo": [
-    "ᠨᡳᠶᠠᡥᠠᡵᡳ ᠨᡠᠨᡤᡤᡝᠯᡝ ᠮᠣᠣ",
+    "ᠨᡳᠶᠠᡥᠠᡵᡳ ᠨᡠᠩᡤᡝᠯᡝ ᠮᠣᠣ",
     "the catalpa tree (Catalpa Bungei)"
   ],
   "niyaharnambi": [
@@ -60400,7 +60400,7 @@ const dictionary = {
     "hundred-year-old man, a very old man"
   ],
   "niyalmaingge": [
-    "ᠨᡳᠶᠠᠯᠮᠠᡳᠨᡤᡤᡝ",
+    "ᠨᡳᠶᠠᠯᠮᠠᡳᠩᡤᡝ",
     "belonging to someone else"
   ],
   "niyamala": [
@@ -60476,7 +60476,7 @@ const dictionary = {
     "to form a center, to form a heart"
   ],
   "niyamangga": [
-    "ᠨᡳᠶᠠᠮᠠᠨᡤᡤᠠ",
+    "ᠨᡳᠶᠠᠮᠠᠩᡤᠠ",
     "related (by blood), having an innermost part"
   ],
   "niyamani": [
@@ -60568,11 +60568,11 @@ const dictionary = {
     "to lose courage"
   ],
   "niyancangga": [
-    "ᠨᡳᠶᠠᠨᠴᠠᠨᡤᡤᠠ",
+    "ᠨᡳᠶᠠᠨᠴᠠᠩᡤᠠ",
     "starched, strong, firm, hard, brave, long-winded"
   ],
   "niyancanggangge": [
-    "ᠨᡳᠶᠠᠨᠴᠠᠨᡤᡤᠠᠨᡤᡤᡝ",
+    "ᠨᡳᠶᠠᠨᠴᠠᠩᡤᠠᠩᡤᡝ",
     "one who is brave, strong, that which is strong, firm, hard"
   ],
   "niyanci hiyan": [
@@ -60592,47 +60592,47 @@ const dictionary = {
     "a small ball of some material that has been rolled between the fingers"
   ],
   "niyang": [
-    "ᠨᡳᠶᠠᠨᡤ",
+    "ᠨᡳᠶᠠᠩ",
     "girl"
   ],
   "niyang niyang": [
-    "ᠨᡳᠶᠠᠨᡤ ᠨᡳᠶᠠᠨᡤ",
+    "ᠨᡳᠶᠠᠩ ᠨᡳᠶᠠᠩ",
     "goddess"
   ],
   "niyangd": [
-    "ᠨᡳᠶᠠᠨᡤᡩ",
+    "ᠨᡳᠶᠠᠩᡩ",
     "lady, mistress (of a household)"
   ],
   "niyanggu je bele": [
-    "ᠨᡳᠶᠠᠨᡤᡤᡠ ᠵᡝ ᠪᡝᠯᡝ",
+    "ᠨᡳᠶᠠᠩᡤᡠ ᠵᡝ ᠪᡝᠯᡝ",
     "a type of white millet"
   ],
   "niyanggvbumbi": [
-    "ᠨᡳᠶᠠᠨᡤᡤᡡᠪᡠᠮᠪᡳ",
+    "ᠨᡳᠶᠠᠩᡤᡡᠪᡠᠮᠪᡳ",
     "caus. of niyanggūmbi"
   ],
   "niyanggvmbi": [
-    "ᠨᡳᠶᠠᠨᡤᡤᡡᠮᠪᡳ",
+    "ᠨᡳᠶᠠᠩᡤᡡᠮᠪᡳ",
     "1. to chew 2. to back-bite, to criticize"
   ],
   "niyangniya": [
-    "ᠨᡳᠶᠠᠨᡤᠨᡳᠶᠠ",
+    "ᠨᡳᠶᠠᠩᠨᡳᠶᠠ",
     "clear (after clouds have dispersed)"
   ],
   "niyangniya tucike": [
-    "ᠨᡳᠶᠠᠨᡤᠨᡳᠶᠠ ᡨᡠᠴᡳᡴᡝ",
+    "ᠨᡳᠶᠠᠩᠨᡳᠶᠠ ᡨᡠᠴᡳᡴᡝ",
     "it has become clear (after clouds have parted or dispersed)"
   ],
   "niyangniyahvn": [
-    "ᠨᡳᠶᠠᠨᡤᠨᡳᠶᠠᡥᡡᠨ",
+    "ᠨᡳᠶᠠᠩᠨᡳᠶᠠᡥᡡᠨ",
     "grimacing (from pain or fatigue)"
   ],
   "niyangniyang": [
-    "ᠨᡳᠶᠠᠨᡤᠨᡳᠶᠠᠨᡤ",
+    "ᠨᡳᠶᠠᠩᠨᡳᠶᠠᠩ",
     "goddess"
   ],
   "niyangniyarambi": [
-    "ᠨᡳᠶᠠᠨᡤᠨᡳᠶᠠᡵᠠᠮᠪᡳ",
+    "ᠨᡳᠶᠠᠩᠨᡳᠶᠠᡵᠠᠮᠪᡳ",
     "(-ka) to grimace (from pain or fatigue)"
   ],
   "niyanhvn": [
@@ -60640,7 +60640,7 @@ const dictionary = {
     "puppy, whelp; cf. niyahan"
   ],
   "niyaningjiji": [
-    "ᠨᡳᠶᠠᠨᡳᠨᡤᠵᡳᠵᡳ",
+    "ᠨᡳᠶᠠᠨᡳᠩᠵᡳᠵᡳ",
     "Polygonum filiforma--a medicinal plant"
   ],
   "niyaniombi": [
@@ -60672,7 +60672,7 @@ const dictionary = {
     "see niyara"
   ],
   "niyarangga tara": [
-    "ᠨᡳᠶᠠᡵᠠᠨᡤᡤᠠ ᡨᠠᡵᠠ",
+    "ᠨᡳᠶᠠᡵᠠᠩᡤᠠ ᡨᠠᡵᠠ",
     "a mixture of sour milk, sugar, and niyara"
   ],
   "niyarhoca": [
@@ -60744,7 +60744,7 @@ const dictionary = {
     "a long net for catching wild ducks"
   ],
   "niyehe tungge": [
-    "ᠨᡳᠶᡝᡥᡝ ᡨᡠᠨᡤᡤᡝ",
+    "ᠨᡳᠶᡝᡥᡝ ᡨᡠᠩᡤᡝ",
     "the name of an edible wild plant that creeps along the earth"
   ],
   "niyehe umhan i toholiyo": [
@@ -60808,55 +60808,55 @@ const dictionary = {
     "to thaw on the surface (while still frozen underneath)"
   ],
   "niyengceri ilha": [
-    "ᠨᡳᠶᡝᠨᡤᠴᡝᡵᡳ ᡳᠯᡥᠠ",
+    "ᠨᡳᠶᡝᠩᠴᡝᡵᡳ ᡳᠯᡥᠠ",
     "Lychnis fulgens"
   ],
   "niyenggari cecike": [
-    "ᠨᡳᠶᡝᠨᡤᡤᠠᡵᡳ ᠴᡝᠴᡳᡴᡝ",
+    "ᠨᡳᠶᡝᠩᡤᠠᡵᡳ ᠴᡝᠴᡳᡴᡝ",
     "one name for the myna"
   ],
   "niyengguweri cecike": [
-    "ᠨᡳᠶᡝᠨᡤᡤᡠᠸᡝᡵᡳ ᠴᡝᠴᡳᡴᡝ",
+    "ᠨᡳᠶᡝᠩᡤᡠᠸᡝᡵᡳ ᠴᡝᠴᡳᡴᡝ",
     "the same as niyenggari cecike"
   ],
   "niyengniyeltu cecike": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᠯᡨᡠ ᠴᡝᠴᡳᡴᡝ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᠯᡨᡠ ᠴᡝᠴᡳᡴᡝ",
     "the name of a bird that has a white head and neck, black wings, and sings incessantly during the spring"
   ],
   "niyengniyeri": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᡵᡳ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ",
     "spring (season)"
   ],
   "niyengniyeri be bodoro hafan bh": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᡵᡳ ᠪᡝ ᠪᠣᡩᠣᡵᠣ ᡥᠠᡶᠠᠨ ᠪᡥ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ ᠪᡝ ᠪᠣᡩᠣᡵᠣ ᡥᠠᡶᠠᠨ ᠪᡥ",
     "Astronomer for Spring, 229"
   ],
   "niyengniyeri dosimbi": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᡵᡳ ᡩᠣᠰᡳᠮᠪᡳ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ ᡩᠣᠰᡳᠮᠪᡳ",
     "'spring enters'--one of the twenty-four divisions of the solar year falling on the 4th or 5th of February"
   ],
   "niyengniyeri dulin": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᡵᡳ ᡩᡠᠯᡳᠨ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ ᡩᡠᠯᡳᠨ",
     "the vernal equinox"
   ],
   "niyengniyeri enduri": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᡵᡳ ᡝᠨᡩᡠᡵᡳ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ ᡝᠨᡩᡠᡵᡳ",
     "the name of a god to whom sacrifice is offered on 'spring enters'"
   ],
   "niyengniyeri fiyan de urgunjere mudan": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᡵᡳ ᡶᡳᠶᠠᠨ ᡩᡝ ᡠᡵᡤᡠᠨᠵᡝᡵᡝ ᠮᡠᡩᠠᠨ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ ᡶᡳᠶᠠᠨ ᡩᡝ ᡠᡵᡤᡠᠨᠵᡝᡵᡝ ᠮᡠᡩᠠᠨ",
     "a piece of music played while tea was brought in to the banquet following the spring plowing ceremony"
   ],
   "niyengniyeri mujilen": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᡵᡳ ᠮᡠᠵᡳᠯᡝᠨ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ ᠮᡠᠵᡳᠯᡝᠨ",
     "sexual feelings"
   ],
   "niyengniyeri xungga ilha": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᡵᡳ ᡧᡠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ ᡧᡠᠩᡤᠠ ᡳᠯᡥᠠ",
     "a fragrant white flower with six petals and a yellow center"
   ],
   "niyengniyerikten": [
-    "ᠨᡳᠶᡝᠨᡤᠨᡳᠶᡝᡵᡳᡴᡨᡝᠨ",
+    "ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳᡴᡨᡝᠨ",
     "the spring offering to the ancestors"
   ],
   "niyeniye": [
@@ -60912,7 +60912,7 @@ const dictionary = {
     "without helmet and armor"
   ],
   "niyerengge": [
-    "ᠨᡳᠶᡝᡵᡝᠨᡤᡤᡝ",
+    "ᠨᡳᠶᡝᡵᡝᠩᡤᡝ",
     "one who wears light clothing"
   ],
   "niyo": [
@@ -61032,7 +61032,7 @@ const dictionary = {
     "Equestrian Section, 118"
   ],
   "nomhon sufan i falgangga bh": [
-    "ᠨᠣᠮᡥᠣᠨ ᠰᡠᡶᠠᠨ ᡳ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ ᠪᡥ",
+    "ᠨᠣᠮᡥᠣᠨ ᠰᡠᡶᠠᠨ ᡳ ᡶᠠᠯᡤᠠᠩᡤᠠ ᠪᡥ",
     "Elephant-training Section, 122"
   ],
   "nomhon sufan ujire boo": [
@@ -61084,31 +61084,31 @@ const dictionary = {
     "younger sister"
   ],
   "nonggibumbi": [
-    "ᠨᠣᠨᡤᡤᡳᠪᡠᠮᠪᡳ",
+    "ᠨᠣᠩᡤᡳᠪᡠᠮᠪᡳ",
     "1. caus./pass. of nonggimbi 2. to advance, to increase"
   ],
   "nonggibure gucu": [
-    "ᠨᠣᠨᡤᡤᡳᠪᡠᡵᡝ ᡤᡠᠴᡠ",
+    "ᠨᠣᠩᡤᡳᠪᡠᡵᡝ ᡤᡠᠴᡠ",
     "an intimate friend"
   ],
   "nonggimbi": [
-    "ᠨᠣᠨᡤᡤᡳᠮᠪᡳ",
+    "ᠨᠣᠩᡤᡳᠮᠪᡳ",
     "1. to add, to add to 2. to increase (in rank)"
   ],
   "nonggime fungnembi": [
-    "ᠨᠣᠨᡤᡤᡳᠮᡝ ᡶᡠᠨᡤᠨᡝᠮᠪᡳ",
+    "ᠨᠣᠩᡤᡳᠮᡝ ᡶᡠᠩᠨᡝᠮᠪᡳ",
     "to raise to a higher rank as a sign of favor"
   ],
   "nongginambi": [
-    "ᠨᠣᠨᡤᡤᡳᠨᠠᠮᠪᡳ",
+    "ᠨᠣᠩᡤᡳᠨᠠᠮᠪᡳ",
     "to go to add, to go to increase"
   ],
   "nonggindumbi": [
-    "ᠨᠣᠨᡤᡤᡳᠨᡩᡠᠮᠪᡳ",
+    "ᠨᠣᠩᡤᡳᠨᡩᡠᠮᠪᡳ",
     "to add together, to increase together"
   ],
   "nongginjimbi": [
-    "ᠨᠣᠨᡤᡤᡳᠨᠵᡳᠮᠪᡳ",
+    "ᠨᠣᠩᡤᡳᠨᠵᡳᠮᠪᡳ",
     "to come to add, to come to increase"
   ],
   "nono": [
@@ -61220,7 +61220,7 @@ const dictionary = {
     "to clench the fist"
   ],
   "nujangga maitu": [
-    "ᠨᡠᠵᠠᠨᡤᡤᠠ ᠮᠠᡳᡨᡠ",
+    "ᠨᡠᠵᠠᠩᡤᠠ ᠮᠠᡳᡨᡠ",
     "a red-lacquered pole with a golden fist on the end"
   ],
   "nujaxambi": [
@@ -61292,79 +61292,79 @@ const dictionary = {
     "to come to lead a nomadic life"
   ],
   "nunggalambi": [
-    "ᠨᡠᠨᡤᡤᠠᠯᠠᠮᠪᡳ",
+    "ᠨᡠᠩᡤᠠᠯᠠᠮᠪᡳ",
     "to stew slowly"
   ],
   "nunggalaha yali": [
-    "ᠨᡠᠨᡤᡤᠠᠯᠠᡥᠠ ᠶᠠᠯᡳ",
+    "ᠨᡠᠩᡤᠠᠯᠠᡥᠠ ᠶᠠᠯᡳ",
     "stewed meat"
   ],
   "nunggari": [
-    "ᠨᡠᠨᡤᡤᠠᡵᡳ",
+    "ᠨᡠᠩᡤᠠᡵᡳ",
     "down, fuzz"
   ],
   "nunggari fathangga kuwecihe": [
-    "ᠨᡠᠨᡤᡤᠠᡵᡳ ᡶᠠᡨᡥᠠᠨᡤᡤᠠ ᡴᡠᠸᡝᠴᡳᡥᡝ",
+    "ᠨᡠᠩᡤᠠᡵᡳ ᡶᠠᡨᡥᠠᠩᡤᠠ ᡴᡠᠸᡝᠴᡳᡥᡝ",
     "sand grouse (Syrrhaptes paradoxus)"
   ],
   "nunggari funggaha": [
-    "ᠨᡠᠨᡤᡤᠠᡵᡳ ᡶᡠᠨᡤᡤᠠᡥᠠ",
+    "ᠨᡠᠩᡤᠠᡵᡳ ᡶᡠᠩᡤᠠᡥᠠ",
     "one name for the quail; cf. mušu."
   ],
   "nunggari funiyesun": [
-    "ᠨᡠᠨᡤᡤᠠᡵᡳ ᡶᡠᠨᡳᠶᡝᠰᡠᠨ",
+    "ᠨᡠᠩᡤᠠᡵᡳ ᡶᡠᠨᡳᠶᡝᠰᡠᠨ",
     "a type of woolen"
   ],
   "nunggari jafu": [
-    "ᠨᡠᠨᡤᡤᠠᡵᡳ ᠵᠠᡶᡠ",
+    "ᠨᡠᠩᡤᠠᡵᡳ ᠵᠠᡶᡠ",
     "fuzzy felt"
   ],
   "nunggasun": [
-    "ᠨᡠᠨᡤᡤᠠᠰᡠᠨ",
+    "ᠨᡠᠩᡤᠠᠰᡠᠨ",
     "a fine material woven from down"
   ],
   "nunggasun suje": [
-    "ᠨᡠᠨᡤᡤᠠᠰᡠᠨ ᠰᡠᠵᡝ",
+    "ᠨᡠᠩᡤᠠᠰᡠᠨ ᠰᡠᠵᡝ",
     "a satinlike material woven from down"
   ],
   "nunggele": [
-    "ᠨᡠᠨᡤᡤᡝᠯᡝ",
+    "ᠨᡠᠩᡤᡝᠯᡝ",
     "linden tree"
   ],
   "nunggembi": [
-    "ᠨᡠᠨᡤᡤᡝᠮᠪᡳ",
+    "ᠨᡠᠩᡤᡝᠮᠪᡳ",
     "to swallow"
   ],
   "nunggile": [
-    "ᠨᡠᠨᡤᡤᡳᠯᡝ",
+    "ᠨᡠᠩᡤᡳᠯᡝ",
     "see nunggele"
   ],
   "nunggimbi": [
-    "ᠨᡠᠨᡤᡤᡳᠮᠪᡳ",
+    "ᠨᡠᠩᡤᡳᠮᠪᡳ",
     "see nunggembi"
   ],
   "nungnebumbi": [
-    "ᠨᡠᠨᡤᠨᡝᠪᡠᠮᠪᡳ",
+    "ᠨᡠᠩᠨᡝᠪᡠᠮᠪᡳ",
     "1. caus./pass. of nungnembi 2. (euphemistic) to be murdered"
   ],
   "nungnecun": [
-    "ᠨᡠᠨᡤᠨᡝᠴᡠᠨ",
+    "ᠨᡠᠩᠨᡝᠴᡠᠨ",
     "harm, injury"
   ],
   "nungneku": [
-    "ᠨᡠᠨᡤᠨᡝᡴᡠ",
+    "ᠨᡠᠩᠨᡝᡴᡠ",
     "injurer, provoker"
   ],
   "nungnembi": [
-    "ᠨᡠᠨᡤᠨᡝᠮᠪᡳ",
+    "ᠨᡠᠩᠨᡝᠮᠪᡳ",
     "1. to tease, to provoke, to incite 2. to bother, to annoy, 3. to harm, to wrong, to oppress 4. (euphemism) to murder"
   ],
   "nungnenjimbi": [
-    "ᠨᡠᠨᡤᠨᡝᠨᠵᡳᠮᠪᡳ",
+    "ᠨᡠᠩᠨᡝᠨᠵᡳᠮᠪᡳ",
     "to come to provoke, to come to harm"
   ],
   "nungneri monio": [
-    "ᠨᡠᠨᡤᠨᡝᡵᡳ ᠮᠣᠨᡳᠣ",
+    "ᠨᡠᠩᠨᡝᡵᡳ ᠮᠣᠨᡳᠣ",
     "one name for the monkey"
   ],
   "nunjibumbi": [
@@ -61488,19 +61488,19 @@ const dictionary = {
     "to wash"
   ],
   "obonggi": [
-    "ᠣᠪᠣᠨᡤᡤᡳ",
+    "ᠣᠪᠣᠩᡤᡳ",
     "bubble, foam"
   ],
   "obonggi arki": [
-    "ᠣᠪᠣᠨᡤᡤᡳ ᠠᡵᡴᡳ",
+    "ᠣᠪᠣᠩᡤᡳ ᠠᡵᡴᡳ",
     "a bubbling distilled liquor made by the Manchus"
   ],
   "obongginambi": [
-    "ᠣᠪᠣᠨᡤᡤᡳᠨᠠᠮᠪᡳ",
+    "ᠣᠪᠣᠩᡤᡳᠨᠠᠮᠪᡳ",
     "to form foam, to foam, to bubble"
   ],
   "obonggo hiyan": [
-    "ᠣᠪᠣᠨᡤᡤᠣ ᡥᡳᠶᠠᠨ",
+    "ᠣᠪᠣᠩᡤᠣ ᡥᡳᠶᠠᠨ",
     "dragon spittle incense"
   ],
   "obonombi": [
@@ -61572,7 +61572,7 @@ const dictionary = {
     "the end of the nose"
   ],
   "oforo i sangga": [
-    "ᠣᡶᠣᡵᠣ ᡳ ᠰᠠᠨᡤᡤᠠ",
+    "ᠣᡶᠣᡵᠣ ᡳ ᠰᠠᠩᡤᠠ",
     "the nostrils"
   ],
   "oforo niyaki": [
@@ -61580,7 +61580,7 @@ const dictionary = {
     "nasal discharge, nasal mucous"
   ],
   "oforo sangga": [
-    "ᠣᡶᠣᡵᠣ ᠰᠠᠨᡤᡤᠠ",
+    "ᠣᡶᠣᡵᠣ ᠰᠠᠩᡤᠠ",
     "nostril"
   ],
   "oforo tura": [
@@ -61592,7 +61592,7 @@ const dictionary = {
     "to incite by slander, to engage in malicious gossip"
   ],
   "oforonggo": [
-    "ᠣᡶᠣᡵᠣᠨᡤᡤᠣ",
+    "ᠣᡶᠣᡵᠣᠩᡤᠣ",
     "slanderer, gossip"
   ],
   "ogo": [
@@ -61760,7 +61760,7 @@ const dictionary = {
     "imperfect participle of ombi"
   ],
   "ojorongge": [
-    "ᠣᠵᠣᡵᠣᠨᡤᡤᡝ",
+    "ᠣᠵᠣᡵᠣᠩᡤᡝ",
     "that which is, that which is permissible"
   ],
   "ok": [
@@ -61780,7 +61780,7 @@ const dictionary = {
     "1. a cover, covering 2. shell (of a crab)"
   ],
   "okcingga moro": [
-    "ᠣᡴᠴᡳᠨᡤᡤᠠ ᠮᠣᡵᠣ",
+    "ᠣᡴᠴᡳᠩᡤᠠ ᠮᠣᡵᠣ",
     "a bowl or cup with a cover"
   ],
   "okdobumbi": [
@@ -61888,7 +61888,7 @@ const dictionary = {
     "to mix medicine"
   ],
   "okto fangd": [
-    "ᠣᡴᡨᠣ ᡶᠠᠨᡤᡩ",
+    "ᠣᡴᡨᠣ ᡶᠠᠩᡩ",
     "drug prescription"
   ],
   "okto fushubumbi": [
@@ -62052,7 +62052,7 @@ const dictionary = {
     "land route"
   ],
   "olhon monggon": [
-    "ᠣᠯᡥᠣᠨ ᠮᠣᠨᡤᡤᠣᠨ",
+    "ᠣᠯᡥᠣᠨ ᠮᠣᠩᡤᠣᠨ",
     "the windpipe, trachea"
   ],
   "olhoxombi": [
@@ -62128,7 +62128,7 @@ const dictionary = {
     "girth of a horse"
   ],
   "olongdo": [
-    "ᠣᠯᠣᠨᡤᡩᠣ",
+    "ᠣᠯᠣᠩᡩᠣ",
     "long boots used for mountain climbing"
   ],
   "olosi": [
@@ -62148,7 +62148,7 @@ const dictionary = {
     "harelip, having a harelip"
   ],
   "omi sangga": [
-    "ᠣᠮᡳ ᠰᠠᠨᡤᡤᠠ",
+    "ᠣᠮᡳ ᠰᠠᠩᡤᠠ",
     "a hole used by rats and squirrels for storing food"
   ],
   "omibumbi": [
@@ -62192,7 +62192,7 @@ const dictionary = {
     "to go to drink"
   ],
   "omingga": [
-    "ᠣᠮᡳᠨᡤᡤᠠ",
+    "ᠣᠮᡳᠩᡤᠠ",
     "drink, beverage"
   ],
   "ominjimbi": [
@@ -62212,7 +62212,7 @@ const dictionary = {
     "salt taken from a lake by distillation"
   ],
   "omoktu konggoro": [
-    "ᠣᠮᠣᡴᡨᡠ ᡴᠣᠨᡤᡤᠣᡵᠣ",
+    "ᠣᠮᠣᡴᡨᡠ ᡴᠣᠩᡤᠣᡵᠣ",
     "a yellow horse"
   ],
   "omolo": [
@@ -62312,83 +62312,83 @@ const dictionary = {
     "to engage in sexual intercourse together"
   ],
   "ong seme": [
-    "ᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᠣᠩ ᠰᡝᠮᡝ",
     "(onom.) the sound made by an arrowhead called oki yoro"
   ],
   "onggobumbi": [
-    "ᠣᠨᡤᡤᠣᠪᡠᠮᠪᡳ",
+    "ᠣᠩᡤᠣᠪᡠᠮᠪᡳ",
     "caus./pass. of onggombi"
   ],
   "onggocon": [
-    "ᠣᠨᡤᡤᠣᠴᠣᠨ",
+    "ᠣᠩᡤᠣᠴᠣᠨ",
     "a short two-stringed musical instrument"
   ],
   "onggolo": [
-    "ᠣᠨᡤᡤᠣᠯᠣ",
+    "ᠣᠩᡤᠣᠯᠣ",
     "1. before, previous, ago 2. in front 3. a river port"
   ],
   "onggolokon": [
-    "ᠣᠨᡤᡤᠣᠯᠣᡴᠣᠨ",
+    "ᠣᠩᡤᠣᠯᠣᡴᠣᠨ",
     "a little before"
   ],
   "onggombi": [
-    "ᠣᠨᡤᡤᠣᠮᠪᡳ",
+    "ᠣᠩᡤᠣᠮᠪᡳ",
     "to forget"
   ],
   "onggoro cecike": [
-    "ᠣᠨᡤᡤᠣᡵᠣ ᠴᡝᠴᡳᡴᡝ",
+    "ᠣᠩᡤᠣᡵᠣ ᠴᡝᠴᡳᡴᡝ",
     "jay"
   ],
   "onggoro ilha": [
-    "ᠣᠨᡤᡤᠣᡵᠣ ᡳᠯᡥᠠ",
+    "ᠣᠩᡤᠣᡵᠣ ᡳᠯᡥᠠ",
     "the bloom of Hemerocallis graminea--the flower of forgetfulness"
   ],
   "onggoro mangga": [
-    "ᠣᠨᡤᡤᠣᡵᠣ ᠮᠠᠨᡤᡤᠠ",
+    "ᠣᠩᡤᠣᡵᠣ ᠮᠠᠩᡤᠠ",
     "the same as onggctai"
   ],
   "onggoro orho": [
-    "ᠣᠨᡤᡤᠣᡵᠣ ᠣᡵᡥᠣ",
+    "ᠣᠩᡤᠣᡵᠣ ᠣᡵᡥᠣ",
     "Hemerocallis graminea"
   ],
   "onggon": [
-    "ᠣᠨᡤᡤᠣᠨ",
+    "ᠣᠩᡤᠣᠨ",
     "the space between the saddle and the animal's back, bare back of a horse"
   ],
   "onggoro": [
-    "ᠣᠨᡤᡤᠣᡵᠣ",
+    "ᠣᠩᡤᠣᡵᠣ",
     "1. the hammer bone of the inner ear (worn by children as a charm against forgetfulness) 2. forgetful; cf. onggombi"
   ],
   "onggosu": [
-    "ᠣᠨᡤᡤᠣᠰᡠ",
+    "ᠣᠩᡤᠣᠰᡠ",
     "an absent-minded person"
   ],
   "onggoxon": [
-    "ᠣᠨᡤᡤᠣᡧᠣᠨ",
+    "ᠣᠩᡤᠣᡧᠣᠨ",
     "golden carp, Carassius auratus"
   ],
   "onggotai": [
-    "ᠣᠨᡤᡤᠣᡨᠠᡳ",
+    "ᠣᠩᡤᠣᡨᠠᡳ",
     "forgetful"
   ],
   "ongkimbi": [
-    "ᠣᠨᡤᡴᡳᠮᠪᡳ",
+    "ᠣᠩᡴᡳᠮᠪᡳ",
     "to flee (of animals when they see or smell an approaching person)"
   ],
   "ongko": [
-    "ᠣᠨᡤᡴᠣ",
+    "ᠣᠩᡴᠣ",
     "pasture, pastureland"
   ],
   "ongnika": [
-    "ᠣᠨᡤᠨᡳᡴᠠ",
+    "ᠣᠩᠨᡳᡴᠠ",
     "wolverine"
   ],
   "ongton": [
-    "ᠣᠨᡤᡨᠣᠨ",
+    "ᠣᠩᡨᠣᠨ",
     "boorish, rustic, unsophisticated"
   ],
   "ongtori": [
-    "ᠣᠨᡤᡨᠣᡵᡳ",
+    "ᠣᠩᡨᠣᡵᡳ",
     "boorish, ignorant"
   ],
   "onon": [
@@ -62520,7 +62520,7 @@ const dictionary = {
     "white and black feathers on the tails of falcons"
   ],
   "orhonggo kiltari": [
-    "ᠣᡵᡥᠣᠨᡤᡤᠣ ᡴᡳᠯᡨᠠᡵᡳ",
+    "ᠣᡵᡥᠣᠩᡤᠣ ᡴᡳᠯᡨᠠᡵᡳ",
     "signal flag with feathers attached to it"
   ],
   "ori": [
@@ -62556,7 +62556,7 @@ const dictionary = {
     "see orinta"
   ],
   "orobuhangge": [
-    "ᠣᡵᠣᠪᡠᡥᠠᠨᡤᡤᡝ",
+    "ᠣᡵᠣᠪᡠᡥᠠᠩᡤᡝ",
     "various foods made from curdled milk"
   ],
   "orobumbi": [
@@ -62608,7 +62608,7 @@ const dictionary = {
     "incumbent who puts his position up for sale"
   ],
   "oron i kunggeri": [
-    "ᠣᡵᠣᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠣᡵᠣᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office concerned with vacant posts--part of the Board of Civil Appointments"
   ],
   "oron i xusi": [
@@ -62628,7 +62628,7 @@ const dictionary = {
     "see oron de"
   ],
   "oronggo": [
-    "ᠣᡵᠣᠨᡤᡤᠣ",
+    "ᠣᡵᠣᠩᡤᠣ",
     "Przewalski's gazelle"
   ],
   "oros": [
@@ -62696,11 +62696,11 @@ const dictionary = {
     "to catch in the claws"
   ],
   "oxohonggo": [
-    "ᠣᡧᠣᡥᠣᠨᡤᡤᠣ",
+    "ᠣᡧᠣᡥᠣᠩᡤᠣ",
     "having claws"
   ],
   "oxonggo ilha": [
-    "ᠣᡧᠣᠨᡤᡤᠣ ᡳᠯᡥᠠ",
+    "ᠣᡧᠣᠩᡤᠣ ᡳᠯᡥᠠ",
     "an exotic flower whose petals resemble falcon's claws"
   ],
   "otala": [
@@ -62788,23 +62788,23 @@ const dictionary = {
     "to have arrived at the peak (of destitution)"
   ],
   "oyonggo": [
-    "ᠣᠶᠣᠨᡤᡤᠣ",
+    "ᠣᠶᠣᠩᡤᠣ",
     "important, urgent, essential"
   ],
   "oyonggo baita": [
-    "ᠣᠶᠣᠨᡤᡤᠣ ᠪᠠᡳᡨᠠ",
+    "ᠣᠶᠣᠩᡤᠣ ᠪᠠᡳᡨᠠ",
     "urgent or important matter"
   ],
   "oyonggo jecen": [
-    "ᠣᠶᠣᠨᡤᡤᠣ ᠵᡝᠴᡝᠨ",
+    "ᠣᠶᠣᠩᡤᠣ ᠵᡝᠴᡝᠨ",
     "an important border area"
   ],
   "oyonggon": [
-    "ᠣᠶᠣᠨᡤᡤᠣᠨ",
+    "ᠣᠶᠣᠩᡤᠣᠨ",
     "important matter, important point"
   ],
   "oyotonggo mahatun": [
-    "ᠣᠶᠣᡨᠣᠨᡤᡤᠣ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᠣᠶᠣᡨᠣᠩᡤᠣ ᠮᠠᡥᠠᡨᡠᠨ",
     "a hat of Ch'in and Han times with an arched top"
   ],
   "oyoyo": [
@@ -62828,7 +62828,7 @@ const dictionary = {
     "to play dominoes, to play cards, to play mah-jongg"
   ],
   "pai fang ilibumbi": [
-    "ᡦᠠᡳ ᡶᠠᠨᡤ ᡳᠯᡳᠪᡠᠮᠪᡳ",
+    "ᡦᠠᡳ ᡶᠠᠩ ᡳᠯᡳᠪᡠᠮᠪᡳ",
     "to erect a pailou"
   ],
   "pai pai lu": [
@@ -62888,23 +62888,23 @@ const dictionary = {
     "chessboard"
   ],
   "pang": [
-    "ᡦᠠᠨᡤ",
+    "ᡦᠠᠩ",
     "a sail, the same as kotoli"
   ],
   "pangduwan": [
-    "ᡦᠠᠨᡤᡩᡠᠸᠠᠨ",
+    "ᡦᠠᠩᡩᡠᠸᠠᠨ",
     "Kiangsu silk"
   ],
   "panghai": [
-    "ᡦᠠᠨᡤᡥᠠᡳ",
+    "ᡦᠠᠩᡥᠠᡳ",
     "crab, the same as katuri"
   ],
   "pangse jahvdai": [
-    "ᡦᠠᠨᡤᠰᡝ ᠵᠠᡥᡡᡩᠠᡳ",
+    "ᡦᠠᠩᠰᡝ ᠵᠠᡥᡡᡩᠠᡳ",
     "a type of war junk"
   ],
   "pangtanambi": [
-    "ᡦᠠᠨᡤᡨᠠᠨᠠᠮᠪᡳ",
+    "ᡦᠠᠩᡨᠠᠨᠠᠮᠪᡳ",
     "to get fat"
   ],
   "panlo": [
@@ -63012,7 +63012,7 @@ const dictionary = {
     "tanner"
   ],
   "pi xuwang okto": [
-    "ᡦᡳ ᡧᡠᠸᠠᠨᡤ ᠣᡴᡨᠣ",
+    "ᡦᡳ ᡧᡠᠸᠠᠩ ᠣᡴᡨᠣ",
     "arsenic"
   ],
   "picik pacak": [
@@ -63064,55 +63064,55 @@ const dictionary = {
     "an imperial concubine of the fourth rank"
   ],
   "ping di jeo": [
-    "ᡦᡳᠨᡤ ᡩᡳ ᠵᡝᠣ",
+    "ᡦᡳᠩ ᡩᡳ ᠵᡝᠣ",
     "smooth crepe"
   ],
   "ping go": [
-    "ᡦᡳᠨᡤ ᡤᠣ",
+    "ᡦᡳᠩ ᡤᠣ",
     "apple; cf. pinggu"
   ],
   "ping orho": [
-    "ᡦᡳᠨᡤ ᠣᡵᡥᠣ",
+    "ᡦᡳᠩ ᠣᡵᡥᠣ",
     "duckweed"
   ],
   "ping sembi": [
-    "ᡦᡳᠨᡤ ᠰᡝᠮᠪᡳ",
+    "ᡦᡳᠩ ᠰᡝᠮᠪᡳ",
     "to be bloated, to be swollen"
   ],
   "pingd": [
-    "ᡦᡳᠨᡤᡩ",
+    "ᡦᡳᠩᡩ",
     "see pingse"
   ],
   "pinggari": [
-    "ᡦᡳᠨᡤᡤᠠᡵᡳ",
+    "ᡦᡳᠩᡤᠠᡵᡳ",
     "Marsilia quadrifolia--a plant that grows in shallow water"
   ],
   "pinggiyen boso": [
-    "ᡦᡳᠨᡤᡤᡳᠶᡝᠨ ᠪᠣᠰᠣ",
+    "ᡦᡳᠩᡤᡳᠶᡝᠨ ᠪᠣᠰᠣ",
     "a type of smooth linen"
   ],
   "pinggo": [
-    "ᡦᡳᠨᡤᡤᠣ",
+    "ᡦᡳᠩᡤᠣ",
     "see pinggu"
   ],
   "pinggu": [
-    "ᡦᡳᠨᡤᡤᡠ",
+    "ᡦᡳᠩᡤᡠ",
     "apple"
   ],
   "pingguri": [
-    "ᡦᡳᠨᡤᡤᡠᡵᡳ",
+    "ᡦᡳᠩᡤᡠᡵᡳ",
     "see pinggu."
   ],
   "pingse": [
-    "ᡦᡳᠨᡤᠰᡝ",
+    "ᡦᡳᠩᠰᡝ",
     "1. scale, balance 2. vase, bottle"
   ],
   "pingselebumbi": [
-    "ᡦᡳᠨᡤᠰᡝᠯᡝᠪᡠᠮᠪᡳ",
+    "ᡦᡳᠩᠰᡝᠯᡝᠪᡠᠮᠪᡳ",
     "caus. of pingselembi"
   ],
   "pingselembi": [
-    "ᡦᡳᠨᡤᠰᡝᠯᡝᠮᠪᡳ",
+    "ᡦᡳᠩᠰᡝᠯᡝᠮᠪᡳ",
     "to weigh on a balance"
   ],
   "pio seme": [
@@ -63140,7 +63140,7 @@ const dictionary = {
     "chessboard"
   ],
   "piyang seme": [
-    "ᡦᡳᠶᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡦᡳᠶᠠᠩ ᠰᡝᠮᡝ",
     "chirping (of crickets)"
   ],
   "piyas pis seme": [
@@ -63156,7 +63156,7 @@ const dictionary = {
     "to hit the wrist with two fingers (a game)"
   ],
   "piyatang seme": [
-    "ᡦᡳᠶᠠᡨᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡦᡳᠶᠠᡨᠠᠩ ᠰᡝᠮᡝ",
     "the same as piyatar same"
   ],
   "piyatar seme": [
@@ -63180,7 +63180,7 @@ const dictionary = {
     "(onom.) the sound of things hitting the water"
   ],
   "pocong": [
-    "ᡦᠣᠴᠣᠨᡤ",
+    "ᡦᠣᠴᠣᠩ",
     "the same as pocok"
   ],
   "podao": [
@@ -63228,11 +63228,11 @@ const dictionary = {
     "see polori"
   ],
   "pongcun": [
-    "ᡦᠣᠨᡤᠴᡠᠨ",
+    "ᡦᠣᠩᠴᡠᠨ",
     "paunchy, short and paunchy"
   ],
   "pongtonombi": [
-    "ᡦᠣᠨᡤᡨᠣᠨᠣᠮᠪᡳ",
+    "ᡦᠣᠩᡨᠣᠨᠣᠮᠪᡳ",
     "to get fat and clumsy"
   ],
   "poo": [
@@ -63252,7 +63252,7 @@ const dictionary = {
     "gunner, artillerist"
   ],
   "poo i unggala": [
-    "ᡦᠣᠣ ᡳ ᡠᠨᡤᡤᠠᠯᠠ",
+    "ᡦᠣᠣ ᡳ ᡠᠩᡤᠠᠯᠠ",
     "magazine or powder chamber"
   ],
   "poo sindambi": [
@@ -63272,7 +63272,7 @@ const dictionary = {
     "see porponombi"
   ],
   "porong seme": [
-    "ᡦᠣᡵᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᡦᠣᡵᠣᠩ ᠰᡝᠮᡝ",
     "crude, coarse, boorish"
   ],
   "porpa": [
@@ -63384,7 +63384,7 @@ const dictionary = {
     "silken gauze with insignias of rank on it"
   ],
   "puse noho niktongga suri": [
-    "ᡦᡠᠰᡝ ᠨᠣᡥᠣ ᠨᡳᡴᡨᠣᠨᡤᡤᠠ ᠰᡠᡵᡳ",
+    "ᡦᡠᠰᡝ ᠨᠣᡥᠣ ᠨᡳᡴᡨᠣᠩᡤᠠ ᠰᡠᡵᡳ",
     "Nanking silk bearing insignia of rank"
   ],
   "puse noho suje": [
@@ -63448,7 +63448,7 @@ const dictionary = {
     "to leak, to drip, to trickle, to fall in drops"
   ],
   "sabdara silenggingge fukjingga hergen": [
-    "ᠰᠠᠪᡩᠠᡵᠠ ᠰᡳᠯᡝᠨᡤᡤᡳᠨᡤᡤᡝ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠰᠠᠪᡩᠠᡵᠠ ᠰᡳᠯᡝᠩᡤᡳᠩᡤᡝ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "sabdan": [
@@ -63464,7 +63464,7 @@ const dictionary = {
     "drop by drop"
   ],
   "sabdangga vase": [
-    "ᠰᠠᠪᡩᠠᠨᡤᡤᠠ ᡡᠠᠰᡝ",
+    "ᠰᠠᠪᡩᠠᠩᡤᠠ ᡡᠠᠰᡝ",
     "roof tile that permits water to drip down"
   ],
   "sabe": [
@@ -63484,39 +63484,39 @@ const dictionary = {
     "to give a sign"
   ],
   "sabingga": [
-    "ᠰᠠᠪᡳᠨᡤᡤᠠ",
+    "ᠰᠠᠪᡳᠩᡤᠠ",
     "propitious, pertaining to a good omen"
   ],
   "sabingga cecike": [
-    "ᠰᠠᠪᡳᠨᡤᡤᠠ ᠴᡝᠴᡳᡴᡝ",
+    "ᠰᠠᠪᡳᠩᡤᠠ ᠴᡝᠴᡳᡴᡝ",
     "a dark gray bird with a strong wide red beak--the male and female are always found together"
   ],
   "sabingga darudai": [
-    "ᠰᠠᠪᡳᠨᡤᡤᠠ ᡩᠠᡵᡠᡩᠠᡳ",
+    "ᠰᠠᠪᡳᠩᡤᠠ ᡩᠠᡵᡠᡩᠠᡳ",
     "one name for the phoenix"
   ],
   "sabingga hooxan": [
-    "ᠰᠠᠪᡳᠨᡤᡤᠠ ᡥᠣᠣᡧᠠᠨ",
+    "ᠰᠠᠪᡳᠩᡤᠠ ᡥᠣᠣᡧᠠᠨ",
     "good-luck paper money hung on doors and gates at New Year's"
   ],
   "sabingga moo": [
-    "ᠰᠠᠪᡳᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠰᠠᠪᡳᠩᡤᠠ ᠮᠣᠣ",
     "the name of a mythical tree in which the Chinese characters for 'universal peace' are supposed to appear"
   ],
   "sabingga orho": [
-    "ᠰᠠᠪᡳᠨᡤᡤᠠ ᠣᡵᡥᠣ",
+    "ᠰᠠᠪᡳᠩᡤᠠ ᠣᡵᡥᠣ",
     "the fungus Fomes japonicus before it forms its cap"
   ],
   "sabingga sence": [
-    "ᠰᠠᠪᡳᠨᡤᡤᠠ ᠰᡝᠨᠴᡝ",
+    "ᠰᠠᠪᡳᠩᡤᠠ ᠰᡝᠨᠴᡝ",
     "the fungus Fomes japonicus"
   ],
   "sabingga sence i fukjingga hergen": [
-    "ᠰᠠᠪᡳᠨᡤᡤᠠ ᠰᡝᠨᠴᡝ ᡳ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠰᠠᠪᡳᠩᡤᠠ ᠰᡝᠨᠴᡝ ᡳ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "sabingga sence i xuxungge saracan": [
-    "ᠰᠠᠪᡳᠨᡤᡤᠠ ᠰᡝᠨᠴᡝ ᡳ ᡧᡠᡧᡠᠨᡤᡤᡝ ᠰᠠᡵᠠᠴᠠᠨ",
+    "ᠰᠠᠪᡳᠩᡤᠠ ᠰᡝᠨᠴᡝ ᡳ ᡧᡠᡧᡠᠩᡤᡝ ᠰᠠᡵᠠᠴᠠᠨ",
     "a purple parasol of the imperial escort embroidered with a figure of the auspicious fungus Fames japonicus"
   ],
   "sabintu": [
@@ -63524,7 +63524,7 @@ const dictionary = {
     "a female unicorn"
   ],
   "sabintungga fukjingga hergen": [
-    "ᠰᠠᠪᡳᠨᡨᡠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠰᠠᠪᡳᠨᡨᡠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "sabirgan cecike": [
@@ -63548,7 +63548,7 @@ const dictionary = {
     "the same as puss noho cece"
   ],
   "sabirgi noho niktongga suri": [
-    "ᠰᠠᠪᡳᡵᡤᡳ ᠨᠣᡥᠣ ᠨᡳᡴᡨᠣᠨᡤᡤᠠ ᠰᡠᡵᡳ",
+    "ᠰᠠᠪᡳᡵᡤᡳ ᠨᠣᡥᠣ ᠨᡳᡴᡨᠣᠩᡤᠠ ᠰᡠᡵᡳ",
     "the same as puse noho niktongga surf"
   ],
   "sabirgi noho suje": [
@@ -63712,7 +63712,7 @@ const dictionary = {
     "grains of buckwheat"
   ],
   "sacu fungse i ufa": [
-    "ᠰᠠᠴᡠ ᡶᡠᠨᡤᠰᡝ ᡳ ᡠᡶᠠ",
+    "ᠰᠠᠴᡠ ᡶᡠᠩᠰᡝ ᡳ ᡠᡶᠠ",
     "strained buckwheat flour"
   ],
   "sacu ufa": [
@@ -63828,7 +63828,7 @@ const dictionary = {
     "a type of quail with black feet"
   ],
   "sahaliyan giranggi coko": [
-    "ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ ᠴᠣᡴᠣ",
+    "ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᡤᡳᡵᠠᠩᡤᡳ ᠴᠣᡴᠣ",
     "a type of chicken with fuzzy white feathers and black bones and skin"
   ],
   "sahaliyan gu": [
@@ -63844,7 +63844,7 @@ const dictionary = {
     "a black pigeon or dove"
   ],
   "sahaliyan malanggv": [
-    "ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᠮᠠᠯᠠᠨᡤᡤᡡ",
+    "ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᠮᠠᠯᠠᠩᡤᡡ",
     "black sesame"
   ],
   "sahaliyan moo": [
@@ -63860,11 +63860,11 @@ const dictionary = {
     "small black beans"
   ],
   "sahaliyan tuyeku yonggan": [
-    "ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᡨᡠᠶᡝᡴᡠ ᠶᠣᠨᡤᡤᠠᠨ",
+    "ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᡨᡠᠶᡝᡴᡠ ᠶᠣᠩᡤᠠᠨ",
     "a black sand used in casting bronze"
   ],
   "sahaliyan ujungga": [
-    "ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᡠᠵᡠᠨᡤᡤᠠ",
+    "ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᡠᠵᡠᠩᡤᠠ",
     "'the black-headed ones'--the common people"
   ],
   "sahaliyan yarha": [
@@ -63936,7 +63936,7 @@ const dictionary = {
     "canter (of a horse)"
   ],
   "saicungga fengxen": [
-    "ᠰᠠᡳᠴᡠᠨᡤᡤᠠ ᡶᡝᠨᡤᡧᡝᠨ",
+    "ᠰᠠᡳᠴᡠᠩᡤᠠ ᡶᡝᠩᡧᡝᠨ",
     "the Chia-ch'ing reign period, 1796--1820"
   ],
   "saifa meihe": [
@@ -63996,11 +63996,11 @@ const dictionary = {
     "1. pretty, good-looking, beautiful 2. rather well, nicely, properly"
   ],
   "saikan arbungga ilha": [
-    "ᠰᠠᡳᡴᠠᠨ ᠠᡵᠪᡠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᠰᠠᡳᡴᠠᠨ ᠠᡵᠪᡠᠩᡤᠠ ᡳᠯᡥᠠ",
     "Rosa semperflorens"
   ],
   "saikan arbungga ilha i suwayan suje": [
-    "ᠰᠠᡳᡴᠠᠨ ᠠᡵᠪᡠᠨᡤᡤᠠ ᡳᠯᡥᠠ ᡳ ᠰᡠᠸᠠᠶᠠᠨ ᠰᡠᠵᡝ",
+    "ᠰᠠᡳᡴᠠᠨ ᠠᡵᠪᡠᠩᡤᠠ ᡳᠯᡥᠠ ᡳ ᠰᡠᠸᠠᠶᠠᠨ ᠰᡠᠵᡝ",
     ""
   ],
   "sara": [
@@ -64016,7 +64016,7 @@ const dictionary = {
     "snacks to go with liquor"
   ],
   "saikvngge": [
-    "ᠰᠠᡳᡴᡡᠨᡤᡤᡝ",
+    "ᠰᠠᡳᡴᡡᠩᡤᡝ",
     "pertaining to snacks"
   ],
   "saimbe": [
@@ -64028,7 +64028,7 @@ const dictionary = {
     "to bite, to chew"
   ],
   "saimengge": [
-    "ᠰᠠᡳᠮᡝᠨᡤᡤᡝ",
+    "ᠰᠠᡳᠮᡝᠩᡤᡝ",
     "worth tasting, good to eat"
   ],
   "sain": [
@@ -64060,7 +64060,7 @@ const dictionary = {
     "have a good trip!"
   ],
   "sain inenggi": [
-    "ᠰᠠᡳᠨ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠰᠠᡳᠨ ᡳᠨᡝᠩᡤᡳ",
     "an auspicious day, a clear day"
   ],
   "sain irgen": [
@@ -64084,7 +64084,7 @@ const dictionary = {
     "a man proficient in letters and good in his speech and conduct, scholar, gentleman"
   ],
   "saisa be baire kunggeri": [
-    "ᠰᠠᡳᠰᠠ ᠪᡝ ᠪᠠᡳᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠰᠠᡳᠰᠠ ᠪᡝ ᠪᠠᡳᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "Office for the recruiting of candidates for official service"
   ],
   "saisaha": [
@@ -64128,7 +64128,7 @@ const dictionary = {
     "to praise or commend together"
   ],
   "saixangga": [
-    "ᠰᠠᡳᡧᠠᠨᡤᡤᠠ",
+    "ᠰᠠᡳᡧᠠᠩᡤᠠ",
     "famous, renowned"
   ],
   "saitu": [
@@ -64144,7 +64144,7 @@ const dictionary = {
     "a million"
   ],
   "sajingga deo": [
-    "ᠰᠠᠵᡳᠨᡤᡤᠠ ᡩᡝᠣ",
+    "ᠰᠠᠵᡳᠩᡤᠠ ᡩᡝᠣ",
     "younger (in respect to speaker) student of the same teacher"
   ],
   "saka": [
@@ -64300,7 +64300,7 @@ const dictionary = {
     "to come to distribute"
   ],
   "salgabuhangge": [
-    "ᠰᠠᠯᡤᠠᠪᡠᡥᠠᠨᡤᡤᡝ",
+    "ᠰᠠᠯᡤᠠᠪᡠᡥᠠᠩᡤᡝ",
     "that which was ordained by heaven, that which was preordained"
   ],
   "salgabumbi": [
@@ -64320,7 +64320,7 @@ const dictionary = {
     "fate, decree of heaven, providence"
   ],
   "salgangga mujilen": [
-    "ᠰᠠᠯᡤᠠᠨᡤᡤᠠ ᠮᡠᠵᡳᠯᡝᠨ",
+    "ᠰᠠᠯᡤᠠᠩᡤᠠ ᠮᡠᠵᡳᠯᡝᠨ",
     "conscience"
   ],
   "salgatu hoohan": [
@@ -64372,7 +64372,7 @@ const dictionary = {
     "you're welcome (response to being thanked for a favor or gift)"
   ],
   "salingga": [
-    "ᠰᠠᠯᡳᠨᡤᡤᠠ",
+    "ᠰᠠᠯᡳᠩᡤᠠ",
     "assertive (person), prone to usurp authority, self-reliant"
   ],
   "saliyahan": [
@@ -64404,7 +64404,7 @@ const dictionary = {
     "to shave (one's whiskers)"
   ],
   "salungga": [
-    "ᠰᠠᠯᡠᠨᡤᡤᠠ",
+    "ᠰᠠᠯᡠᠩᡤᠠ",
     "bearded"
   ],
   "sama": [
@@ -64448,7 +64448,7 @@ const dictionary = {
     "shamaness"
   ],
   "samangga niyalma": [
-    "ᠰᠠᠮᠠᠨᡤᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᠰᠠᠮᠠᠩᡤᠠ ᠨᡳᠶᠠᠯᠮᠠ",
     "shaman, one who practices shamanism"
   ],
   "samara": [
@@ -64564,83 +64564,83 @@ const dictionary = {
     "to know one another, to know together"
   ],
   "sangga": [
-    "ᠰᠠᠨᡤᡤᠠ",
+    "ᠰᠠᠩᡤᠠ",
     "hole, opening"
   ],
   "sangga tvmbi": [
-    "ᠰᠠᠨᡤᡤᠠ ᡨᡡᠮᠪᡳ",
+    "ᠰᠠᠩᡤᠠ ᡨᡡᠮᠪᡳ",
     "to knock a hole in"
   ],
   "sanggata": [
-    "ᠰᠠᠨᡤᡤᠠᡨᠠ",
+    "ᠰᠠᠩᡤᠠᡨᠠ",
     "having holes or openings"
   ],
   "sanggatanambi": [
-    "ᠰᠠᠨᡤᡤᠠᡨᠠᠨᠠᠮᠪᡳ",
+    "ᠰᠠᠩᡤᠠᡨᠠᠨᠠᠮᠪᡳ",
     "to form holes or openings"
   ],
   "sanggatangga": [
-    "ᠰᠠᠨᡤᡤᠠᡨᠠᠨᡤᡤᠠ",
+    "ᠰᠠᠩᡤᠠᡨᠠᠩᡤᠠ",
     "having holes, riddled with holes"
   ],
   "sangguhe": [
-    "ᠰᠠᠨᡤᡤᡠᡥᡝ",
+    "ᠰᠠᠩᡤᡠᡥᡝ",
     "one name for the myna"
   ],
   "sangguji": [
-    "ᠰᠠᠨᡤᡤᡠᠵᡳ",
+    "ᠰᠠᠩᡤᡠᠵᡳ",
     "jellyfish"
   ],
   "sanggv": [
-    "ᠰᠠᠨᡤᡤᡡ",
+    "ᠰᠠᠩᡤᡡ",
     "right, just right, just as one wished"
   ],
   "sanggvxabumbi": [
-    "ᠰᠠᠨᡤᡤᡡᡧᠠᠪᡠᠮᠪᡳ",
+    "ᠰᠠᠩᡤᡡᡧᠠᠪᡠᠮᠪᡳ",
     "caus./pass. of sanggūšambi"
   ],
   "sanggvxambi": [
-    "ᠰᠠᠨᡤᡤᡡᡧᠠᠮᠪᡳ",
+    "ᠰᠠᠩᡤᡡᡧᠠᠮᠪᡳ",
     "to be pleased, to have matters turn out according to one's wishes"
   ],
   "sangka": [
-    "ᠰᠠᠨᡤᡴᠠ",
+    "ᠰᠠᠩᡴᠠ",
     "(perfect participle of sambi [2]) distant, distantly related"
   ],
   "sangka ahvn deo": [
-    "ᠰᠠᠨᡤᡴᠠ ᠠᡥᡡᠨ ᡩᡝᠣ",
+    "ᠰᠠᠩᡴᠠ ᠠᡥᡡᠨ ᡩᡝᠣ",
     "great-grandfather's brother"
   ],
   "sangkangga jalahi jui": [
-    "ᠰᠠᠨᡤᡴᠠᠨᡤᡤᠠ ᠵᠠᠯᠠᡥᡳ ᠵᡠᡳ",
+    "ᠰᠠᠩᡴᠠᠩᡤᠠ ᠵᠠᠯᠠᡥᡳ ᠵᡠᡳ",
     "son of a second or third cousin"
   ],
   "sangkangge": [
-    "ᠰᠠᠨᡤᡴᠠᠨᡤᡤᡝ",
+    "ᠰᠠᠩᡴᠠᠩᡤᡝ",
     "very distant"
   ],
   "sangsarabumbi": [
-    "ᠰᠠᠨᡤᠰᠠᡵᠠᠪᡠᠮᠪᡳ",
+    "ᠰᠠᠩᠰᠠᡵᠠᠪᡠᠮᠪᡳ",
     "caus. of sangsarambi"
   ],
   "sangsarambi": [
-    "ᠰᠠᠨᡤᠰᠠᡵᠠᠮᠪᡳ",
+    "ᠰᠠᠩᠰᠠᡵᠠᠮᠪᡳ",
     "(-ka) to fall into disrepair, to fall into ruins"
   ],
   "sangse": [
-    "ᠰᠠᠨᡤᠰᡝ",
+    "ᠰᠠᠩᠰᡝ",
     "1. a finger wringer (a type of torture instrument) 2. manacles"
   ],
   "sangse guwangse": [
-    "ᠰᠠᠨᡤᠰᡝ ᡤᡠᠸᠠᠨᡤᠰᡝ",
+    "ᠰᠠᠩᠰᡝ ᡤᡠᠸᠠᠩᠰᡝ",
     "manacles"
   ],
   "sangselabumbi": [
-    "ᠰᠠᠨᡤᠰᡝᠯᠠᠪᡠᠮᠪᡳ",
+    "ᠰᠠᠩᠰᡝᠯᠠᠪᡠᠮᠪᡳ",
     "caus. of sangselambi"
   ],
   "sangselambi": [
-    "ᠰᠠᠨᡤᠰᡝᠯᠠᠮᠪᡳ",
+    "ᠰᠠᠩᠰᡝᠯᠠᠮᠪᡳ",
     "1. to press the fingers (as a punishment) 2. to manacle"
   ],
   "saniyabumbi": [
@@ -64656,7 +64656,7 @@ const dictionary = {
     "extension, stretching out"
   ],
   "saniyangga": [
-    "ᠰᠠᠨᡳᠶᠠᠨᡤᡤᠠ",
+    "ᠰᠠᠨᡳᠶᠠᠩᡤᠠ",
     "extensive"
   ],
   "saniyashvn": [
@@ -64860,7 +64860,7 @@ const dictionary = {
     "boots made from the skin from the hind part of a quadruped"
   ],
   "saringgiyambi": [
-    "ᠰᠠᡵᡳᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠰᠠᡵᡳᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to pour hot and cold tea together"
   ],
   "sarki": [
@@ -64892,7 +64892,7 @@ const dictionary = {
     "office for copying"
   ],
   "sarkiyame arara falgangga": [
-    "ᠰᠠᡵᡴᡳᠶᠠᠮᡝ ᠠᡵᠠᡵᠠ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ",
+    "ᠰᠠᡵᡴᡳᠶᠠᠮᡝ ᠠᡵᠠᡵᠠ ᡶᠠᠯᡤᠠᠩᡤᠠ",
     "office where examination papers were recopied before being read by the examiners"
   ],
   "sarkiyame arara hafan": [
@@ -64912,7 +64912,7 @@ const dictionary = {
     "the same as sarki saliburakū"
   ],
   "sarkiyangga bithe": [
-    "ᠰᠠᡵᡴᡳᠶᠠᠨᡤᡤᠠ ᠪᡳᡨᡥᡝ",
+    "ᠰᠠᡵᡴᡳᠶᠠᠩᡤᠠ ᠪᡳᡨᡥᡝ",
     "copies of imperial edicts kept in the archives of the six ministries"
   ],
   "sarkiyanumbi": [
@@ -65012,7 +65012,7 @@ const dictionary = {
     "pine needles"
   ],
   "satangga coko": [
-    "ᠰᠠᡨᠠᠨᡤᡤᠠ ᠴᠣᡴᠣ",
+    "ᠰᠠᡨᠠᠩᡤᠠ ᠴᠣᡴᠣ",
     "hazel grouse (Tetrastes bonasia)"
   ],
   "sati": [
@@ -65064,7 +65064,7 @@ const dictionary = {
     "the same as se bar:: ombi"
   ],
   "se i onggolo sakdakabi": [
-    "ᠰᡝ ᡳ ᠣᠨᡤᡤᠣᠯᠣ ᠰᠠᡴᡩᠠᡴᠠᠪᡳ",
+    "ᠰᡝ ᡳ ᠣᠩᡤᠣᠯᠣ ᠰᠠᡴᡩᠠᡴᠠᠪᡳ",
     "became old before his time"
   ],
   "se jeke": [
@@ -65184,19 +65184,19 @@ const dictionary = {
     "joy, gladness"
   ],
   "sebjengge": [
-    "ᠰᡝᠪᠵᡝᠨᡤᡤᡝ",
+    "ᠰᡝᠪᠵᡝᠩᡤᡝ",
     "joyful, glad"
   ],
   "sebjengge baibula": [
-    "ᠰᡝᠪᠵᡝᠨᡤᡤᡝ ᠪᠠᡳᠪᡠᠯᠠ",
+    "ᠰᡝᠪᠵᡝᠩᡤᡝ ᠪᠠᡳᠪᡠᠯᠠ",
     "one name for the paradise flycatcher; cf. baibula"
   ],
   "sebjengge ilha": [
-    "ᠰᡝᠪᠵᡝᠨᡤᡤᡝ ᡳᠯᡥᠠ",
+    "ᠰᡝᠪᠵᡝᠩᡤᡝ ᡳᠯᡥᠠ",
     "the name of an exotic purple flower that blooms for long periods without withering"
   ],
   "sebjengge yengguhe": [
-    "ᠰᡝᠪᠵᡝᠨᡤᡤᡝ ᠶᡝᠨᡤᡤᡠᡥᡝ",
+    "ᠰᡝᠪᠵᡝᠩᡤᡝ ᠶᡝᠩᡤᡠᡥᡝ",
     "another name for the 'phoenix parrot'--garudangga yengguhe"
   ],
   "sebke saka": [
@@ -65248,7 +65248,7 @@ const dictionary = {
     "to shake someone who has passed out"
   ],
   "sebsingge": [
-    "ᠰᡝᠪᠰᡳᠨᡤᡤᡝ",
+    "ᠰᡝᠪᠰᡳᠩᡤᡝ",
     "affable, pleasant, friendly"
   ],
   "sebtembi": [
@@ -65280,7 +65280,7 @@ const dictionary = {
     "a type of sturgeon"
   ],
   "sedehengge": [
-    "ᠰᡝᡩᡝᡥᡝᠨᡤᡤᡝ",
+    "ᠰᡝᡩᡝᡥᡝᠩᡤᡝ",
     "one who has been killed-- an oath"
   ],
   "sedeheri": [
@@ -65464,7 +65464,7 @@ const dictionary = {
     "Carriage Section, 118"
   ],
   "sejen tohoro enggemu": [
-    "ᠰᡝᠵᡝᠨ ᡨᠣᡥᠣᡵᠣ ᡝᠨᡤᡤᡝᠮᡠ",
+    "ᠰᡝᠵᡝᠨ ᡨᠣᡥᠣᡵᠣ ᡝᠩᡤᡝᠮᡠ",
     "saddle for attaching a cart"
   ],
   "sejesi": [
@@ -65524,7 +65524,7 @@ const dictionary = {
     "straw, straw bed (especially the one used by women during childbirth)"
   ],
   "sekjingge": [
-    "ᠰᡝᡴᠵᡳᠨᡤᡤᡝ",
+    "ᠰᡝᡴᠵᡳᠩᡤᡝ",
     "not rich but can still manage"
   ],
   "sekse saksa": [
@@ -65680,7 +65680,7 @@ const dictionary = {
     "iron clamp, iron fastener"
   ],
   "selei ilhangga moo": [
-    "ᠰᡝᠯᡝᡳ ᡳᠯᡥᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠰᡝᠯᡝᡳ ᡳᠯᡥᠠᠩᡤᠠ ᠮᠣᠣ",
     "veined ironwood"
   ],
   "selei juxuru": [
@@ -65696,7 +65696,7 @@ const dictionary = {
     "an iron poker"
   ],
   "selei yonggan": [
-    "ᠰᡝᠯᡝᡳ ᠶᠣᠨᡤᡤᠠᠨ",
+    "ᠰᡝᠯᡝᡳ ᠶᠣᠩᡤᠠᠨ",
     "birdshot"
   ],
   "selekje": [
@@ -65712,7 +65712,7 @@ const dictionary = {
     "a dagger carried at the belt, somewhat larger than a dabcilakū"
   ],
   "selengge moo": [
-    "ᠰᡝᠯᡝᠨᡤᡤᡝ ᠮᠣᠣ",
+    "ᠰᡝᠯᡝᠩᡤᡝ ᠮᠣᠣ",
     "'iron tree'--a tree with black trunk and leaves, and a light purple flower that blooms for months without withering"
   ],
   "selfen": [
@@ -65768,7 +65768,7 @@ const dictionary = {
     "(2) (-ngke) to melt, to dissolve, to run (of colors)"
   ],
   "sere anggala": [
-    "ᠰᡝᡵᡝ ᠠᠨᡤᡤᠠᠯᠠ",
+    "ᠰᡝᡵᡝ ᠠᠩᡤᠠᠯᠠ",
     "instead of, not only (but also)"
   ],
   "sembumbi": [
@@ -65848,7 +65848,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "semnio tokdonggo kiru": [
-    "ᠰᡝᠮᠨᡳᠣ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠰᡝᠮᠨᡳᠣ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation semnio"
   ],
   "semsu": [
@@ -65856,7 +65856,7 @@ const dictionary = {
     "the fat covering of intestines; cf. semejen"
   ],
   "semsu nimenggi": [
-    "ᠰᡝᠮᠰᡠ ᠨᡳᠮᡝᠨᡤᡤᡳ",
+    "ᠰᡝᠮᠰᡠ ᠨᡳᠮᡝᠩᡤᡳ",
     "the same as semsu"
   ],
   "sen": [
@@ -65872,7 +65872,7 @@ const dictionary = {
     "mushroom"
   ],
   "sence jinggeri": [
-    "ᠰᡝᠨᠴᡝ ᠵᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠰᡝᠨᠴᡝ ᠵᡳᠩᡤᡝᡵᡳ",
     "a nail made in the shape of a mushroom (with a large, wide head)"
   ],
   "sencehe": [
@@ -65912,7 +65912,7 @@ const dictionary = {
     "to break (of a levee), to form a breach, to get washed out, to form a hole, to form a notch or gap (in a blade)"
   ],
   "sendejehe angga": [
-    "ᠰᡝᠨᡩᡝᠵᡝᡥᡝ ᠠᠨᡤᡤᠠ",
+    "ᠰᡝᠨᡩᡝᠵᡝᡥᡝ ᠠᠩᡤᠠ",
     "a breach"
   ],
   "sendelebumbi": [
@@ -65932,171 +65932,171 @@ const dictionary = {
     "to be saturated, to expand (of a wet spot), to leak (of a brush too saturated with ink)"
   ],
   "sengge": [
-    "ᠰᡝᠨᡤᡤᡝ",
+    "ᠰᡝᠩᡤᡝ",
     "1. elder, old 2. (Chinese) hedgehog (Erinaceus europaeus)"
   ],
   "sengge xufatu": [
-    "ᠰᡝᠨᡤᡤᡝ ᡧᡠᡶᠠᡨᡠ",
+    "ᠰᡝᠩᡤᡝ ᡧᡠᡶᠠᡨᡠ",
     "a head covering used by old men in ancient times"
   ],
   "senggeda": [
-    "ᠰᡝᠨᡤᡤᡝᡩᠠ",
+    "ᠰᡝᠩᡤᡝᡩᠠ",
     "calamus"
   ],
   "senggele": [
-    "ᠰᡝᠨᡤᡤᡝᠯᡝ",
+    "ᠰᡝᠩᡤᡝᠯᡝ",
     "1. rooster's comb 2. gill (of a fish) 3. reed (of a musical instrument) 4. spring of a lock 5. the opening of a bow case"
   ],
   "senggele ilha": [
-    "ᠰᡝᠨᡤᡤᡝᠯᡝ ᡳᠯᡥᠠ",
+    "ᠰᡝᠩᡤᡝᠯᡝ ᡳᠯᡥᠠ",
     "cockscomb (Celosia cristata)"
   ],
   "senggelengge": [
-    "ᠰᡝᠨᡤᡤᡝᠯᡝᠨᡤᡤᡝ",
+    "ᠰᡝᠩᡤᡝᠯᡝᠩᡤᡝ",
     "having a comb (like a rooster)"
   ],
   "senggelengge coko": [
-    "ᠰᡝᠨᡤᡤᡝᠯᡝᠨᡤᡤᡝ ᠴᠣᡴᠣ",
+    "ᠰᡝᠩᡤᡝᠯᡝᠩᡤᡝ ᠴᠣᡴᠣ",
     "one name for the gray partridge; cf. itu"
   ],
   "senggelengge gasha": [
-    "ᠰᡝᠨᡤᡤᡝᠯᡝᠨᡤᡤᡝ ᡤᠠᠰᡥᠠ",
+    "ᠰᡝᠩᡤᡝᠯᡝᠩᡤᡝ ᡤᠠᠰᡥᠠ",
     "the name of a black-headed bird with a brown beak and a comb on the top of the head"
   ],
   "senggete": [
-    "ᠰᡝᠨᡤᡤᡝᡨᡝ",
+    "ᠰᡝᠩᡤᡝᡨᡝ",
     "1. plural of sengge: old men 2. Xanthium japonica"
   ],
   "senggi": [
-    "ᠰᡝᠨᡤᡤᡳ",
+    "ᠰᡝᠩᡤᡳ",
     "blood"
   ],
   "senggi biljaka": [
-    "ᠰᡝᠨᡤᡤᡳ ᠪᡳᠯᠵᠠᡴᠠ",
+    "ᠰᡝᠩᡤᡳ ᠪᡳᠯᠵᠠᡴᠠ",
     "there was a blood bath"
   ],
   "senggi duha": [
-    "ᠰᡝᠨᡤᡤᡳ ᡩᡠᡥᠠ",
+    "ᠰᡝᠩᡤᡳ ᡩᡠᡥᠠ",
     "blood sausage"
   ],
   "senggi hefeliyenere nimeku": [
-    "ᠰᡝᠨᡤᡤᡳ ᡥᡝᡶᡝᠯᡳᠶᡝᠨᡝᡵᡝ ᠨᡳᠮᡝᡴᡠ",
+    "ᠰᡝᠩᡤᡳ ᡥᡝᡶᡝᠯᡳᠶᡝᠨᡝᡵᡝ ᠨᡳᠮᡝᡴᡠ",
     "typhus"
   ],
   "senggi jugvn": [
-    "ᠰᡝᠨᡤᡤᡳ ᠵᡠᡤᡡᠨ",
+    "ᠰᡝᠩᡤᡳ ᠵᡠᡤᡡᠨ",
     "blood vessel"
   ],
   "senggi jun": [
-    "ᠰᡝᠨᡤᡤᡳ ᠵᡠᠨ",
+    "ᠰᡝᠩᡤᡳ ᠵᡠᠨ",
     "artery, blood vessel"
   ],
   "senggi kaksimbi": [
-    "ᠰᡝᠨᡤᡤᡳ ᡴᠠᡴᠰᡳᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡳ ᡴᠠᡴᠰᡳᠮᠪᡳ",
     "to cough up blood"
   ],
   "senggi sosombi": [
-    "ᠰᡝᠨᡤᡤᡳ ᠰᠣᠰᠣᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡳ ᠰᠣᠰᠣᠮᠪᡳ",
     "to have bloody diarrhea"
   ],
   "senggi sudala": [
-    "ᠰᡝᠨᡤᡤᡳ ᠰᡠᡩᠠᠯᠠ",
+    "ᠰᡝᠩᡤᡳ ᠰᡠᡩᠠᠯᠠ",
     "the same as senggi jugūn"
   ],
   "senggi tebumbi": [
-    "ᠰᡝᠨᡤᡤᡳ ᡨᡝᠪᡠᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡳ ᡨᡝᠪᡠᠮᠪᡳ",
     "to shed blood"
   ],
   "senggilembi": [
-    "ᠰᡝᠨᡤᡤᡳᠯᡝᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡳᠯᡝᠮᠪᡳ",
     "to act in a bloody manner"
   ],
   "senggileme afambi": [
-    "ᠰᡝᠨᡤᡤᡳᠯᡝᠮᡝ ᠠᡶᠠᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡳᠯᡝᠮᡝ ᠠᡶᠠᠮᠪᡳ",
     "to fight a bloody battle"
   ],
   "senggime": [
-    "ᠰᡝᠨᡤᡤᡳᠮᡝ",
+    "ᠰᡝᠩᡤᡳᠮᡝ",
     "intimate, friendly, on good terms, devoted"
   ],
   "senggiri hiyan": [
-    "ᠰᡝᠨᡤᡤᡳᡵᡳ ᡥᡳᠶᠠᠨ",
+    "ᠰᡝᠩᡤᡳᡵᡳ ᡥᡳᠶᠠᠨ",
     "rue, a sort of incense burned at sacrifices"
   ],
   "senggiri ilha": [
-    "ᠰᡝᠨᡤᡤᡳᡵᡳ ᡳᠯᡥᠠ",
+    "ᠰᡝᠩᡤᡳᡵᡳ ᡳᠯᡥᠠ",
     "rhododendron"
   ],
   "sengguwebumbi": [
-    "ᠰᡝᠨᡤᡤᡠᠸᡝᠪᡠᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡠᠸᡝᠪᡠᠮᠪᡳ",
     "caus./pass. of sengguwembi"
   ],
   "sengguwecembi": [
-    "ᠰᡝᠨᡤᡤᡠᠸᡝᠴᡝᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡠᠸᡝᠴᡝᠮᠪᡳ",
     "to be prone to fear, to be fearful"
   ],
   "sengguwecuke": [
-    "ᠰᡝᠨᡤᡤᡠᠸᡝᠴᡠᡴᡝ",
+    "ᠰᡝᠩᡤᡠᠸᡝᠴᡠᡴᡝ",
     "dreadful, frightening"
   ],
   "sengguwembi": [
-    "ᠰᡝᠨᡤᡤᡠᠸᡝᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡠᠸᡝᠮᠪᡳ",
     "to fear, to dread"
   ],
   "sengguwendembi": [
-    "ᠰᡝᠨᡤᡤᡠᠸᡝᠨᡩᡝᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡠᠸᡝᠨᡩᡝᠮᠪᡳ",
     "the same as sengguwembi"
   ],
   "sengguwendumbi/sengguwenumbi": [
-    "ᠰᡝᠨᡤᡤᡠᠸᡝᠨᡩᡠᠮᠪᡳ/ᠰᡝᠨᡤᡤᡠᠸᡝᠨᡠᠮᠪᡳ",
+    "ᠰᡝᠩᡤᡠᠸᡝᠨᡩᡠᠮᠪᡳ/ᠰᡝᠩᡤᡠᠸᡝᠨᡠᠮᠪᡳ",
     "to fear together, to dread together"
   ],
   "sengken": [
-    "ᠰᡝᠨᡤᡴᡝᠨ",
+    "ᠰᡝᠩᡴᡝᠨ",
     "1. small loop in which a button is fastened 2. a rope or similar object attached to a basket to facilitate carrying 3. ring on which a bell is hung 4. small knob on the end of a seal"
   ],
   "sengkiri hiyan": [
-    "ᠰᡝᠨᡤᡴᡳᡵᡳ ᡥᡳᠶᠠᠨ",
+    "ᠰᡝᠩᡴᡳᡵᡳ ᡥᡳᠶᠠᠨ",
     "the name of a plant burned at sacrifices--rue; cf. senggiri hiyan"
   ],
   "sengkule": [
-    "ᠰᡝᠨᡤᡴᡠᠯᡝ",
+    "ᠰᡝᠩᡴᡠᠯᡝ",
     "a thin-bladed variety of leek (Allium odorum)"
   ],
   "sengkule i arsun": [
-    "ᠰᡝᠨᡤᡴᡠᠯᡝ ᡳ ᠠᡵᠰᡠᠨ",
+    "ᠰᡝᠩᡴᡠᠯᡝ ᡳ ᠠᡵᠰᡠᠨ",
     "the sprouts of the leek that have been protected from the sun and are of a yellow tint"
   ],
   "sengse": [
-    "ᠰᡝᠨᡤᠰᡝ",
+    "ᠰᡝᠩᠰᡝ",
     "a lazy woman"
   ],
   "sengsebumbi": [
-    "ᠰᡝᠨᡤᠰᡝᠪᡠᠮᠪᡳ",
+    "ᠰᡝᠩᠰᡝᠪᡠᠮᠪᡳ",
     "caus. of sengsembi"
   ],
   "sengsembi": [
-    "ᠰᡝᠨᡤᠰᡝᠮᠪᡳ",
+    "ᠰᡝᠩᠰᡝᠮᠪᡳ",
     "(-ke) to dry, to become dry"
   ],
   "sengserebumbi": [
-    "ᠰᡝᠨᡤᠰᡝᡵᡝᠪᡠᠮᠪᡳ",
+    "ᠰᡝᠩᠰᡝᡵᡝᠪᡠᠮᠪᡳ",
     "caus. of sengserembi"
   ],
   "sengserebume wambi": [
-    "ᠰᡝᠨᡤᠰᡝᡵᡝᠪᡠᠮᡝ ᠸᠠᠮᠪᡳ",
+    "ᠰᡝᠩᠰᡝᡵᡝᠪᡠᠮᡝ ᠸᠠᠮᠪᡳ",
     "to kill by drowning"
   ],
   "sengserembi": [
-    "ᠰᡝᠨᡤᠰᡝᡵᡝᠮᠪᡳ",
+    "ᠰᡝᠩᠰᡝᡵᡝᠮᠪᡳ",
     "1. to choke by getting food or water in the windpipe 2.to drown, to suffocate"
   ],
   "sengserxembi": [
-    "ᠰᡝᠨᡤᠰᡝᡵᡧᡝᠮᠪᡳ",
+    "ᠰᡝᠩᠰᡝᡵᡧᡝᠮᠪᡳ",
     "to like very much"
   ],
   "sengsu": [
-    "ᠰᡝᠨᡤᠰᡠ",
+    "ᠰᡝᠩᠰᡠ",
     "loose rocks on a mountain"
   ],
   "senihun": [
@@ -66200,7 +66200,7 @@ const dictionary = {
     "insensitive"
   ],
   "serecungge": [
-    "ᠰᡝᡵᡝᠴᡠᠨᡤᡤᡝ",
+    "ᠰᡝᡵᡝᠴᡠᠩᡤᡝ",
     "one who is sensitive, one whose feelings are right"
   ],
   "serehun": [
@@ -66276,7 +66276,7 @@ const dictionary = {
     "report, intelligence, report sent to the emperor by the post stations"
   ],
   "serkingge temen": [
-    "ᠰᡝᡵᡴᡳᠨᡤᡤᡝ ᡨᡝᠮᡝᠨ",
+    "ᠰᡝᡵᡴᡳᠩᡤᡝ ᡨᡝᠮᡝᠨ",
     "a fast camel"
   ],
   "serkuwen": [
@@ -66324,7 +66324,7 @@ const dictionary = {
     "very little"
   ],
   "sesengge bonio": [
-    "ᠰᡝᠰᡝᠨᡤᡤᡝ ᠪᠣᠨᡳᠣ",
+    "ᠰᡝᠰᡝᠩᡤᡝ ᠪᠣᠨᡳᠣ",
     "a type of yellow monkey whose hair resembles gold threads"
   ],
   "seshe efen": [
@@ -66440,7 +66440,7 @@ const dictionary = {
     "buffalo, rhinoceros"
   ],
   "si yang": [
-    "ᠰᡳ ᠶᠠᠨᡤ",
+    "ᠰᡳ ᠶᠠᠩ",
     "the West, Europe"
   ],
   "sibcambi": [
@@ -66620,7 +66620,7 @@ const dictionary = {
     "(-ka) 1. to crack, to form a crack (of porcelain, jade, etc.) 2. to make an ear-shattering noise"
   ],
   "sicing": [
-    "ᠰᡳᠴᡳᠨᡤ",
+    "ᠰᡳᠴᡳᠩ",
     "celadonite"
   ],
   "sidahiyambi": [
@@ -66696,7 +66696,7 @@ const dictionary = {
     "in between"
   ],
   "siden i baibungga": [
-    "ᠰᡳᡩᡝᠨ ᡳ ᠪᠠᡳᠪᡠᠨᡤᡤᠠ",
+    "ᠰᡳᡩᡝᠨ ᡳ ᠪᠠᡳᠪᡠᠩᡤᠠ",
     "official expenditures"
   ],
   "siden i baita": [
@@ -66740,7 +66740,7 @@ const dictionary = {
     "to leave a space, to make a pause"
   ],
   "sidengge hergen": [
-    "ᠰᡳᡩᡝᠨᡤᡤᡝ ᡥᡝᡵᡤᡝᠨ",
+    "ᠰᡳᡩᡝᠩᡤᡝ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy--the clerical style"
   ],
   "siderebumbi": [
@@ -66764,7 +66764,7 @@ const dictionary = {
     "1. hobbling device, foot fetters, a hobble for animals 2. anklet"
   ],
   "siderilengge": [
-    "ᠰᡳᡩᡝᡵᡳᠯᡝᠨᡤᡤᡝ",
+    "ᠰᡳᡩᡝᡵᡳᠯᡝᠩᡤᡝ",
     "pertaining to foot fetters"
   ],
   "sidershun": [
@@ -66880,7 +66880,7 @@ const dictionary = {
     "a drain at the junction of two eaves"
   ],
   "sihin i kanggiri": [
-    "ᠰᡳᡥᡳᠨ ᡳ ᡴᠠᠨᡤᡤᡳᡵᡳ",
+    "ᠰᡳᡥᡳᠨ ᡳ ᡴᠠᠩᡤᡳᡵᡳ",
     "a thin piece of metal hung from the eaves that hums when the wind blows"
   ],
   "sihin i sele": [
@@ -66896,7 +66896,7 @@ const dictionary = {
     "the same as sihin i sele"
   ],
   "sihingge son": [
-    "ᠰᡳᡥᡳᠨᡤᡤᡝ ᠰᠣᠨ",
+    "ᠰᡳᡥᡳᠩᡤᡝ ᠰᠣᠨ",
     "support for the eaves"
   ],
   "sihiya": [
@@ -66992,7 +66992,7 @@ const dictionary = {
     "the bladder"
   ],
   "sike onggoho": [
-    "ᠰᡳᡴᡝ ᠣᠨᡤᡤᠣᡥᠣ",
+    "ᠰᡳᡴᡝ ᠣᠩᡤᠣᡥᠣ",
     "'forgot urine'--said of horses that can't urinate"
   ],
   "sike sen": [
@@ -67056,35 +67056,35 @@ const dictionary = {
     "1. tough, tenacious, resilient 2. lasting, long-winded, untiring 3. reluctant, hard to move"
   ],
   "silenggi": [
-    "ᠰᡳᠯᡝᠨᡤᡤᡳ",
+    "ᠰᡳᠯᡝᠩᡤᡳ",
     "1. dew 2. saliva that runs from the corners of the mouth--drivel"
   ],
   "silenggi fuhexembi": [
-    "ᠰᡳᠯᡝᠨᡤᡤᡳ ᡶᡠᡥᡝᡧᡝᠮᠪᡳ",
+    "ᠰᡳᠯᡝᠩᡤᡳ ᡶᡠᡥᡝᡧᡝᠮᠪᡳ",
     "the dew rolls (in abundance)"
   ],
   "silenggi gebkeljembi": [
-    "ᠰᡳᠯᡝᠨᡤᡤᡳ ᡤᡝᠪᡴᡝᠯᠵᡝᠮᠪᡳ",
+    "ᠰᡳᠯᡝᠩᡤᡳ ᡤᡝᠪᡴᡝᠯᠵᡝᠮᠪᡳ",
     "the dew glistens (in the sunlight)"
   ],
   "silenggi sabdan": [
-    "ᠰᡳᠯᡝᠨᡤᡤᡳ ᠰᠠᠪᡩᠠᠨ",
+    "ᠰᡳᠯᡝᠩᡤᡳ ᠰᠠᠪᡩᠠᠨ",
     "dewdrop"
   ],
   "silenggi toktohobi": [
-    "ᠰᡳᠯᡝᠨᡤᡤᡳ ᡨᠣᡴᡨᠣᡥᠣᠪᡳ",
+    "ᠰᡳᠯᡝᠩᡤᡳ ᡨᠣᡴᡨᠣᡥᠣᠪᡳ",
     "the dew has settled"
   ],
   "silenggi wasika": [
-    "ᠰᡳᠯᡝᠨᡤᡤᡳ ᠸᠠᠰᡳᡴᠠ",
+    "ᠰᡳᠯᡝᠩᡤᡳ ᠸᠠᠰᡳᡴᠠ",
     "the dew has fallen"
   ],
   "silengginembi": [
-    "ᠰᡳᠯᡝᠨᡤᡤᡳᠨᡝᠮᠪᡳ",
+    "ᠰᡳᠯᡝᠩᡤᡳᠨᡝᠮᠪᡳ",
     "to form dew"
   ],
   "silenggixembi": [
-    "ᠰᡳᠯᡝᠨᡤᡤᡳᡧᡝᠮᠪᡳ",
+    "ᠰᡳᠯᡝᠩᡤᡳᡧᡝᠮᠪᡳ",
     "to drool, to slaver"
   ],
   "silgabumbi": [
@@ -67140,7 +67140,7 @@ const dictionary = {
     "1. to penetrate, to slip through; cf. silgimbi 2. to place an arrowhead on a shaft"
   ],
   "silhingga": [
-    "ᠰᡳᠯᡥᡳᠨᡤᡤᠠ",
+    "ᠰᡳᠯᡥᡳᠩᡤᠠ",
     "envious, jealous"
   ],
   "silihi": [
@@ -67160,7 +67160,7 @@ const dictionary = {
     "topnotch, elite, crack (troops)"
   ],
   "silin dacungga kvwaran i siden yamun bh": [
-    "ᠰᡳᠯᡳᠨ ᡩᠠᠴᡠᠨᡤᡤᠠ ᡴᡡᠸᠠᡵᠠᠨ ᡳ ᠰᡳᡩᡝᠨ ᠶᠠᠮᡠᠨ ᠪᡥ",
+    "ᠰᡳᠯᡳᠨ ᡩᠠᠴᡠᠩᡤᠠ ᡴᡡᠸᠠᡵᠠᠨ ᡳ ᠰᡳᡩᡝᠨ ᠶᠠᠮᡠᠨ ᠪᡥ",
     "office of the Light Division, 733, 738"
   ],
   "silja": [
@@ -67196,7 +67196,7 @@ const dictionary = {
     "1. shady, sunless 2. sparrow hawk (Accipiter nisus)"
   ],
   "silmengge sara": [
-    "ᠰᡳᠯᠮᡝᠨᡤᡤᡝ ᠰᠠᡵᠠ",
+    "ᠰᡳᠯᠮᡝᠩᡤᡝ ᠰᠠᡵᠠ",
     "a parasol"
   ],
   "siltabumbi": [
@@ -67272,7 +67272,7 @@ const dictionary = {
     "marsh hen"
   ],
   "simelen xungkeri": [
-    "ᠰᡳᠮᡝᠯᡝᠨ ᡧᡠᠨᡤᡴᡝᡵᡳ",
+    "ᠰᡳᠮᡝᠯᡝᠨ ᡧᡠᠩᡴᡝᡵᡳ",
     "ILHa marsh orchid--Arethusa chinensis"
   ],
   "simeli": [
@@ -67308,27 +67308,27 @@ const dictionary = {
     "saturated with fat, fatty"
   ],
   "simengge": [
-    "ᠰᡳᠮᡝᠨᡤᡤᡝ",
+    "ᠰᡳᠮᡝᠩᡤᡝ",
     "bustling, exciting, prospering, thriving, animated"
   ],
   "simenggi": [
-    "ᠰᡳᠮᡝᠨᡤᡤᡳ",
+    "ᠰᡳᠮᡝᠩᡤᡳ",
     "tung oil"
   ],
   "simenggi urangga moo": [
-    "ᠰᡳᠮᡝᠨᡤᡤᡳ ᡠᡵᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠰᡳᠮᡝᠩᡤᡳ ᡠᡵᠠᠩᡤᠠ ᠮᠣᠣ",
     "tung tree (Aleurites fordii)"
   ],
   "simenggilebumbi": [
-    "ᠰᡳᠮᡝᠨᡤᡤᡳᠯᡝᠪᡠᠮᠪᡳ",
+    "ᠰᡳᠮᡝᠩᡤᡳᠯᡝᠪᡠᠮᠪᡳ",
     "caus. of simenggilembi"
   ],
   "simenggilembi": [
-    "ᠰᡳᠮᡝᠨᡤᡤᡳᠯᡝᠮᠪᡳ",
+    "ᠰᡳᠮᡝᠩᡤᡳᠯᡝᠮᠪᡳ",
     "to apply (tung) oil, to paint"
   ],
   "simenggilehe wadan": [
-    "ᠰᡳᠮᡝᠨᡤᡤᡳᠯᡝᡥᡝ ᠸᠠᡩᠠᠨ",
+    "ᠰᡳᠮᡝᠩᡤᡳᠯᡝᡥᡝ ᠸᠠᡩᠠᠨ",
     "an oil cloth"
   ],
   "simgan": [
@@ -67404,11 +67404,11 @@ const dictionary = {
     "to pass an examination"
   ],
   "simnere baitai kunggeri": [
-    "ᠰᡳᠮᠨᡝᡵᡝ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠰᡳᠮᠨᡝᡵᡝ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "board of affairs relating to examinations in the Board of Rites"
   ],
   "simnere be kadalara kunggeri": [
-    "ᠰᡳᠮᠨᡝᡵᡝ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠰᡳᠮᠨᡝᡵᡝ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "examination office of the Metropolitan Prefecture"
   ],
   "simnere boo": [
@@ -67456,7 +67456,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "simori tokdonggo kiru": [
-    "ᠰᡳᠮᠣᡵᡳ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠰᡳᠮᠣᡵᡳ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation simori"
   ],
   "sinten": [
@@ -67536,99 +67536,99 @@ const dictionary = {
     "the name of a constellation"
   ],
   "sindubi tokdonggo kiru": [
-    "ᠰᡳᠨᡩᡠᠪᡳ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠰᡳᠨᡩᡠᠪᡳ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner"
   ],
   "sing sing": [
-    "ᠰᡳᠨᡤ ᠰᡳᠨᡤ",
+    "ᠰᡳᠩ ᠰᡳᠩ",
     "an ape; cf. sirsing"
   ],
   "sing sing jan": [
-    "ᠰᡳᠨᡤ ᠰᡳᠨᡤ ᠵᠠᠨ",
+    "ᠰᡳᠩ ᠰᡳᠩ ᠵᠠᠨ",
     "see singsingjan"
   ],
   "singgebumbi": [
-    "ᠰᡳᠨᡤᡤᡝᠪᡠᠮᠪᡳ",
+    "ᠰᡳᠩᡤᡝᠪᡠᠮᠪᡳ",
     "caus./pass. of singgembi"
   ],
   "singgebume tebumbi": [
-    "ᠰᡳᠨᡤᡤᡝᠪᡠᠮᡝ ᡨᡝᠪᡠᠮᠪᡳ",
+    "ᠰᡳᠩᡤᡝᠪᡠᠮᡝ ᡨᡝᠪᡠᠮᠪᡳ",
     "to sink to the bottom, to fall all the way to the bottom"
   ],
   "singgebume ulhibumbi": [
-    "ᠰᡳᠨᡤᡤᡝᠪᡠᠮᡝ ᡠᠯᡥᡳᠪᡠᠮᠪᡳ",
+    "ᠰᡳᠩᡤᡝᠪᡠᠮᡝ ᡠᠯᡥᡳᠪᡠᠮᠪᡳ",
     "to instruct or inform thoroughly"
   ],
   "singgeku": [
-    "ᠰᡳᠨᡤᡤᡝᡴᡠ",
+    "ᠰᡳᠩᡤᡝᡴᡠ",
     "the internal organs"
   ],
   "singgembi": [
-    "ᠰᡳᠨᡤᡤᡝᠮᠪᡳ",
+    "ᠰᡳᠩᡤᡝᠮᠪᡳ",
     "1. to soak into, to permeate, to saturate, to soak through, to become thoroughly wet 2. to be digested 3. to suck (into) 4. to dissolve 5. to appropriate, to take for one's own use, to take on the sly"
   ],
   "singgeri": [
-    "ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠰᡳᠩᡤᡝᡵᡳ",
     "1. rat, mouse 2. the first of the earth's branches"
   ],
   "singgeri biya": [
-    "ᠰᡳᠨᡤᡤᡝᡵᡳ ᠪᡳᠶᠠ",
+    "ᠰᡳᠩᡤᡝᡵᡳ ᠪᡳᠶᠠ",
     "the eleventh month"
   ],
   "singgeri huhun": [
-    "ᠰᡳᠨᡤᡤᡝᡵᡳ ᡥᡠᡥᡠᠨ",
+    "ᠰᡳᠩᡤᡝᡵᡳ ᡥᡠᡥᡠᠨ",
     "a small tumor on the skin"
   ],
   "singgeri xan": [
-    "ᠰᡳᠨᡤᡤᡝᡵᡳ ᡧᠠᠨ",
+    "ᠰᡳᠩᡤᡝᡵᡳ ᡧᠠᠨ",
     "'rat's ears'--Gnaphalium multiceps"
   ],
   "singgeri yoo": [
-    "ᠰᡳᠨᡤᡤᡝᡵᡳ ᠶᠣᠣ",
+    "ᠰᡳᠩᡤᡝᡵᡳ ᠶᠣᠣ",
     "a growth on the neck"
   ],
   "singgeringge": [
-    "ᠰᡳᠨᡤᡤᡝᡵᡳᠨᡤᡤᡝ",
+    "ᠰᡳᠩᡤᡝᡵᡳᠩᡤᡝ",
     "pertaining to the rat"
   ],
   "singgeringge aniya": [
-    "ᠰᡳᠨᡤᡤᡝᡵᡳᠨᡤᡤᡝ ᠠᠨᡳᠶᠠ",
+    "ᠰᡳᠩᡤᡝᡵᡳᠩᡤᡝ ᠠᠨᡳᠶᠠ",
     "the year of the rat"
   ],
   "singgexu": [
-    "ᠰᡳᠨᡤᡤᡝᡧᡠ",
+    "ᠰᡳᠩᡤᡝᡧᡠ",
     "one name for the large quail (ihan mušu)"
   ],
   "singgetei": [
-    "ᠰᡳᠨᡤᡤᡝᡨᡝᡳ",
+    "ᠰᡳᠩᡤᡝᡨᡝᡳ",
     "soaked, saturated"
   ],
   "singgirambi": [
-    "ᠰᡳᠨᡤᡤᡳᡵᠠᠮᠪᡳ",
+    "ᠰᡳᠩᡤᡳᡵᠠᠮᠪᡳ",
     "to be envious"
   ],
   "singgiyambi": [
-    "ᠰᡳᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠰᡳᠩᡤᡳᠶᠠᠮᠪᡳ",
     "1. to ache, to be numb, to be sore 2. to stick in the belt (an arrow)"
   ],
   "singgiyan": [
-    "ᠰᡳᠨᡤᡤᡳᠶᠠᠨ",
+    "ᠰᡳᠩᡤᡳᠶᠠᠨ",
     "aching, numb"
   ],
   "singkeyen": [
-    "ᠰᡳᠨᡤᡴᡝᠶᡝᠨ",
+    "ᠰᡳᠩᡴᡝᠶᡝᠨ",
     "cloudy and cold"
   ],
   "singsilambi": [
-    "ᠰᡳᠨᡤᠰᡳᠯᠠᠮᠪᡳ",
+    "ᠰᡳᠩᠰᡳᠯᠠᠮᠪᡳ",
     "see cincilambi"
   ],
   "singsin": [
-    "ᠰᡳᠨᡤᠰᡳᠨ",
+    "ᠰᡳᠩᠰᡳᠨ",
     "physiognomy"
   ],
   "singsingjan": [
-    "ᠰᡳᠨᡤᠰᡳᠨᡤᠵᠠᠨ",
+    "ᠰᡳᠩᠰᡳᠩᠵᠠᠨ",
     "red felt"
   ],
   "sini": [
@@ -67636,7 +67636,7 @@ const dictionary = {
     "genitive of si"
   ],
   "siningge": [
-    "ᠰᡳᠨᡳᠨᡤᡤᡝ",
+    "ᠰᡳᠨᡳᠩᡤᡝ",
     "yours"
   ],
   "sioi": [
@@ -67664,7 +67664,7 @@ const dictionary = {
     "somewhat numb, rather numb, asleep (of a limb)"
   ],
   "sir seme fungke": [
-    "ᠰᡳᡵ ᠰᡝᠮᡝ ᡶᡠᠨᡤᡴᡝ",
+    "ᠰᡳᡵ ᠰᡝᠮᡝ ᡶᡠᠩᡴᡝ",
     "gone to sleep (of the limbs)"
   ],
   "sir sitar": [
@@ -67724,7 +67724,7 @@ const dictionary = {
     "Proctor,"
   ],
   "sirame hafan i tinggin": [
-    "ᠰᡳᡵᠠᠮᡝ ᡥᠠᡶᠠᠨ ᡳ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠰᡳᡵᠠᠮᡝ ᡥᠠᡶᠠᠨ ᡳ ᡨᡳᠩᡤᡳᠨ",
     "the name of a hall in the Court of Sacrificial Worship"
   ],
   "sirame jalahi jui": [
@@ -67736,7 +67736,7 @@ const dictionary = {
     "Controller of the Imperial Clan Court, 58, 59"
   ],
   "siramengge": [
-    "ᠰᡳᡵᠠᠮᡝᠨᡤᡤᡝ",
+    "ᠰᡳᡵᠠᠮᡝᠩᡤᡝ",
     "continuing, connecting"
   ],
   "siran": [
@@ -67792,7 +67792,7 @@ const dictionary = {
     "a piece of iron with two holes that was attached to the top of a sword's scabbard"
   ],
   "sirdangga": [
-    "ᠰᡳᡵᡩᠠᠨᡤᡤᠠ",
+    "ᠰᡳᡵᡩᠠᠩᡤᠠ",
     "pertaining to an arrow"
   ],
   "sirebumbi": [
@@ -67868,7 +67868,7 @@ const dictionary = {
     "bignonia"
   ],
   "sirengge mudan ilha": [
-    "ᠰᡳᡵᡝᠨᡤᡤᡝ ᠮᡠᡩᠠᠨ ᡳᠯᡥᠠ",
+    "ᠰᡳᡵᡝᠩᡤᡝ ᠮᡠᡩᠠᠨ ᡳᠯᡥᠠ",
     "a flower resembling the peony that grows in shallow water; the red and pink blossoms are smaller than the peony"
   ],
   "sirentu moo": [
@@ -67912,7 +67912,7 @@ const dictionary = {
     "1. silk thread, silk floss (from a cocoon) 2. string (of a musical instrument) 3. a strip (of dried meat) 4. measure word for a rib"
   ],
   "sirge folonggo": [
-    "ᠰᡳᡵᡤᡝ ᡶᠣᠯᠣᠨᡤᡤᠣ",
+    "ᠰᡳᡵᡤᡝ ᡶᠣᠯᠣᠩᡤᠣ",
     "a type of silk fabric on which the designs resemble carving"
   ],
   "sirgelembi": [
@@ -67924,7 +67924,7 @@ const dictionary = {
     "to be anxious, to worry"
   ],
   "sirgengge coko": [
-    "ᠰᡳᡵᡤᡝᠨᡤᡤᡝ ᠴᠣᡴᠣ",
+    "ᠰᡳᡵᡤᡝᠩᡤᡝ ᠴᠣᡴᠣ",
     "a variety of chicken whose feathers resemble silk threads"
   ],
   "sirgeri": [
@@ -68004,7 +68004,7 @@ const dictionary = {
     "see sirgembi"
   ],
   "sirsing": [
-    "ᠰᡳᡵᠰᡳᠨᡤ",
+    "ᠰᡳᡵᠰᡳᠩ",
     "an ape"
   ],
   "sisa": [
@@ -68064,7 +68064,7 @@ const dictionary = {
     "to make a rough estimate"
   ],
   "siseteme bodoro falgangga bh 460a": [
-    "ᠰᡳᠰᡝᡨᡝᠮᡝ ᠪᠣᡩᠣᡵᠣ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ ᠪᡥ 460ᠠ",
+    "ᠰᡳᠰᡝᡨᡝᠮᡝ ᠪᠣᡩᠣᡵᠣ ᡶᠠᠯᡤᠠᠩᡤᠠ ᠪᡥ 460ᠠ",
     "Department of Estimates,"
   ],
   "siseteme gisurembi": [
@@ -68128,11 +68128,11 @@ const dictionary = {
     "to stick into (there)"
   ],
   "sisingga": [
-    "ᠰᡳᠰᡳᠨᡤᡤᠠ",
+    "ᠰᡳᠰᡳᠩᡤᠠ",
     "having a large intake, glutton"
   ],
   "sisingga huwejehen": [
-    "ᠰᡳᠰᡳᠨᡤᡤᠠ ᡥᡠᠸᡝᠵᡝᡥᡝᠨ",
+    "ᠰᡳᠰᡳᠩᡤᠠ ᡥᡠᠸᡝᠵᡝᡥᡝᠨ",
     "a small screen placed in a stand, which may be decorated with a picture or calligraphy"
   ],
   "sisiri": [
@@ -68264,11 +68264,11 @@ const dictionary = {
     "see siyal"
   ],
   "siyan fung": [
-    "ᠰᡳᠶᠠᠨ ᡶᡠᠨᡤ",
+    "ᠰᡳᠶᠠᠨ ᡶᡠᠩ",
     "vanguard"
   ],
   "siyan jang": [
-    "ᠰᡳᠶᠠᠨ ᠵᠠᠨᡤ",
+    "ᠰᡳᠶᠠᠨ ᠵᠠᠩ",
     "Taoist abbot"
   ],
   "siyan lo gurun": [
@@ -68276,7 +68276,7 @@ const dictionary = {
     "Thailand, Siam"
   ],
   "siyan xeng": [
-    "ᠰᡳᠶᠠᠨ ᡧᡝᠨᡤ",
+    "ᠰᡳᠶᠠᠨ ᡧᡝᠩ",
     "mister, gentleman, sir"
   ],
   "siyanceo": [
@@ -68284,19 +68284,19 @@ const dictionary = {
     "a type of silk fabric"
   ],
   "siyang gung": [
-    "ᠰᡳᠶᠠᠨᡤ ᡤᡠᠨᡤ",
+    "ᠰᡳᠶᠠᠩ ᡤᡠᠩ",
     "see siyanggung"
   ],
   "siyangci": [
-    "ᠰᡳᠶᠠᠨᡤᠴᡳ",
+    "ᠰᡳᠶᠠᠩᠴᡳ",
     "chess"
   ],
   "siyanggvng": [
-    "ᠰᡳᠶᠠᠨᡤᡤᡡᠨᡤ",
+    "ᠰᡳᠶᠠᠩᡤᡡᠩ",
     "1. your honor, respected sir 2. young man of a good family"
   ],
   "siyangki": [
-    "ᠰᡳᠶᠠᠨᡤᡴᡳ",
+    "ᠰᡳᠶᠠᠩᡴᡳ",
     "the same as siyangci"
   ],
   "siyoo": [
@@ -68308,7 +68308,7 @@ const dictionary = {
     "young lady"
   ],
   "siyoo xeng": [
-    "ᠰᡳᠶᠣᠣ ᡧᡝᠨᡤ",
+    "ᠰᡳᠶᠣᠣ ᡧᡝᠩ",
     "a young man's role in opera"
   ],
   "siyvn an hafan": [
@@ -68436,7 +68436,7 @@ const dictionary = {
     "one name for the oriole; cf. aūlin cecike"
   ],
   "sohon hionghioi cecike": [
-    "ᠰᠣᡥᠣᠨ ᡥᡳᠣᠨᡤᡥᡳᠣᡳ ᠴᡝᠴᡳᡴᡝ",
+    "ᠰᠣᡥᠣᠨ ᡥᡳᠣᠩᡥᡳᠣᡳ ᠴᡝᠴᡳᡴᡝ",
     "one name for the oriole; cf. gūlin cecike"
   ],
   "sohon hoohan": [
@@ -68460,7 +68460,7 @@ const dictionary = {
     "a yellow eagle"
   ],
   "sohon temgetungge gu": [
-    "ᠰᠣᡥᠣᠨ ᡨᡝᠮᡤᡝᡨᡠᠨᡤᡤᡝ ᡤᡠ",
+    "ᠰᠣᡥᠣᠨ ᡨᡝᠮᡤᡝᡨᡠᠩᡤᡝ ᡤᡠ",
     "the name of a square jade tablet used at sacrifices to the earth"
   ],
   "soiho": [
@@ -68568,7 +68568,7 @@ const dictionary = {
     "Korea, Korean"
   ],
   "solho bing": [
-    "ᠰᠣᠯᡥᠣ ᠪᡳᠨᡤ",
+    "ᠰᠣᠯᡥᠣ ᠪᡳᠩ",
     "'Korean cake'--a cake made of honey, flour, and sesame oil"
   ],
   "solho boso": [
@@ -68592,7 +68592,7 @@ const dictionary = {
     "a type of sage--Salvia japonica"
   ],
   "solho hengke": [
-    "ᠰᠣᠯᡥᠣ ᡥᡝᠨᡤᡴᡝ",
+    "ᠰᠣᠯᡥᠣ ᡥᡝᠩᡴᡝ",
     "Korean muskmelon"
   ],
   "solho hooxan": [
@@ -68636,7 +68636,7 @@ const dictionary = {
     "to invite together, to invite one another"
   ],
   "solinggimbi": [
-    "ᠰᠣᠯᡳᠨᡤᡤᡳᠮᠪᡳ",
+    "ᠰᠣᠯᡳᠩᡤᡳᠮᠪᡳ",
     "to send to invite"
   ],
   "solinjimbi": [
@@ -68788,95 +68788,95 @@ const dictionary = {
     "a type of flowered yellow silk"
   ],
   "songgiha": [
-    "ᠰᠣᠨᡤᡤᡳᡥᠠ",
+    "ᠰᠣᠩᡤᡳᡥᠠ",
     "1. the tip of the nose 2. a wooden nose hook for camels and cows 3. hook on a quiver to which a strap can be attached 4. catch on a bird trap"
   ],
   "songgin": [
-    "ᠰᠣᠨᡤᡤᡳᠨ",
+    "ᠰᠣᠩᡤᡳᠨ",
     "see songgiha"
   ],
   "songgobumbi": [
-    "ᠰᠣᠨᡤᡤᠣᠪᡠᠮᠪᡳ",
+    "ᠰᠣᠩᡤᠣᠪᡠᠮᠪᡳ",
     "caus. of songgombi"
   ],
   "songgocombi": [
-    "ᠰᠣᠨᡤᡤᠣᠴᠣᠮᠪᡳ",
+    "ᠰᠣᠩᡤᠣᠴᠣᠮᠪᡳ",
     "to weep together"
   ],
   "songgoconombi": [
-    "ᠰᠣᠨᡤᡤᠣᠴᠣᠨᠣᠮᠪᡳ",
+    "ᠰᠣᠩᡤᠣᠴᠣᠨᠣᠮᠪᡳ",
     "to go to weep together"
   ],
   "songgombi": [
-    "ᠰᠣᠨᡤᡤᠣᠮᠪᡳ",
+    "ᠰᠣᠩᡤᠣᠮᠪᡳ",
     "1. to weep, to cry 2. to cry loudly (of birds before rain)"
   ],
   "songgome fambi": [
-    "ᠰᠣᠨᡤᡤᠣᠮᡝ ᡶᠠᠮᠪᡳ",
+    "ᠰᠣᠩᡤᠣᠮᡝ ᡶᠠᠮᠪᡳ",
     "to weep bitterly (when parting)"
   ],
   "songgome fancambi": [
-    "ᠰᠣᠨᡤᡤᠣᠮᡝ ᡶᠠᠨᠴᠠᠮᠪᡳ",
+    "ᠰᠣᠩᡤᠣᠮᡝ ᡶᠠᠨᠴᠠᠮᠪᡳ",
     "the same as songgome fambi"
   ],
   "songgotu": [
-    "ᠰᠣᠨᡤᡤᠣᡨᡠ",
+    "ᠰᠣᠩᡤᠣᡨᡠ",
     "a crybaby, a person who cries frequently"
   ],
   "songkiyabumbi": [
-    "ᠰᠣᠨᡤᡴᡳᠶᠠᠪᡠᠮᠪᡳ",
+    "ᠰᠣᠩᡴᡳᠶᠠᠪᡠᠮᠪᡳ",
     "see suwangkiyabumbi"
   ],
   "songko": [
-    "ᠰᠣᠨᡤᡴᠣ",
+    "ᠰᠣᠩᡴᠣ",
     "1. trace, track, footprint 2. see also songkoi"
   ],
   "songko akv": [
-    "ᠰᠣᠨᡤᡴᠣ ᠠᡴᡡ",
+    "ᠰᠣᠩᡴᠣ ᠠᡴᡡ",
     "without a trace"
   ],
   "songko be burubumbi": [
-    "ᠰᠣᠨᡤᡴᠣ ᠪᡝ ᠪᡠᡵᡠᠪᡠᠮᠪᡳ",
+    "ᠰᠣᠩᡴᠣ ᠪᡝ ᠪᡠᡵᡠᠪᡠᠮᠪᡳ",
     "to blot out one's tracks, to destroy the traces"
   ],
   "songko benembi": [
-    "ᠰᠣᠨᡤᡴᠣ ᠪᡝᠨᡝᠮᠪᡳ",
+    "ᠰᠣᠩᡴᠣ ᠪᡝᠨᡝᠮᠪᡳ",
     "to reveal one's presence to the enemy hoping that they will retreat"
   ],
   "songko de songko": [
-    "ᠰᠣᠨᡤᡴᠣ ᡩᡝ ᠰᠣᠨᡤᡴᠣ",
+    "ᠰᠣᠩᡴᠣ ᡩᡝ ᠰᠣᠩᡴᠣ",
     "first here then there, changeable"
   ],
   "songko faitambi": [
-    "ᠰᠣᠨᡤᡴᠣ ᡶᠠᡳᡨᠠᠮᠪᡳ",
+    "ᠰᠣᠩᡴᠣ ᡶᠠᡳᡨᠠᠮᠪᡳ",
     "to follow the tracks (of a wounded animal)"
   ],
   "songko fulu": [
-    "ᠰᠣᠨᡤᡴᠣ ᡶᡠᠯᡠ",
+    "ᠰᠣᠩᡴᠣ ᡶᡠᠯᡠ",
     "good at seeking advantages for oneself"
   ],
   "songko i faitambi": [
-    "ᠰᠣᠨᡤᡴᠣ ᡳ ᡶᠠᡳᡨᠠᠮᠪᡳ",
+    "ᠰᠣᠩᡴᠣ ᡳ ᡶᠠᡳᡨᠠᠮᠪᡳ",
     "the same as songko faitambi"
   ],
   "songko waliyambi": [
-    "ᠰᠣᠨᡤᡴᠣ ᠸᠠᠯᡳᠶᠠᠮᠪᡳ",
+    "ᠰᠣᠩᡴᠣ ᠸᠠᠯᡳᠶᠠᠮᠪᡳ",
     "to leave tracks (in order to deceive the enemy)"
   ],
   "songkoi": [
-    "ᠰᠣᠨᡤᡴᠣᡳ",
+    "ᠰᠣᠩᡴᠣᡳ",
     "(postposition) according to, in accordance with"
   ],
   "songkolobumbi": [
-    "ᠰᠣᠨᡤᡴᠣᠯᠣᠪᡠᠮᠪᡳ",
+    "ᠰᠣᠩᡴᠣᠯᠣᠪᡠᠮᠪᡳ",
     "caus. of songkolombi"
   ],
   "songkolombi": [
-    "ᠰᠣᠨᡤᡴᠣᠯᠣᠮᠪᡳ",
+    "ᠰᠣᠩᡴᠣᠯᠣᠮᠪᡳ",
     "to follow the tracks of, to follow in the tracks of, to imitate, to act in accordance with"
   ],
   "songkv": [
-    "ᠰᠣᠨᡤᡴᡡ",
+    "ᠰᠣᠩᡴᡡ",
     "see songko"
   ],
   "sonihon": [
@@ -68884,11 +68884,11 @@ const dictionary = {
     "odd (of numbers)"
   ],
   "sonihon muduringga suwayan xun dalikv": [
-    "ᠰᠣᠨᡳᡥᠣᠨ ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᠰᡠᠸᠠᠶᠠᠨ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
+    "ᠰᠣᠨᡳᡥᠣᠨ ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᠰᡠᠸᠠᠶᠠᠨ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
     "a round yellow parasol of the imperial escort"
   ],
   "soningga": [
-    "ᠰᠣᠨᡳᠨᡤᡤᠠ",
+    "ᠰᠣᠨᡳᠩᡤᠠ",
     "new, fresh"
   ],
   "sonio": [
@@ -69076,7 +69076,7 @@ const dictionary = {
     "1. tassel on a hat 2. the flowers of onions, scallions, and leeks"
   ],
   "sorsonggo": [
-    "ᠰᠣᡵᠰᠣᠨᡤᡤᠣ",
+    "ᠰᠣᡵᠰᠣᠩᡤᠣ",
     "pertaining to a tassel"
   ],
   "sosambi": [
@@ -69140,7 +69140,7 @@ const dictionary = {
     "the same as soyon"
   ],
   "soyonggv": [
-    "ᠰᠣᠶᠣᠨᡤᡤᡡ",
+    "ᠰᠣᠶᠣᠩᡤᡡ",
     "a sweating horse tied up so that it can dry off"
   ],
   "soyori": [
@@ -69184,7 +69184,7 @@ const dictionary = {
     "uneven in height (plants)"
   ],
   "subdungga": [
-    "ᠰᡠᠪᡩᡠᠨᡤᡤᠠ",
+    "ᠰᡠᠪᡩᡠᠩᡤᠠ",
     "see sultungga"
   ],
   "sube": [
@@ -69228,7 +69228,7 @@ const dictionary = {
     "sinewy, muscular"
   ],
   "subetungge": [
-    "ᠰᡠᠪᡝᡨᡠᠨᡤᡤᡝ",
+    "ᠰᡠᠪᡝᡨᡠᠩᡤᡝ",
     "one who is sinewy, muscular"
   ],
   "subkejembi": [
@@ -69292,11 +69292,11 @@ const dictionary = {
     "to go to storm, to fly up, to soar upward"
   ],
   "sucungga": [
-    "ᠰᡠᠴᡠᠨᡤᡤᠠ",
+    "ᠰᡠᠴᡠᠩᡤᠠ",
     "the first, initial, beginning"
   ],
   "sucungga nadan": [
-    "ᠰᡠᠴᡠᠨᡤᡤᠠ ᠨᠠᡩᠠᠨ",
+    "ᠰᡠᠴᡠᠩᡤᠠ ᠨᠠᡩᠠᠨ",
     "the first seven days after death"
   ],
   "sucunjimbi": [
@@ -69356,7 +69356,7 @@ const dictionary = {
     "1. Allium victorialis 2. wild garlic"
   ],
   "suduli abdaha fukjingga hergen": [
-    "ᠰᡠᡩᡠᠯᡳ ᠠᠪᡩᠠᡥᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠰᡠᡩᡠᠯᡳ ᠠᠪᡩᠠᡥᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of calligraphy"
   ],
   "suduri": [
@@ -69388,7 +69388,7 @@ const dictionary = {
     "an exotic flower from Indochina that blooms at the end of winter whose leaves resemble the leaves of the jujube tree"
   ],
   "sufangga lujen": [
-    "ᠰᡠᡶᠠᠨᡤᡤᠠ ᠯᡠᠵᡝᠨ",
+    "ᠰᡠᡶᠠᠩᡤᠠ ᠯᡠᠵᡝᠨ",
     "an imperial ceremonial coach with a dome decorated with ivory that is drawn by eight horses"
   ],
   "sufen": [
@@ -69432,11 +69432,11 @@ const dictionary = {
     "commentary on a classic"
   ],
   "suhengge": [
-    "ᠰᡠᡥᡝᠨᡤᡤᡝ",
+    "ᠰᡠᡥᡝᠩᡤᡝ",
     "pertaining to an ax, decorated with ax designs"
   ],
   "suheri nimenggi": [
-    "ᠰᡠᡥᡝᡵᡳ ᠨᡳᠮᡝᠨᡤᡤᡳ",
+    "ᠰᡠᡥᡝᡵᡳ ᠨᡳᠮᡝᠩᡤᡳ",
     "the fragrant resin from the bark of the tree Liquidambar orientalis"
   ],
   "suhexembi": [
@@ -69484,7 +69484,7 @@ const dictionary = {
     "an oath--may you meet with misfortune! miscreant!"
   ],
   "sui mangga": [
-    "ᠰᡠᡳ ᠮᠠᠨᡤᡤᠠ",
+    "ᠰᡠᡳ ᠮᠠᠩᡤᠠ",
     "guilt-ridden"
   ],
   "sui gulag": [
@@ -69564,7 +69564,7 @@ const dictionary = {
     "one name for the turkey; cf. nanggitu coko"
   ],
   "suihetu fukjingga hergen": [
-    "ᠰᡠᡳᡥᡝᡨᡠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠰᡠᡳᡥᡝᡨᡠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "the name of a style of calligraphy"
   ],
   "suihetu gasha": [
@@ -69628,7 +69628,7 @@ const dictionary = {
     "1. burdensome, onerous, encumbering 2. distressed, afflicted"
   ],
   "suimangga": [
-    "ᠰᡠᡳᠮᠠᠨᡤᡤᠠ",
+    "ᠰᡠᡳᠮᠠᠩᡤᠠ",
     "see sui manage,"
   ],
   "suimbi": [
@@ -69636,11 +69636,11 @@ const dictionary = {
     "(-he) 1. to grind ink 2. to mix (dough)"
   ],
   "suingga": [
-    "ᠰᡠᡳᠨᡤᡤᠠ",
+    "ᠰᡠᡳᠩᡤᠠ",
     "harmful, grievous, wicked, illegal"
   ],
   "suingga jui": [
-    "ᠰᡠᡳᠨᡤᡤᠠ ᠵᡠᡳ",
+    "ᠰᡠᡳᠩᡤᠠ ᠵᡠᡳ",
     "son of a concubine"
   ],
   "suisimbi": [
@@ -69760,11 +69760,11 @@ const dictionary = {
     "fate"
   ],
   "sukdungga": [
-    "ᠰᡠᡴᡩᡠᠨᡤᡤᠠ",
+    "ᠰᡠᡴᡩᡠᠩᡤᠠ",
     "pertaining to vapor, breath, etc."
   ],
   "sukdunggi": [
-    "ᠰᡠᡴᡩᡠᠨᡤᡤᡳ",
+    "ᠰᡠᡴᡩᡠᠩᡤᡳ",
     "see sukdungga"
   ],
   "sukiyabumbi": [
@@ -69780,7 +69780,7 @@ const dictionary = {
     "to drink dry, to drink 'bottoms up'"
   ],
   "sukiyangga ilha": [
-    "ᠰᡠᡴᡳᠶᠠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᠰᡠᡴᡳᠶᠠᠩᡤᠠ ᡳᠯᡥᠠ",
     "a carved or decorated piece of wood suspended in a gate;"
   ],
   "sukiyari cecike": [
@@ -69804,7 +69804,7 @@ const dictionary = {
     "to offer, to present"
   ],
   "sukjingge ba": [
-    "ᠰᡠᡴᠵᡳᠨᡤᡤᡝ ᠪᠠ",
+    "ᠰᡠᡴᠵᡳᠩᡤᡝ ᠪᠠ",
     "the southwest corner of a house"
   ],
   "suksaha": [
@@ -69880,7 +69880,7 @@ const dictionary = {
     "an official who was in charge of making leather goods in antiquity"
   ],
   "sukv i xoxonggo mahala": [
-    "ᠰᡠᡴᡡ ᡳ ᡧᠣᡧᠣᠨᡤᡤᠣ ᠮᠠᡥᠠᠯᠠ",
+    "ᠰᡠᡴᡡ ᡳ ᡧᠣᡧᠣᠩᡤᠣ ᠮᠠᡥᠠᠯᠠ",
     "an ancient-style hat made from deerskin"
   ],
   "sukv soforo": [
@@ -69892,7 +69892,7 @@ const dictionary = {
     "to form a skin, to develop a layer of skin"
   ],
   "sukvngge lujen": [
-    "ᠰᡠᡴᡡᠨᡤᡤᡝ ᠯᡠᠵᡝᠨ",
+    "ᠰᡠᡴᡡᠩᡤᡝ ᠯᡠᠵᡝᠨ",
     "the name of a ceremonial carriage with a leather-covered dome"
   ],
   "sula": [
@@ -69936,11 +69936,11 @@ const dictionary = {
     "a household slave girl, female servant"
   ],
   "sula inenggi": [
-    "ᠰᡠᠯᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠰᡠᠯᠠ ᡳᠨᡝᠩᡤᡳ",
     "a free day"
   ],
   "sula janggin": [
-    "ᠰᡠᠯᠠ ᠵᠠᠨᡤᡤᡳᠨ",
+    "ᠰᡠᠯᠠ ᠵᠠᠩᡤᡳᠨ",
     "the name of an officer in the Palace of a Prince of the Blood"
   ],
   "sula niyalma": [
@@ -70004,7 +70004,7 @@ const dictionary = {
     "to be loose, to be slack"
   ],
   "sulfangga": [
-    "ᠰᡠᠯᡶᠠᠨᡤᡤᠠ",
+    "ᠰᡠᠯᡶᠠᠩᡤᠠ",
     "relaxed, at ease, peaceful"
   ],
   "sulhumbi": [
@@ -70024,7 +70024,7 @@ const dictionary = {
     ";oral; cf. imahū"
   ],
   "sultungga": [
-    "ᠰᡠᠯᡨᡠᠨᡤᡤᠠ",
+    "ᠰᡠᠯᡨᡠᠩᡤᠠ",
     "wise, sagacious"
   ],
   "sumala": [
@@ -70072,7 +70072,7 @@ const dictionary = {
     "Expenditure Section, 425"
   ],
   "sume efulere kunggeri": [
-    "ᠰᡠᠮᡝ ᡝᡶᡠᠯᡝᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠰᡠᠮᡝ ᡝᡶᡠᠯᡝᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "accounting department of the Court of Colonial Affairs"
   ],
   "sumbuljambi": [
@@ -70124,7 +70124,7 @@ const dictionary = {
     "tea mixed with milk"
   ],
   "sun nimenggi": [
-    "ᠰᡠᠨ ᠨᡳᠮᡝᠨᡤᡤᡳ",
+    "ᠰᡠᠨ ᠨᡳᠮᡝᠩᡤᡳ",
     "butter"
   ],
   "sun sambi": [
@@ -70148,67 +70148,67 @@ const dictionary = {
     "to drip down, to fall (of rain), to condense (of clouds before the onset of rain)"
   ],
   "sung el": [
-    "ᠰᡠᠨᡤ ᡝᠯ",
+    "ᠰᡠᠩ ᡝᠯ",
     "the male sparrow hawk; the same as ajige hiya silmen"
   ],
   "sunggada": [
-    "ᠰᡠᠨᡤᡤᠠᡩᠠ",
+    "ᠰᡠᠩᡤᠠᡩᠠ",
     "the name of a freshwater fish with a red tail and red fins"
   ],
   "sunggali cecike": [
-    "ᠰᡠᠨᡤᡤᠠᠯᡳ ᠴᡝᠴᡳᡴᡝ",
+    "ᠰᡠᠩᡤᠠᠯᡳ ᠴᡝᠴᡳᡴᡝ",
     "North China nutcracker (Nucifraga caryocatactes)"
   ],
   "sunggari bira": [
-    "ᠰᡠᠨᡤᡤᠠᡵᡳ ᠪᡳᡵᠠ",
+    "ᠰᡠᠩᡤᠠᡵᡳ ᠪᡳᡵᠠ",
     "the Milky Way"
   ],
   "sunggari ula": [
-    "ᠰᡠᠨᡤᡤᠠᡵᡳ ᡠᠯᠠ",
+    "ᠰᡠᠩᡤᠠᡵᡳ ᡠᠯᠠ",
     "the Sunggari River"
   ],
   "sunggartu usiha": [
-    "ᠰᡠᠨᡤᡤᠠᡵᡨᡠ ᡠᠰᡳᡥᠠ",
+    "ᠰᡠᠩᡤᠠᡵᡨᡠ ᡠᠰᡳᡥᠠ",
     "the name of a star located south of the Milky Way"
   ],
   "sunggeljembi": [
-    "ᠰᡠᠨᡤᡤᡝᠯᠵᡝᠮᠪᡳ",
+    "ᠰᡠᠩᡤᡝᠯᠵᡝᠮᠪᡳ",
     "to shake, to tremble"
   ],
   "sunggelson": [
-    "ᠰᡠᠨᡤᡤᡝᠯᠰᠣᠨ",
+    "ᠰᡠᠩᡤᡝᠯᠰᠣᠨ",
     "a red tassel that was attached to certain ancient-style hats"
   ],
   "sunggembi": [
-    "ᠰᡠᠨᡤᡤᡝᠮᠪᡳ",
+    "ᠰᡠᠩᡤᡝᠮᠪᡳ",
     "to waste away, to grow skinny and pale"
   ],
   "sunggiljambi": [
-    "ᠰᡠᠨᡤᡤᡳᠯᠵᠠᠮᠪᡳ",
+    "ᠰᡠᠩᡤᡳᠯᠵᠠᠮᠪᡳ",
     "see sunggeljembi"
   ],
   "sunggimbi": [
-    "ᠰᡠᠨᡤᡤᡳᠮᠪᡳ",
+    "ᠰᡠᠩᡤᡳᠮᠪᡳ",
     "see sunggembi"
   ],
   "sunggina": [
-    "ᠰᡠᠨᡤᡤᡳᠨᠠ",
+    "ᠰᡠᠩᡤᡳᠨᠠ",
     "a type of wild onion that grows in cold spots and on cliffs"
   ],
   "sunggiyen": [
-    "ᠰᡠᠨᡤᡤᡳᠶᡝᠨ",
+    "ᠰᡠᠩᡤᡳᠶᡝᠨ",
     "wise, enlightened"
   ],
   "sungguhe": [
-    "ᠰᡠᠨᡤᡤᡠᡥᡝ",
+    "ᠰᡠᠩᡤᡠᡥᡝ",
     "one name for the myna"
   ],
   "sungke": [
-    "ᠰᡠᠨᡤᡴᡝ",
+    "ᠰᡠᠩᡴᡝ",
     "congealed, shriveled up; cf. sumbi (2)"
   ],
   "sungniyaha": [
-    "ᠰᡠᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᠰᡠᠩᠨᡳᠶᠠᡥᠠ",
     "see songgiha"
   ],
   "sunja": [
@@ -70216,7 +70216,7 @@ const dictionary = {
     "five"
   ],
   "sunja akjangga kiru": [
-    "ᠰᡠᠨᠵᠠ ᠠᡴᠵᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠰᡠᠨᠵᠠ ᠠᡴᠵᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner on which five symbols representing thunder appeared"
   ],
   "sunja baktakv": [
@@ -70236,7 +70236,7 @@ const dictionary = {
     "the five offerings that sit on the altar--an incense boat, two candlesticks, and two flower vases"
   ],
   "sunja dang": [
-    "ᠰᡠᠨᠵᠠ ᡩᠠᠨᡤ",
+    "ᠰᡠᠨᠵᠠ ᡩᠠᠩ",
     "same as sunja baktakū"
   ],
   "sunja enteheme": [
@@ -70252,7 +70252,7 @@ const dictionary = {
     "Astronomer, 229"
   ],
   "sunja feten be bodoro hafan i tinggin": [
-    "ᠰᡠᠨᠵᠠ ᡶᡝᡨᡝᠨ ᠪᡝ ᠪᠣᡩᠣᡵᠣ ᡥᠠᡶᠠᠨ ᡳ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠰᡠᠨᠵᠠ ᡶᡝᡨᡝᠨ ᠪᡝ ᠪᠣᡩᠣᡵᠣ ᡥᠠᡶᠠᠨ ᡳ ᡨᡳᠩᡤᡳᠨ",
     "hall of the astronomers"
   ],
   "sunja hacin i jeku": [
@@ -70260,7 +70260,7 @@ const dictionary = {
     "the five grains-- rice, glutinous millet, common millet, wheat, and beans"
   ],
   "sunja hacin i orobuhangge": [
-    "ᠰᡠᠨᠵᠠ ᡥᠠᠴᡳᠨ ᡳ ᠣᡵᠣᠪᡠᡥᠠᠨᡤᡤᡝ",
+    "ᠰᡠᠨᠵᠠ ᡥᠠᠴᡳᠨ ᡳ ᠣᡵᠣᠪᡠᡥᠠᠩᡤᡝ",
     "a sweet food made from dried pears, dried berries, barberry juice, cream, and honey"
   ],
   "sunja hergin": [
@@ -70268,11 +70268,11 @@ const dictionary = {
     "the five ordering principles--year, moon, sun, fixed stars, and planets"
   ],
   "sunja irungge mahatun": [
-    "ᠰᡠᠨᠵᠠ ᡳᡵᡠᠨᡤᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᠰᡠᠨᠵᠠ ᡳᡵᡠᠩᡤᡝ ᠮᠠᡥᠠᡨᡠᠨ",
     "an ancient-style hat with five ridges on top"
   ],
   "sunja jalan genggiyesu": [
-    "ᠰᡠᠨᠵᠠ ᠵᠠᠯᠠᠨ ᡤᡝᠨᡤᡤᡳᠶᡝᠰᡠ",
+    "ᠰᡠᠨᠵᠠ ᠵᠠᠯᠠᠨ ᡤᡝᠩᡤᡳᠶᡝᠰᡠ",
     "a house slave of the fifth generation"
   ],
   "sunja jilgan": [
@@ -70280,7 +70280,7 @@ const dictionary = {
     "the five notes of the Chinese pentatonic scale"
   ],
   "sunja tugingge kiru": [
-    "ᠰᡠᠨᠵᠠ ᡨᡠᡤᡳᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᠰᡠᠨᠵᠠ ᡨᡠᡤᡳᠩᡤᡝ ᡴᡳᡵᡠ",
     "a triangular shaped banner of the imperial escort in five colors embroidered with a cloud design"
   ],
   "sunja tuhebuku i mahatu": [
@@ -70288,7 +70288,7 @@ const dictionary = {
     "a crown of ancient times that had five tassels hanging down from it"
   ],
   "sunja yamun kunggeri": [
-    "ᠰᡠᠨᠵᠠ ᠶᠠᠮᡠᠨ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠰᡠᠨᠵᠠ ᠶᠠᠮᡠᠨ ᡴᡠᠩᡤᡝᡵᡳ",
     "an establishment charged with producing weapons and casting cannon for the provinces"
   ],
   "sunjaci": [
@@ -70300,19 +70300,19 @@ const dictionary = {
     "a descendant of the fifth generation"
   ],
   "sunjangga": [
-    "ᠰᡠᠨᠵᠠᠨᡤᡤᠠ",
+    "ᠰᡠᠨᠵᠠᠩᡤᠠ",
     "pertaining to five"
   ],
   "sunjangga faidan": [
-    "ᠰᡠᠨᠵᠠᠨᡤᡤᠠ ᡶᠠᡳᡩᠠᠨ",
+    "ᠰᡠᠨᠵᠠᠩᡤᠠ ᡶᠠᡳᡩᠠᠨ",
     "a battle rank of five men in antiquity"
   ],
   "sunjangga inenggi": [
-    "ᠰᡠᠨᠵᠠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠰᡠᠨᠵᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "the fifth day of the fifth month--the Dragon Boat Festival"
   ],
   "sunjanggert": [
-    "ᠰᡠᠨᠵᠠᠨᡤᡤᡝᡵᡨ",
+    "ᠰᡠᠨᠵᠠᠩᡤᡝᡵᡨ",
     "five times"
   ],
   "sunjari": [
@@ -70532,7 +70532,7 @@ const dictionary = {
     "fifty each"
   ],
   "susakangge": [
-    "ᠰᡠᠰᠠᡴᠠᠨᡤᡤᡝ",
+    "ᠰᡠᠰᠠᡴᠠᠩᡤᡝ",
     "dead thing!--an oath"
   ],
   "susambi": [
@@ -70576,7 +70576,7 @@ const dictionary = {
     "to shiver from the cold"
   ],
   "susultungga": [
-    "ᠰᡠᠰᡠᠯᡨᡠᠨᡤᡤᠠ",
+    "ᠰᡠᠰᡠᠯᡨᡠᠩᡤᠠ",
     "intelligent, highly gifted; outstanding"
   ],
   "susumbi": [
@@ -70584,7 +70584,7 @@ const dictionary = {
     "(-ha) to become desolate, bleak"
   ],
   "susunggiyambi": [
-    "ᠰᡠᠰᡠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᠰᡠᠰᡠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to ruin, to lay waste"
   ],
   "sutha": [
@@ -70680,15 +70680,15 @@ const dictionary = {
     "a type of wild cat with a yellow back, which in spite of its small size can catch tigers, cows, and deer"
   ],
   "suwangkiyabumbi": [
-    "ᠰᡠᠸᠠᠨᡤᡴᡳᠶᠠᠪᡠᠮᠪᡳ",
+    "ᠰᡠᠸᠠᠩᡴᡳᠶᠠᠪᡠᠮᠪᡳ",
     "caus. of suwangkiyambi"
   ],
   "suwangkiyambi": [
-    "ᠰᡠᠸᠠᠨᡤᡴᡳᠶᠠᠮᠪᡳ",
+    "ᠰᡠᠸᠠᠩᡴᡳᠶᠠᠮᠪᡳ",
     "to graze (of cattle)"
   ],
   "suwangkiyandumbi/suwangkiyanumbi": [
-    "ᠰᡠᠸᠠᠨᡤᡴᡳᠶᠠᠨᡩᡠᠮᠪᡳ/ᠰᡠᠸᠠᠨᡤᡴᡳᠶᠠᠨᡠᠮᠪᡳ",
+    "ᠰᡠᠸᠠᠩᡴᡳᠶᠠᠨᡩᡠᠮᠪᡳ/ᠰᡠᠸᠠᠩᡴᡳᠶᠠᠨᡠᠮᠪᡳ",
     "to graze together"
   ],
   "suwanpan": [
@@ -70724,11 +70724,11 @@ const dictionary = {
     "the same as suwabirgan"
   ],
   "suwayan dangse boo bh": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᡩᠠᠨᡤᠰᡝ ᠪᠣᠣ ᠪᡥ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᡩᠠᠩᠰᡝ ᠪᠣᠣ ᠪᡥ",
     "Genealogical Record Office of the Imperial Clan Court, 74"
   ],
   "suwayan engge cecike": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᡝᠨᡤᡤᡝ ᠴᡝᠴᡳᡴᡝ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᡝᠩᡤᡝ ᠴᡝᠴᡳᡴᡝ",
     "hawfinch (Eophona personata)"
   ],
   "suwayan faitan": [
@@ -70736,7 +70736,7 @@ const dictionary = {
     "a type of quail with yellow stripes over the eyes"
   ],
   "suwayan faitangga cecike": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᡶᠠᡳᡨᠠᠨᡤᡤᠠ ᠴᡝᠴᡳᡴᡝ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᡶᠠᡳᡨᠠᠩᡤᠠ ᠴᡝᠴᡳᡴᡝ",
     "pseudo goldcrest (Phylloscopus inornatus)"
   ],
   "suwayan garudai": [
@@ -70756,11 +70756,11 @@ const dictionary = {
     "section of the yellow banner"
   ],
   "suwayan gvsai kunggeri": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᡤᡡᠰᠠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᡤᡡᠰᠠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office of the yellow banner"
   ],
   "suwayan hoxonggo gu": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᡥᠣᡧᠣᠨᡤᡤᠣ ᡤᡠ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᡥᠣᡧᠣᠩᡤᠣ ᡤᡠ",
     "a square jade tablet used during sacrifices to the earth"
   ],
   "suwayan jugvn": [
@@ -70768,7 +70768,7 @@ const dictionary = {
     "the ecliptic"
   ],
   "suwayan juvn i hetu undu i durungga tetun": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᠵᡠᡡᠨ ᡳ ᡥᡝᡨᡠ ᡠᠨᡩᡠ ᡳ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᠵᡠᡡᠨ ᡳ ᡥᡝᡨᡠ ᡠᠨᡩᡠ ᡳ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "the name of an astronomical instrument in the observatory in Peking used for observing the discrepancies in the ecliptics of the sun, moon, and planets"
   ],
   "suwayan kiltari": [
@@ -70776,7 +70776,7 @@ const dictionary = {
     "a yellow pennant of the imperial escort"
   ],
   "suwayan kuringge gasha": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᡴᡠᡵᡳᠨᡤᡤᡝ ᡤᠠᠰᡥᠠ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᡴᡠᡵᡳᠩᡤᡝ ᡤᠠᠰᡥᠠ",
     "a type of yellow speckled bird"
   ],
   "suwayan meihetu": [
@@ -70784,7 +70784,7 @@ const dictionary = {
     "yellow eel"
   ],
   "suwayan nasingga kiru": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᠨᠠᠰᡳᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᠨᠠᠰᡳᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner of the imperial escort embroidered with the figure of a bear"
   ],
   "suwayan nenden ilha": [
@@ -70800,7 +70800,7 @@ const dictionary = {
     "medicine made from the root of Captis japonica."
   ],
   "suwayan senggiri ilha": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᠰᡝᠨᡤᡤᡳᡵᡳ ᡳᠯᡥᠠ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᠰᡝᠩᡤᡳᡵᡳ ᡳᠯᡥᠠ",
     "yellow azalea"
   ],
   "suwayan sixargan": [
@@ -70832,15 +70832,15 @@ const dictionary = {
     "a yellow swan"
   ],
   "suwayan yadanangga kiru": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᠶᠠᡩᠠᠨᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᠶᠠᡩᠠᠨᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner of the escort embroidered with the figure of a yellow swan"
   ],
   "suwayan yenggehe": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᠶᡝᠨᡤᡤᡝᡥᡝ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᠶᡝᠩᡤᡝᡥᡝ",
     "a yellow parrot"
   ],
   "suwayan yenggetu": [
-    "ᠰᡠᠸᠠᠶᠠᠨ ᠶᡝᠨᡤᡤᡝᡨᡠ",
+    "ᠰᡠᠸᠠᠶᠠᠨ ᠶᡝᠩᡤᡝᡨᡠ",
     "a small green parrot with a yellow neck and breast"
   ],
   "suwe": [
@@ -70888,7 +70888,7 @@ const dictionary = {
     "genitive of suwe"
   ],
   "suweningge": [
-    "ᠰᡠᠸᡝᠨᡳᠨᡤᡤᡝ",
+    "ᠰᡠᠸᡝᠨᡳᠩᡤᡝ",
     "yours"
   ],
   "suya": [
@@ -70924,7 +70924,7 @@ const dictionary = {
     "silk gauze decorated with figures of dragons"
   ],
   "xa juwangduwan": [
-    "ᡧᠠ ᠵᡠᠸᠠᠨᡤᡩᡠᠸᠠᠨ",
+    "ᡧᠠ ᠵᡠᠸᠠᠩᡩᡠᠸᠠᠨ",
     "gauze material that has gold threads worked into it"
   ],
   "xa mi": [
@@ -70968,7 +70968,7 @@ const dictionary = {
     "a protective ear and cheek covering (military)"
   ],
   "xabtungga mahala": [
-    "ᡧᠠᠪᡨᡠᠨᡤᡤᠠ ᠮᠠᡥᠠᠯᠠ",
+    "ᡧᠠᠪᡨᡠᠩᡤᠠ ᠮᠠᡥᠠᠯᠠ",
     "a hat with ear flaps"
   ],
   "xaburambi": [
@@ -70984,11 +70984,11 @@ const dictionary = {
     "to look in every direction, to be always looking to the side (of horses and cattle)"
   ],
   "xacun niongniyaha": [
-    "ᡧᠠᠴᡠᠨ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡧᠠᠴᡠᠨ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "one name for the wild goose"
   ],
   "xacungga jahvdai": [
-    "ᡧᠠᠴᡠᠨᡤᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
+    "ᡧᠠᠴᡠᠩᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
     "a flat-bottomed boat"
   ],
   "xada ilha": [
@@ -71040,11 +71040,11 @@ const dictionary = {
     "a white crane"
   ],
   "xahvn horonggo gu": [
-    "ᡧᠠᡥᡡᠨ ᡥᠣᡵᠣᠨᡤᡤᠣ ᡤᡠ",
+    "ᡧᠠᡥᡡᠨ ᡥᠣᡵᠣᠩᡤᠣ ᡤᡠ",
     "a round white jade tablet used during sacrifices to the moon"
   ],
   "xahvn hurungge alhacan niyehe": [
-    "ᡧᠠᡥᡡᠨ ᡥᡠᡵᡠᠨᡤᡤᡝ ᠠᠯᡥᠠᠴᠠᠨ ᠨᡳᠶᡝᡥᡝ",
+    "ᡧᠠᡥᡡᠨ ᡥᡠᡵᡠᠩᡤᡝ ᠠᠯᡥᠠᠴᠠᠨ ᠨᡳᠶᡝᡥᡝ",
     "a speckled duck with a white back"
   ],
   "xahvn saksaha": [
@@ -71080,7 +71080,7 @@ const dictionary = {
     "to laugh sarcastically"
   ],
   "xahvrun silenggi": [
-    "ᡧᠠᡥᡡᡵᡠᠨ ᠰᡳᠯᡝᠨᡤᡤᡳ",
+    "ᡧᠠᡥᡡᡵᡠᠨ ᠰᡳᠯᡝᠩᡤᡳ",
     "'cold dew'--one of the twenty-four divisions of the solar year falling on October eighth or ninth"
   ],
   "xahvrun xeri": [
@@ -71112,27 +71112,27 @@ const dictionary = {
     "a red eruption on the skin that resembles a small strawberry"
   ],
   "xajingga": [
-    "ᡧᠠᠵᡳᠨᡤᡤᠠ",
+    "ᡧᠠᠵᡳᠩᡤᠠ",
     "pertaining to prohibition, religious"
   ],
   "xajingga ahvn": [
-    "ᡧᠠᠵᡳᠨᡤᡤᠠ ᠠᡥᡡᠨ",
+    "ᡧᠠᠵᡳᠩᡤᠠ ᠠᡥᡡᠨ",
     "brother in a Buddhist or Taoist monastery"
   ],
   "xajingga belhesi": [
-    "ᡧᠠᠵᡳᠨᡤᡤᠠ ᠪᡝᠯᡥᡝᠰᡳ",
+    "ᡧᠠᠵᡳᠩᡤᠠ ᠪᡝᠯᡥᡝᠰᡳ",
     "see beihesi"
   ],
   "xajingga deo": [
-    "ᡧᠠᠵᡳᠨᡤᡤᠠ ᡩᡝᠣ",
+    "ᡧᠠᠵᡳᠩᡤᠠ ᡩᡝᠣ",
     "a young brother in a monastery"
   ],
   "xajingga gasha": [
-    "ᡧᠠᠵᡳᠨᡤᡤᠠ ᡤᠠᠰᡥᠠ",
+    "ᡧᠠᠵᡳᠩᡤᠠ ᡤᠠᠰᡥᠠ",
     "the Buddha bird, so called because its call resembles the word mito (Amitabha)"
   ],
   "xajingga karan": [
-    "ᡧᠠᠵᡳᠨᡤᡤᠠ ᡴᠠᡵᠠᠨ",
+    "ᡧᠠᠵᡳᠩᡤᠠ ᡴᠠᡵᠠᠨ",
     "a platform used for Buddhist and Taoist services"
   ],
   "xajintu": [
@@ -71200,7 +71200,7 @@ const dictionary = {
     "the cheek"
   ],
   "xakxaha i giranggi": [
-    "ᡧᠠᡴᡧᠠᡥᠠ ᡳ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡧᠠᡴᡧᠠᡥᠠ ᡳ ᡤᡳᡵᠠᠩᡤᡳ",
     "the cheekbone of a fish"
   ],
   "xakxaha maktambi": [
@@ -71256,7 +71256,7 @@ const dictionary = {
     "a man in the wings (of an army)"
   ],
   "xalangtu": [
-    "ᡧᠠᠯᠠᠨᡤᡨᡠ",
+    "ᡧᠠᠯᠠᠩᡨᡠ",
     "a fat ox"
   ],
   "xalar seme": [
@@ -71372,7 +71372,7 @@ const dictionary = {
     "earlobe"
   ],
   "xan i unggala": [
-    "ᡧᠠᠨ ᡳ ᡠᠨᡤᡤᠠᠯᠠ",
+    "ᡧᠠᠨ ᡳ ᡠᠩᡤᠠᠯᠠ",
     "the opening of the ear"
   ],
   "xan kamcime banjihabi": [
@@ -71408,215 +71408,215 @@ const dictionary = {
     "to look at one another"
   ],
   "xang": [
-    "ᡧᠠᠨᡤ",
+    "ᡧᠠᠩ",
     "1. bestowal, reward 2. see šangsin"
   ],
   "xang koro": [
-    "ᡧᠠᠨᡤ ᡴᠣᡵᠣ",
+    "ᡧᠠᠩ ᡴᠣᡵᠣ",
     "reward and punishment"
   ],
   "xangga": [
-    "ᡧᠠᠨᡤᡤᠠ",
+    "ᡧᠠᠩᡤᠠ",
     "endowed with ears"
   ],
   "xangga cirku": [
-    "ᡧᠠᠨᡤᡤᠠ ᠴᡳᡵᡴᡠ",
+    "ᡧᠠᠩᡤᠠ ᠴᡳᡵᡴᡠ",
     "a pillow with earlike projections on the side"
   ],
   "xanggabuda": [
-    "ᡧᠠᠨᡤᡤᠠᠪᡠᡩᠠ",
+    "ᡧᠠᠩᡤᠠᠪᡠᡩᠠ",
     "dried cooked rice"
   ],
   "xanggabumbi": [
-    "ᡧᠠᠨᡤᡤᠠᠪᡠᠮᠪᡳ",
+    "ᡧᠠᠩᡤᠠᠪᡠᠮᠪᡳ",
     "caus. of šanggambi"
   ],
   "xanggambi": [
-    "ᡧᠠᠨᡤᡤᠠᠮᠪᡳ",
+    "ᡧᠠᠩᡤᠠᠮᠪᡳ",
     "1. to come to an end, to terminate successfully, to finish 2. to be accomplished"
   ],
   "xanggaha bithei niyalma": [
-    "ᡧᠠᠨᡤᡤᠠᡥᠠ ᠪᡳᡨᡥᡝᡳ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᡧᠠᠩᡤᠠᡥᠠ ᠪᡳᡨᡥᡝᡳ ᠨᡳᠶᠠᠯᠮᠠ",
     "an accomplished scholar"
   ],
   "sanggaha doro": [
-    "ᠰᠠᠨᡤᡤᠠᡥᠠ ᡩᠣᡵᠣ",
+    "ᠰᠠᠩᡤᠠᡥᠠ ᡩᠣᡵᠣ",
     "success"
   ],
   "xanggaha gebu": [
-    "ᡧᠠᠨᡤᡤᠠᡥᠠ ᡤᡝᠪᡠ",
+    "ᡧᠠᠩᡤᠠᡥᠠ ᡤᡝᠪᡠ",
     "honor, well-deserved renown"
   ],
   "xanggaha gungge": [
-    "ᡧᠠᠨᡤᡤᠠᡥᠠ ᡤᡠᠨᡤᡤᡝ",
+    "ᡧᠠᠩᡤᠠᡥᠠ ᡤᡠᠩᡤᡝ",
     "merit, feats"
   ],
   "xanggame jabduha": [
-    "ᡧᠠᠨᡤᡤᠠᠮᡝ ᠵᠠᠪᡩᡠᡥᠠ",
+    "ᡧᠠᠩᡤᠠᠮᡝ ᠵᠠᠪᡩᡠᡥᠠ",
     "succeeded, successfully terminated"
   ],
   "xanggan": [
-    "ᡧᠠᠨᡤᡤᠠᠨ",
+    "ᡧᠠᠩᡤᠠᠨ",
     "completion, accomplishment, accomplished"
   ],
   "xanggan i elioi": [
-    "ᡧᠠᠨᡤᡤᠠᠨ ᡳ ᡝᠯᡳᠣᡳ",
+    "ᡧᠠᠩᡤᠠᠨ ᡳ ᡝᠯᡳᠣᡳ",
     "one of the six minor pipes (music)"
   ],
   "xanggatai": [
-    "ᡧᠠᠨᡤᡤᠠᡨᠠᡳ",
+    "ᡧᠠᠩᡤᠠᡨᠠᡳ",
     "1. finally, indeed, actually 2. fully at an end, thoroughly completed"
   ],
   "xanggin": [
-    "ᡧᠠᠨᡤᡤᡳᠨ",
+    "ᡧᠠᠩᡤᡳᠨ",
     "the silver pheasant; cf. šunggin gasha"
   ],
   "xanggiyakan": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᡴᠠᠨ",
+    "ᡧᠠᠩᡤᡳᠶᠠᡴᠠᠨ",
     "rather white, somewhat white"
   ],
   "xanggiyakv": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᡴᡡ",
+    "ᡧᠠᠩᡤᡳᠶᠠᡴᡡ",
     "1. smoke from a signal fire, smoke signal 2. see šanggiyari"
   ],
   "xanggiyakv dabumbi": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᡴᡡ ᡩᠠᠪᡠᠮᠪᡳ",
+    "ᡧᠠᠩᡤᡳᠶᠠᡴᡡ ᡩᠠᠪᡠᠮᠪᡳ",
     "1. to send up signal smoke 2. to make smoke to ward off insects"
   ],
   "xanggiyambi": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to smoke"
   ],
   "xanggiyan": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ",
     "1. (white) smoke 2. white 3. the seventh of the heaven's stems ; cf. šanyan"
   ],
   "xanggiyan alan": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠠᠯᠠᠨ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠠᠯᠠᠨ",
     "white birchbark"
   ],
   "xanggiyan bulehen": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠪᡠᠯᡝᡥᡝᠨ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠪᡠᠯᡝᡥᡝᠨ",
     "white crane"
   ],
   "xanggiyan caise": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠴᠠᡳᠰᡝ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠴᠠᡳᠰᡝ",
     "deep-fried vermicelli made from salt water and flour"
   ],
   "xanggiyan faha fekxun": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᡶᠠᡥᠠ ᡶᡝᡴᡧᡠᠨ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᡶᠠᡥᠠ ᡶᡝᡴᡧᡠᠨ",
     "the white part of the eyeball, alum"
   ],
   "xanggiyan fulha": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᡶᡠᠯᡥᠠ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᡶᡠᠯᡥᠠ",
     "white poplar"
   ],
   "xanggiyan halu i sacima": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᡥᠠᠯᡠ ᡳ ᠰᠠᠴᡳᠮᠠ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᡥᠠᠯᡠ ᡳ ᠰᠠᠴᡳᠮᠠ",
     "a deep-fried cake made from sesame oil, fine flour, sugar, and sesame seeds"
   ],
   "xanggiyan ija": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᡳᠵᠠ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᡳᠵᠠ",
     "a variety of small white gnat, sandfly"
   ],
   "xanggiyan jiyoo bing": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠵᡳᠶᠣᠣ ᠪᡳᠨᡤ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠵᡳᠶᠣᠣ ᠪᡳᠩ",
     "a baked cake made from sugar and flour"
   ],
   "xanggiyan mursa": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠮᡠᡵᠰᠠ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠮᡠᡵᠰᠠ",
     "Chinese radish, daikon"
   ],
   "xanggiyan niongniyaha": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "a wild goose that appears white in flight"
   ],
   "xanggiyan nisiha": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠨᡳᠰᡳᡥᠠ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠨᡳᠰᡳᡥᠠ",
     "a small whitefish"
   ],
   "xanggiyan selbete": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠰᡝᠯᠪᡝᡨᡝ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠰᡝᠯᠪᡝᡨᡝ",
     "white mugwort--Artemisia lactiflora"
   ],
   "xanggiyan silenggi": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠰᡳᠯᡝᠨᡤᡤᡳ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠰᡳᠯᡝᠩᡤᡳ",
     "'white dew'-- one of the twenty-four divisions of the solar year occurring on about the eighth of September"
   ],
   "xanggiyan suiha": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᠰᡠᡳᡥᠠ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᠰᡠᡳᡥᠠ",
     "white artemisia"
   ],
   "xanggiyan teixun": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᡨᡝᡳᡧᡠᠨ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᡨᡝᡳᡧᡠᠨ",
     "zinc; cf. šanyan teišun"
   ],
   "xanggiyan ulhu": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᠨ ᡠᠯᡥᡠ",
+    "ᡧᠠᠩᡤᡳᠶᠠᠨ ᡠᠯᡥᡠ",
     "ermine; cf. šanyan ulhu"
   ],
   "xanggiyari": [
-    "ᡧᠠᠨᡤᡤᡳᠶᠠᡵᡳ",
+    "ᡧᠠᠩᡤᡳᠶᠠᡵᡳ",
     "smoke used for warding off insects"
   ],
   "xangguhe": [
-    "ᡧᠠᠨᡤᡤᡠᡥᡝ",
+    "ᡧᠠᠩᡤᡠᡥᡝ",
     "one name for the myna"
   ],
   "xangka": [
-    "ᡧᠠᠨᡤᡴᠠ",
+    "ᡧᠠᠩᡴᠠ",
     "1. silk gauze flaps on both sides on an ancient-style hat 2. halo around the sun 3. thinly sliced dried meat; cf. šangkan"
   ],
   "xangka xombi": [
-    "ᡧᠠᠨᡤᡴᠠ ᡧᠣᠮᠪᡳ",
+    "ᡧᠠᠩᡴᠠ ᡧᠣᠮᠪᡳ",
     "to rub vigorously with a copper coin that has been moistened--a method of treating certain diseases"
   ],
   "xangka xufatu": [
-    "ᡧᠠᠨᡤᡴᠠ ᡧᡠᡶᠠᡨᡠ",
+    "ᡧᠠᠩᡴᠠ ᡧᡠᡶᠠᡨᡠ",
     "an ancient-style hat with gauze flaps on either side"
   ],
   "xangkan": [
-    "ᡧᠠᠨᡤᡴᠠᠨ",
+    "ᡧᠠᠩᡴᠠᠨ",
     "dried meat, some dried product"
   ],
   "xangkan nimaha": [
-    "ᡧᠠᠨᡤᡴᠠᠨ ᠨᡳᠮᠠᡥᠠ",
+    "ᡧᠠᠩᡴᠠᠨ ᠨᡳᠮᠠᡥᠠ",
     "the same as can nimaha"
   ],
   "xangkvra niongniyaha": [
-    "ᡧᠠᠨᡤᡴᡡᡵᠠ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡧᠠᠩᡴᡡᡵᠠ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "graylag goose (Anser anser)"
   ],
   "xangnabumbi": [
-    "ᡧᠠᠨᡤᠨᠠᠪᡠᠮᠪᡳ",
+    "ᡧᠠᠩᠨᠠᠪᡠᠮᠪᡳ",
     "caus./pass. of šangnambi"
   ],
   "xangnahan": [
-    "ᡧᠠᠨᡤᠨᠠᡥᠠᠨ",
+    "ᡧᠠᠩᠨᠠᡥᠠᠨ",
     "reward, prize"
   ],
   "xangnambi": [
-    "ᡧᠠᠨᡤᠨᠠᠮᠪᡳ",
+    "ᡧᠠᠩᠨᠠᠮᠪᡳ",
     "to reward, to bestow"
   ],
   "xangnan": [
-    "ᡧᠠᠨᡤᠨᠠᠨ",
+    "ᡧᠠᠩᠨᠠᠨ",
     "reward, bestowal"
   ],
   "xangsi enduri": [
-    "ᡧᠠᠨᡤᠰᡳ ᡝᠨᡩᡠᡵᡳ",
+    "ᡧᠠᠩᠰᡳ ᡝᠨᡩᡠᡵᡳ",
     "the name of a deity sacrificed to in the shamanic shrine"
   ],
   "xangsin": [
-    "ᡧᠠᠨᡤᠰᡳᠨ",
+    "ᡧᠠᠩᠰᡳᠨ",
     "one of the notes of the classical pentatonic scale, sounding like re"
   ],
   "xangxaha": [
-    "ᡧᠠᠨᡤᡧᠠᡥᠠ",
+    "ᡧᠠᠩᡧᠠᡥᠠ",
     "a basket made from willow branches"
   ],
   "xangxangdeo": [
-    "ᡧᠠᠨᡤᡧᠠᠨᡤᡩᡝᠣ",
+    "ᡧᠠᠩᡧᠠᠩᡩᡝᠣ",
     "the bird kalavinka (Cuculus melandoicus)"
   ],
   "xaniori ilha": [
@@ -71644,15 +71644,15 @@ const dictionary = {
     "a long gown padded with hempen floss"
   ],
   "xaniyangga": [
-    "ᡧᠠᠨᡳᠶᠠᠨᡤᡤᠠ",
+    "ᡧᠠᠨᡳᠶᠠᠩᡤᠠ",
     "made from hempen floss, padded"
   ],
   "xaniyangga etuku": [
-    "ᡧᠠᠨᡳᠶᠠᠨᡤᡤᠠ ᡝᡨᡠᡴᡠ",
+    "ᡧᠠᠨᡳᠶᠠᠩᡤᠠ ᡝᡨᡠᡴᡠ",
     "clothing padded with hempen floss, clothing made from linen"
   ],
   "xaniyangga mahatu": [
-    "ᡧᠠᠨᡳᠶᠠᠨᡤᡤᠠ ᠮᠠᡥᠠᡨᡠ",
+    "ᡧᠠᠨᡳᠶᠠᠩᡤᠠ ᠮᠠᡥᠠᡨᡠ",
     "an ancient-style hat made from black grass linen"
   ],
   "xanjin": [
@@ -71664,7 +71664,7 @@ const dictionary = {
     "1. heelbone of cows 2. zinc; cf. anyan teiun"
   ],
   "xantu giranggi": [
-    "ᡧᠠᠨᡨᡠ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡧᠠᠨᡨᡠ ᡤᡳᡵᠠᠩᡤᡳ",
     "the same as šantu"
   ],
   "xanumbi": [
@@ -71724,7 +71724,7 @@ const dictionary = {
     "section of the white banner"
   ],
   "xanyan haksangga efen": [
-    "ᡧᠠᠨᠶᠠᠨ ᡥᠠᡴᠰᠠᠨᡤᡤᠠ ᡝᡶᡝᠨ",
+    "ᡧᠠᠨᠶᠠᠨ ᡥᠠᡴᠰᠠᠩᡤᠠ ᡝᡶᡝᠨ",
     "a baked cake covered with sugar; cf. anggiyan jiyoo bing"
   ],
   "xanyan halu i sacima": [
@@ -71736,7 +71736,7 @@ const dictionary = {
     "a small white gnat, a sand fly"
   ],
   "xanyan konggolo": [
-    "ᡧᠠᠨᠶᠠᠨ ᡴᠣᠨᡤᡤᠣᠯᠣ",
+    "ᡧᠠᠨᠶᠠᠨ ᡴᠣᠩᡤᠣᠯᠣ",
     "one name for the quail"
   ],
   "xanyan kuwecihe": [
@@ -71768,7 +71768,7 @@ const dictionary = {
     "one name for the quail"
   ],
   "xanyan silenggi": [
-    "ᡧᠠᠨᠶᠠᠨ ᠰᡳᠯᡝᠨᡤᡤᡳ",
+    "ᡧᠠᠨᠶᠠᠨ ᠰᡳᠯᡝᠩᡤᡳ",
     "the same as šanggiyan silenggi"
   ],
   "xanyan sixargan": [
@@ -71788,7 +71788,7 @@ const dictionary = {
     "the Milky Way"
   ],
   "xanyan xongkon": [
-    "ᡧᠠᠨᠶᠠᠨ ᡧᠣᠨᡤᡴᠣᠨ",
+    "ᡧᠠᠨᠶᠠᠨ ᡧᠣᠩᡴᠣᠨ",
     "a white gyrfalcon; cf. šongkon"
   ],
   "xanyan xoxontu": [
@@ -71796,7 +71796,7 @@ const dictionary = {
     "an ancient-style head covering made from white silk"
   ],
   "xanyan xungkeri baibula": [
-    "ᡧᠠᠨᠶᠠᠨ ᡧᡠᠨᡤᡴᡝᡵᡳ ᠪᠠᡳᠪᡠᠯᠠ",
+    "ᡧᠠᠨᠶᠠᠨ ᡧᡠᠩᡴᡝᡵᡳ ᠪᠠᡳᠪᡠᠯᠠ",
     "the name of the paradise flycatcher in Kiangnan"
   ],
   "xanyan tasha": [
@@ -71804,7 +71804,7 @@ const dictionary = {
     "a white tiger"
   ],
   "xanyan tashangga kiru": [
-    "ᡧᠠᠨᠶᠠᠨ ᡨᠠᠰᡥᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᡧᠠᠨᠶᠠᠨ ᡨᠠᠰᡥᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner of the imperial escort depicting the figure of a white tiger"
   ],
   "xanyan teixun": [
@@ -71820,7 +71820,7 @@ const dictionary = {
     "a white pheasant"
   ],
   "xanyan ulhvmangga kiru": [
-    "ᡧᠠᠨᠶᠠᠨ ᡠᠯᡥᡡᠮᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᡧᠠᠨᠶᠠᠨ ᡠᠯᡥᡡᠮᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner of the imperial escort depicting the figure of a white pheasant"
   ],
   "xanyan umiyaha": [
@@ -71836,7 +71836,7 @@ const dictionary = {
     "a white panther"
   ],
   "xanyangga cece": [
-    "ᡧᠠᠨᠶᠠᠨᡤᡤᠠ ᠴᡝᠴᡝ",
+    "ᡧᠠᠨᠶᠠᠩᡤᠠ ᠴᡝᠴᡝ",
     "a white silk gauze"
   ],
   "xanyo": [
@@ -71916,15 +71916,15 @@ const dictionary = {
     "to smelt (iron), to refine"
   ],
   "xaringga dabtangga loho": [
-    "ᡧᠠᡵᡳᠨᡤᡤᠠ ᡩᠠᠪᡨᠠᠨᡤᡤᠠ ᠯᠣᡥᠣ",
+    "ᡧᠠᡵᡳᠩᡤᠠ ᡩᠠᠪᡨᠠᠩᡤᠠ ᠯᠣᡥᠣ",
     "a steel sword"
   ],
   "xaringgiyabumbi": [
-    "ᡧᠠᡵᡳᠨᡤᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
+    "ᡧᠠᡵᡳᠩᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
     "caus. of šaringgiyambi"
   ],
   "xaringgiyambi": [
-    "ᡧᠠᡵᡳᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡧᠠᡵᡳᠩᡤᡳᠶᠠᠮᠪᡳ",
     "1. to clean, to scrape clean (arrow-shaft) 2. to expiate, to atone, to wipe out (a wrong or shame)"
   ],
   "xarinjambi": [
@@ -72068,7 +72068,7 @@ const dictionary = {
     "the constellation Orion"
   ],
   "xebnio tokdonggo kiru": [
-    "ᡧᡝᠪᠨᡳᠣ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡧᡝᠪᠨᡳᠣ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation Orion"
   ],
   "xbtembi": [
@@ -72132,79 +72132,79 @@ const dictionary = {
     "to hem with (green) grained leather"
   ],
   "xeng": [
-    "ᡧᡝᠨᡤ",
+    "ᡧᡝᠩ",
     "1. a wind instrument consisting of a number of small pipes with metallic reeds 2. a Chinese pint 3. nephew"
   ],
   "xengge": [
-    "ᡧᡝᠨᡤᡤᡝ",
+    "ᡧᡝᠩᡤᡝ",
     "1. divine, prophetic 2. prophet, seer"
   ],
   "xengge saksaha": [
-    "ᡧᡝᠨᡤᡤᡝ ᠰᠠᡴᠰᠠᡥᠠ",
+    "ᡧᡝᠩᡤᡝ ᠰᠠᡴᠰᠠᡥᠠ",
     "prophetic magpie that announces joyful events beforehand by its cry"
   ],
   "xenggeci ilha": [
-    "ᡧᡝᠨᡤᡤᡝᠴᡳ ᡳᠯᡥᠠ",
+    "ᡧᡝᠩᡤᡝᠴᡳ ᡳᠯᡥᠠ",
     "the name of a beautiful exotic flower that blooms from spring to autumn"
   ],
   "xnggehen": [
-    "ᡧᠨᡤᡤᡝᡥᡝᠨ",
+    "ᡧᠩᡤᡝᡥᡝᠨ",
     "one name for the crane; cf. bulehen"
   ],
   "xenggen moo": [
-    "ᡧᡝᠨᡤᡤᡝᠨ ᠮᠣᠣ",
+    "ᡧᡝᠩᡤᡝᠨ ᠮᠣᠣ",
     "a five-hundred-year-old tree"
   ],
   "xenggetu": [
-    "ᡧᡝᠨᡤᡤᡝᡨᡠ",
+    "ᡧᡝᠩᡤᡝᡨᡠ",
     "the name of a divine beast that foresees the future"
   ],
   "xenggetungge kiru": [
-    "ᡧᡝᠨᡤᡤᡝᡨᡠᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᡧᡝᠩᡤᡝᡨᡠᠩᡤᡝ ᡴᡳᡵᡠ",
     "a banner of the imperial escort that depicts the figure of a enggetu"
   ],
   "xenggin": [
-    "ᡧᡝᠨᡤᡤᡳᠨ",
+    "ᡧᡝᠩᡤᡳᠨ",
     "1. forehead 2. the place where the foot of a mountain and a river meet 3. a brick that projects forward above the door of a stove"
   ],
   "xenggin gaimbi": [
-    "ᡧᡝᠨᡤᡤᡳᠨ ᡤᠠᡳᠮᠪᡳ",
+    "ᡧᡝᠩᡤᡳᠨ ᡤᠠᡳᠮᠪᡳ",
     "to hit lightly on the forehead, to tap on the forehead"
   ],
   "xenggin heterembi": [
-    "ᡧᡝᠨᡤᡤᡳᠨ ᡥᡝᡨᡝᡵᡝᠮᠪᡳ",
+    "ᡧᡝᠩᡤᡳᠨ ᡥᡝᡨᡝᡵᡝᠮᠪᡳ",
     "to knit the brow"
   ],
   "xenggintu": [
-    "ᡧᡝᠨᡤᡤᡳᠨᡨᡠ",
+    "ᡧᡝᠩᡤᡳᠨᡨᡠ",
     "an ancient-style headband, square in shape and decorated with lacquer and gold"
   ],
   "xenggiyen boso": [
-    "ᡧᡝᠨᡤᡤᡳᠶᡝᠨ ᠪᠣᠰᠣ",
+    "ᡧᡝᠩᡤᡳᠶᡝᠨ ᠪᠣᠰᠣ",
     "undyed cloth"
   ],
   "xengkiri": [
-    "ᡧᡝᠨᡤᡴᡳᡵᡳ",
+    "ᡧᡝᠩᡴᡳᡵᡳ",
     "yarrow"
   ],
   "xengkitu": [
-    "ᡧᡝᠨᡤᡴᡳᡨᡠ",
+    "ᡧᡝᠩᡴᡳᡨᡠ",
     "one of the names of the fabulous beast called tontu"
   ],
   "xengsin": [
-    "ᡧᡝᠨᡤᠰᡳᠨ",
+    "ᡧᡝᠩᠰᡳᠨ",
     "geomancy"
   ],
   "xengsin i siren": [
-    "ᡧᡝᠨᡤᠰᡳᠨ ᡳ ᠰᡳᡵᡝᠨ",
+    "ᡧᡝᠩᠰᡳᠨ ᡳ ᠰᡳᡵᡝᠨ",
     "a geomantic vein"
   ],
   "xengsin tuwambi": [
-    "ᡧᡝᠨᡤᠰᡳᠨ ᡨᡠᠸᠠᠮᠪᡳ",
+    "ᡧᡝᠩᠰᡳᠨ ᡨᡠᠸᠠᠮᠪᡳ",
     "to practice geomancy"
   ],
   "xengsin tuwara niyalma": [
-    "ᡧᡝᠨᡤᠰᡳᠨ ᡨᡠᠸᠠᡵᠠ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᡧᡝᠩᠰᡳᠨ ᡨᡠᠸᠠᡵᠠ ᠨᡳᠶᠠᠯᠮᠠ",
     "a geomancer"
   ],
   "xentu": [
@@ -72228,7 +72228,7 @@ const dictionary = {
     "to blow in sharp gusts"
   ],
   "xeo sing enduri": [
-    "ᡧᡝᠣ ᠰᡳᠨᡤ ᡝᠨᡩᡠᡵᡳ",
+    "ᡧᡝᠣ ᠰᡳᠩ ᡝᠨᡩᡠᡵᡳ",
     "the god of the star of long life"
   ],
   "xeo xa": [
@@ -72312,7 +72312,7 @@ const dictionary = {
     "1. a protective piece for the forehead on a helmet 2. a golden figure of a Buddha on the front of a prince's hat"
   ],
   "xeringgiyembi": [
-    "ᡧᡝᡵᡳᠨᡤᡤᡳᠶᡝᠮᠪᡳ",
+    "ᡧᡝᡵᡳᠩᡤᡳᠶᡝᠮᠪᡳ",
     "to heat until red-hot"
   ],
   "xerinju": [
@@ -72320,7 +72320,7 @@ const dictionary = {
     "a blackmailer, intimidator"
   ],
   "xersen inggali": [
-    "ᡧᡝᡵᠰᡝᠨ ᡳᠨᡤᡤᠠᠯᡳ",
+    "ᡧᡝᡵᠰᡝᠨ ᡳᠩᡤᠠᠯᡳ",
     "the name of a small bird that has white spots on its tail"
   ],
   "xertu": [
@@ -72408,7 +72408,7 @@ const dictionary = {
     "1. a measure equaling one hundred twenty catties 2. poem, verse 3. army 4. examination 5. scholar, official"
   ],
   "xicing": [
-    "ᡧᡳᠴᡳᠨᡤ",
+    "ᡧᡳᠴᡳᠩ",
     "celadonite"
   ],
   "xidu": [
@@ -72428,7 +72428,7 @@ const dictionary = {
     "Sakyamuni"
   ],
   "xigiyang": [
-    "ᡧᡳᡤᡳᠶᠠᠨᡤ",
+    "ᡧᡳᡤᡳᠶᠠᠩ",
     "a Hanlin official of the fifth rank second class"
   ],
   "xilgiyan": [
@@ -72436,7 +72436,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "xilgiyan tokdonggo kiru": [
-    "ᡧᡳᠯᡤᡳᠶᠠᠨ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᡧᡳᠯᡤᡳᠶᠠᠨ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation šilgiyan"
   ],
   "xilio": [
@@ -72624,15 +72624,15 @@ const dictionary = {
     "fork, skewer, small forklike projection on a knife"
   ],
   "xolonggo": [
-    "ᡧᠣᠯᠣᠨᡤᡤᠣ",
+    "ᡧᠣᠯᠣᠩᡤᠣ",
     "1. pointed, forked 2. point, tip 3. adept (at war, hunting, archery), out in front (of one's competitors at war, hunting, etc.)"
   ],
   "xolonggo mafuta": [
-    "ᡧᠣᠯᠣᠨᡤᡤᠣ ᠮᠠᡶᡠᡨᠠ",
+    "ᡧᠣᠯᠣᠩᡤᠣ ᠮᠠᡶᡠᡨᠠ",
     "a two-year-old deer"
   ],
   "xolonggo sacikv": [
-    "ᡧᠣᠯᠣᠨᡤᡤᠣ ᠰᠠᠴᡳᡴᡡ",
+    "ᡧᠣᠯᠣᠩᡤᠣ ᠰᠠᠴᡳᡴᡡ",
     "a pickax used for digging in frozen or very hard soil"
   ],
   "xolontu": [
@@ -72648,27 +72648,27 @@ const dictionary = {
     "(-ha) 1. to scrape, to scrape off, to level off 2. to curry (livestock)"
   ],
   "xongge inenggi": [
-    "ᡧᠣᠨᡤᡤᡝ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡧᠣᠩᡤᡝ ᡳᠨᡝᠩᡤᡳ",
     "the first day of the month (lunar)"
   ],
   "xonggon": [
-    "ᡧᠣᠨᡤᡤᠣᠨ",
+    "ᡧᠣᠩᡤᠣᠨ",
     "see longkon"
   ],
   "xongkon": [
-    "ᡧᠣᠨᡤᡴᠣᠨ",
+    "ᡧᠣᠩᡴᠣᠨ",
     "the peregrine falcon (Falco peregrinus)"
   ],
   "xongkon gasha": [
-    "ᡧᠣᠨᡤᡴᠣᠨ ᡤᠠᠰᡥᠠ",
+    "ᡧᠣᠩᡴᠣᠨ ᡤᠠᠰᡥᠠ",
     "another name of the šongkon"
   ],
   "xongkon ija": [
-    "ᡧᠣᠨᡤᡴᠣᠨ ᡳᠵᠠ",
+    "ᡧᠣᠩᡴᠣᠨ ᡳᠵᠠ",
     "a thin-waisted insect somewhat longer than a sandfly that catches flies"
   ],
   "xongkoro": [
-    "ᡧᠣᠨᡤᡴᠣᡵᠣ",
+    "ᡧᠣᠩᡴᠣᡵᠣ",
     "another name for the longkon"
   ],
   "xonumbi": [
@@ -72776,7 +72776,7 @@ const dictionary = {
     "the young of pheasants, ducks, and geese"
   ],
   "xoronggo dalangga": [
-    "ᡧᠣᡵᠣᠨᡤᡤᠣ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᡧᠣᡵᠣᠩᡤᠣ ᡩᠠᠯᠠᠩᡤᠠ",
     "a dam consisting of rock-filled baskets"
   ],
   "xosihi": [
@@ -72824,7 +72824,7 @@ const dictionary = {
     "an ornament made of wire worn by Manchu women in their hair"
   ],
   "xoxonggo mahala": [
-    "ᡧᠣᡧᠣᠨᡤᡤᠣ ᠮᠠᡥᠠᠯᠠ",
+    "ᡧᠣᡧᠣᠩᡤᠣ ᠮᠠᡥᠠᠯᠠ",
     "an ancient-style hat worn to keep a hairdo in order"
   ],
   "xoxosi": [
@@ -72868,7 +72868,7 @@ const dictionary = {
     "essay, article"
   ],
   "xu genggiyen": [
-    "ᡧᡠ ᡤᡝᠨᡤᡤᡳᠶᡝᠨ",
+    "ᡧᡠ ᡤᡝᠩᡤᡳᠶᡝᠨ",
     "cultured and enlightened"
   ],
   "xu gi xi": [
@@ -72912,7 +72912,7 @@ const dictionary = {
     "lotus pond"
   ],
   "xu imiyaha tanggin": [
-    "ᡧᡠ ᡳᠮᡳᠶᠠᡥᠠ ᡨᠠᠨᡤᡤᡳᠨ",
+    "ᡧᡠ ᡳᠮᡳᠶᠠᡥᠠ ᡨᠠᠩᡤᡳᠨ",
     "the name of a two-storied hall in the Examination Halls"
   ],
   "xu jamuri ilha": [
@@ -72924,19 +72924,19 @@ const dictionary = {
     "cultured ways or habits, culture, education"
   ],
   "xu yangsangga": [
-    "ᡧᡠ ᠶᠠᠨᡤᠰᠠᠨᡤᡤᠠ",
+    "ᡧᡠ ᠶᠠᠩᠰᠠᠩᡤᠠ",
     "well-ordered and beautiful"
   ],
   "xu yangse": [
-    "ᡧᡠ ᠶᠠᠨᡤᠰᡝ",
+    "ᡧᡠ ᠶᠠᠩᠰᡝ",
     "elegant, comely"
   ],
   "xu yangse gemun hecen de wesihun ojoro mudan": [
-    "ᡧᡠ ᠶᠠᠨᡤᠰᡝ ᡤᡝᠮᡠᠨ ᡥᡝᠴᡝᠨ ᡩᡝ ᠸᡝᠰᡳᡥᡠᠨ ᠣᠵᠣᡵᠣ ᠮᡠᡩᠠᠨ",
+    "ᡧᡠ ᠶᠠᠩᠰᡝ ᡤᡝᠮᡠᠨ ᡥᡝᠴᡝᠨ ᡩᡝ ᠸᡝᠰᡳᡥᡠᠨ ᠣᠵᠣᡵᠣ ᠮᡠᡩᠠᠨ",
     "musical composition played while the emperor attended a banquet for the Hanlin academy"
   ],
   "xu zin": [
-    "ᡧᡠ zᡳᠨ",
+    "ᡧᡠ ᡰᡳᠨ",
     "beautiful woman"
   ],
   "xuban": [
@@ -72980,7 +72980,7 @@ const dictionary = {
     "pieces of meat and fat roasted together on a skewer"
   ],
   "xudangga coko": [
-    "ᡧᡠᡩᠠᠨᡤᡤᠠ ᠴᠣᡴᠣ",
+    "ᡧᡠᡩᠠᠩᡤᠠ ᠴᠣᡴᠣ",
     "one name for the chicken"
   ],
   "xudehen": [
@@ -72996,15 +72996,15 @@ const dictionary = {
     "a scribe, a secretary, a clerk"
   ],
   "xudesi be baicara kunggeri": [
-    "ᡧᡠᡩᡝᠰᡳ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡧᡠᡩᡝᠰᡳ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "section of clerks in the Board of Civil Appointments"
   ],
   "xudesi be kadalara kunggeri": [
-    "ᡧᡠᡩᡝᠰᡳ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡧᡠᡩᡝᠰᡳ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "section in charge of clerks in the Boards of Civil Appointments, Works, and War"
   ],
   "xudesi oron i kunggeri": [
-    "ᡧᡠᡩᡝᠰᡳ ᠣᡵᠣᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡧᡠᡩᡝᠰᡳ ᠣᡵᠣᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "section of clerks in the Board of Works"
   ],
   "xudu": [
@@ -73072,7 +73072,7 @@ const dictionary = {
     "to crease, to fold, to be wrinkled"
   ],
   "xufangga salu": [
-    "ᡧᡠᡶᠠᠨᡤᡤᠠ ᠰᠠᠯᡠ",
+    "ᡧᡠᡶᠠᠩᡤᠠ ᠰᠠᠯᡠ",
     "a full beard"
   ],
   "xufari": [
@@ -73128,7 +73128,7 @@ const dictionary = {
     "the lacquer tree--Rhus vernicifera"
   ],
   "xugingge hasi": [
-    "ᡧᡠᡤᡳᠨᡤᡤᡝ ᡥᠠᠰᡳ",
+    "ᡧᡠᡤᡳᠩᡤᡝ ᡥᠠᠰᡳ",
     "a variety of wild persimmon"
   ],
   "xugiri hiyan": [
@@ -73160,7 +73160,7 @@ const dictionary = {
     "a flat barge used for hauling goods"
   ],
   "xui jing": [
-    "ᡧᡠᡳ ᠵᡳᠨᡤ",
+    "ᡧᡠᡳ ᠵᡳᠩ",
     "crystal"
   ],
   "xuijin": [
@@ -73212,7 +73212,7 @@ const dictionary = {
     "1. juice (of fruit) 2. pus, discharge"
   ],
   "xulaburu yengguhe": [
-    "ᡧᡠᠯᠠᠪᡠᡵᡠ ᠶᡝᠨᡤᡤᡠᡥᡝ",
+    "ᡧᡠᠯᠠᠪᡠᡵᡠ ᠶᡝᠩᡤᡠᡥᡝ",
     "a type of parrot with a red head and reddish brown shoulders and breast"
   ],
   "xulderi tubihe": [
@@ -73268,7 +73268,7 @@ const dictionary = {
     "1. pointed 2. a point"
   ],
   "xulihun enggemu": [
-    "ᡧᡠᠯᡳᡥᡠᠨ ᡝᠨᡤᡤᡝᠮᡠ",
+    "ᡧᡠᠯᡳᡥᡠᠨ ᡝᠩᡤᡝᠮᡠ",
     "a saddle with a pointed bow"
   ],
   "xulihun gvlha": [
@@ -73424,15 +73424,15 @@ const dictionary = {
     "a piece of music performed during banquets for meritorious generals and officials"
   ],
   "xun halangga": [
-    "ᡧᡠᠨ ᡥᠠᠯᠠᠨᡤᡤᠠ",
+    "ᡧᡠᠨ ᡥᠠᠯᠠᠩᡤᠠ",
     "'of the sun clan'-- epithet of the Buddha"
   ],
   "xun helmen tuwara tanggin": [
-    "ᡧᡠᠨ ᡥᡝᠯᠮᡝᠨ ᡨᡠᠸᠠᡵᠠ ᡨᠠᠨᡤᡤᡳᠨ",
+    "ᡧᡠᠨ ᡥᡝᠯᠮᡝᠨ ᡨᡠᠸᠠᡵᠠ ᡨᠠᠩᡤᡳᠨ",
     "hall of the gnomon near the observatory"
   ],
   "xun hvcihingga": [
-    "ᡧᡠᠨ ᡥᡡᠴᡳᡥᡳᠨᡤᡤᠠ",
+    "ᡧᡠᠨ ᡥᡡᠴᡳᡥᡳᠩᡤᠠ",
     "related to the sun--epithet of the Buddha"
   ],
   "xun ibkaka": [
@@ -73472,7 +73472,7 @@ const dictionary = {
     "the sun shines warmly"
   ],
   "xun sangka": [
-    "ᡧᡠᠨ ᠰᠠᠨᡤᡴᠠ",
+    "ᡧᡠᠨ ᠰᠠᠩᡴᠠ",
     "the days have lengthened (after midwinter)"
   ],
   "xun sidaraka": [
@@ -73484,7 +73484,7 @@ const dictionary = {
     "power or influence of the sun"
   ],
   "xun xangga": [
-    "ᡧᡠᠨ ᡧᠠᠨᡤᡤᠠ",
+    "ᡧᡠᠨ ᡧᠠᠩᡤᠠ",
     "'the sun is eared'--i.e., the sun has a rainbow near it"
   ],
   "xun tob": [
@@ -73516,123 +73516,123 @@ const dictionary = {
     "to go wild, to become overgrown (with weeds)"
   ],
   "xung xang": [
-    "ᡧᡠᠨᡤ ᡧᠠᠨᡤ",
+    "ᡧᡠᠩ ᡧᠠᠩ",
     "(onom.) the sound of the breathing of a sleeping person"
   ],
   "xungga hiyan": [
-    "ᡧᡠᠨᡤᡤᠠ ᡥᡳᠶᠠᠨ",
+    "ᡧᡠᠩᡤᠠ ᡥᡳᠶᠠᠨ",
     "a fragrance made of osmanthus"
   ],
   "xungga ilha": [
-    "ᡧᡠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᡧᡠᠩᡤᠠ ᡳᠯᡥᠠ",
     "osmanthus, a fragrant small white flower"
   ],
   "xunggaci ilha": [
-    "ᡧᡠᠨᡤᡤᠠᠴᡳ ᡳᠯᡥᠠ",
+    "ᡧᡠᠩᡤᠠᠴᡳ ᡳᠯᡥᠠ",
     "spring osmanthus--an osmanthuslike flower that blooms in the third month"
   ],
   "xunggaya": [
-    "ᡧᡠᠨᡤᡤᠠᠶᠠ",
+    "ᡧᡠᠩᡤᠠᠶᠠ",
     "see šunggayan"
   ],
   "xunggayan": [
-    "ᡧᡠᠨᡤᡤᠠᠶᠠᠨ",
+    "ᡧᡠᠩᡤᠠᠶᠠᠨ",
     "tall and slender, lank"
   ],
   "xungge": [
-    "ᡧᡠᠨᡤᡤᡝ",
+    "ᡧᡠᠩᡤᡝ",
     "1. learned, educated, enlightened, wise 2. fine-grained"
   ],
   "xungge moo": [
-    "ᡧᡠᠨᡤᡤᡝ ᠮᠣᠣ",
+    "ᡧᡠᠩᡤᡝ ᠮᠣᠣ",
     "a type of tree that grows in the mountains and produces a fine-grained, shiny, yellow wood"
   ],
   "xungge tubihe": [
-    "ᡧᡠᠨᡤᡤᡝ ᡨᡠᠪᡳᡥᡝ",
+    "ᡧᡠᠩᡤᡝ ᡨᡠᠪᡳᡥᡝ",
     "an exotic fruit that tastes like lotus seed--one pod contains many kernels"
   ],
   "xunggeri": [
-    "ᡧᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡧᡠᠩᡤᡝᡵᡳ",
     "elegant, fine, graceful, in good taste"
   ],
   "xunggidei": [
-    "ᡧᡠᠨᡤᡤᡳᡩᡝᡳ",
+    "ᡧᡠᠩᡤᡳᡩᡝᡳ",
     "one name for the golden pheasant; cf. junggiri coko"
   ],
   "xunggin gasha": [
-    "ᡧᡠᠨᡤᡤᡳᠨ ᡤᠠᠰᡥᠠ",
+    "ᡧᡠᠩᡤᡳᠨ ᡤᠠᠰᡥᠠ",
     "one name for the silver pheasant (Lophura nycthemera); cf. be hiyan"
   ],
   "xunggiya": [
-    "ᡧᡠᠨᡤᡤᡳᠶᠠ",
+    "ᡧᡠᠩᡤᡳᠶᠠ",
     "exemplary, fine, in good taste"
   ],
   "xunggiyada ilha": [
-    "ᡧᡠᠨᡤᡤᡳᠶᠠᡩᠠ ᡳᠯᡥᠠ",
+    "ᡧᡠᠩᡤᡳᠶᠠᡩᠠ ᡳᠯᡥᠠ",
     "narcissus"
   ],
   "xunggiyambi": [
-    "ᡧᡠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡧᡠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to throw all about"
   ],
   "xungke": [
-    "ᡧᡠᠨᡤᡴᡝ",
+    "ᡧᡠᠩᡴᡝ",
     "1. perfect participle of šumbi 2. enlightened, knowledgeable, well-versed; cf. šungge"
   ],
   "xungkeci ilha": [
-    "ᡧᡠᠨᡤᡴᡝᠴᡳ ᡳᠯᡥᠠ",
+    "ᡧᡠᠩᡴᡝᠴᡳ ᡳᠯᡥᠠ",
     "a very fragrant jasmine-like flower of Szechuan"
   ],
   "xungken": [
-    "ᡧᡠᠨᡤᡴᡝᠨ",
+    "ᡧᡠᠩᡴᡝᠨ",
     "enlightenment, education, refinement"
   ],
   "xungkenembi": [
-    "ᡧᡠᠨᡤᡴᡝᠨᡝᠮᠪᡳ",
+    "ᡧᡠᠩᡴᡝᠨᡝᠮᠪᡳ",
     "to be enlightened, to be well-versed"
   ],
   "xungkeri": [
-    "ᡧᡠᠨᡤᡴᡝᡵᡳ",
+    "ᡧᡠᠩᡴᡝᡵᡳ",
     "refined, elegant"
   ],
   "xungkeri gvwara": [
-    "ᡧᡠᠨᡤᡴᡝᡵᡳ ᡤᡡᠸᠠᡵᠠ",
+    "ᡧᡠᠩᡴᡝᡵᡳ ᡤᡡᠸᠠᡵᠠ",
     "one name for the eared owl; cf. fu gūwara"
   ],
   "xungkeri hiyan": [
-    "ᡧᡠᠨᡤᡴᡝᡵᡳ ᡥᡳᠶᠠᠨ",
+    "ᡧᡠᠩᡴᡝᡵᡳ ᡥᡳᠶᠠᠨ",
     "Eupatorium Chinense"
   ],
   "xungkeri ilha": [
-    "ᡧᡠᠨᡤᡴᡝᡵᡳ ᡳᠯᡥᠠ",
+    "ᡧᡠᠩᡴᡝᡵᡳ ᡳᠯᡥᠠ",
     "Chinese orchid (Cym-bidium virens)"
   ],
   "xungkon": [
-    "ᡧᡠᠨᡤᡴᠣᠨ",
+    "ᡧᡠᠩᡴᠣᠨ",
     "see longkon"
   ],
   "xungku": [
-    "ᡧᡠᠨᡤᡴᡠ",
+    "ᡧᡠᠩᡴᡠ",
     "the depression just below the lips on a man's face"
   ],
   "xungkubumbi": [
-    "ᡧᡠᠨᡤᡴᡠᠪᡠᠮᠪᡳ",
+    "ᡧᡠᠩᡴᡠᠪᡠᠮᠪᡳ",
     "caus./pass. of šungkumbi"
   ],
   "xungkulu": [
-    "ᡧᡠᠨᡤᡴᡠᠯᡠ",
+    "ᡧᡠᠩᡴᡠᠯᡠ",
     "the beard that grows below the lips"
   ],
   "xungkumbi": [
-    "ᡧᡠᠨᡤᡴᡠᠮᠪᡳ",
+    "ᡧᡠᠩᡴᡠᠮᠪᡳ",
     "(-he) to get dented, to form a depression"
   ],
   "xungkutu": [
-    "ᡧᡠᠨᡤᡴᡠᡨᡠ",
+    "ᡧᡠᠩᡴᡠᡨᡠ",
     "having deep-set eyes, having cavernous eyes"
   ],
   "xungxun xangxan": [
-    "ᡧᡠᠨᡤᡧᡠᠨ ᡧᠠᠨᡤᡧᠠᠨ",
+    "ᡧᡠᠩᡧᡠᠨ ᡧᠠᠩᡧᠠᠨ",
     "speaking through the nose, having a strong nasal quality to one's speech"
   ],
   "xuntuhule": [
@@ -73664,7 +73664,7 @@ const dictionary = {
     "circumference, circuit, circular course"
   ],
   "xurdehen cincilan i usiha be acabure durungga tetun": [
-    "ᡧᡠᡵᡩᡝᡥᡝᠨ ᠴᡳᠨᠴᡳᠯᠠᠨ ᡳ ᡠᠰᡳᡥᠠ ᠪᡝ ᠠᠴᠠᠪᡠᡵᡝ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᡧᡠᡵᡩᡝᡥᡝᠨ ᠴᡳᠨᠴᡳᠯᠠᠨ ᡳ ᡠᠰᡳᡥᠠ ᠪᡝ ᠠᠴᠠᠪᡠᡵᡝ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "an armillary sphere of the Peking observatory"
   ],
   "xurdejen": [
@@ -73688,15 +73688,15 @@ const dictionary = {
     "(postpostion) around"
   ],
   "xurdere dangse i ba": [
-    "ᡧᡠᡵᡩᡝᡵᡝ ᡩᠠᠨᡤᠰᡝ ᡳ ᠪᠠ",
+    "ᡧᡠᡵᡩᡝᡵᡝ ᡩᠠᠩᠰᡝ ᡳ ᠪᠠ",
     "control office for coinage in the Board of Finance"
   ],
   "xurdere dangse i boo": [
-    "ᡧᡠᡵᡩᡝᡵᡝ ᡩᠠᠨᡤᠰᡝ ᡳ ᠪᠣᠣ",
+    "ᡧᡠᡵᡩᡝᡵᡝ ᡩᠠᠩᠰᡝ ᡳ ᠪᠣᠣ",
     "office in charge of making alloys of copper, tin, and zinc in the Board of Works"
   ],
   "xurdere nanggin": [
-    "ᡧᡠᡵᡩᡝᡵᡝ ᠨᠠᠨᡤᡤᡳᠨ",
+    "ᡧᡠᡵᡩᡝᡵᡝ ᠨᠠᠩᡤᡳᠨ",
     "a winding corridor"
   ],
   "xurdehe xusihe": [
@@ -73704,7 +73704,7 @@ const dictionary = {
     "a tally passed on to a relief on some rotating function"
   ],
   "xurdere usiha i fukjingga hergen": [
-    "ᡧᡠᡵᡩᡝᡵᡝ ᡠᠰᡳᡥᠠ ᡳ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡧᡠᡵᡩᡝᡵᡝ ᡠᠰᡳᡥᠠ ᡳ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of Chinese calligraphy"
   ],
   "xurden": [
@@ -73860,7 +73860,7 @@ const dictionary = {
     "to whip, to flog, to beat with a whip"
   ],
   "xusihangga usiha": [
-    "ᡧᡠᠰᡳᡥᠠᠨᡤᡤᠠ ᡠᠰᡳᡥᠠ",
+    "ᡧᡠᠰᡳᡥᠠᠩᡤᠠ ᡠᠰᡳᡥᠠ",
     "the name of a constellation"
   ],
   "xusihaxambi": [
@@ -73940,7 +73940,7 @@ const dictionary = {
     "the name of a small red bird--the 'kaoliang bird'"
   ],
   "xuxu jilhangga ilha": [
-    "ᡧᡠᡧᡠ ᠵᡳᠯᡥᠠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᡧᡠᡧᡠ ᠵᡳᠯᡥᠠᠩᡤᠠ ᡳᠯᡥᠠ",
     "the name of an exotic purple flower that grows on a plant with long stalks and pointed leaves"
   ],
   "xuxu orho": [
@@ -73952,7 +73952,7 @@ const dictionary = {
     "edible seaweed, laver, sea lettuce"
   ],
   "xuxu sukdungga usiha": [
-    "ᡧᡠᡧᡠ ᠰᡠᡴᡩᡠᠨᡤᡤᠠ ᡠᠰᡳᡥᠠ",
+    "ᡧᡠᡧᡠ ᠰᡠᡴᡩᡠᠩᡤᠠ ᡠᠰᡳᡥᠠ",
     "the name of a constellation"
   ],
   "xuxu xakxaha": [
@@ -73964,7 +73964,7 @@ const dictionary = {
     "(onom.) whispering, speaking softly"
   ],
   "xuxu ujungga alhacan niyehe": [
-    "ᡧᡠᡧᡠ ᡠᠵᡠᠨᡤᡤᠠ ᠠᠯᡥᠠᠴᠠᠨ ᠨᡳᠶᡝᡥᡝ",
+    "ᡧᡠᡧᡠ ᡠᠵᡠᠩᡤᠠ ᠠᠯᡥᠠᠴᠠᠨ ᠨᡳᠶᡝᡥᡝ",
     "a speckled duck with a purple head"
   ],
   "xuxu yarukv": [
@@ -73976,11 +73976,11 @@ const dictionary = {
     "purple bindweed"
   ],
   "xuxungge kiltan": [
-    "ᡧᡠᡧᡠᠨᡤᡤᡝ ᡴᡳᠯᡨᠠᠨ",
+    "ᡧᡠᡧᡠᠩᡤᡝ ᡴᡳᠯᡨᠠᠨ",
     "a purple pennant of the imperial escort"
   ],
   "xuxunggiyambi": [
-    "ᡧᡠᡧᡠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡧᡠᡧᡠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to whisper, to hum"
   ],
   "xuxuniyembi": [
@@ -74044,23 +74044,23 @@ const dictionary = {
     "(onom.) the sound of several whips striking"
   ],
   "xuwang lu": [
-    "ᡧᡠᠸᠠᠨᡤ ᠯᡠ",
+    "ᡧᡠᠸᠠᠩ ᠯᡠ",
     "see šuwanglu"
   ],
   "xuwanglio": [
-    "ᡧᡠᠸᠠᠨᡤᠯᡳᠣ",
+    "ᡧᡠᠸᠠᠩᠯᡳᠣ",
     "see šuwang lu"
   ],
   "xuwanglu": [
-    "ᡧᡠᠸᠠᠨᡤᠯᡠ",
+    "ᡧᡠᠸᠠᠩᠯᡠ",
     "'double six'--a board game at which thirty-two pieces were used"
   ],
   "xuwanglulambi": [
-    "ᡧᡠᠸᠠᠨᡤᠯᡠᠯᠠᠮᠪᡳ",
+    "ᡧᡠᠸᠠᠩᠯᡠᠯᠠᠮᠪᡳ",
     "to play the game šuwanglu"
   ],
   "xuwangxuwangdeo": [
-    "ᡧᡠᠸᠠᠨᡤᡧᡠᠸᠠᠨᡤᡩᡝᠣ",
+    "ᡧᡠᠸᠠᠩᡧᡠᠸᠠᠩᡩᡝᠣ",
     "see šangšangdeo"
   ],
   "xuwar": [
@@ -74072,7 +74072,7 @@ const dictionary = {
     "agile (in climbing trees)"
   ],
   "xuwarang seme": [
-    "ᡧᡠᠸᠠᡵᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡧᡠᠸᠠᡵᠠᠩ ᠰᡝᠮᡝ",
     "long and thin"
   ],
   "xuwarkiyalabumbi": [
@@ -74136,7 +74136,7 @@ const dictionary = {
     "1. a hole made in the ice of a river or lake that is used for watering livestock and procuring water for household use 2. a small hole at the foot of a riverbank"
   ],
   "xvngge": [
-    "ᡧᡡᠨᡤᡤᡝ",
+    "ᡧᡡᠩᡤᡝ",
     "see šungge"
   ],
   "xvrgeku": [
@@ -74256,7 +74256,7 @@ const dictionary = {
     "to teach, to instruct"
   ],
   "tacibure fungnehen": [
-    "ᡨᠠᠴᡳᠪᡠᡵᡝ ᡶᡠᠨᡤᠨᡝᡥᡝᠨ",
+    "ᡨᠠᠴᡳᠪᡠᡵᡝ ᡶᡠᠩᠨᡝᡥᡝᠨ",
     "a document of enfeoffment for ranks below the sixth degree"
   ],
   "tacibure hese": [
@@ -74288,7 +74288,7 @@ const dictionary = {
     "1. school 2. learning"
   ],
   "tacikv de enggelembi": [
-    "ᡨᠠᠴᡳᡴᡡ ᡩᡝ ᡝᠨᡤᡤᡝᠯᡝᠮᠪᡳ",
+    "ᡨᠠᠴᡳᡴᡡ ᡩᡝ ᡝᠩᡤᡝᠯᡝᠮᠪᡳ",
     "to go to the Imperial Academy of Learning to lecture on a text (said of the emperor)"
   ],
   "taciku tacihiyakv": [
@@ -74324,7 +74324,7 @@ const dictionary = {
     "the name of an official in the Hanlin Academy, Bureau of Sacrificial Worship, etc."
   ],
   "taciha hafan i tinggin": [
-    "ᡨᠠᠴᡳᡥᠠ ᡥᠠᡶᠠᠨ ᡳ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᡨᠠᠴᡳᡥᠠ ᡥᠠᡶᠠᠨ ᡳ ᡨᡳᠩᡤᡳᠨ",
     "the office of the above official"
   ],
   "tacire urse": [
@@ -74340,7 +74340,7 @@ const dictionary = {
     "1. learning, science, skill 2. religion 3. custom, habit"
   ],
   "tacin be badarambure tanggin": [
-    "ᡨᠠᠴᡳᠨ ᠪᡝ ᠪᠠᡩᠠᡵᠠᠮᠪᡠᡵᡝ ᡨᠠᠨᡤᡤᡳᠨ",
+    "ᡨᠠᠴᡳᠨ ᠪᡝ ᠪᠠᡩᠠᡵᠠᠮᠪᡠᡵᡝ ᡨᠠᠩᡤᡳᠨ",
     "a third hall of the west gallery of the Imperial Academy of Learning"
   ],
   "tacin fonjin": [
@@ -74472,7 +74472,7 @@ const dictionary = {
     "mussel shell, mother-of-pearl"
   ],
   "tahvrangga fiyen": [
-    "ᡨᠠᡥᡡᡵᠠᠨᡤᡤᠠ ᡶᡳᠶᡝᠨ",
+    "ᡨᠠᡥᡡᡵᠠᠩᡤᠠ ᡶᡳᠶᡝᠨ",
     "a powder made from mussel shells"
   ],
   "tai": [
@@ -74504,7 +74504,7 @@ const dictionary = {
     "the main beam of a roof or a bridge"
   ],
   "taicangs i yamun": [
-    "ᡨᠠᡳᠴᠠᠨᡤᠰ ᡳ ᠶᠠᠮᡠᠨ",
+    "ᡨᠠᡳᠴᠠᠩᠰ ᡳ ᠶᠠᠮᡠᠨ",
     "see wecen i baita be aliha yamun"
   ],
   "taid bh": [
@@ -74548,11 +74548,11 @@ const dictionary = {
     "a granary of the Board of Finance that was located in the capital"
   ],
   "taifingga": [
-    "ᡨᠠᡳᡶᡳᠨᡤᡤᠠ",
+    "ᡨᠠᡳᡶᡳᠩᡤᠠ",
     "pertaining to peace, peaceful"
   ],
   "taifingga ilha": [
-    "ᡨᠠᡳᡶᡳᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᡨᠠᡳᡶᡳᠩᡤᠠ ᡳᠯᡥᠠ",
     "a blossom resembling the flower of the peach that blooms in autumn"
   ],
   "taifintu cecike": [
@@ -74588,7 +74588,7 @@ const dictionary = {
     "a Mongolian title"
   ],
   "taijingga ilha": [
-    "ᡨᠠᡳᠵᡳᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᡨᠠᡳᠵᡳᠩᡤᠠ ᡳᠯᡥᠠ",
     "the name of a water"
   ],
   "taili": [
@@ -74704,7 +74704,7 @@ const dictionary = {
     "(-ka/ha) to be happy over some success, to be in high spirits, to be elated to the point of haughtiness"
   ],
   "takdangga": [
-    "ᡨᠠᡴᡩᠠᠨᡤᡤᠠ",
+    "ᡨᠠᡴᡩᠠᠩᡤᠠ",
     "happy, in a good mood, in high spirits, elated to the point of haughtiness"
   ],
   "takitu": [
@@ -74764,7 +74764,7 @@ const dictionary = {
     "Chancery Chief, 296"
   ],
   "takvrabure hafan i tinggin bh": [
-    "ᡨᠠᡴᡡᡵᠠᠪᡠᡵᡝ ᡥᠠᡶᠠᠨ ᡳ ᡨᡳᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡨᠠᡴᡡᡵᠠᠪᡠᡵᡝ ᡥᠠᡶᠠᠨ ᡳ ᡨᡳᠩᡤᡳᠨ ᠪᡥ",
     "Chancery (in various ministries), 296"
   ],
   "takvrakv": [
@@ -74796,7 +74796,7 @@ const dictionary = {
     "to send to one another (on a mission)"
   ],
   "takvrangge": [
-    "ᡨᠠᡴᡡᡵᠠᠨᡤᡤᡝ",
+    "ᡨᠠᡴᡡᡵᠠᠩᡤᡝ",
     "official summons or invitation"
   ],
   "takvrsi": [
@@ -75048,7 +75048,7 @@ const dictionary = {
     "1. a precious freshwater pearl found in the rivers of eastern Manchuria 2. a type of wild leek that grows near salty marshes"
   ],
   "tanangga ilha": [
-    "ᡨᠠᠨᠠᠨᡤᡤᠠ ᡳᠯᡥᠠ",
+    "ᡨᠠᠨᠠᠩᡤᠠ ᡳᠯᡥᠠ",
     "the name of an exotic flower with five petals whose filaments resemble tiny pearls"
   ],
   "tandambi": [
@@ -75056,227 +75056,227 @@ const dictionary = {
     "see tantambi"
   ],
   "tang": [
-    "ᡨᠠᠨᡤ",
+    "ᡨᠠᠩ",
     "1. a hall 2. a praying mantis"
   ],
   "tang seme": [
-    "ᡨᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡨᠠᠩ ᠰᡝᠮᡝ",
     "1. hard, firm 2. fluent, with ease (of speaking)"
   ],
   "tang seme gecehe": [
-    "ᡨᠠᠨᡤ ᠰᡝᠮᡝ ᡤᡝᠴᡝᡥᡝ",
+    "ᡨᠠᠩ ᠰᡝᠮᡝ ᡤᡝᠴᡝᡥᡝ",
     "frozen solid"
   ],
   "tang seme gisurembi": [
-    "ᡨᠠᠨᡤ ᠰᡝᠮᡝ ᡤᡳᠰᡠᡵᡝᠮᠪᡳ",
+    "ᡨᠠᠩ ᠰᡝᠮᡝ ᡤᡳᠰᡠᡵᡝᠮᠪᡳ",
     "to speak fluently"
   ],
   "tang tang": [
-    "ᡨᠠᠨᡤ ᡨᠠᠨᡤ",
+    "ᡨᠠᠩ ᡨᠠᠩ",
     "(onom.) the sound of a bell"
   ],
   "tang ting": [
-    "ᡨᠠᠨᡤ ᡨᡳᠨᡤ",
+    "ᡨᠠᠩ ᡨᡳᠩ",
     "(onom.) the sound of hitting iron or of chopping a tree"
   ],
   "tang u li boo": [
-    "ᡨᠠᠨᡤ ᡠ ᠯᡳ ᠪᠣᠣ",
+    "ᡨᠠᠩ ᡠ ᠯᡳ ᠪᠣᠣ",
     "see tanggūli"
   ],
   "tangga": [
-    "ᡨᠠᠨᡤᡤᠠ",
+    "ᡨᠠᠩᡤᠠ",
     "see mangga tangga"
   ],
   "tanggambi": [
-    "ᡨᠠᠨᡤᡤᠠᠮᠪᡳ",
+    "ᡨᠠᠩᡤᠠᠮᠪᡳ",
     "to wrap the weak part of a bow with sinew"
   ],
   "tanggibumbi": [
-    "ᡨᠠᠨᡤᡤᡳᠪᡠᠮᠪᡳ",
+    "ᡨᠠᠩᡤᡳᠪᡠᠮᠪᡳ",
     "to put something under an object to cushion or support it"
   ],
   "tanggikv": [
-    "ᡨᠠᠨᡤᡤᡳᡴᡡ",
+    "ᡨᠠᠩᡤᡳᡴᡡ",
     "a bamboo device placed in a relaxed bow to preserve its shape"
   ],
   "tanggikv i bukdambi": [
-    "ᡨᠠᠨᡤᡤᡳᡴᡡ ᡳ ᠪᡠᡴᡩᠠᠮᠪᡳ",
+    "ᡨᠠᠩᡤᡳᡴᡡ ᡳ ᠪᡠᡴᡩᠠᠮᠪᡳ",
     "to bend (a bow) with a tanggikū"
   ],
   "tanggilakv": [
-    "ᡨᠠᠨᡤᡤᡳᠯᠠᡴᡡ",
+    "ᡨᠠᠩᡤᡳᠯᠠᡴᡡ",
     "crossbow"
   ],
   "tanggilambi": [
-    "ᡨᠠᠨᡤᡤᡳᠯᠠᠮᠪᡳ",
+    "ᡨᠠᠩᡤᡳᠯᠠᠮᠪᡳ",
     "1. to fire a crossbow 2. to flick the forehead with a finger"
   ],
   "tanggime gisurembi": [
-    "ᡨᠠᠨᡤᡤᡳᠮᡝ ᡤᡳᠰᡠᡵᡝᠮᠪᡳ",
+    "ᡨᠠᠩᡤᡳᠮᡝ ᡤᡳᠰᡠᡵᡝᠮᠪᡳ",
     "to correct oneself in speaking, to cover up an error or faux pas in speaking"
   ],
   "tanggimeliyan": [
-    "ᡨᠠᠨᡤᡤᡳᠮᡝᠯᡳᠶᠠᠨ",
+    "ᡨᠠᠩᡤᡳᠮᡝᠯᡳᠶᠠᠨ",
     "bent backward, arched,"
   ],
   "tanggin": [
-    "ᡨᠠᠨᡤᡤᡳᠨ",
+    "ᡨᠠᠩᡤᡳᠨ",
     "hall, chamber, office of a high official"
   ],
   "tanggin i alibun": [
-    "ᡨᠠᠨᡤᡤᡳᠨ ᡳ ᠠᠯᡳᠪᡠᠨ",
+    "ᡨᠠᠩᡤᡳᠨ ᡳ ᠠᠯᡳᠪᡠᠨ",
     "a matter presented to a superior for consideration by a subordinate, petition presented to a high ministry official"
   ],
   "tanggin i temgetu ejere boo": [
-    "ᡨᠠᠨᡤᡤᡳᠨ ᡳ ᡨᡝᠮᡤᡝᡨᡠ ᡝᠵᡝᡵᡝ ᠪᠣᠣ",
+    "ᡨᠠᠩᡤᡳᠨ ᡳ ᡨᡝᠮᡤᡝᡨᡠ ᡝᠵᡝᡵᡝ ᠪᠣᠣ",
     "registry of the Ministry of Works"
   ],
   "tanggingge boo": [
-    "ᡨᠠᠨᡤᡤᡳᠨᡤᡤᡝ ᠪᠣᠣ",
+    "ᡨᠠᠩᡤᡳᠩᡤᡝ ᠪᠣᠣ",
     "an office of the Board of Finance concerned with draft documents"
   ],
   "tanggiri": [
-    "ᡨᠠᠨᡤᡤᡳᡵᡳ",
+    "ᡨᠠᠩᡤᡳᡵᡳ",
     "1. a small finger cymbal 2. an anvil for making nails with large heads"
   ],
   "tanggiri ilha": [
-    "ᡨᠠᠨᡤᡤᡳᡵᡳ ᡳᠯᡥᠠ",
+    "ᡨᠠᠩᡤᡳᡵᡳ ᡳᠯᡥᠠ",
     "the name of a colorful flower that blooms in the springtime"
   ],
   "tanggiyabumbi": [
-    "ᡨᠠᠨᡤᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
+    "ᡨᠠᠩᡤᡳᠶᠠᠪᡠᠮᠪᡳ",
     "caus. of tanggiyambi"
   ],
   "tanggiyambi": [
-    "ᡨᠠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡨᠠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to repaint, to relacquer"
   ],
   "tanggiyan": [
-    "ᡨᠠᠨᡤᡤᡳᠶᠠᠨ",
+    "ᡨᠠᠩᡤᡳᠶᠠᠨ",
     "repainting, relacquering"
   ],
   "tanggv": [
-    "ᡨᠠᠨᡤᡤᡡ",
+    "ᡨᠠᠩᡤᡡ",
     "one hundred"
   ],
   "tanggv bethe umiyaha": [
-    "ᡨᠠᠨᡤᡤᡡ ᠪᡝᡨᡥᡝ ᡠᠮᡳᠶᠠᡥᠠ",
+    "ᡨᠠᠩᡤᡡ ᠪᡝᡨᡥᡝ ᡠᠮᡳᠶᠠᡥᠠ",
     "centipede"
   ],
   "tanggv ging": [
-    "ᡨᠠᠨᡤᡤᡡ ᡤᡳᠨᡤ",
+    "ᡨᠠᠩᡤᡡ ᡤᡳᠩ",
     "the last night watch"
   ],
   "tanggv hala": [
-    "ᡨᠠᠨᡤᡤᡡ ᡥᠠᠯᠠ",
+    "ᡨᠠᠩᡤᡡ ᡥᠠᠯᠠ",
     "the common people"
   ],
   "tanggu tumen": [
-    "ᡨᠠᠨᡤᡤᡠ ᡨᡠᠮᡝᠨ",
+    "ᡨᠠᠩᡤᡠ ᡨᡠᠮᡝᠨ",
     "one million"
   ],
   "tangguci": [
-    "ᡨᠠᠨᡤᡤᡠᠴᡳ",
+    "ᡨᠠᠩᡤᡠᠴᡳ",
     "hundredth"
   ],
   "tanggvda": [
-    "ᡨᠠᠨᡤᡤᡡᡩᠠ",
+    "ᡨᠠᠩᡤᡡᡩᠠ",
     "hereditary head of a hundred families"
   ],
   "tanggvha": [
-    "ᡨᠠᠨᡤᡤᡡᡥᠠ",
+    "ᡨᠠᠩᡤᡡᡥᠠ",
     "white-necked crow (Corvus torquatus)"
   ],
   "tanggvli": [
-    "ᡨᠠᠨᡤᡤᡡᠯᡳ",
+    "ᡨᠠᠩᡤᡡᠯᡳ",
     "1. the central hall of a house 2. the central section of a tent"
   ],
   "tanggvnggeri": [
-    "ᡨᠠᠨᡤᡤᡡᠨᡤᡤᡝᡵᡳ",
+    "ᡨᠠᠩᡤᡡᠩᡤᡝᡵᡳ",
     "one hundred times"
   ],
   "tanggvri ilha": [
-    "ᡨᠠᠨᡤᡤᡡᡵᡳ ᡳᠯᡥᠠ",
+    "ᡨᠠᠩᡤᡡᡵᡳ ᡳᠯᡥᠠ",
     "the name of a red flower that blooms for a hundred days"
   ],
   "tanggvt": [
-    "ᡨᠠᠨᡤᡤᡡᡨ",
+    "ᡨᠠᠩᡤᡡᡨ",
     "1. Tibet, Tibetan 2. Tangut"
   ],
   "tanggvt hergenehe suje": [
-    "ᡨᠠᠨᡤᡤᡡᡨ ᡥᡝᡵᡤᡝᠨᡝᡥᡝ ᠰᡠᠵᡝ",
+    "ᡨᠠᠩᡤᡡᡨ ᡥᡝᡵᡤᡝᠨᡝᡥᡝ ᠰᡠᠵᡝ",
     "silk with Tibetan writing on it"
   ],
   "tanggvt tacikv": [
-    "ᡨᠠᠨᡤᡤᡡᡨ ᡨᠠᠴᡳᡴᡡ",
+    "ᡨᠠᠩᡤᡡᡨ ᡨᠠᠴᡳᡴᡡ",
     "Tibetan language school"
   ],
   "tanggvta": [
-    "ᡨᠠᠨᡤᡤᡡᡨᠠ",
+    "ᡨᠠᠩᡤᡡᡨᠠ",
     "one hundred each"
   ],
   "tanggvte": [
-    "ᡨᠠᠨᡤᡤᡡᡨᡝ",
+    "ᡨᠠᠩᡤᡡᡨᡝ",
     "see tanggūta"
   ],
   "tangka": [
-    "ᡨᠠᠨᡤᡴᠠ",
+    "ᡨᠠᠩᡴᠠ",
     "see tangkan"
   ],
   "tangka akv": [
-    "ᡨᠠᠨᡤᡴᠠ ᠠᡴᡡ",
+    "ᡨᠠᠩᡴᠠ ᠠᡴᡡ",
     "without steps or rank"
   ],
   "tangka fejile": [
-    "ᡨᠠᠨᡤᡴᠠ ᡶᡝᠵᡳᠯᡝ",
+    "ᡨᠠᠩᡴᠠ ᡶᡝᠵᡳᠯᡝ",
     "your majesty"
   ],
   "tangkambi": [
-    "ᡨᠠᠨᡤᡴᠠᠮᠪᡳ",
+    "ᡨᠠᠩᡴᠠᠮᠪᡳ",
     "to kill small fish in shallow water with stones"
   ],
   "tangkan": [
-    "ᡨᠠᠨᡤᡴᠠᠨ",
+    "ᡨᠠᠩᡴᠠᠨ",
     "step, rank, grade., class"
   ],
   "tangkan tangkan i": [
-    "ᡨᠠᠨᡤᡴᠠᠨ ᡨᠠᠨᡤᡴᠠᠨ ᡳ",
+    "ᡨᠠᠩᡴᠠᠨ ᡨᠠᠩᡴᠠᠨ ᡳ",
     "step by step"
   ],
   "tangkan tangkan i wesimbi": [
-    "ᡨᠠᠨᡤᡴᠠᠨ ᡨᠠᠨᡤᡴᠠᠨ ᡳ ᠸᡝᠰᡳᠮᠪᡳ",
+    "ᡨᠠᠩᡴᠠᠨ ᡨᠠᠩᡴᠠᠨ ᡳ ᠸᡝᠰᡳᠮᠪᡳ",
     "to ascend step by step"
   ],
   "tangki": [
-    "ᡨᠠᠨᡤᡴᡳ",
+    "ᡨᠠᠩᡴᡳ",
     "bump, excrescence"
   ],
   "tangse": [
-    "ᡨᠠᠨᡤᠰᡝ",
+    "ᡨᠠᠩᠰᡝ",
     "the imperial shamanic shrines in Peking and Mukden"
   ],
   "tangsimbi": [
-    "ᡨᠠᠨᡤᠰᡳᠮᠪᡳ",
+    "ᡨᠠᠩᠰᡳᠮᠪᡳ",
     "to drum continually"
   ],
   "tangsime gisurembi": [
-    "ᡨᠠᠨᡤᠰᡳᠮᡝ ᡤᡳᠰᡠᡵᡝᠮᠪᡳ",
+    "ᡨᠠᠩᠰᡳᠮᡝ ᡤᡳᠰᡠᡵᡝᠮᠪᡳ",
     "to speak fluently"
   ],
   "tangsu": [
-    "ᡨᠠᠨᡤᠰᡠ",
+    "ᡨᠠᠩᠰᡠ",
     "1. darling, dear (children) 2. delicate, tender"
   ],
   "tangsulambi": [
-    "ᡨᠠᠨᡤᠰᡠᠯᠠᠮᠪᡳ",
+    "ᡨᠠᠩᠰᡠᠯᠠᠮᠪᡳ",
     "to fondle, to hug (children)"
   ],
   "tangsulan": [
-    "ᡨᠠᠨᡤᠰᡠᠯᠠᠨ",
+    "ᡨᠠᠩᠰᡠᠯᠠᠨ",
     "fondling, tender care"
   ],
   "tangsun": [
-    "ᡨᠠᠨᡤᠰᡠᠨ",
+    "ᡨᠠᠩᠰᡠᠨ",
     "see tangsu"
   ],
   "tani": [
@@ -75388,7 +75388,7 @@ const dictionary = {
     "a rope hung on a door at midsummer to keep evil spirits from entering"
   ],
   "targa inenggi": [
-    "ᡨᠠᡵᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡨᠠᡵᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "the day on which an emperor or empress died"
   ],
   "targabumbi": [
@@ -75416,15 +75416,15 @@ const dictionary = {
     "small tiger"
   ],
   "targangga": [
-    "ᡨᠠᡵᡤᠠᠨᡤᡤᠠ",
+    "ᡨᠠᡵᡤᠠᠩᡤᠠ",
     "1. religious vows 2. an oath"
   ],
   "targangga be efulembi": [
-    "ᡨᠠᡵᡤᠠᠨᡤᡤᠠ ᠪᡝ ᡝᡶᡠᠯᡝᠮᠪᡳ",
+    "ᡨᠠᡵᡤᠠᠩᡤᠠ ᠪᡝ ᡝᡶᡠᠯᡝᠮᠪᡳ",
     "to break a"
   ],
   "targangga gaimbi": [
-    "ᡨᠠᡵᡤᠠᠨᡤᡤᠠ ᡤᠠᡳᠮᠪᡳ",
+    "ᡨᠠᡵᡤᠠᠩᡤᠠ ᡤᠠᡳᠮᠪᡳ",
     "to take monastic vows"
   ],
   "targikv umiyaha": [
@@ -75580,7 +75580,7 @@ const dictionary = {
     "'tiger grass' (Arisaema thunbergii)"
   ],
   "tasha oxohonggo fukjingga hergen": [
-    "ᡨᠠᠰᡥᠠ ᠣᡧᠣᡥᠣᠨᡤᡤᠣ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡨᠠᠰᡥᠠ ᠣᡧᠣᡥᠣᠩᡤᠣ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "the name of a style of Chinese calligraphy"
   ],
   "tashaci": [
@@ -75588,27 +75588,27 @@ const dictionary = {
     "a tiger skin"
   ],
   "tashangga": [
-    "ᡨᠠᠰᡥᠠᠨᡤᡤᠠ",
+    "ᡨᠠᠰᡥᠠᠩᡤᠠ",
     "pertaining to the tiger, tigerlike"
   ],
   "tashangga aniya": [
-    "ᡨᠠᠰᡥᠠᠨᡤᡤᠠ ᠠᠨᡳᠶᠠ",
+    "ᡨᠠᠰᡥᠠᠩᡤᠠ ᠠᠨᡳᠶᠠ",
     "the year of the tiger"
   ],
   "tashangga dobtolon": [
-    "ᡨᠠᠰᡥᠠᠨᡤᡤᠠ ᡩᠣᠪᡨᠣᠯᠣᠨ",
+    "ᡨᠠᠰᡥᠠᠩᡤᠠ ᡩᠣᠪᡨᠣᠯᠣᠨ",
     "striped over-pants worn by troops of the green banner"
   ],
   "tashangga dusihi": [
-    "ᡨᠠᠰᡥᠠᠨᡤᡤᠠ ᡩᡠᠰᡳᡥᡳ",
+    "ᡨᠠᠰᡥᠠᠩᡤᠠ ᡩᡠᠰᡳᡥᡳ",
     "a striped skirt worn by troops of the green banner"
   ],
   "tashangga etuku": [
-    "ᡨᠠᠰᡥᠠᠨᡤᡤᠠ ᡝᡨᡠᡴᡠ",
+    "ᡨᠠᠰᡥᠠᠩᡤᠠ ᡝᡨᡠᡴᡠ",
     "a striped uniform worn by the troops of the green banner"
   ],
   "tashangga mahala": [
-    "ᡨᠠᠰᡥᠠᠨᡤᡤᠠ ᠮᠠᡥᠠᠯᠠ",
+    "ᡨᠠᠰᡥᠠᠩᡤᠠ ᠮᠠᡥᠠᠯᠠ",
     "a hat made in the form of a tiger's head that was worn by the troops of the green banner"
   ],
   "tashari": [
@@ -75700,7 +75700,7 @@ const dictionary = {
     "whirlwind"
   ],
   "tatara gurung": [
-    "ᡨᠠᡨᠠᡵᠠ ᡤᡠᡵᡠᠨᡤ",
+    "ᡨᠠᡨᠠᡵᠠ ᡤᡠᡵᡠᠩ",
     "a palace used by the emperor on his travels"
   ],
   "tatara yamun": [
@@ -75724,7 +75724,7 @@ const dictionary = {
     "to stop on a journey together, to rest together"
   ],
   "tatangga hangse": [
-    "ᡨᠠᡨᠠᠨᡤᡤᠠ ᡥᠠᠨᡤᠰᡝ",
+    "ᡨᠠᡨᠠᠩᡤᠠ ᡥᠠᠩᠰᡝ",
     "noodles that are pulled by hand"
   ],
   "tatanjimbi": [
@@ -75768,7 +75768,7 @@ const dictionary = {
     "to suddenly dart across the surface of a pond (of water striders)"
   ],
   "tayungga nimaha": [
-    "ᡨᠠᠶᡠᠨᡤᡤᠠ ᠨᡳᠮᠠᡥᠠ",
+    "ᡨᠠᠶᡠᠩᡤᠠ ᠨᡳᠮᠠᡥᠠ",
     "the name of a sea fish that resembles the carp"
   ],
   "te": [
@@ -75916,7 +75916,7 @@ const dictionary = {
     "a stick-horse"
   ],
   "teheni tungken": [
-    "ᡨᡝᡥᡝᠨᡳ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᡨᡝᡥᡝᠨᡳ ᡨᡠᠩᡴᡝᠨ",
     "a large drum that sits on a stand"
   ],
   "teherebubumbi": [
@@ -75968,7 +75968,7 @@ const dictionary = {
     "cane, staff"
   ],
   "teifungge": [
-    "ᡨᡝᡳᡶᡠᠨᡤᡤᡝ",
+    "ᡨᡝᡳᡶᡠᠩᡤᡝ",
     "one who walks with a cane-- an old man"
   ],
   "teifuxembi": [
@@ -76036,7 +76036,7 @@ const dictionary = {
     "correspondence, encounter, mode"
   ],
   "teisungge": [
-    "ᡨᡝᡳᠰᡠᠨᡤᡤᡝ",
+    "ᡨᡝᡳᠰᡠᠩᡤᡝ",
     "corresponding, fitting"
   ],
   "teisutu": [
@@ -76116,7 +76116,7 @@ const dictionary = {
     "an arrow with a bone head that has a flat point"
   ],
   "teksingga": [
-    "ᡨᡝᡴᠰᡳᠨᡤᡤᠠ",
+    "ᡨᡝᡴᠰᡳᠩᡤᠠ",
     "in a rank, in a row, in an orderly arrangement"
   ],
   "teku": [
@@ -76264,7 +76264,7 @@ const dictionary = {
     "office of the certificate in the Imperial Academy of Learning"
   ],
   "temgetu ejehe dangse": [
-    "ᡨᡝᠮᡤᡝᡨᡠ ᡝᠵᡝᡥᡝ ᡩᠠᠨᡤᠰᡝ",
+    "ᡨᡝᠮᡤᡝᡨᡠ ᡝᠵᡝᡥᡝ ᡩᠠᠩᠰᡝ",
     "a book in which the receipt of documents already acted on by the emperor was recorded"
   ],
   "temgetu etuku": [
@@ -76308,7 +76308,7 @@ const dictionary = {
     "Pennons Section, 120"
   ],
   "temgetungge": [
-    "ᡨᡝᠮᡤᡝᡨᡠᠨᡤᡤᡝ",
+    "ᡨᡝᠮᡤᡝᡨᡠᠩᡤᡝ",
     "1. exhibiting a sign, mark or emblem 2. distinguished, outstanding"
   ],
   "temimbi": [
@@ -76372,7 +76372,7 @@ const dictionary = {
     "the planet Venus"
   ],
   "ten i tondo tanggin": [
-    "ᡨᡝᠨ ᡳ ᡨᠣᠨᡩᠣ ᡨᠠᠨᡤᡤᡳᠨ",
+    "ᡨᡝᠨ ᡳ ᡨᠣᠨᡩᠣ ᡨᠠᠩᡤᡳᠨ",
     "the name of a hall in the examination compound"
   ],
   "ten i wecen": [
@@ -76388,83 +76388,83 @@ const dictionary = {
     "1. to go to sit 2. to go to reside"
   ],
   "teng seme": [
-    "ᡨᡝᠨᡤ ᠰᡝᠮᡝ",
+    "ᡨᡝᠩ ᠰᡝᠮᡝ",
     "hard, firm, fast, solid, resolute"
   ],
   "teng tang seme": [
-    "ᡨᡝᠨᡤ ᡨᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᡨᡝᠩ ᡨᠠᠩ ᠰᡝᠮᡝ",
     "1. equally matched 2. straightforward"
   ],
   "tenggeljeku": [
-    "ᡨᡝᠨᡤᡤᡝᠯᠵᡝᡴᡠ",
+    "ᡨᡝᠩᡤᡝᠯᠵᡝᡴᡠ",
     "marshy ground (which vibrates when one stands on it)"
   ],
   "tenggeljembi": [
-    "ᡨᡝᠨᡤᡤᡝᠯᠵᡝᠮᠪᡳ",
+    "ᡨᡝᠩᡤᡝᠯᠵᡝᠮᠪᡳ",
     "to vibrate, to shake (of earth that is dry on top but still wet underneath)"
   ],
   "tenggeri": [
-    "ᡨᡝᠨᡤᡤᡝᡵᡳ",
+    "ᡨᡝᠩᡤᡝᡵᡳ",
     "a three-stringed lute"
   ],
   "tenggin": [
-    "ᡨᡝᠨᡤᡤᡳᠨ",
+    "ᡨᡝᠩᡤᡳᠨ",
     "lake, inland sea"
   ],
   "tengki tangki": [
-    "ᡨᡝᠨᡤᡴᡳ ᡨᠠᠨᡤᡴᡳ",
+    "ᡨᡝᠩᡴᡳ ᡨᠠᠩᡴᡳ",
     "stumbling along; cf. tungki tangki"
   ],
   "tengkibumbi": [
-    "ᡨᡝᠨᡤᡴᡳᠪᡠᠮᠪᡳ",
+    "ᡨᡝᠩᡴᡳᠪᡠᠮᠪᡳ",
     "caus./pass. of tengkimbi"
   ],
   "tengkicuke": [
-    "ᡨᡝᠨᡤᡴᡳᠴᡠᡴᡝ",
+    "ᡨᡝᠩᡴᡳᠴᡠᡴᡝ",
     "solid, real, certain"
   ],
   "tengkimbi": [
-    "ᡨᡝᠨᡤᡴᡳᠮᠪᡳ",
+    "ᡨᡝᠩᡴᡳᠮᠪᡳ",
     "to throw down"
   ],
   "tengkime": [
-    "ᡨᡝᠨᡤᡴᡳᠮᡝ",
+    "ᡨᡝᠩᡴᡳᠮᡝ",
     "clearly, really, solidly"
   ],
   "tengkime sambi": [
-    "ᡨᡝᠨᡤᡴᡳᠮᡝ ᠰᠠᠮᠪᡳ",
+    "ᡨᡝᠩᡴᡳᠮᡝ ᠰᠠᠮᠪᡳ",
     "to know clearly"
   ],
   "tengnebumbi": [
-    "ᡨᡝᠨᡤᠨᡝᠪᡠᠮᠪᡳ",
+    "ᡨᡝᠩᠨᡝᠪᡠᠮᠪᡳ",
     "to make equal, to equalize"
   ],
   "tengneku": [
-    "ᡨᡝᠨᡤᠨᡝᡴᡠ",
+    "ᡨᡝᠩᠨᡝᡴᡠ",
     "a sedan chair carried by two men that was used for traveling in mountains"
   ],
   "tengnembi": [
-    "ᡨᡝᠨᡤᠨᡝᠮᠪᡳ",
+    "ᡨᡝᠩᠨᡝᠮᠪᡳ",
     "1. to weigh, to balance 2.to jump from one horse to another"
   ],
   "tengpai": [
-    "ᡨᡝᠨᡤᡦᠠᡳ",
+    "ᡨᡝᠩᡦᠠᡳ",
     "1. a rattan shield 2. a soldier outfitted with a rattan shield"
   ],
   "tengse": [
-    "ᡨᡝᠨᡤᠰᡝ",
+    "ᡨᡝᠩᠰᡝ",
     "1. rattan 2. vine"
   ],
   "tengse i sirge": [
-    "ᡨᡝᠨᡤᠰᡝ ᡳ ᠰᡳᡵᡤᡝ",
+    "ᡨᡝᠩᠰᡝ ᡳ ᠰᡳᡵᡤᡝ",
     "1. creepers of a vine, branches of a vine 2. strands of rattan"
   ],
   "tengtembi": [
-    "ᡨᡝᠨᡤᡨᡝᠮᠪᡳ",
+    "ᡨᡝᠩᡨᡝᠮᠪᡳ",
     "to step on stones (in a stream)"
   ],
   "tengteme yabumbi": [
-    "ᡨᡝᠨᡤᡨᡝᠮᡝ ᠶᠠᠪᡠᠮᠪᡳ",
+    "ᡨᡝᠩᡨᡝᠮᡝ ᠶᠠᠪᡠᠮᠪᡳ",
     "to go across a stream by stepping on stones"
   ],
   "teni": [
@@ -76496,7 +76496,7 @@ const dictionary = {
     "like that, that kind, such a, the one in question"
   ],
   "tentekengge": [
-    "ᡨᡝᠨᡨᡝᡴᡝᠨᡤᡤᡝ",
+    "ᡨᡝᠨᡨᡝᡴᡝᠩᡤᡝ",
     "one like that, such a one as that"
   ],
   "tenumbi": [
@@ -76540,7 +76540,7 @@ const dictionary = {
     "1. that 2. he, she, it 3. (post-position) a certain"
   ],
   "tere anggala": [
-    "ᡨᡝᡵᡝ ᠠᠨᡤᡤᠠᠯᠠ",
+    "ᡨᡝᡵᡝ ᠠᠩᡤᠠᠯᠠ",
     "moreover, all the more"
   ],
   "tere dade": [
@@ -76548,7 +76548,7 @@ const dictionary = {
     "the same as tare anggala"
   ],
   "tere onggolo": [
-    "ᡨᡝᡵᡝ ᠣᠨᡤᡤᠣᠯᠣ",
+    "ᡨᡝᡵᡝ ᠣᠩᡤᠣᠯᠣ",
     "before that, before-hand"
   ],
   "terei amala": [
@@ -76568,7 +76568,7 @@ const dictionary = {
     "1. after that, then 2. than that, from that, than him"
   ],
   "tereingge": [
-    "ᡨᡝᡵᡝᡳᠨᡤᡤᡝ",
+    "ᡨᡝᡵᡝᡳᠩᡤᡝ",
     "his, hers, its"
   ],
   "tereni": [
@@ -76644,7 +76644,7 @@ const dictionary = {
     "plural of tere: those, they"
   ],
   "teseingge": [
-    "ᡨᡝᠰᡝᡳᠨᡤᡤᡝ",
+    "ᡨᡝᠰᡝᡳᠩᡤᡝ",
     "theirs"
   ],
   "teserembi": [
@@ -76728,7 +76728,7 @@ const dictionary = {
     "implements, tools, vessels"
   ],
   "tetun deijire sele weniyere kunggeri": [
-    "ᡨᡝᡨᡠᠨ ᡩᡝᡳᠵᡳᡵᡝ ᠰᡝᠯᡝ ᠸᡝᠨᡳᠶᡝᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡨᡝᡨᡠᠨ ᡩᡝᡳᠵᡳᡵᡝ ᠰᡝᠯᡝ ᠸᡝᠨᡳᠶᡝᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "bureau of kilns"
   ],
   "tetun doolambi": [
@@ -76804,35 +76804,35 @@ const dictionary = {
     "topic, theme"
   ],
   "ting": [
-    "ᡨᡳᠨᡤ",
+    "ᡨᡳᠩ",
     "1. pavilion 2. office, bureau; cf. tinggin"
   ],
   "tingd": [
-    "ᡨᡳᠨᡤᡩ",
+    "ᡨᡳᠩᡩ",
     "pavilion; cf. tingse"
   ],
   "tinggin": [
-    "ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᡨᡳᠩᡤᡳᠨ",
     "1. office, bureau, section 2. hall"
   ],
   "tinggin i kunggeri boo": [
-    "ᡨᡳᠨᡤᡤᡳᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ ᠪᠣᠣ",
+    "ᡨᡳᠩᡤᡳᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ ᠪᠣᠣ",
     "a section of the yamen of the Provincial Commander-in-Chief"
   ],
   "tinggu cecike": [
-    "ᡨᡳᠨᡤᡤᡠ ᠴᡝᠴᡳᡴᡝ",
+    "ᡨᡳᠩᡤᡠ ᠴᡝᠴᡳᡴᡝ",
     "a small black bird with white spots on the back and wings"
   ],
   "tingguri cecike": [
-    "ᡨᡳᠨᡤᡤᡠᡵᡳ ᠴᡝᠴᡳᡴᡝ",
+    "ᡨᡳᠩᡤᡠᡵᡳ ᠴᡝᠴᡳᡴᡝ",
     "one name for the goat-sucker; cf. simari cecike"
   ],
   "tingse": [
-    "ᡨᡳᠨᡤᠰᡝ",
+    "ᡨᡳᠩᠰᡝ",
     "pavilion"
   ],
   "titang bh": [
-    "ᡨᡳᡨᠠᠨᡤ ᠪᡥ",
+    "ᡨᡳᡨᠠᠩ ᠪᡥ",
     "Superintendent of Military Posts, 435"
   ],
   "tiyan ju gurun": [
@@ -76840,7 +76840,7 @@ const dictionary = {
     "India"
   ],
   "tiyan ju tang miyoo": [
-    "ᡨᡳᠶᠠᠨ ᠵᡠ ᡨᠠᠨᡤ ᠮᡳᠶᠣᠣ",
+    "ᡨᡳᠶᠠᠨ ᠵᡠ ᡨᠠᠩ ᠮᡳᠶᠣᠣ",
     "a Catholic or Orthodox church"
   ],
   "tiyelin": [
@@ -76888,7 +76888,7 @@ const dictionary = {
     "to knot, to knit together, to plait; cf. gokjimbi"
   ],
   "tobconggo moo": [
-    "ᡨᠣᠪᠴᠣᠨᡤᡤᠣ ᠮᠣᠣ",
+    "ᡨᠣᠪᠴᠣᠩᡤᠣ ᠮᠣᠣ",
     "a miraculous tree that grew on the grave of Chou Kung--the colors of the leaves corresponded to the different seasons, green in spring, red in summer, white in autumn, and black in winter"
   ],
   "tobgiya": [
@@ -76924,7 +76924,7 @@ const dictionary = {
     "a horse spotted like a panther"
   ],
   "tobtoko yanggali": [
-    "ᡨᠣᠪᡨᠣᡴᠣ ᠶᠠᠨᡤᡤᠠᠯᡳ",
+    "ᡨᠣᠪᡨᠣᡴᠣ ᠶᠠᠩᡤᠠᠯᡳ",
     "a speckled water wagtail"
   ],
   "todai": [
@@ -76952,7 +76952,7 @@ const dictionary = {
     "fifteen"
   ],
   "tofohonggeri": [
-    "ᡨᠣᡶᠣᡥᠣᠨᡤᡤᡝᡵᡳ",
+    "ᡨᠣᡶᠣᡥᠣᠩᡤᡝᡵᡳ",
     "fifteen times"
   ],
   "tofohoto": [
@@ -77064,7 +77064,7 @@ const dictionary = {
     "1. one name for the cuckoo; cf. kekuhe 2. a crafty personp-so-called because, like the cuckoo, he is hard to catch"
   ],
   "toitonggo": [
-    "ᡨᠣᡳᡨᠣᠨᡤᡤᠣ",
+    "ᡨᠣᡳᡨᠣᠩᡤᠣ",
     "crafty, wily"
   ],
   "tojin": [
@@ -77072,11 +77072,11 @@ const dictionary = {
     "peafowl, peacock; cf. kundujin"
   ],
   "tojin funggaha kiru": [
-    "ᡨᠣᠵᡳᠨ ᡶᡠᠨᡤᡤᠠᡥᠠ ᡴᡳᡵᡠ",
+    "ᡨᠣᠵᡳᠨ ᡶᡠᠩᡤᠠᡥᠠ ᡴᡳᡵᡠ",
     "a light blue banner of the imperial escort with the figures of peacock feathers embroidered on it"
   ],
   "tojin funggaha saracan": [
-    "ᡨᠣᠵᡳᠨ ᡶᡠᠨᡤᡤᠠᡥᠠ ᠰᠠᡵᠠᠴᠠᠨ",
+    "ᡨᠣᠵᡳᠨ ᡶᡠᠩᡤᠠᡥᠠ ᠰᠠᡵᠠᠴᠠᠨ",
     "a tiered parasol with figures of peacock feathers embroidered on it"
   ],
   "tojin gasha": [
@@ -77084,11 +77084,11 @@ const dictionary = {
     "see tojin"
   ],
   "tojin i funggala": [
-    "ᡨᠣᠵᡳᠨ ᡳ ᡶᡠᠨᡤᡤᠠᠯᠠ",
+    "ᡨᠣᠵᡳᠨ ᡳ ᡶᡠᠩᡤᠠᠯᠠ",
     "peacock feather"
   ],
   "tojin i funggala hadambi": [
-    "ᡨᠣᠵᡳᠨ ᡳ ᡶᡠᠨᡤᡤᠠᠯᠠ ᡥᠠᡩᠠᠮᠪᡳ",
+    "ᡨᠣᠵᡳᠨ ᡳ ᡶᡠᠩᡤᠠᠯᠠ ᡥᠠᡩᠠᠮᠪᡳ",
     "to stick a peacock feather in a hat"
   ],
   "tojin kiru": [
@@ -77096,7 +77096,7 @@ const dictionary = {
     "a banner of the imperial escort embroidered with a figure of a peacock"
   ],
   "tojingga xun dalikv": [
-    "ᡨᠣᠵᡳᠨᡤᡤᠠ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
+    "ᡨᠣᠵᡳᠩᡤᠠ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
     "a large round fan of the imperial escort made of silk in the form of peacock tail feathers"
   ],
   "tok": [
@@ -77116,7 +77116,7 @@ const dictionary = {
     "constellation"
   ],
   "tokdonggo": [
-    "ᡨᠣᡴᡩᠣᠨᡤᡤᠣ",
+    "ᡨᠣᡴᡩᠣᠩᡤᠣ",
     "pertaining to a constellation"
   ],
   "tokobumbi": [
@@ -77344,7 +77344,7 @@ const dictionary = {
     "caus. of tomombi"
   ],
   "tomohonggo": [
-    "ᡨᠣᠮᠣᡥᠣᠨᡤᡤᠣ",
+    "ᡨᠣᠮᠣᡥᠣᠩᡤᠣ",
     "constant, persevering, determined"
   ],
   "tomombi": [
@@ -77424,7 +77424,7 @@ const dictionary = {
     "a weight"
   ],
   "ton i sucungga inenggi": [
-    "ᡨᠣᠨ ᡳ ᠰᡠᠴᡠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡨᠣᠨ ᡳ ᠰᡠᠴᡠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "the first day of one of the twenty solar divisions of the year"
   ],
   "tondo": [
@@ -77456,111 +77456,111 @@ const dictionary = {
     "to go straight"
   ],
   "tondongge": [
-    "ᡨᠣᠨᡩᠣᠨᡤᡤᡝ",
+    "ᡨᠣᠨᡩᠣᠩᡤᡝ",
     "upright, honest, loyal"
   ],
   "tong seme": [
-    "ᡨᠣᠨᡤ ᠰᡝᠮᡝ",
+    "ᡨᠣᠩ ᠰᡝᠮᡝ",
     "hard, tough"
   ],
   "tong tong": [
-    "ᡨᠣᠨᡤ ᡨᠣᠨᡤ",
+    "ᡨᠣᠩ ᡨᠣᠩ",
     "(onom.) the sound of a shaman's drum"
   ],
   "tongga": [
-    "ᡨᠣᠨᡤᡤᠠ",
+    "ᡨᠣᠩᡤᠠ",
     "limited, rare, few"
   ],
   "tonggalu ilha": [
-    "ᡨᠣᠨᡤᡤᠠᠯᡠ ᡳᠯᡥᠠ",
+    "ᡨᠣᠩᡤᠠᠯᡠ ᡳᠯᡥᠠ",
     "the common day lily--a plant that deer like to eat"
   ],
   "tonggime": [
-    "ᡨᠣᠨᡤᡤᡳᠮᡝ",
+    "ᡨᠣᠩᡤᡳᠮᡝ",
     "clearly and in detail, in toto"
   ],
   "tonggime alambi": [
-    "ᡨᠣᠨᡤᡤᡳᠮᡝ ᠠᠯᠠᠮᠪᡳ",
+    "ᡨᠣᠩᡤᡳᠮᡝ ᠠᠯᠠᠮᠪᡳ",
     "to relate clearly and in detail"
   ],
   "tonggo": [
-    "ᡨᠣᠨᡤᡤᠣ",
+    "ᡨᠣᠩᡤᠣ",
     "thread, string"
   ],
   "tonggo boso": [
-    "ᡨᠣᠨᡤᡤᠣ ᠪᠣᠰᠣ",
+    "ᡨᠣᠩᡤᠣ ᠪᠣᠰᠣ",
     "calico, chintz"
   ],
   "tonggo midaha": [
-    "ᡨᠣᠨᡤᡤᠣ ᠮᡳᡩᠠᡥᠠ",
+    "ᡨᠣᠩᡤᠣ ᠮᡳᡩᠠᡥᠠ",
     "a long thin cricket"
   ],
   "tonggo suje": [
-    "ᡨᠣᠨᡤᡤᠣ ᠰᡠᠵᡝ",
+    "ᡨᠣᠩᡤᠣ ᠰᡠᠵᡝ",
     "satin woven from yarn"
   ],
   "tonggo suri": [
-    "ᡨᠣᠨᡤᡤᠣ ᠰᡠᡵᡳ",
+    "ᡨᠣᠩᡤᠣ ᠰᡠᡵᡳ",
     "silk woven from yarn"
   ],
   "tonggo tabumbi": [
-    "ᡨᠣᠨᡤᡤᠣ ᡨᠠᠪᡠᠮᠪᡳ",
+    "ᡨᠣᠩᡤᠣ ᡨᠠᠪᡠᠮᠪᡳ",
     "to hang yarn"
   ],
   "tonggolibumbi": [
-    "ᡨᠣᠨᡤᡤᠣᠯᡳᠪᡠᠮᠪᡳ",
+    "ᡨᠣᠩᡤᠣᠯᡳᠪᡠᠮᠪᡳ",
     "caus. of tonggolimbi"
   ],
   "tonggolikv": [
-    "ᡨᠣᠨᡤᡤᠣᠯᡳᡴᡡ",
+    "ᡨᠣᠩᡤᠣᠯᡳᡴᡡ",
     "somersault"
   ],
   "tonggolimbi": [
-    "ᡨᠣᠨᡤᡤᠣᠯᡳᠮᠪᡳ",
+    "ᡨᠣᠩᡤᠣᠯᡳᠮᠪᡳ",
     "to turn a somersault"
   ],
   "tonggolime miyoocalambi": [
-    "ᡨᠣᠨᡤᡤᠣᠯᡳᠮᡝ ᠮᡳᠶᠣᠣᠴᠠᠯᠠᠮᠪᡳ",
+    "ᡨᠣᠩᡤᠣᠯᡳᠮᡝ ᠮᡳᠶᠣᠣᠴᠠᠯᠠᠮᠪᡳ",
     "to fire salvos"
   ],
   "tongki": [
-    "ᡨᠣᠨᡤᡴᡳ",
+    "ᡨᠣᠩᡴᡳ",
     "dot, point"
   ],
   "tongki fuka": [
-    "ᡨᠣᠨᡤᡴᡳ ᡶᡠᡴᠠ",
+    "ᡨᠣᠩᡴᡳ ᡶᡠᡴᠠ",
     "dots and circles (of the Manchu alphabet)"
   ],
   "tongki fuka akv hergen": [
-    "ᡨᠣᠨᡤᡴᡳ ᡶᡠᡴᠠ ᠠᡴᡡ ᡥᡝᡵᡤᡝᠨ",
+    "ᡨᠣᠩᡴᡳ ᡶᡠᡴᠠ ᠠᡴᡡ ᡥᡝᡵᡤᡝᠨ",
     "the old Manchu script (before 1641) that lacked dots and circles"
   ],
   "tongki gidambi": [
-    "ᡨᠣᠨᡤᡴᡳ ᡤᡳᡩᠠᠮᠪᡳ",
+    "ᡨᠣᠩᡴᡳ ᡤᡳᡩᠠᠮᠪᡳ",
     "to place dots"
   ],
   "tongkimbi": [
-    "ᡨᠣᠨᡤᡴᡳᠮᠪᡳ",
+    "ᡨᠣᠩᡴᡳᠮᠪᡳ",
     "1. to make a dot, to write a dot 2. to box on the ear"
   ],
   "tongkin": [
-    "ᡨᠣᠨᡤᡴᡳᠨ",
+    "ᡨᠣᠩᡴᡳᠨ",
     "a gong used when opening and closing the city gates"
   ],
   "tongkixakv": [
-    "ᡨᠣᠨᡤᡴᡳᡧᠠᡴᡡ",
+    "ᡨᠣᠩᡴᡳᡧᠠᡴᡡ",
     "a type of small cymbal"
   ],
   "tongkixambi": [
-    "ᡨᠣᠨᡤᡴᡳᡧᠠᠮᠪᡳ",
+    "ᡨᠣᠩᡴᡳᡧᠠᠮᠪᡳ",
     "1. to beat a small cymbal 2. to give repeated blows to the head, to box the ears repeatedly"
   ],
   "tongsimbi": [
-    "ᡨᠣᠨᡤᠰᡳᠮᠪᡳ",
+    "ᡨᠣᠩᠰᡳᠮᠪᡳ",
     "1. to chirp, to cry (of the cuckoo) 2. to recite incantations"
   ],
   "tongsirambi": [
-    "ᡨᠣᠨᡤᠰᡳᡵᠠᠮᠪᡳ",
+    "ᡨᠣᠩᠰᡳᡵᠠᠮᠪᡳ",
     "to tell a story"
   ],
   "tonikv": [
@@ -77588,7 +77588,7 @@ const dictionary = {
     "1. knob, barb, round head 2. barbs on a garma arrow 3. knob on the top of a tent"
   ],
   "tono jinggeri": [
-    "ᡨᠣᠨᠣ ᠵᡳᠨᡤᡤᡝᡵᡳ",
+    "ᡨᠣᠨᠣ ᠵᡳᠩᡤᡝᡵᡳ",
     "knoblike decorations on the top of palace buildings and on city gates"
   ],
   "tontu": [
@@ -77672,7 +77672,7 @@ const dictionary = {
     "1. to weight on a balance 2. to wind on a spindle 3. to exercise authority, to exercise one's power 4. to ponder, to discuss"
   ],
   "toosengge": [
-    "ᡨᠣᠣᠰᡝᠨᡤᡤᡝ",
+    "ᡨᠣᠣᠰᡝᠩᡤᡝ",
     "powerful, mighty"
   ],
   "tor seme": [
@@ -77684,7 +77684,7 @@ const dictionary = {
     "a top"
   ],
   "torgikv tungken": [
-    "ᡨᠣᡵᡤᡳᡴᡡ ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᡨᠣᡵᡤᡳᡴᡡ ᡨᡠᠩᡴᡝᠨ",
     "a drum, narrow at the top and bottom, which is beaten on horseback"
   ],
   "torgimbi": [
@@ -77724,7 +77724,7 @@ const dictionary = {
     "to wander, to roam, to have no fixed abode"
   ],
   "toribuhangge": [
-    "ᡨᠣᡵᡳᠪᡠᡥᠠᠨᡤᡤᡝ",
+    "ᡨᠣᡵᡳᠪᡠᡥᠠᠩᡤᡝ",
     "'wanderer, one without a fixed home' a bad name applied to women who have had more than one husband, or a slave who has served more than one master"
   ],
   "torimbi": [
@@ -77776,7 +77776,7 @@ const dictionary = {
     "white spot on the forehead of an animal"
   ],
   "tosingga": [
-    "ᡨᠣᠰᡳᠨᡤᡤᠠ",
+    "ᡨᠣᠰᡳᠩᡤᠠ",
     "having a white spot on the forehead"
   ],
   "tosobumbi": [
@@ -77804,7 +77804,7 @@ const dictionary = {
     "hit the target, aim was accurate"
   ],
   "toyonggo": [
-    "ᡨᠣᠶᠣᠨᡤᡤᠣ",
+    "ᡨᠣᠶᠣᠩᡤᠣ",
     "correct (of watches and clocks)"
   ],
   "tu": [
@@ -77812,11 +77812,11 @@ const dictionary = {
     "1. a large military standard 2. banner cavalry, banner guard"
   ],
   "tu i janggin bh": [
-    "ᡨᡠ ᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ",
+    "ᡨᡠ ᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ",
     "Captain-General, 734"
   ],
   "tu i janggin i siden yamun": [
-    "ᡨᡠ ᡳ ᠵᠠᠨᡤᡤᡳᠨ ᡳ ᠰᡳᡩᡝᠨ ᠶᠠᠮᡠᠨ",
+    "ᡨᡠ ᡳ ᠵᠠᠩᡤᡳᠨ ᡳ ᠰᡳᡩᡝᠨ ᠶᠠᠮᡠᠨ",
     "of a to i janggin"
   ],
   "tu kiru": [
@@ -77844,7 +77844,7 @@ const dictionary = {
     "there, at that place"
   ],
   "tubaingge": [
-    "ᡨᡠᠪᠠᡳᠨᡤᡤᡝ",
+    "ᡨᡠᠪᠠᡳᠩᡤᡝ",
     "that which is there"
   ],
   "tubehe": [
@@ -77860,7 +77860,7 @@ const dictionary = {
     "Tibetan sunflower"
   ],
   "tubet kiongguhe": [
-    "ᡨᡠᠪᡝᡨ ᡴᡳᠣᠨᡤᡤᡠᡥᡝ",
+    "ᡨᡠᠪᡝᡨ ᡴᡳᠣᠩᡤᡠᡥᡝ",
     "Tibetan myna"
   ],
   "tubet mooi hasi": [
@@ -77892,7 +77892,7 @@ const dictionary = {
     "1. to catch in a weir basket, to place a basket over chickens"
   ],
   "tubingga moo": [
-    "ᡨᡠᠪᡳᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᡨᡠᠪᡳᠩᡤᠠ ᠮᠣᠣ",
     "a tall tree of Kiangsi with thick, red, bitter bark and a chestnutlike fruit"
   ],
   "tubixembi": [
@@ -77984,7 +77984,7 @@ const dictionary = {
     "the bottom or footrest of the stirrup"
   ],
   "tufun i sengken": [
-    "ᡨᡠᡶᡠᠨ ᡳ ᠰᡝᠨᡤᡴᡝᠨ",
+    "ᡨᡠᡶᡠᠨ ᡳ ᠰᡝᠩᡴᡝᠨ",
     "hole on the stirrup through which the thong that connects the stirrup to the saddle is passed"
   ],
   "tufun i tuba": [
@@ -78040,11 +78040,11 @@ const dictionary = {
     "one name for the golden pheasant; cf. junggiri coko"
   ],
   "tugingga omolo": [
-    "ᡨᡠᡤᡳᠨᡤᡤᠠ ᠣᠮᠣᠯᠣ",
+    "ᡨᡠᡤᡳᠩᡤᠠ ᠣᠮᠣᠯᠣ",
     "a descendant of the eighth generation"
   ],
   "tugingge fan": [
-    "ᡨᡠᡤᡳᠨᡤᡤᡝ ᡶᠠᠨ",
+    "ᡨᡠᡤᡳᠩᡤᡝ ᡶᠠᠨ",
     "a tablet for imperial edicts of favor"
   ],
   "tugiri": [
@@ -78132,7 +78132,7 @@ const dictionary = {
     "see tugi"
   ],
   "tui janggin": [
-    "ᡨᡠᡳ ᠵᠠᠨᡤᡤᡳᠨ",
+    "ᡨᡠᡳ ᠵᠠᠩᡤᡳᠨ",
     "see to i janggin"
   ],
   "tui tui": [
@@ -78252,7 +78252,7 @@ const dictionary = {
     "a summary of the important points of a memorial attached to the original with a yellow strip of paper"
   ],
   "tukiyehe xoxohonggo kunggeri": [
-    "ᡨᡠᡴᡳᠶᡝᡥᡝ ᡧᠣᡧᠣᡥᠣᠨᡤᡤᠣ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡨᡠᡴᡳᠶᡝᡥᡝ ᡧᠣᡧᠣᡥᠣᠩᡤᠣ ᡴᡠᠩᡤᡝᡵᡳ",
     "an office in the Board of Civil Appointments concerned with preparing summaries of memorials"
   ],
   "tukiyeme gaiha hehe": [
@@ -78348,7 +78348,7 @@ const dictionary = {
     "outside"
   ],
   "tule benjire kunggeri": [
-    "ᡨᡠᠯᡝ ᠪᡝᠨᠵᡳᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡨᡠᠯᡝ ᠪᡝᠨᠵᡳᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Board of Works"
   ],
   "tule genembi": [
@@ -78396,7 +78396,7 @@ const dictionary = {
     "to review the death sentences from the provinces in the autumn"
   ],
   "tulergi goloi hafan i kunggeri": [
-    "ᡨᡠᠯᡝᡵᡤᡳ ᡤᠣᠯᠣᡳ ᡥᠠᡶᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡨᡠᠯᡝᡵᡤᡳ ᡤᠣᠯᠣᡳ ᡥᠠᡶᠠᠨ ᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office in charge of enfeoffments and honorary titles for provincial officials"
   ],
   "tulergi gurun": [
@@ -78416,11 +78416,11 @@ const dictionary = {
     "the examination inspector of the outer hall"
   ],
   "tulergi simnengge kunggeri": [
-    "ᡨᡠᠯᡝᡵᡤᡳ ᠰᡳᠮᠨᡝᠨᡤᡤᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡨᡠᠯᡝᡵᡤᡳ ᠰᡳᠮᠨᡝᠩᡤᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "an office in charge of successful examination candidates from the outer provinces"
   ],
   "tulergi tanggingge boo": [
-    "ᡨᡠᠯᡝᡵᡤᡳ ᡨᠠᠨᡤᡤᡳᠨᡤᡤᡝ ᠪᠣᠣ",
+    "ᡨᡠᠯᡝᡵᡤᡳ ᡨᠠᠩᡤᡳᠩᡤᡝ ᠪᠣᠣ",
     "the name of an office in 'the Board of Civil Appointments"
   ],
   "tuleri": [
@@ -78528,7 +78528,7 @@ const dictionary = {
     "ten thousand, a myriad"
   ],
   "tumen arbun bolgo niktongga mudan": [
-    "ᡨᡠᠮᡝᠨ ᠠᡵᠪᡠᠨ ᠪᠣᠯᡤᠣ ᠨᡳᡴᡨᠣᠨᡤᡤᠠ ᠮᡠᡩᠠᠨ",
+    "ᡨᡠᠮᡝᠨ ᠠᡵᠪᡠᠨ ᠪᠣᠯᡤᠣ ᠨᡳᡴᡨᠣᠩᡤᠠ ᠮᡠᡩᠠᠨ",
     "the name of a piece of music played while the food was brought in at a palace banquet"
   ],
   "tumen de": [
@@ -78540,7 +78540,7 @@ const dictionary = {
     "in case, should it happen that . . ."
   ],
   "tumen jalafun dengjan": [
-    "ᡨᡠᠮᡝᠨ ᠵᠠᠯᠠᡶᡠᠨ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡨᡠᠮᡝᠨ ᠵᠠᠯᠠᡶᡠᠨ ᡩᡝᠩᠵᠠᠨ",
     "a lantern placed on a stand in the inner court at New Year's"
   ],
   "tumen jalafun jecen akv": [
@@ -78572,11 +78572,11 @@ const dictionary = {
     "the name of a flower whose leaves resemble birds' wings. There are two varieties: one is red with purple spots, and the other is green with brown spots"
   ],
   "tumengge moo": [
-    "ᡨᡠᠮᡝᠨᡤᡤᡝ ᠮᠣᠣ",
+    "ᡨᡠᠮᡝᠩᡤᡝ ᠮᠣᠣ",
     "Ligustrum sinense"
   ],
   "tumenggeri": [
-    "ᡨᡠᠮᡝᠨᡤᡤᡝᡵᡳ",
+    "ᡨᡠᠮᡝᠩᡤᡝᡵᡳ",
     "ten thousand times"
   ],
   "tumenleme": [
@@ -78612,11 +78612,11 @@ const dictionary = {
     "a blue banner of the imperial escort depicting a golden dragon"
   ],
   "tumin lamun suje de aisin dambuha muduringga turun": [
-    "ᡨᡠᠮᡳᠨ ᠯᠠᠮᡠᠨ ᠰᡠᠵᡝ ᡩᡝ ᠠᡳᠰᡳᠨ ᡩᠠᠮᠪᡠᡥᠠ ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᡨᡠᡵᡠᠨ",
+    "ᡨᡠᠮᡳᠨ ᠯᠠᠮᡠᠨ ᠰᡠᠵᡝ ᡩᡝ ᠠᡳᠰᡳᠨ ᡩᠠᠮᠪᡠᡥᠠ ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᡨᡠᡵᡠᠨ",
     "a blue standard of the imperial escort depicting a golden dragon"
   ],
   "tumin niowanggiyan": [
-    "ᡨᡠᠮᡳᠨ ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ",
+    "ᡨᡠᠮᡳᠨ ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ",
     "deep green"
   ],
   "tumin soboro": [
@@ -78648,171 +78648,171 @@ const dictionary = {
     "see mangga ceceri"
   ],
   "tung io": [
-    "ᡨᡠᠨᡤ ᡳᠣ",
+    "ᡨᡠᠩ ᡳᠣ",
     "tung oil"
   ],
   "tung moo": [
-    "ᡨᡠᠨᡤ ᠮᠣᠣ",
+    "ᡨᡠᠩ ᠮᠣᠣ",
     "the tung tree"
   ],
   "tung xeng": [
-    "ᡨᡠᠨᡤ ᡧᡝᠨᡤ",
+    "ᡨᡠᠩ ᡧᡝᠩ",
     "see simnesi"
   ],
   "tung tang": [
-    "ᡨᡠᠨᡤ ᡨᠠᠨᡤ",
+    "ᡨᡠᠩ ᡨᠠᠩ",
     "(onom.) the sound of bells and drums"
   ],
   "tung tung": [
-    "ᡨᡠᠨᡤ ᡨᡠᠨᡤ",
+    "ᡨᡠᠩ ᡨᡠᠩ",
     "(onom.) the sound of a drum"
   ],
   "tungd": [
-    "ᡨᡠᠨᡤᡩ",
+    "ᡨᡠᠩᡩ",
     "young lad, boy"
   ],
   "tunggalabumbi": [
-    "ᡨᡠᠨᡤᡤᠠᠯᠠᠪᡠᠮᠪᡳ",
+    "ᡨᡠᠩᡤᠠᠯᠠᠪᡠᠮᠪᡳ",
     "to run into unexpectedly"
   ],
   "tunggalambi": [
-    "ᡨᡠᠨᡤᡤᠠᠯᠠᠮᠪᡳ",
+    "ᡨᡠᠩᡤᠠᠯᠠᠮᠪᡳ",
     "1. to run into, to encounter 2. to experience"
   ],
   "tunggalanambi": [
-    "ᡨᡠᠨᡤᡤᠠᠯᠠᠨᠠᠮᠪᡳ",
+    "ᡨᡠᠩᡤᠠᠯᠠᠨᠠᠮᠪᡳ",
     "to go to encounter"
   ],
   "tunggel": [
-    "ᡨᡠᠨᡤᡤᡝᠯ",
+    "ᡨᡠᠩᡤᡝᠯ",
     "young boy"
   ],
   "tunggen": [
-    "ᡨᡠᠨᡤᡤᡝᠨ",
+    "ᡨᡠᠩᡤᡝᠨ",
     "breast, chest, bosom"
   ],
   "tunggen bokxon": [
-    "ᡨᡠᠨᡤᡤᡝᠨ ᠪᠣᡴᡧᠣᠨ",
+    "ᡨᡠᠩᡤᡝᠨ ᠪᠣᡴᡧᠣᠨ",
     "breastbone of cattle"
   ],
   "tunggen de nikebumbi": [
-    "ᡨᡠᠨᡤᡤᡝᠨ ᡩᡝ ᠨᡳᡴᡝᠪᡠᠮᠪᡳ",
+    "ᡨᡠᠩᡤᡝᠨ ᡩᡝ ᠨᡳᡴᡝᠪᡠᠮᠪᡳ",
     "to take to heart, to treat respectfully"
   ],
   "tunggen nekeliyen": [
-    "ᡨᡠᠨᡤᡤᡝᠨ ᠨᡝᡴᡝᠯᡳᠶᡝᠨ",
+    "ᡨᡠᠩᡤᡝᠨ ᠨᡝᡴᡝᠯᡳᠶᡝᠨ",
     "smart, bright"
   ],
   "tunggi": [
-    "ᡨᡠᠨᡤᡤᡳ",
+    "ᡨᡠᠩᡤᡳ",
     "1. bent over, curved, crooked 2. too taut (of a bow when the string is too short)"
   ],
   "tunggiowan": [
-    "ᡨᡠᠨᡤᡤᡳᠣᠸᠠᠨ",
+    "ᡨᡠᠩᡤᡳᠣᠸᠠᠨ",
     "see mangga ceceri"
   ],
   "tunggiyebumbi": [
-    "ᡨᡠᠨᡤᡤᡳᠶᡝᠪᡠᠮᠪᡳ",
+    "ᡨᡠᠩᡤᡳᠶᡝᠪᡠᠮᠪᡳ",
     "caus. of tunggiyembi"
   ],
   "tunggiyembi": [
-    "ᡨᡠᠨᡤᡤᡳᠶᡝᠮᠪᡳ",
+    "ᡨᡠᠩᡤᡳᠶᡝᠮᠪᡳ",
     "1. to pick up 2. to collect the remains after a cremation"
   ],
   "tunggu": [
-    "ᡨᡠᠨᡤᡤᡠ",
+    "ᡨᡠᠩᡤᡠ",
     "a deep pool, deep part of a river, lake or pond"
   ],
   "tunggulembi": [
-    "ᡨᡠᠨᡤᡤᡠᠯᡝᠮᠪᡳ",
+    "ᡨᡠᠩᡤᡠᠯᡝᠮᠪᡳ",
     "to treat a wound or bite with the fluid obtained from burning willow branches"
   ],
   "tungio": [
-    "ᡨᡠᠨᡤᡳᠣ",
+    "ᡨᡠᠩᡳᠣ",
     "see tang io"
   ],
   "tungjeo i calu": [
-    "ᡨᡠᠨᡤᠵᡝᠣ ᡳ ᠴᠠᠯᡠ",
+    "ᡨᡠᠩᠵᡝᠣ ᡳ ᠴᠠᠯᡠ",
     "a granary in T'ung-chou near Peking"
   ],
   "tungj": [
-    "ᡨᡠᠨᡤᠵ",
+    "ᡨᡠᠩᠵ",
     "see uhei saraci"
   ],
   "tungken": [
-    "ᡨᡠᠨᡤᡴᡝᠨ",
+    "ᡨᡠᠩᡴᡝᠨ",
     "1. drum 2. archery target"
   ],
   "tungken can i kiru": [
-    "ᡨᡠᠨᡤᡴᡝᠨ ᠴᠠᠨ ᡳ ᡴᡳᡵᡠ",
+    "ᡨᡠᠩᡴᡝᠨ ᠴᠠᠨ ᡳ ᡴᡳᡵᡠ",
     "a yellow banner of the imperial escort with the words tungken can written on it in gold thread"
   ],
   "tungken i kemun": [
-    "ᡨᡠᠨᡤᡴᡝᠨ ᡳ ᡴᡝᠮᡠᠨ",
+    "ᡨᡠᠩᡴᡝᠨ ᡳ ᡴᡝᠮᡠᠨ",
     "the round hole in the middle of a target"
   ],
   "tungken lakiyara kemun": [
-    "ᡨᡠᠨᡤᡴᡝᠨ ᠯᠠᡴᡳᠶᠠᡵᠠ ᡴᡝᠮᡠᠨ",
+    "ᡨᡠᠩᡴᡝᠨ ᠯᠠᡴᡳᠶᠠᡵᠠ ᡴᡝᠮᡠᠨ",
     "a hanging archery target made of felt"
   ],
   "tungken tinggin i yamun bh": [
-    "ᡨᡠᠨᡤᡴᡝᠨ ᡨᡳᠨᡤᡤᡳᠨ ᡳ ᠶᠠᠮᡠᠨ ᠪᡥ",
+    "ᡨᡠᠩᡴᡝᠨ ᡨᡳᠩᡤᡳᠨ ᡳ ᠶᠠᠮᡠᠨ ᠪᡥ",
     "complaint section of the Transmission Office; cf. 928"
   ],
   "tungken yoro": [
-    "ᡨᡠᠨᡤᡴᡝᠨ ᠶᠣᡵᠣ",
+    "ᡨᡠᠩᡴᡝᠨ ᠶᠣᡵᠣ",
     "a small bone-headed arrow used for target shooting"
   ],
   "tungkesi": [
-    "ᡨᡠᠨᡤᡴᡝᠰᡳ",
+    "ᡨᡠᠩᡴᡝᠰᡳ",
     "drummer"
   ],
   "tungki tangki": [
-    "ᡨᡠᠨᡤᡴᡳ ᡨᠠᠨᡤᡴᡳ",
+    "ᡨᡠᠩᡴᡳ ᡨᠠᠩᡴᡳ",
     "staggering, reeling"
   ],
   "tungku": [
-    "ᡨᡠᠨᡤᡴᡠ",
+    "ᡨᡠᠩᡴᡠ",
     "a small dragnet used for fishing under ice"
   ],
   "tungku tembi": [
-    "ᡨᡠᠨᡤᡴᡠ ᡨᡝᠮᠪᡳ",
+    "ᡨᡠᠩᡴᡠ ᡨᡝᠮᠪᡳ",
     "to fish with a tungku"
   ],
   "tunglu": [
-    "ᡨᡠᠨᡤᠯᡠ",
+    "ᡨᡠᠩᠯᡠ",
     "patina, verdigris"
   ],
   "tungnibumbi": [
-    "ᡨᡠᠨᡤᠨᡳᠪᡠᠮᠪᡳ",
+    "ᡨᡠᠩᠨᡳᠪᡠᠮᠪᡳ",
     "caus. of tungnimbi"
   ],
   "tungnimbi": [
-    "ᡨᡠᠨᡤᠨᡳᠮᠪᡳ",
+    "ᡨᡠᠩᠨᡳᠮᠪᡳ",
     "to treat a wound or bite with the fluid obtained from burning willow branches"
   ],
   "tungse": [
-    "ᡨᡠᠨᡤᠰᡝ",
+    "ᡨᡠᠩᠰᡝ",
     "translator, interpreter; cf. hafumbukū"
   ],
   "tungse kamcimbi": [
-    "ᡨᡠᠨᡤᠰᡝ ᡴᠠᠮᠴᡳᠮᠪᡳ",
+    "ᡨᡠᠩᠰᡝ ᡴᠠᠮᠴᡳᠮᠪᡳ",
     "to bring along an interpreter"
   ],
   "tungserebumbi": [
-    "ᡨᡠᠨᡤᠰᡝᡵᡝᠪᡠᠮᠪᡳ",
+    "ᡨᡠᠩᠰᡝᡵᡝᠪᡠᠮᠪᡳ",
     "caus. of tungserembi"
   ],
   "tungserembi": [
-    "ᡨᡠᠨᡤᠰᡝᡵᡝᠮᠪᡳ",
+    "ᡨᡠᠩᠰᡝᡵᡝᠮᠪᡳ",
     "to translate, to interpret"
   ],
   "tungsika gurgu": [
-    "ᡨᡠᠨᡤᠰᡳᡴᠠ ᡤᡠᡵᡤᡠ",
+    "ᡨᡠᠩᠰᡳᡴᠠ ᡤᡠᡵᡤᡠ",
     "jackal"
   ],
   "tungtung tangtang": [
-    "ᡨᡠᠨᡤᡨᡠᠨᡤ ᡨᠠᠨᡤᡨᠠᠨᡤ",
+    "ᡨᡠᠩᡨᡠᠩ ᡨᠠᠩᡨᠠᠩ",
     "(onom.) the sound of bells and drums together"
   ],
   "tuniyeltu cecike": [
@@ -79020,7 +79020,7 @@ const dictionary = {
     "to sacrifice to the standard"
   ],
   "turungge jungken": [
-    "ᡨᡠᡵᡠᠨᡤᡤᡝ ᠵᡠᠨᡤᡴᡝᠨ",
+    "ᡨᡠᡵᡠᠩᡤᡝ ᠵᡠᠩᡴᡝᠨ",
     "a musical instrument consisting of twelve bells on a frame, each one of which corresponds to one of the twelve earth's branches"
   ],
   "tus seme ukcambi": [
@@ -79044,11 +79044,11 @@ const dictionary = {
     "to be advantageous, to be profitable"
   ],
   "tusangga": [
-    "ᡨᡠᠰᠠᠨᡤᡤᠠ",
+    "ᡨᡠᠰᠠᠩᡤᠠ",
     "beneficial, profitable"
   ],
   "tusangga calu": [
-    "ᡨᡠᠰᠠᠨᡤᡤᠠ ᠴᠠᠯᡠ",
+    "ᡨᡠᠰᠠᠩᡤᠠ ᠴᠠᠯᡠ",
     "a government granary in which surplus grain was stored to be sold to the people in famine years"
   ],
   "tusergen": [
@@ -79136,11 +79136,11 @@ const dictionary = {
     "honorary title given to officials of the seventh rank second degree, 945"
   ],
   "tuxan de ginggulehe daifan bh": [
-    "ᡨᡠᡧᠠᠨ ᡩᡝ ᡤᡳᠨᡤᡤᡠᠯᡝᡥᡝ ᡩᠠᡳᡶᠠᠨ ᠪᡥ",
+    "ᡨᡠᡧᠠᠨ ᡩᡝ ᡤᡳᠩᡤᡠᠯᡝᡥᡝ ᡩᠠᡳᡶᠠᠨ ᠪᡥ",
     "honorary title given to officials of the fifth rank first degree, 945"
   ],
   "tuxan de ginggulehe hafan": [
-    "ᡨᡠᡧᠠᠨ ᡩᡝ ᡤᡳᠨᡤᡤᡠᠯᡝᡥᡝ ᡥᠠᡶᠠᠨ",
+    "ᡨᡠᡧᠠᠨ ᡩᡝ ᡤᡳᠩᡤᡠᠯᡝᡥᡝ ᡥᠠᡶᠠᠨ",
     "honorary title given to officials of the eighth rank first"
   ],
   "tuxan de kicehe daifan bh": [
@@ -79164,7 +79164,7 @@ const dictionary = {
     "to happen upon something"
   ],
   "tuxangga mahatun": [
-    "ᡨᡠᡧᠠᠨᡤᡤᠠ ᠮᠠᡥᠠᡨᡠᠨ",
+    "ᡨᡠᡧᠠᠩᡤᠠ ᠮᠠᡥᠠᡨᡠᠨ",
     "a hat worn by officials in ancient times"
   ],
   "tuxanjimbi": [
@@ -79324,11 +79324,11 @@ const dictionary = {
     "to go to be seen, to go to be examined, to go to show or exhibit"
   ],
   "tuwabungga": [
-    "ᡨᡠᠸᠠᠪᡠᠨᡤᡤᠠ",
+    "ᡨᡠᠸᠠᠪᡠᠩᡤᠠ",
     "the published name list of successful candidates in an examination"
   ],
   "tuwabungga hooxan": [
-    "ᡨᡠᠸᠠᠪᡠᠨᡤᡤᠠ ᡥᠣᠣᡧᠠᠨ",
+    "ᡨᡠᠸᠠᠪᡠᠩᡤᠠ ᡥᠣᠣᡧᠠᠨ",
     "the paper on which examination results were written"
   ],
   "tuwabunjimbi": [
@@ -79372,7 +79372,7 @@ const dictionary = {
     "to watch together"
   ],
   "tuwakiyangga": [
-    "ᡨᡠᠸᠠᡴᡳᠶᠠᠨᡤᡤᠠ",
+    "ᡨᡠᠸᠠᡴᡳᠶᠠᠩᡤᠠ",
     "inspecting, supervising"
   ],
   "tuwakiyanjimbi": [
@@ -79424,7 +79424,7 @@ const dictionary = {
     "circumspect, prudent"
   ],
   "tuwamehangga": [
-    "ᡨᡠᠸᠠᠮᡝᡥᠠᠨᡤᡤᠠ",
+    "ᡨᡠᠸᠠᠮᡝᡥᠠᠩᡤᠠ",
     "nice to look at, attractive"
   ],
   "tuwamgiyabumbi": [
@@ -79484,23 +79484,23 @@ const dictionary = {
     "a punitive war, a just war against an unrighteous enemy"
   ],
   "tuwancihiyangga": [
-    "ᡨᡠᠸᠠᠨᠴᡳᡥᡳᠶᠠᠨᡤᡤᠠ",
+    "ᡨᡠᠸᠠᠨᠴᡳᡥᡳᠶᠠᠩᡤᠠ",
     "rectifying, cultivating"
   ],
   "tuwanggibumbi": [
-    "ᡨᡠᠸᠠᠨᡤᡤᡳᠪᡠᠮᠪᡳ",
+    "ᡨᡠᠸᠠᠩᡤᡳᠪᡠᠮᠪᡳ",
     "caus. of tuwanggimbi"
   ],
   "tuwanggimbi": [
-    "ᡨᡠᠸᠠᠨᡤᡤᡳᠮᠪᡳ",
+    "ᡨᡠᠸᠠᠩᡤᡳᠮᠪᡳ",
     "to send to look, to send to examine"
   ],
   "tuwanggiyakv": [
-    "ᡨᡠᠸᠠᠨᡤᡤᡳᠶᠠᡴᡡ",
+    "ᡨᡠᠸᠠᠩᡤᡳᠶᠠᡴᡡ",
     "inspector"
   ],
   "tuwanggiyambi": [
-    "ᡨᡠᠸᠠᠨᡤᡤᡳᠶᠠᠮᠪᡳ",
+    "ᡨᡠᠸᠠᠩᡤᡳᠶᠠᠮᠪᡳ",
     "to inspect, to look over"
   ],
   "tuwanjimbi": [
@@ -79528,7 +79528,7 @@ const dictionary = {
     "an honorary title of the eighth degree"
   ],
   "tuwaxara hafan i jergi janggin bh 97e,": [
-    "ᡨᡠᠸᠠᡧᠠᡵᠠ ᡥᠠᡶᠠᠨ ᡳ ᠵᡝᡵᡤᡳ ᠵᠠᠨᡤᡤᡳᠨ ᠪᡥ 97ᡝ᠈",
+    "ᡨᡠᠸᠠᡧᠠᡵᠠ ᡥᠠᡶᠠᠨ ᡳ ᠵᡝᡵᡤᡳ ᠵᠠᠩᡤᡳᠨ ᠪᡥ 97ᡝ᠈",
     "Captain, 746, 748"
   ],
   "tuwaxatabumbi": [
@@ -79608,7 +79608,7 @@ const dictionary = {
     "drill for making holes in metal"
   ],
   "tuyeku yonggan": [
-    "ᡨᡠᠶᡝᡴᡠ ᠶᠣᠨᡤᡤᠠᠨ",
+    "ᡨᡠᠶᡝᡴᡠ ᠶᠣᠩᡤᠠᠨ",
     "impure ammonia salts"
   ],
   "tuyembi": [
@@ -79640,7 +79640,7 @@ const dictionary = {
     "a type of steamed millet cake"
   ],
   "qai fung": [
-    "qᠠᡳ ᡶᡠᠨᡤ",
+    "qᠠᡳ ᡶᡠᠩ",
     "tailor"
   ],
   "qai xen enduri": [
@@ -79652,7 +79652,7 @@ const dictionary = {
     "festoon of colored thread or paper"
   ],
   "qaifung": [
-    "qᠠᡳᡶᡠᠨᡤ",
+    "qᠠᡳᡶᡠᠩ",
     "see tsai Jung"
   ],
   "qandan": [
@@ -79660,15 +79660,15 @@ const dictionary = {
     "advisor, consultant"
   ],
   "qang": [
-    "qᠠᠨᡤ",
+    "qᠠᠩ",
     "1. granary 2. cabin on a boat"
   ],
   "qanjeng": [
-    "qᠠᠨᠵᡝᠨᡤ",
+    "qᠠᠨᠵᡝᠩ",
     "councillor to a provincial treasurer, see aliha ha fan"
   ],
   "qanjiyang": [
-    "qᠠᠨᠵᡳᠶᠠᠨᡤ",
+    "qᠠᠨᠵᡳᠶᠠᠩ",
     "Lieutenant Colonel; cf. adaha kadalara da"
   ],
   "qoo ba dalan": [
@@ -79712,7 +79712,7 @@ const dictionary = {
     "wailing, howling"
   ],
   "u tung moo": [
-    "ᡠ ᡨᡠᠨᡤ ᠮᠣᠣ",
+    "ᡠ ᡨᡠᠩ ᠮᠣᠣ",
     "Chinese parasol tree (Firmiana simplex)"
   ],
   "u u": [
@@ -79740,7 +79740,7 @@ const dictionary = {
     "what is wrong here?"
   ],
   "ubaingge": [
-    "ᡠᠪᠠᡳᠨᡤᡤᡝ",
+    "ᡠᠪᠠᡳᠩᡤᡝ",
     "that which belongs here, one who is from here"
   ],
   "ubaka tubaka seme": [
@@ -79848,7 +79848,7 @@ const dictionary = {
     "many times more, manifold"
   ],
   "ubungge": [
-    "ᡠᠪᡠᠨᡤᡤᡝ",
+    "ᡠᠪᡠᠩᡤᡝ",
     "pertaining to portions or shares"
   ],
   "uca": [
@@ -80024,7 +80024,7 @@ const dictionary = {
     "fig"
   ],
   "udunggeri": [
-    "ᡠᡩᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡠᡩᡠᠩᡤᡝᡵᡳ",
     "how many times"
   ],
   "udursu": [
@@ -80124,11 +80124,11 @@ const dictionary = {
     "1. to form a soft, porous core 2. to form a red, porous appearance on the face"
   ],
   "ugingge coko": [
-    "ᡠᡤᡳᠨᡤᡤᡝ ᠴᠣᡴᠣ",
+    "ᡠᡤᡳᠩᡤᡝ ᠴᠣᡴᠣ",
     "one name for the chicken; cf. ikiri coko"
   ],
   "ugung": [
-    "ᡠᡤᡠᠨᡤ",
+    "ᡠᡤᡠᠩ",
     "centipede"
   ],
   "uhala": [
@@ -80192,11 +80192,11 @@ const dictionary = {
     "office of the director, etc."
   ],
   "uheri dangse asarara kunggeri": [
-    "ᡠᡥᡝᡵᡳ ᡩᠠᠨᡤᠰᡝ ᠠᠰᠠᡵᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡠᡥᡝᡵᡳ ᡩᠠᠩᠰᡝ ᠠᠰᠠᡵᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "the central chancery of the Board of War"
   ],
   "uheri dangse boo": [
-    "ᡠᡥᡝᡵᡳ ᡩᠠᠨᡤᠰᡝ ᠪᠣᠣ",
+    "ᡠᡥᡝᡵᡳ ᡩᠠᠩᠰᡝ ᠪᠣᠣ",
     "archives at the western and eastern imperial tombs"
   ],
   "uheri iktambure calu": [
@@ -80220,7 +80220,7 @@ const dictionary = {
     "office charged with compilation of the uheri kooli bithe"
   ],
   "uheri kunggeri": [
-    "ᡠᡥᡝᡵᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡠᡥᡝᡵᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "central chancellery"
   ],
   "uheri saraci": [
@@ -80232,7 +80232,7 @@ const dictionary = {
     "general name, general designation"
   ],
   "uheri tusangga calu": [
-    "ᡠᡥᡝᡵᡳ ᡨᡠᠰᠠᠨᡤᡤᠠ ᠴᠠᠯᡠ",
+    "ᡠᡥᡝᡵᡳ ᡨᡠᠰᠠᠩᡤᠠ ᠴᠠᠯᡠ",
     "the name of granaries of the Board of Finance in Mukden and Canton"
   ],
   "uheri tuwame simnere hafan": [
@@ -80288,7 +80288,7 @@ const dictionary = {
     "1. soft, weak 2. gentle"
   ],
   "uhuken tuwabungga hooxan": [
-    "ᡠᡥᡠᡴᡝᠨ ᡨᡠᠸᠠᠪᡠᠨᡤᡤᠠ ᡥᠣᠣᡧᠠᠨ",
+    "ᡠᡥᡠᡴᡝᠨ ᡨᡠᠸᠠᠪᡠᠩᡤᠠ ᡥᠣᠣᡧᠠᠨ",
     "white announcement paper"
   ],
   "uhumbi": [
@@ -80316,7 +80316,7 @@ const dictionary = {
     "packer, bundler--a man who puts rice into bundles at a granary"
   ],
   "uhungge hooxan": [
-    "ᡠᡥᡠᠨᡤᡤᡝ ᡥᠣᠣᡧᠠᠨ",
+    "ᡠᡥᡠᠩᡤᡝ ᡥᠣᠣᡧᠠᠨ",
     "wrapping paper"
   ],
   "uhutu": [
@@ -80364,7 +80364,7 @@ const dictionary = {
     "to nail on the horn facing of a bow"
   ],
   "uihengge": [
-    "ᡠᡳᡥᡝᠨᡤᡤᡝ",
+    "ᡠᡳᡥᡝᠩᡤᡝ",
     "horned, having horns"
   ],
   "uiherin": [
@@ -80376,7 +80376,7 @@ const dictionary = {
     "a fabulous piglike beast with one horn on its nose that can walk ten thousand miles in one day and can understand the language of the barbarians"
   ],
   "uihetongge kiru": [
-    "ᡠᡳᡥᡝᡨᠣᠨᡤᡤᡝ ᡴᡳᡵᡠ",
+    "ᡠᡳᡥᡝᡨᠣᠩᡤᡝ ᡴᡳᡵᡠ",
     "a banner of the imperial escort depicting the figure of a horn"
   ],
   "uile": [
@@ -80440,7 +80440,7 @@ const dictionary = {
     "a banner general of the Chinese troops"
   ],
   "ujen jingji": [
-    "ᡠᠵᡝᠨ ᠵᡳᠨᡤᠵᡳ",
+    "ᡠᠵᡝᠨ ᠵᡳᠩᠵᡳ",
     "heavy and firm"
   ],
   "ujibumbi": [
@@ -80516,11 +80516,11 @@ const dictionary = {
     "to raise together, to nurture together"
   ],
   "ujingga niongniyaha": [
-    "ᡠᠵᡳᠨᡤᡤᠠ ᠨᡳᠣᠨᡤᠨᡳᠶᠠᡥᠠ",
+    "ᡠᠵᡳᠩᡤᠠ ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ",
     "one name for the goose; cf. niongniyaha"
   ],
   "ujingga niyehe": [
-    "ᡠᠵᡳᠨᡤᡤᠠ ᠨᡳᠶᡝᡥᡝ",
+    "ᡠᠵᡳᠩᡤᠠ ᠨᡳᠶᡝᡥᡝ",
     "one name for the duck"
   ],
   "ujirhi": [
@@ -80568,7 +80568,7 @@ const dictionary = {
     "attendant of the first class"
   ],
   "uju jergi unenggi hehe": [
-    "ᡠᠵᡠ ᠵᡝᡵᡤᡳ ᡠᠨᡝᠨᡤᡤᡳ ᡥᡝᡥᡝ",
+    "ᡠᠵᡠ ᠵᡝᡵᡤᡳ ᡠᠨᡝᠩᡤᡳ ᡥᡝᡥᡝ",
     "the wife of an official of the first rank"
   ],
   "uju liyeliyembi": [
@@ -80584,7 +80584,7 @@ const dictionary = {
     "the chin of edible animals"
   ],
   "uju tengkibumbi": [
-    "ᡠᠵᡠ ᡨᡝᠨᡤᡴᡳᠪᡠᠮᠪᡳ",
+    "ᡠᠵᡠ ᡨᡝᠩᡴᡳᠪᡠᠮᠪᡳ",
     "to let the head hang"
   ],
   "uju tuwancihiyakv": [
@@ -80620,19 +80620,19 @@ const dictionary = {
     "chief minister"
   ],
   "ujungga": [
-    "ᡠᠵᡠᠨᡤᡤᠠ",
+    "ᡠᠵᡠᠩᡤᠠ",
     "first, leading"
   ],
   "ujungga dangga": [
-    "ᡠᠵᡠᠨᡤᡤᠠ ᡩᠠᠨᡤᡤᠠ",
+    "ᡠᠵᡠᠩᡤᠠ ᡩᠠᠩᡤᠠ",
     "leader, headman"
   ],
   "ujungga jui": [
-    "ᡠᠵᡠᠨᡤᡤᠠ ᠵᡠᡳ",
+    "ᡠᠵᡠᠩᡤᠠ ᠵᡠᡳ",
     "first son"
   ],
   "ujungge": [
-    "ᡠᠵᡠᠨᡤᡤᡝ",
+    "ᡠᠵᡠᠩᡤᡝ",
     "the first one"
   ],
   "ukacambi": [
@@ -80764,7 +80764,7 @@ const dictionary = {
     "1. armor 2. a soldier wearing armor"
   ],
   "uksingga": [
-    "ᡠᡴᠰᡳᠨᡤᡤᠠ",
+    "ᡠᡴᠰᡳᠩᡤᠠ",
     "wearing armor, armored"
   ],
   "uksun": [
@@ -80784,7 +80784,7 @@ const dictionary = {
     "imperial clan school"
   ],
   "uksungga": [
-    "ᡠᡴᠰᡠᠨᡤᡤᠠ",
+    "ᡠᡴᠰᡠᠩᡤᠠ",
     "consisting of many kin, having many relations"
   ],
   "uksura": [
@@ -80888,7 +80888,7 @@ const dictionary = {
     "to hand down, to pass on, to hand on, to pass to"
   ],
   "ulame benere kunggeri": [
-    "ᡠᠯᠠᠮᡝ ᠪᡝᠨᡝᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡠᠯᠠᠮᡝ ᠪᡝᠨᡝᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "transmission office of tie Board of War"
   ],
   "ulame sarkiyaha bithe": [
@@ -80928,7 +80928,7 @@ const dictionary = {
     "to hand down from one person to another, to pass on from one person to another"
   ],
   "ulandume juwere falgangga": [
-    "ᡠᠯᠠᠨᡩᡠᠮᡝ ᠵᡠᠸᡝᡵᡝ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ",
+    "ᡠᠯᠠᠨᡩᡠᠮᡝ ᠵᡠᠸᡝᡵᡝ ᡶᠠᠯᡤᠠᠩᡤᠠ",
     "freight transfer point on a river or canal"
   ],
   "ulandusi bh": [
@@ -80936,11 +80936,11 @@ const dictionary = {
     "Superintendent of a Military Post, 435"
   ],
   "ulandusi tinggin": [
-    "ᡠᠯᠠᠨᡩᡠᠰᡳ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᡠᠯᠠᠨᡩᡠᠰᡳ ᡨᡳᠩᡤᡳᠨ",
     "office of a ulandusi"
   ],
   "ulangga kiru": [
-    "ᡠᠯᠠᠨᡤᡤᠠ ᡴᡳᡵᡠ",
+    "ᡠᠯᠠᠩᡤᠠ ᡴᡳᡵᡠ",
     "a banner of the imperial escort with waves of the Yangtze depicted on it"
   ],
   "ulbimbi": [
@@ -80972,11 +80972,11 @@ const dictionary = {
     "light, rays (of the sun)"
   ],
   "uldengge": [
-    "ᡠᠯᡩᡝᠨᡤᡤᡝ",
+    "ᡠᠯᡩᡝᠩᡤᡝ",
     "shining, lit up"
   ],
   "uldengge usiha": [
-    "ᡠᠯᡩᡝᠨᡤᡤᡝ ᡠᠰᡳᡥᠠ",
+    "ᡠᠯᡩᡝᠩᡤᡝ ᡠᠰᡳᡥᠠ",
     "a bright star of good foreboding"
   ],
   "ulderhen": [
@@ -81020,7 +81020,7 @@ const dictionary = {
     "irrigation ditch, small ditch between fields"
   ],
   "ulenggu": [
-    "ᡠᠯᡝᠨᡤᡤᡠ",
+    "ᡠᠯᡝᠩᡤᡠ",
     "1. navel 2. large bead at the end of a rosary"
   ],
   "uleri": [
@@ -81076,7 +81076,7 @@ const dictionary = {
     "kingfisher (Alcedo atthis)"
   ],
   "ulgiyan manggisu": [
-    "ᡠᠯᡤᡳᠶᠠᠨ ᠮᠠᠨᡤᡤᡳᠰᡠ",
+    "ᡠᠯᡤᡳᠶᠠᠨ ᠮᠠᠩᡤᡳᠰᡠ",
     "one name for the badger; cf. dorgon"
   ],
   "ulgiyan orho": [
@@ -81088,11 +81088,11 @@ const dictionary = {
     "to hunt pigs in winter"
   ],
   "ulgiyangga": [
-    "ᡠᠯᡤᡳᠶᠠᠨᡤᡤᠠ",
+    "ᡠᠯᡤᡳᠶᠠᠩᡤᠠ",
     "pertaining to the twelfth cyclical sign, pertaining to the pig"
   ],
   "ulgiyangga aniya": [
-    "ᡠᠯᡤᡳᠶᠠᠨᡤᡤᠠ ᠠᠨᡳᠶᠠ",
+    "ᡠᠯᡤᡳᠶᠠᠩᡤᠠ ᠠᠨᡳᠶᠠ",
     "the year of the pig"
   ],
   "ulgiyari cecike": [
@@ -81140,7 +81140,7 @@ const dictionary = {
     "proclamation, announcement"
   ],
   "ulhibure fungnehen": [
-    "ᡠᠯᡥᡳᠪᡠᡵᡝ ᡶᡠᠨᡤᠨᡝᡥᡝᠨ",
+    "ᡠᠯᡥᡳᠪᡠᡵᡝ ᡶᡠᠩᠨᡝᡥᡝᠨ",
     "a letter of appointment for an official position of the fifth rank and above"
   ],
   "ulhibure hese": [
@@ -81160,7 +81160,7 @@ const dictionary = {
     "understanding, insight, knowledge"
   ],
   "ulhicungga": [
-    "ᡠᠯᡥᡳᠴᡠᠨᡤᡤᠠ",
+    "ᡠᠯᡥᡳᠴᡠᠩᡤᠠ",
     "possessing understanding or insight"
   ],
   "ulhilembi": [
@@ -81172,11 +81172,11 @@ const dictionary = {
     "to understand, to comprehend"
   ],
   "ulhingge": [
-    "ᡠᠯᡥᡳᠨᡤᡤᡝ",
+    "ᡠᠯᡥᡳᠩᡤᡝ",
     "understanding, comprehending"
   ],
   "ulhingge akv": [
-    "ᡠᠯᡥᡳᠨᡤᡤᡝ ᠠᡴᡡ",
+    "ᡠᠯᡥᡳᠩᡤᡝ ᠠᡴᡡ",
     "lacking in understanding"
   ],
   "ulhinjembi": [
@@ -81232,11 +81232,11 @@ const dictionary = {
     "the name of a plant the fine stems of which are used to make baskets and bird traps"
   ],
   "ulhvma uncehengge xun dalikv": [
-    "ᡠᠯᡥᡡᠮᠠ ᡠᠨᠴᡝᡥᡝᠨᡤᡤᡝ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
+    "ᡠᠯᡥᡡᠮᠠ ᡠᠨᠴᡝᡥᡝᠩᡤᡝ ᡧᡠᠨ ᡩᠠᠯᡳᡴᡡ",
     "a parasol of the imperial escort decorated with pheasant's tail feathers"
   ],
   "ulhvmangga": [
-    "ᡠᠯᡥᡡᠮᠠᠨᡤᡤᠠ",
+    "ᡠᠯᡥᡡᠮᠠᠩᡤᠠ",
     "decorated with pheasant designs"
   ],
   "ulhvri gvwara": [
@@ -81328,7 +81328,7 @@ const dictionary = {
     "one name for the partridge; cf. jukidun"
   ],
   "ulku giranggi": [
-    "ᡠᠯᡴᡠ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡠᠯᡴᡠ ᡤᡳᡵᠠᠩᡤᡳ",
     "collarbone, clavicle"
   ],
   "ulkume": [
@@ -81500,7 +81500,7 @@ const dictionary = {
     "to lay eggs"
   ],
   "umgan giranggi": [
-    "ᡠᠮᡤᠠᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡠᠮᡤᠠᠨ ᡤᡳᡵᠠᠩᡤᡳ",
     "thighbone, femur"
   ],
   "umgan xugi": [
@@ -81516,7 +81516,7 @@ const dictionary = {
     "cake (made with eggs)"
   ],
   "umhan haksangga efen": [
-    "ᡠᠮᡥᠠᠨ ᡥᠠᡴᠰᠠᠨᡤᡤᠠ ᡝᡶᡝᠨ",
+    "ᡠᠮᡥᠠᠨ ᡥᠠᡴᠰᠠᠩᡤᠠ ᡝᡶᡝᠨ",
     "baked cakes made from wheat flour, eggs, and sugar"
   ],
   "umhanambi": [
@@ -81524,7 +81524,7 @@ const dictionary = {
     "to lay eggs, to form eggs"
   ],
   "umhangga tubihe": [
-    "ᡠᠮᡥᠠᠨᡤᡤᠠ ᡨᡠᠪᡳᡥᡝ",
+    "ᡠᠮᡥᠠᠩᡤᠠ ᡨᡠᠪᡳᡥᡝ",
     "'egg fruit'--a plant that grows wild, blooms in the second month, and has mature fruit in the eighth"
   ],
   "umiyaha": [
@@ -81544,7 +81544,7 @@ const dictionary = {
     "to get worms (of fruit)."
   ],
   "umiyahangga fukjingga hergen": [
-    "ᡠᠮᡳᠶᠠᡥᠠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᡠᠮᡳᠶᠠᡥᠠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "the name of a style of Chinese calligraphy"
   ],
   "umiyelebumbi": [
@@ -81664,7 +81664,7 @@ const dictionary = {
     "a sudden short shower"
   ],
   "uncehen giranggi": [
-    "ᡠᠨᠴᡝᡥᡝᠨ ᡤᡳᡵᠠᠨᡤᡤᡳ",
+    "ᡠᠨᠴᡝᡥᡝᠨ ᡤᡳᡵᠠᠩᡤᡳ",
     "tail bone"
   ],
   "uncehen golmin buhv": [
@@ -81680,7 +81680,7 @@ const dictionary = {
     "the base of the tail"
   ],
   "uncehen xolonggo alhacan niyehe": [
-    "ᡠᠨᠴᡝᡥᡝᠨ ᡧᠣᠯᠣᠨᡤᡤᠣ ᠠᠯᡥᠠᠴᠠᠨ ᠨᡳᠶᡝᡥᡝ",
+    "ᡠᠨᠴᡝᡥᡝᠨ ᡧᠣᠯᠣᠩᡤᠣ ᠠᠯᡥᠠᠴᠠᠨ ᠨᡳᠶᡝᡥᡝ",
     "the name of a speckled duck with a pointed tail"
   ],
   "uncehen tuwancihiyakv": [
@@ -81764,23 +81764,23 @@ const dictionary = {
     "a type of red Indian silk with golden designs on it that was brought as tribute from Hami"
   ],
   "unenggi": [
-    "ᡠᠨᡝᠨᡤᡤᡳ",
+    "ᡠᠨᡝᠩᡤᡳ",
     "1. truly, really, honestly 2. true, honest, genuine"
   ],
   "unenggi hehe": [
-    "ᡠᠨᡝᠨᡤᡤᡳ ᡥᡝᡥᡝ",
+    "ᡠᠨᡝᠩᡤᡳ ᡥᡝᡥᡝ",
     "title of a wife of an official of the second rank"
   ],
   "unenggi yalanggi": [
-    "ᡠᠨᡝᠨᡤᡤᡳ ᠶᠠᠯᠠᠨᡤᡤᡳ",
+    "ᡠᠨᡝᠩᡤᡳ ᠶᠠᠯᠠᠩᡤᡳ",
     "true and genuine"
   ],
   "unenggilembi": [
-    "ᡠᠨᡝᠨᡤᡤᡳᠯᡝᠮᠪᡳ",
+    "ᡠᠨᡝᠩᡤᡳᠯᡝᠮᠪᡳ",
     "1. to deem true, to treat as genuine 2. to be true, to be genuine"
   ],
   "unenggingge": [
-    "ᡠᠨᡝᠨᡤᡤᡳᠨᡤᡤᡝ",
+    "ᡠᠨᡝᠩᡤᡳᠩᡤᡝ",
     "that which is true, genuine"
   ],
   "unesi": [
@@ -81788,119 +81788,119 @@ const dictionary = {
     "objects handed down for several generations in a family, heirloom"
   ],
   "ung": [
-    "ᡠᠨᡤ",
+    "ᡠᠩ",
     "(onom.) the sound of a bell"
   ],
   "ung ang": [
-    "ᡠᠨᡤ ᠠᠨᡤ",
+    "ᡠᠩ ᠠᠩ",
     "(onom.) sound made by deer and cattle"
   ],
   "ung wang": [
-    "ᡠᠨᡤ ᠸᠠᠨᡤ",
+    "ᡠᠩ ᠸᠠᠩ",
     "(onom.) a nasal sound"
   ],
   "ungga": [
-    "ᡠᠨᡤᡤᠠ",
+    "ᡠᠩᡤᠠ",
     "elder generation, elders"
   ],
   "ungga dangga": [
-    "ᡠᠨᡤᡤᠠ ᡩᠠᠨᡤᡤᠠ",
+    "ᡠᠩᡤᠠ ᡩᠠᠩᡤᠠ",
     "elders, the older generation"
   ],
   "unggala": [
-    "ᡠᠨᡤᡤᠠᠯᠠ",
+    "ᡠᠩᡤᠠᠯᠠ",
     "1. flash vent of a musket, hole, cavity 2. cavity of the ear, hole in a tree"
   ],
   "unggala i ulenggu": [
-    "ᡠᠨᡤᡤᠠᠯᠠ ᡳ ᡠᠯᡝᠨᡤᡤᡠ",
+    "ᡠᠩᡤᠠᠯᠠ ᡳ ᡠᠯᡝᠩᡤᡠ",
     "the part of a musket that holds the powder, flash vent"
   ],
   "unggalambi": [
-    "ᡠᠨᡤᡤᠠᠯᠠᠮᠪᡳ",
+    "ᡠᠩᡤᠠᠯᠠᠮᠪᡳ",
     "to respect (one's elders), treat as an elder"
   ],
   "unggalangga moo": [
-    "ᡠᠨᡤᡤᠠᠯᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᡠᠩᡤᠠᠯᠠᠩᡤᠠ ᠮᠣᠣ",
     "a wooden clapper"
   ],
   "unggan": [
-    "ᡠᠨᡤᡤᠠᠨ",
+    "ᡠᠩᡤᠠᠨ",
     "see ungga"
   ],
   "ungganumbi": [
-    "ᡠᠨᡤᡤᠠᠨᡠᠮᠪᡳ",
+    "ᡠᠩᡤᠠᠨᡠᠮᠪᡳ",
     "to treat as an elder, to respect (as an elder)"
   ],
   "unggaxambi": [
-    "ᡠᠨᡤᡤᠠᡧᠠᠮᠪᡳ",
+    "ᡠᠩᡤᠠᡧᠠᠮᠪᡳ",
     "to revere (one's elders)"
   ],
   "unggata": [
-    "ᡠᠨᡤᡤᠠᡨᠠ",
+    "ᡠᠩᡤᠠᡨᠠ",
     "plural of ungga"
   ],
   "ungge": [
-    "ᡠᠨᡤᡤᡝ",
+    "ᡠᠩᡤᡝ",
     "a type of very fine, small wild onion"
   ],
   "unggibumbi": [
-    "ᡠᠨᡤᡤᡳᠪᡠᠮᠪᡳ",
+    "ᡠᠩᡤᡳᠪᡠᠮᠪᡳ",
     "caus. of unggimbi"
   ],
   "unggilakv": [
-    "ᡠᠨᡤᡤᡳᠯᠠᡴᡡ",
+    "ᡠᠩᡤᡳᠯᠠᡴᡡ",
     "the covering of a pig's kidney"
   ],
   "unggiljembi": [
-    "ᡠᠨᡤᡤᡳᠯᠵᡝᠮᠪᡳ",
+    "ᡠᠩᡤᡳᠯᠵᡝᠮᠪᡳ",
     "to wag"
   ],
   "unggimbi": [
-    "ᡠᠨᡤᡤᡳᠮᠪᡳ",
+    "ᡠᠩᡤᡳᠮᠪᡳ",
     "to send, to dispatch, to send off"
   ],
   "unggin": [
-    "ᡠᠨᡤᡤᡳᠨ",
+    "ᡠᠩᡤᡳᠨ",
     "the hole in a spade, hammer, or axhead used for attaching the handle"
   ],
   "unggidumbi": [
-    "ᡠᠨᡤᡤᡳᡩᡠᠮᠪᡳ",
+    "ᡠᠩᡤᡳᡩᡠᠮᠪᡳ",
     "to send together, to dispatch together"
   ],
   "unggu": [
-    "ᡠᠨᡤᡤᡠ",
+    "ᡠᠩᡤᡠ",
     "1. first, original 2. the first player at the gacuha game"
   ],
   "unggu ging": [
-    "ᡠᠨᡤᡤᡠ ᡤᡳᠨᡤ",
+    "ᡠᠩᡤᡠ ᡤᡳᠩ",
     "the first watch (of the night)"
   ],
   "unggu mafa": [
-    "ᡠᠨᡤᡤᡠ ᠮᠠᡶᠠ",
+    "ᡠᠩᡤᡠ ᠮᠠᡶᠠ",
     "great-grandfather (paternal)"
   ],
   "unggu mama": [
-    "ᡠᠨᡤᡤᡠ ᠮᠠᠮᠠ",
+    "ᡠᠩᡤᡠ ᠮᠠᠮᠠ",
     "great-grandmother (paternal)"
   ],
   "ungkan": [
-    "ᡠᠨᡤᡴᠠᠨ",
+    "ᡠᠩᡴᠠᠨ",
     "frozen snow on the top of grass"
   ],
   "ungkebumbi": [
-    "ᡠᠨᡤᡴᡝᠪᡠᠮᠪᡳ",
+    "ᡠᠩᡴᡝᠪᡠᠮᠪᡳ",
     "caus. of ungkembi"
   ],
   "ungkembi": [
-    "ᡠᠨᡤᡴᡝᠮᠪᡳ",
+    "ᡠᠩᡴᡝᠮᠪᡳ",
     "1. to turn over, to tip over to turn one's cup upside down to show that one has drained it completely"
   ],
   "ungken ilha": [
-    "ᡠᠨᡤᡴᡝᠨ ᡳᠯᡥᠠ",
+    "ᡠᠩᡴᡝᠨ ᡳᠯᡥᠠ",
     "the name of a flower that resembles an overturned cup"
   ],
   "ungkeshvn": [
-    "ᡠᠨᡤᡴᡝᠰᡥᡡᠨ",
+    "ᡠᠩᡴᡝᠰᡥᡡᠨ",
     "tipped over, awry"
   ],
   "uni nimaha": [
@@ -81960,7 +81960,7 @@ const dictionary = {
     "in wrestling, to grasp an opponent by the shoulders and fling him from side to side"
   ],
   "untuhun anggai niyalma": [
-    "ᡠᠨᡨᡠᡥᡠᠨ ᠠᠨᡤᡤᠠᡳ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᡠᠨᡨᡠᡥᡠᠨ ᠠᠩᡤᠠᡳ ᠨᡳᠶᠠᠯᠮᠠ",
     "idle prattler"
   ],
   "untuhun de": [
@@ -82072,7 +82072,7 @@ const dictionary = {
     "to reverberate, to re-echo, peal"
   ],
   "urangga moo": [
-    "ᡠᡵᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᡠᡵᠠᠩᡤᠠ ᠮᠣᠣ",
     "Chinese parasol tree (Firmiana simplex)"
   ],
   "urdebumbi": [
@@ -82164,7 +82164,7 @@ const dictionary = {
     "congratulations"
   ],
   "urgun i doroi hengkilembi": [
-    "ᡠᡵᡤᡠᠨ ᡳ ᡩᠣᡵᠣᡳ ᡥᡝᠨᡤᡴᡳᠯᡝᠮᠪᡳ",
+    "ᡠᡵᡤᡠᠨ ᡳ ᡩᠣᡵᠣᡳ ᡥᡝᠩᡴᡳᠯᡝᠮᠪᡳ",
     "to congratulate (by kowtowing)"
   ],
   "urgun i sarin": [
@@ -82176,23 +82176,23 @@ const dictionary = {
     "joy and pleasure"
   ],
   "urgun xanggaha dengjan": [
-    "ᡠᡵᡤᡠᠨ ᡧᠠᠨᡤᡤᠠᡥᠠ ᡩᡝᠨᡤᠵᠠᠨ",
+    "ᡠᡵᡤᡠᠨ ᡧᠠᠩᡤᠠᡥᠠ ᡩᡝᠩᠵᠠᠨ",
     "lanterns used at court to celebrate New Year's"
   ],
   "urgungga": [
-    "ᡠᡵᡤᡠᠨᡤᡤᠠ",
+    "ᡠᡵᡤᡠᠩᡤᠠ",
     "blessed, fortunate"
   ],
   "urgungge": [
-    "ᡠᡵᡤᡠᠨᡤᡤᡝ",
+    "ᡠᡵᡤᡠᠩᡤᡝ",
     "joyous"
   ],
   "urgungge abka": [
-    "ᡠᡵᡤᡠᠨᡤᡤᡝ ᠠᠪᡴᠠ",
+    "ᡠᡵᡤᡠᠩᡤᡝ ᠠᠪᡴᠠ",
     "Tusita heaven"
   ],
   "urgungge derengtu": [
-    "ᡠᡵᡤᡠᠨᡤᡤᡝ ᡩᡝᡵᡝᠨᡤᡨᡠ",
+    "ᡠᡵᡤᡠᠩᡤᡝ ᡩᡝᡵᡝᠩᡨᡠ",
     "a portrait"
   ],
   "urgunjebumbi": [
@@ -82308,15 +82308,15 @@ const dictionary = {
     "big noise, commotion, tumult, the sound made by horses before they stampede"
   ],
   "urkingga": [
-    "ᡠᡵᡴᡳᠨᡤᡤᠠ",
+    "ᡠᡵᡴᡳᠩᡤᠠ",
     "the same as urkingge"
   ],
   "urkingge": [
-    "ᡠᡵᡴᡳᠨᡤᡤᡝ",
+    "ᡠᡵᡴᡳᠩᡤᡝ",
     "noisy, tumultuous, mighty"
   ],
   "urkingge teixun": [
-    "ᡠᡵᡴᡳᠨᡤᡤᡝ ᡨᡝᡳᡧᡠᠨ",
+    "ᡠᡵᡴᡳᠩᡤᡝ ᡨᡝᡳᡧᡠᠨ",
     "a kind of brass out of which gongs were made"
   ],
   "urkuji": [
@@ -82356,7 +82356,7 @@ const dictionary = {
     "1. people, men, persons (plural of niyalma) 2. others, other people"
   ],
   "urseingge": [
-    "ᡠᡵᠰᡝᡳᠨᡤᡤᡝ",
+    "ᡠᡵᠰᡝᡳᠩᡤᡝ",
     "somebody else's"
   ],
   "ursu": [
@@ -82364,19 +82364,19 @@ const dictionary = {
     "layer, level, -fold"
   ],
   "ursungga": [
-    "ᡠᡵᠰᡠᠨᡤᡤᠠ",
+    "ᡠᡵᠰᡠᠩᡤᠠ",
     "consisting of layers"
   ],
   "ursungga hoseri": [
-    "ᡠᡵᠰᡠᠨᡤᡤᠠ ᡥᠣᠰᡝᡵᡳ",
+    "ᡠᡵᠰᡠᠩᡤᠠ ᡥᠣᠰᡝᡵᡳ",
     "five or ten boxes, one smaller than the next, placed one in another"
   ],
   "ursungga hvntahan": [
-    "ᡠᡵᠰᡠᠨᡤᡤᠠ ᡥᡡᠨᡨᠠᡥᠠᠨ",
+    "ᡠᡵᠰᡠᠩᡤᠠ ᡥᡡᠨᡨᠠᡥᠠᠨ",
     "cups, one smaller than the next, placed one in another"
   ],
   "ursungga polori": [
-    "ᡠᡵᠰᡠᠨᡤᡤᠠ ᡦᠣᠯᠣᡵᡳ",
+    "ᡠᡵᠰᡠᠩᡤᠠ ᡦᠣᠯᠣᡵᡳ",
     "baskets, one smaller than the next, placed one in another"
   ],
   "uru": [
@@ -82420,7 +82420,7 @@ const dictionary = {
     "to get married (of a man)"
   ],
   "urun hengkilembi": [
-    "ᡠᡵᡠᠨ ᡥᡝᠨᡤᡴᡳᠯᡝᠮᠪᡳ",
+    "ᡠᡵᡠᠨ ᡥᡝᠩᡴᡳᠯᡝᠮᠪᡳ",
     "to get engaged"
   ],
   "urunakv": [
@@ -82464,7 +82464,7 @@ const dictionary = {
     "sorrow, grief, sadness"
   ],
   "usacungga": [
-    "ᡠᠰᠠᠴᡠᠨᡤᡤᠠ",
+    "ᡠᠰᠠᠴᡠᠩᡤᠠ",
     "sorrowful, afflicted"
   ],
   "usambi": [
@@ -82536,7 +82536,7 @@ const dictionary = {
     "to go to plant seeds, to go to plant"
   ],
   "usengge": [
-    "ᡠᠰᡝᠨᡤᡤᡝ",
+    "ᡠᠰᡝᠩᡤᡝ",
     "seedlike, grainlike"
   ],
   "usenumbi": [
@@ -82624,15 +82624,15 @@ const dictionary = {
     "scrofula"
   ],
   "usihangga": [
-    "ᡠᠰᡳᡥᠠᠨᡤᡤᠠ",
+    "ᡠᠰᡳᡥᠠᠩᡤᠠ",
     "clairvoyant, prophet, sensitive (in a psychic way)"
   ],
   "usihangga gurgu": [
-    "ᡠᠰᡳᡥᠠᠨᡤᡤᠠ ᡤᡠᡵᡤᡠ",
+    "ᡠᠰᡳᡥᠠᠩᡤᠠ ᡤᡠᡵᡤᡠ",
     "sensitive animals-- tigers and wolves"
   ],
   "usihangga maitu": [
-    "ᡠᠰᡳᡥᠠᠨᡤᡤᠠ ᠮᠠᡳᡨᡠ",
+    "ᡠᠰᡳᡥᠠᠩᡤᠠ ᠮᠠᡳᡨᡠ",
     "a staff of the imperial escort topped by a carved wooden star"
   ],
   "usihibumbi": [
@@ -82668,7 +82668,7 @@ const dictionary = {
     "thick padded cotton armor"
   ],
   "usimangga": [
-    "ᡠᠰᡳᠮᠠᠨᡤᡤᠠ",
+    "ᡠᠰᡳᠮᠠᠩᡤᠠ",
     "1. skilled astrologer 2. under favorable astrological signs"
   ],
   "usin": [
@@ -82720,7 +82720,7 @@ const dictionary = {
     "fields (collectively)"
   ],
   "usingga": [
-    "ᡠᠰᡳᠨᡤᡤᠠ",
+    "ᡠᠰᡳᠩᡤᠠ",
     "alone, forlorn, orphaned"
   ],
   "usisi": [
@@ -82828,7 +82828,7 @@ const dictionary = {
     "to stitch the soles of cloth shoes"
   ],
   "uxengge": [
-    "ᡠᡧᡝᠨᡤᡤᡝ",
+    "ᡠᡧᡝᠩᡤᡝ",
     "tough, stringy"
   ],
   "uxiha": [
@@ -82912,7 +82912,7 @@ const dictionary = {
     "one name for the stork; cf. weijun"
   ],
   "utung": [
-    "ᡠᡨᡠᠨᡤ",
+    "ᡠᡨᡠᠩ",
     "see urangga moo"
   ],
   "uturi": [
@@ -82976,7 +82976,7 @@ const dictionary = {
     "to have a pain in the ligaments of the hand or feet"
   ],
   "uyaxangga jahvdai": [
-    "ᡠᠶᠠᡧᠠᠨᡤᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
+    "ᡠᠶᠠᡧᠠᠩᡤᠠ ᠵᠠᡥᡡᡩᠠᡳ",
     "the name of a small, long boat used on the Yangtze that was thought to resemble the loath"
   ],
   "uye": [
@@ -83028,15 +83028,15 @@ const dictionary = {
     "the nine philosophical schools"
   ],
   "uyun garudai mudangga fesin i suwayan suje sara": [
-    "ᡠᠶᡠᠨ ᡤᠠᡵᡠᡩᠠᡳ ᠮᡠᡩᠠᠨᡤᡤᠠ ᡶᡝᠰᡳᠨ ᡳ ᠰᡠᠸᠠᠶᠠᠨ ᠰᡠᠵᡝ ᠰᠠᡵᠠ",
+    "ᡠᠶᡠᠨ ᡤᠠᡵᡠᡩᠠᡳ ᠮᡠᡩᠠᠩᡤᠠ ᡶᡝᠰᡳᠨ ᡳ ᠰᡠᠸᠠᠶᠠᠨ ᠰᡠᠵᡝ ᠰᠠᡵᠠ",
     "a yellow parasol of the imperial escort with a crooked handle and nine phoenixes depicted on the cover"
   ],
   "uyun garudangga tumin lamun suje sara": [
-    "ᡠᠶᡠᠨ ᡤᠠᡵᡠᡩᠠᠨᡤᡤᠠ ᡨᡠᠮᡳᠨ ᠯᠠᠮᡠᠨ ᠰᡠᠵᡝ ᠰᠠᡵᠠ",
+    "ᡠᠶᡠᠨ ᡤᠠᡵᡠᡩᠠᠩᡤᠠ ᡨᡠᠮᡳᠨ ᠯᠠᠮᡠᠨ ᠰᡠᠵᡝ ᠰᠠᡵᠠ",
     "a blue parasol of the imperial escort with nine phoenixes depicted on it"
   ],
   "uyun hengkin": [
-    "ᡠᠶᡠᠨ ᡥᡝᠨᡤᡴᡳᠨ",
+    "ᡠᠶᡠᠨ ᡥᡝᠩᡴᡳᠨ",
     "nine kowtows (three genuflections with three kowtows per genuflection)"
   ],
   "uyun jafambi": [
@@ -83048,7 +83048,7 @@ const dictionary = {
     "deep place in a body of water"
   ],
   "uyun mudangga jijun": [
-    "ᡠᠶᡠᠨ ᠮᡠᡩᠠᠨᡤᡤᠠ ᠵᡳᠵᡠᠨ",
+    "ᡠᠶᡠᠨ ᠮᡠᡩᠠᠩᡤᠠ ᠵᡳᠵᡠᠨ",
     "the name of a style of seal writing (in Chinese calligraphy)"
   ],
   "uyun muduri duin garudai mahatun": [
@@ -83056,11 +83056,11 @@ const dictionary = {
     "the name of a hat worn by emperors in antiquity with nine dragons, four phoenixes, and a string of pearls attached to it"
   ],
   "uyun muduri mudangga fesin i suwayan sara": [
-    "ᡠᠶᡠᠨ ᠮᡠᡩᡠᡵᡳ ᠮᡠᡩᠠᠨᡤᡤᠠ ᡶᡝᠰᡳᠨ ᡳ ᠰᡠᠸᠠᠶᠠᠨ ᠰᠠᡵᠠ",
+    "ᡠᠶᡠᠨ ᠮᡠᡩᡠᡵᡳ ᠮᡠᡩᠠᠩᡤᠠ ᡶᡝᠰᡳᠨ ᡳ ᠰᡠᠸᠠᠶᠠᠨ ᠰᠠᡵᠠ",
     "the name of a yellow parasol of the imperial escort with a crooked handle and nine dragons depicted on it"
   ],
   "uyun muduringga suwayan sara": [
-    "ᡠᠶᡠᠨ ᠮᡠᡩᡠᡵᡳᠨᡤᡤᠠ ᠰᡠᠸᠠᠶᠠᠨ ᠰᠠᡵᠠ",
+    "ᡠᠶᡠᠨ ᠮᡠᡩᡠᡵᡳᠩᡤᠠ ᠰᡠᠸᠠᠶᠠᠨ ᠰᠠᡵᠠ",
     "a yellow parasol of the imperial escort with nine dragons depicted on it"
   ],
   "uyun saitu": [
@@ -83068,7 +83068,7 @@ const dictionary = {
     "the nine ministers (the heads of the six boards plus the heads of the Censorate, the Court of Judicature and Revision, and the Transmission Office)"
   ],
   "uyun sihangga sunta": [
-    "ᡠᠶᡠᠨ ᠰᡳᡥᠠᠨᡤᡤᠠ ᠰᡠᠨᡨᠠ",
+    "ᡠᠶᡠᠨ ᠰᡳᡥᠠᠩᡤᠠ ᠰᡠᠨᡨᠠ",
     "a cartridge pouch for nine cartridges"
   ],
   "uyun tuhebuku i mahatu": [
@@ -83076,23 +83076,23 @@ const dictionary = {
     "a ceremonial hat of antiquity with nine tassels"
   ],
   "uyun uncehengge dobi": [
-    "ᡠᠶᡠᠨ ᡠᠨᠴᡝᡥᡝᠨᡤᡤᡝ ᡩᠣᠪᡳ",
+    "ᡠᠶᡠᠨ ᡠᠨᠴᡝᡥᡝᠩᡤᡝ ᡩᠣᠪᡳ",
     "a nine-tailed fox"
   ],
   "uyungge": [
-    "ᡠᠶᡠᠨᡤᡤᡝ",
+    "ᡠᠶᡠᠩᡤᡝ",
     "pertaining to the ninth day of the ninth month (a festival)"
   ],
   "uyungge efen": [
-    "ᡠᠶᡠᠨᡤᡤᡝ ᡝᡶᡝᠨ",
+    "ᡠᠶᡠᠩᡤᡝ ᡝᡶᡝᠨ",
     "the name of cakes baked on the ninth day of the ninth month"
   ],
   "uyungge inenggi": [
-    "ᡠᠶᡠᠨᡤᡤᡝ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᡠᠶᡠᠩᡤᡝ ᡳᠨᡝᠩᡤᡳ",
     "the ninth day of the ninth month"
   ],
   "uyunggeri": [
-    "ᡠᠶᡠᠨᡤᡤᡝᡵᡳ",
+    "ᡠᠶᡠᠩᡤᡝᡵᡳ",
     "nine times"
   ],
   "uyunju": [
@@ -83100,7 +83100,7 @@ const dictionary = {
     "ninety"
   ],
   "uyunju dulefun i durungga tetun": [
-    "ᡠᠶᡠᠨᠵᡠ ᡩᡠᠯᡝᡶᡠᠨ ᡳ ᡩᡠᡵᡠᠨᡤᡤᠠ ᡨᡝᡨᡠᠨ",
+    "ᡠᠶᡠᠨᠵᡠ ᡩᡠᠯᡝᡶᡠᠨ ᡳ ᡩᡠᡵᡠᠩᡤᠠ ᡨᡝᡨᡠᠨ",
     "an armillary sphere of the Peking observatory"
   ],
   "uyunjuci": [
@@ -83136,7 +83136,7 @@ const dictionary = {
     "an orange containing nine sections"
   ],
   "uyutungge gasha": [
-    "ᡠᠶᡠᡨᡠᠨᡤᡤᡝ ᡤᠠᠰᡥᠠ",
+    "ᡠᠶᡠᡨᡠᠩᡤᡝ ᡤᠠᠰᡥᠠ",
     "one name for the owl; cf. yabula"
   ],
   "vlen": [
@@ -83176,7 +83176,7 @@ const dictionary = {
     "having a pleasant odor, fragrant"
   ],
   "wa tucike yadarangge": [
-    "ᠸᠠ ᡨᡠᠴᡳᡴᡝ ᠶᠠᡩᠠᡵᠠᠨᡤᡤᡝ",
+    "ᠸᠠ ᡨᡠᠴᡳᡴᡝ ᠶᠠᡩᠠᡵᠠᠩᡤᡝ",
     "in dire need, like a polecat that passes foul-smelling gas when it is in distress"
   ],
   "wa usun": [
@@ -83260,7 +83260,7 @@ const dictionary = {
     "stinking"
   ],
   "wahvn jalgangga moo": [
-    "ᠸᠠᡥᡡᠨ ᠵᠠᠯᡤᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠸᠠᡥᡡᠨ ᠵᠠᠯᡤᠠᠩᡤᠠ ᠮᠣᠣ",
     "tree of heaven (Ailanthus glandulosa)"
   ],
   "wahvn jalgasu moo": [
@@ -83276,7 +83276,7 @@ const dictionary = {
     "bedbug"
   ],
   "wahvn urangga moo": [
-    "ᠸᠠᡥᡡᠨ ᡠᡵᠠᠨᡤᡤᠠ ᠮᠣᠣ",
+    "ᠸᠠᡥᡡᠨ ᡠᡵᠠᠩᡤᠠ ᠮᠣᠣ",
     "stinking plane tree"
   ],
   "wahvn yasa": [
@@ -83336,7 +83336,7 @@ const dictionary = {
     "to act unreasonably"
   ],
   "waihvngga": [
-    "ᠸᠠᡳᡥᡡᠨᡤᡤᠠ",
+    "ᠸᠠᡳᡥᡡᠩᡤᠠ",
     "a person who acts unreasonably"
   ],
   "waikiyambi": [
@@ -83496,7 +83496,7 @@ const dictionary = {
     "a goddess represented by a piece of cloth hung on the back of the door to which all food brought into the house must be presented for inspection"
   ],
   "walingga": [
-    "ᠸᠠᠯᡳᠨᡤᡤᠠ",
+    "ᠸᠠᠯᡳᠩᡤᠠ",
     "a device used for playing tricks"
   ],
   "waliyabumbi": [
@@ -83556,7 +83556,7 @@ const dictionary = {
     "to kill, to slay"
   ],
   "waha inenggi": [
-    "ᠸᠠᡥᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠸᠠᡥᠠ ᡳᠨᡝᠩᡤᡳ",
     "day of execution"
   ],
   "wame abalambi": [
@@ -83604,79 +83604,79 @@ const dictionary = {
     "violent aspect, venomous appearance or mood pill, small ball"
   ],
   "wang": [
-    "ᠸᠠᠨᡤ",
+    "ᠸᠠᠩ",
     "1. prince 2. (in antiquity) king, monarch"
   ],
   "wang ni dukai hiya bh": [
-    "ᠸᠠᠨᡤ ᠨᡳ ᡩᡠᡴᠠᡳ ᡥᡳᠶᠠ ᠪᡥ",
+    "ᠸᠠᠩ ᠨᡳ ᡩᡠᡴᠠᡳ ᡥᡳᠶᠠ ᠪᡥ",
     "Officer of a Prince's Bodyguard, 45"
   ],
   "wang sai baitai kunggeri": [
-    "ᠸᠠᠨᡤ ᠰᠠᡳ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠸᠠᠩ ᠰᠠᡳ ᠪᠠᡳᡨᠠᡳ ᡴᡠᠩᡤᡝᡵᡳ",
     "office concerned with the affairs of princes in the Board of Rites"
   ],
   "wang gin": [
-    "ᠸᠠᠨᡤ ᡤᡳᠨ",
+    "ᠸᠠᠩ ᡤᡳᠨ",
     "a hair net"
   ],
   "wangga": [
-    "ᠸᠠᠨᡤᡤᠠ",
+    "ᠸᠠᠩᡤᠠ",
     "1. fragrant 2. crested heron 3. pertaining to the new moon"
   ],
   "wangga giyancihiyan hooxan": [
-    "ᠸᠠᠨᡤᡤᠠ ᡤᡳᠶᠠᠨᠴᡳᡥᡳᠶᠠᠨ ᡥᠣᠣᡧᠠᠨ",
+    "ᠸᠠᠩᡤᠠ ᡤᡳᠶᠠᠨᠴᡳᡥᡳᠶᠠᠨ ᡥᠣᠣᡧᠠᠨ",
     "perfumed letter paper"
   ],
   "wangga inenggi": [
-    "ᠸᠠᠨᡤᡤᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠸᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ",
     "the fifteenth day of a lunar month"
   ],
   "wangga jalgasu moo": [
-    "ᠸᠠᠨᡤᡤᠠ ᠵᠠᠯᡤᠠᠰᡠ ᠮᠣᠣ",
+    "ᠸᠠᠩᡤᠠ ᠵᠠᠯᡤᠠᠰᡠ ᠮᠣᠣ",
     "Cedrela sinensis"
   ],
   "wangga singgeri": [
-    "ᠸᠠᠨᡤᡤᠠ ᠰᡳᠨᡤᡤᡝᡵᡳ",
+    "ᠸᠠᠩᡤᠠ ᠰᡳᠩᡤᡝᡵᡳ",
     "muskrat"
   ],
   "wangga sogi": [
-    "ᠸᠠᠨᡤᡤᠠ ᠰᠣᡤᡳ",
+    "ᠸᠠᠩᡤᠠ ᠰᠣᡤᡳ",
     "coriander, Chinese parsley"
   ],
   "wangga xangga": [
-    "ᠸᠠᠨᡤᡤᠠ ᡧᠠᠨᡤᡤᠠ",
+    "ᠸᠠᠩᡤᠠ ᡧᠠᠩᡤᠠ",
     "unconscious, in a coma"
   ],
   "wangga xulhe": [
-    "ᠸᠠᠨᡤᡤᠠ ᡧᡠᠯᡥᡝ",
+    "ᠸᠠᠩᡤᠠ ᡧᡠᠯᡥᡝ",
     "Chinese pear (Pyrus sinensis)"
   ],
   "wanggari": [
-    "ᠸᠠᠨᡤᡤᠠᡵᡳ",
+    "ᠸᠠᠩᡤᠠᡵᡳ",
     "citron (Citrus medico)"
   ],
   "wanggiyanambi": [
-    "ᠸᠠᠨᡤᡤᡳᠶᠠᠨᠠᠮᠪᡳ",
+    "ᠸᠠᠩᡤᡳᠶᠠᠨᠠᠮᠪᡳ",
     "to have a runny nose, to have a head cold"
   ],
   "wanggiyanahabi": [
-    "ᠸᠠᠨᡤᡤᡳᠶᠠᠨᠠᡥᠠᠪᡳ",
+    "ᠸᠠᠩᡤᡳᠶᠠᠨᠠᡥᠠᠪᡳ",
     "has a head cold"
   ],
   "wangkiyabumbi": [
-    "ᠸᠠᠨᡤᡴᡳᠶᠠᠪᡠᠮᠪᡳ",
+    "ᠸᠠᠩᡴᡳᠶᠠᠪᡠᠮᠪᡳ",
     "caus. of wangkiyambi"
   ],
   "wangkiyambi": [
-    "ᠸᠠᠨᡤᡴᡳᠶᠠᠮᠪᡳ",
+    "ᠸᠠᠩᡴᡳᠶᠠᠮᠪᡳ",
     "to smell (v.t.)"
   ],
   "wangnambi": [
-    "ᠸᠠᠨᡤᠨᠠᠮᠪᡳ",
+    "ᠸᠠᠩᠨᠠᠮᠪᡳ",
     "to embroider (designs on shoes)"
   ],
   "wangnaha sabu": [
-    "ᠸᠠᠨᡤᠨᠠᡥᠠ ᠰᠠᠪᡠ",
+    "ᠸᠠᠩᠨᠠᡥᠠ ᠰᠠᠪᡠ",
     "embroidered shoes"
   ],
   "wanse": [
@@ -83732,11 +83732,11 @@ const dictionary = {
     "the Western Regions--Sin-kiang"
   ],
   "wargi dang": [
-    "ᠸᠠᡵᡤᡳ ᡩᠠᠨᡤ",
+    "ᠸᠠᡵᡤᡳ ᡩᠠᠩ",
     "Tibet"
   ],
   "wargi ergi munggan": [
-    "ᠸᠠᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠨᡤᡤᠠᠨ",
+    "ᠸᠠᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠩᡤᠠᠨ",
     "the imperial tombs of Mukden"
   ],
   "wargi ergi simnere bithei kvwaran": [
@@ -83756,7 +83756,7 @@ const dictionary = {
     "the West"
   ],
   "wargingge": [
-    "ᠸᠠᡵᡤᡳᠨᡤᡤᡝ",
+    "ᠸᠠᡵᡤᡳᠩᡤᡝ",
     "western, pertaining to the west"
   ],
   "warumbi": [
@@ -83844,7 +83844,7 @@ const dictionary = {
     "(-ka) 1. to descend, to go down, to sink 2. to fall (of rulers) 3. to decline (of value) 4. to become skinny 5. to die (of birds)"
   ],
   "wasifi genggehun ombi": [
-    "ᠸᠠᠰᡳᡶᡳ ᡤᡝᠨᡤᡤᡝᡥᡠᠨ ᠣᠮᠪᡳ",
+    "ᠸᠠᠰᡳᡶᡳ ᡤᡝᠩᡤᡝᡥᡠᠨ ᠣᠮᠪᡳ",
     "to become thin and pale"
   ],
   "wasimbumbi": [
@@ -83856,7 +83856,7 @@ const dictionary = {
     "to go down (there)"
   ],
   "wasingga mudan": [
-    "ᠸᠠᠰᡳᠨᡤᡤᠠ ᠮᡠᡩᠠᠨ",
+    "ᠸᠠᠰᡳᠩᡤᠠ ᠮᡠᡩᠠᠨ",
     "the departing tone of classical Chinese phonology"
   ],
   "wasinjimbi": [
@@ -83892,11 +83892,11 @@ const dictionary = {
     "a fishhook with barbs"
   ],
   "watangga": [
-    "ᠸᠠᡨᠠᠨᡤᡤᠠ",
+    "ᠸᠠᡨᠠᠩᡤᠠ",
     "barbed"
   ],
   "watangga gida": [
-    "ᠸᠠᡨᠠᠨᡤᡤᠠ ᡤᡳᡩᠠ",
+    "ᠸᠠᡨᠠᠩᡤᠠ ᡤᡳᡩᠠ",
     "a spear with barbs"
   ],
   "we": [
@@ -83940,7 +83940,7 @@ const dictionary = {
     "the name of an office concerned with sacrifice in the Board of Rites"
   ],
   "wecere juktere kunggeri": [
-    "ᠸᡝᠴᡝᡵᡝ ᠵᡠᡴᡨᡝᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠸᡝᠴᡝᡵᡝ ᠵᡠᡴᡨᡝᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "section on sacrifice in the Board of Rites and the Court of Sacri-"
   ],
   "wecere usin": [
@@ -83968,7 +83968,7 @@ const dictionary = {
     "Office of Sacred Music, 390"
   ],
   "wecen i ulha ujire falgangga": [
-    "ᠸᡝᠴᡝᠨ ᡳ ᡠᠯᡥᠠ ᡠᠵᡳᡵᡝ ᡶᠠᠯᡤᠠᠨᡤᡤᠠ",
+    "ᠸᡝᠴᡝᠨ ᡳ ᡠᠯᡥᠠ ᡠᠵᡳᡵᡝ ᡶᠠᠯᡤᠠᠩᡤᠠ",
     "office of sacrificial animals in the Court of Sacrificial Worship"
   ],
   "wecen jukten": [
@@ -84008,7 +84008,7 @@ const dictionary = {
     "a stele"
   ],
   "wehe biyangsiri ilha": [
-    "ᠸᡝᡥᡝ ᠪᡳᠶᠠᠨᡤᠰᡳᡵᡳ ᡳᠯᡥᠠ",
+    "ᠸᡝᡥᡝ ᠪᡳᠶᠠᠩᠰᡳᡵᡳ ᡳᠯᡥᠠ",
     "the name of a purple flower with five petals that resembles a cicada"
   ],
   "wehe cinuhvn": [
@@ -84028,7 +84028,7 @@ const dictionary = {
     "purslane"
   ],
   "wehe fungkv": [
-    "ᠸᡝᡥᡝ ᡶᡠᠨᡤᡴᡡ",
+    "ᠸᡝᡥᡝ ᡶᡠᠩᡴᡡ",
     "a stone roller"
   ],
   "wehe giyen": [
@@ -84036,7 +84036,7 @@ const dictionary = {
     "smalt blue"
   ],
   "wehe hengke": [
-    "ᠸᡝᡥᡝ ᡥᡝᠨᡤᡴᡝ",
+    "ᠸᡝᡥᡝ ᡥᡝᠩᡴᡝ",
     "'stone melon'--the name of a very hard melonlike fruit that grows on a tree in the vicinity of Mt. Omei in Szechuan"
   ],
   "wehe hvwaise": [
@@ -84044,11 +84044,11 @@ const dictionary = {
     "hard coal"
   ],
   "wehe hvwangse": [
-    "ᠸᡝᡥᡝ ᡥᡡᠸᠠᠨᡤᠰᡝ",
+    "ᠸᡝᡥᡝ ᡥᡡᠸᠠᠩᠰᡝ",
     "hartite"
   ],
   "wehe i king": [
-    "ᠸᡝᡥᡝ ᡳ ᡴᡳᠨᡤ",
+    "ᠸᡝᡥᡝ ᡳ ᡴᡳᠩ",
     "a musical stone hanging from a frame"
   ],
   "wehe lamun": [
@@ -84072,7 +84072,7 @@ const dictionary = {
     "cotyledon"
   ],
   "wehe tuyeku yonggan": [
-    "ᠸᡝᡥᡝ ᡨᡠᠶᡝᡴᡠ ᠶᠣᠨᡤᡤᠠᠨ",
+    "ᠸᡝᡥᡝ ᡨᡠᠶᡝᡴᡠ ᠶᠣᠩᡤᠠᠨ",
     "impure ammonia salts"
   ],
   "wehe yadali cecike": [
@@ -84088,7 +84088,7 @@ const dictionary = {
     "coal mine"
   ],
   "wehei fungkv": [
-    "ᠸᡝᡥᡝᡳ ᡶᡠᠨᡤᡴᡡ",
+    "ᠸᡝᡥᡝᡳ ᡶᡠᠩᡴᡡ",
     "stone drum, stone cylinder"
   ],
   "wehei nikebuku": [
@@ -84096,11 +84096,11 @@ const dictionary = {
     "a stone used for holding a door open"
   ],
   "wehengge": [
-    "ᠸᡝᡥᡝᠨᡤᡤᡝ",
+    "ᠸᡝᡥᡝᠩᡤᡝ",
     "stone, made of stone"
   ],
   "wehengge usiha": [
-    "ᠸᡝᡥᡝᠨᡤᡤᡝ ᡠᠰᡳᡥᠠ",
+    "ᠸᡝᡥᡝᠩᡤᡝ ᡠᠰᡳᡥᠠ",
     "'stone chestnut'-- a nut tasting like a walnut that is grown in the mountains of Tonkin"
   ],
   "wehetu coko": [
@@ -84128,7 +84128,7 @@ const dictionary = {
     "1. whose?--genitive of we 2. minute, very small 3. sort of fish"
   ],
   "wei ping": [
-    "ᠸᡝᡳ ᡦᡳᠨᡤ",
+    "ᠸᡝᡳ ᡦᡳᠩ",
     "a screen"
   ],
   "weibin": [
@@ -84136,7 +84136,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "weibin tokdonggo kiru": [
-    "ᠸᡝᡳᠪᡳᠨ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠸᡝᡳᠪᡳᠨ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation weibin"
   ],
   "weifutu": [
@@ -84180,7 +84180,7 @@ const dictionary = {
     "one name for the donkey"
   ],
   "weihengge": [
-    "ᠸᡝᡳᡥᡝᠨᡤᡤᡝ",
+    "ᠸᡝᡳᡥᡝᠩᡤᡝ",
     "having teeth or horns"
   ],
   "weihu": [
@@ -84212,11 +84212,11 @@ const dictionary = {
     "to capture alive"
   ],
   "weihun ningge": [
-    "ᠸᡝᡳᡥᡠᠨ ᠨᡳᠨᡤᡤᡝ",
+    "ᠸᡝᡳᡥᡠᠨ ᠨᡳᠩᡤᡝ",
     "a living creature"
   ],
   "weihungge": [
-    "ᠸᡝᡳᡥᡠᠨᡤᡤᡝ",
+    "ᠸᡝᡳᡥᡠᠩᡤᡝ",
     "living thing"
   ],
   "weijubumbi": [
@@ -84260,11 +84260,11 @@ const dictionary = {
     "Judicial Department, 495"
   ],
   "weile beidere kunggeri": [
-    "ᠸᡝᡳᠯᡝ ᠪᡝᡳᡩᡝᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠸᡝᡳᠯᡝ ᠪᡝᡳᡩᡝᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "judicial section of the headquarters of a Provincial Commander-in-chief"
   ],
   "weile beidere tinggin": [
-    "ᠸᡝᡳᠯᡝ ᠪᡝᡳᡩᡝᡵᡝ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠸᡝᡳᠯᡝ ᠪᡝᡳᡩᡝᡵᡝ ᡨᡳᠩᡤᡳᠨ",
     "a court dealing with matters between Manchu garrison troops and local Mongolians in Mongolia"
   ],
   "weile daksa": [
@@ -84304,7 +84304,7 @@ const dictionary = {
     "Department of Works, 82"
   ],
   "weilere arara kunggeri": [
-    "ᠸᡝᡳᠯᡝᡵᡝ ᠠᡵᠠᡵᠠ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠸᡝᡳᠯᡝᡵᡝ ᠠᡵᠠᡵᠠ ᡴᡠᠩᡤᡝᡵᡳ",
     "construction section of the Board of Works"
   ],
   "weilere arara namun": [
@@ -84336,7 +84336,7 @@ const dictionary = {
     "the Board of Works, 460"
   ],
   "weilere jurgan i kungge yamun": [
-    "ᠸᡝᡳᠯᡝᡵᡝ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡠᠨᡤᡤᡝ ᠶᠠᠮᡠᠨ",
+    "ᠸᡝᡳᠯᡝᡵᡝ ᠵᡠᡵᡤᠠᠨ ᡳ ᡴᡠᠩᡤᡝ ᠶᠠᠮᡠᠨ",
     "office of the Board of Works in the Grand Secretariat"
   ],
   "weilen": [
@@ -84356,19 +84356,19 @@ const dictionary = {
     "to go to work"
   ],
   "weilengge": [
-    "ᠸᡝᡳᠯᡝᠨᡤᡤᡝ",
+    "ᠸᡝᡳᠯᡝᠩᡤᡝ",
     "guilty, a criminal"
   ],
   "weilengge niyalma": [
-    "ᠸᡝᡳᠯᡝᠨᡤᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ",
+    "ᠸᡝᡳᠯᡝᠩᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ",
     "criminal, guilty man"
   ],
   "weilengge niyalma be kadalara tinggin": [
-    "ᠸᡝᡳᠯᡝᠨᡤᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠨᡤᡤᡳᠨ",
+    "ᠸᡝᡳᠯᡝᠩᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ ᠪᡝ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡨᡳᠩᡤᡳᠨ",
     "office of the Jail Warden"
   ],
   "weilengge niyalma kadalara hafan bh 850a": [
-    "ᠸᡝᡳᠯᡝᠨᡤᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡥᠠᡶᠠᠨ ᠪᡥ 850ᠠ",
+    "ᠸᡝᡳᠯᡝᠩᡤᡝ ᠨᡳᠶᠠᠯᠮᠠ ᡴᠠᡩᠠᠯᠠᡵᠠ ᡥᠠᡶᠠᠨ ᠪᡥ 850ᠠ",
     "Jail Warden,"
   ],
   "weilumbi": [
@@ -84376,11 +84376,11 @@ const dictionary = {
     "1. to do secretly, to act deceptively 2. to desert, to turn away from"
   ],
   "weingge": [
-    "ᠸᡝᡳᠨᡤᡤᡝ",
+    "ᠸᡝᡳᠩᡤᡝ",
     "whose"
   ],
   "weiping": [
-    "ᠸᡝᡳᡦᡳᠨᡤ",
+    "ᠸᡝᡳᡦᡳᠩ",
     "a screen; cf. huwejehen"
   ],
   "weisha": [
@@ -84388,7 +84388,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "weisha tokdonggo kiru": [
-    "ᠸᡝᡳᠰᡥᠠ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠸᡝᡳᠰᡥᠠ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation weisha"
   ],
   "weji": [
@@ -84448,7 +84448,7 @@ const dictionary = {
     "the name of a constellation"
   ],
   "welhvme tokdonggo kiru": [
-    "ᠸᡝᠯᡥᡡᠮᡝ ᡨᠣᡴᡩᠣᠨᡤᡤᠣ ᡴᡳᡵᡠ",
+    "ᠸᡝᠯᡥᡡᠮᡝ ᡨᠣᡴᡩᠣᠩᡤᠣ ᡴᡳᡵᡠ",
     "a banner depicting the constellation welhūme"
   ],
   "welmiyebumbi": [
@@ -84488,7 +84488,7 @@ const dictionary = {
     "to make a notch"
   ],
   "wen jang": [
-    "ᠸᡝᠨ ᠵᠠᠨᡤ",
+    "ᠸᡝᠨ ᠵᠠᠩ",
     "essay--the same as šu fiyelen"
   ],
   "wen tebumbi": [
@@ -84528,7 +84528,7 @@ const dictionary = {
     "to melt away, to go to be reformed"
   ],
   "wengge": [
-    "ᠸᡝᠨᡤᡤᡝ",
+    "ᠸᡝᠩᡤᡝ",
     "highly educated, cultured"
   ],
   "weniyebumbi": [
@@ -84572,19 +84572,19 @@ const dictionary = {
     "to become tipsy together"
   ],
   "wenjengge": [
-    "ᠸᡝᠨᠵᡝᠨᡤᡤᡝ",
+    "ᠸᡝᠨᠵᡝᠩᡤᡝ",
     "heated"
   ],
   "wenjengge giyalakv": [
-    "ᠸᡝᠨᠵᡝᠨᡤᡤᡝ ᡤᡳᠶᠠᠯᠠᡴᡡ",
+    "ᠸᡝᠨᠵᡝᠩᡤᡝ ᡤᡳᠶᠠᠯᠠᡴᡡ",
     "heated part of a house"
   ],
   "wenjengge kiyoo": [
-    "ᠸᡝᠨᠵᡝᠨᡤᡤᡝ ᡴᡳᠶᠣᠣ",
+    "ᠸᡝᠨᠵᡝᠩᡤᡝ ᡴᡳᠶᠣᠣ",
     "a heated sedan chair"
   ],
   "wenjengge yuwan": [
-    "ᠸᡝᠨᠵᡝᠨᡤᡤᡝ ᠶᡠᠸᠠᠨ",
+    "ᠸᡝᠨᠵᡝᠩᡤᡝ ᠶᡠᠸᠠᠨ",
     "an inkstone heated with charcoal in the winter"
   ],
   "wenxu": [
@@ -84644,7 +84644,7 @@ const dictionary = {
     "1. to leave behind, to leave (v.t.) 2. to retain in one's possession"
   ],
   "weringge": [
-    "ᠸᡝᡵᡳᠨᡤᡤᡝ",
+    "ᠸᡝᡵᡳᠩᡤᡝ",
     "somebody else's"
   ],
   "werinjembi": [
@@ -84656,7 +84656,7 @@ const dictionary = {
     "see weresembi"
   ],
   "weriyangge": [
-    "ᠸᡝᡵᡳᠶᠠᠨᡤᡤᡝ",
+    "ᠸᡝᡵᡳᠶᠠᠩᡤᡝ",
     "belonging to someone else"
   ],
   "werumbi": [
@@ -84668,7 +84668,7 @@ const dictionary = {
     "1. caus. of wesimbi 2. to lift, to raise 3. to promote, to advance 4. see wesimbumbi"
   ],
   "wesibume fungnembi": [
-    "ᠸᡝᠰᡳᠪᡠᠮᡝ ᡶᡠᠨᡤᠨᡝᠮᠪᡳ",
+    "ᠸᡝᠰᡳᠪᡠᠮᡝ ᡶᡠᠩᠨᡝᠮᠪᡳ",
     "to give a higher title"
   ],
   "wesibun": [
@@ -84696,7 +84696,7 @@ const dictionary = {
     "you (honorific)"
   ],
   "wesihun erdemungge": [
-    "ᠸᡝᠰᡳᡥᡠᠨ ᡝᡵᡩᡝᠮᡠᠨᡤᡤᡝ",
+    "ᠸᡝᠰᡳᡥᡠᠨ ᡝᡵᡩᡝᠮᡠᠩᡤᡝ",
     "the Ch'ung-te reign period, 1627--1635"
   ],
   "wesihun i hontoho": [
@@ -84728,7 +84728,7 @@ const dictionary = {
     "(-ke) 1. to ascend, to go up, to raise 2. to advance (in rank)"
   ],
   "wesire forgoxoro kunggeri": [
-    "ᠸᡝᠰᡳᡵᡝ ᡶᠣᡵᡤᠣᡧᠣᡵᠣ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠸᡝᠰᡳᡵᡝ ᡶᠣᡵᡤᠣᡧᠣᡵᠣ ᡴᡠᠩᡤᡝᡵᡳ",
     "bureau of promotions and transfers in the Board of War"
   ],
   "wesimbumbi": [
@@ -84780,7 +84780,7 @@ const dictionary = {
     "a memorial written on folded paper"
   ],
   "wesimbure kunggeri": [
-    "ᠸᡝᠰᡳᠮᠪᡠᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠸᡝᠰᡳᠮᠪᡠᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "memorial office"
   ],
   "wesinembi": [
@@ -84788,7 +84788,7 @@ const dictionary = {
     "to go up"
   ],
   "wesingge ilha": [
-    "ᠸᡝᠰᡳᠨᡤᡤᡝ ᡳᠯᡥᠠ",
+    "ᠸᡝᠰᡳᠩᡤᡝ ᡳᠯᡥᠠ",
     "Chinese trumpet-creeper (Tecoma grandiflora)"
   ],
   "wexelembi": [
@@ -84876,11 +84876,11 @@ const dictionary = {
     "1. caus. of yabumbi 2. to put into effect, to carry out 3. to approve"
   ],
   "yabubufi bure kunggeri": [
-    "ᠶᠠᠪᡠᠪᡠᡶᡳ ᠪᡠᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠶᠠᠪᡠᠪᡠᡶᡳ ᠪᡠᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "an office of the Board of Works in charge of supplies"
   ],
   "yabubume afabure kunggeri bh 212b": [
-    "ᠶᠠᠪᡠᠪᡠᠮᡝ ᠠᡶᠠᠪᡠᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ ᠪᡥ 212ᠪ",
+    "ᠶᠠᠪᡠᠪᡠᠮᡝ ᠠᡶᠠᠪᡠᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ ᠪᡥ 212ᠪ",
     "Transmission Office,"
   ],
   "yabulan": [
@@ -84980,11 +84980,11 @@ const dictionary = {
     "a black phoenix"
   ],
   "yacin garunggv ilha": [
-    "ᠶᠠᠴᡳᠨ ᡤᠠᡵᡠᠨᡤᡤᡡ ᡳᠯᡥᠠ",
+    "ᠶᠠᠴᡳᠨ ᡤᠠᡵᡠᠩᡤᡡ ᡳᠯᡥᠠ",
     "a deep blue exotic flower the buds of which resemble the garunggū bird"
   ],
   "yacin hontohonggo gu": [
-    "ᠶᠠᠴᡳᠨ ᡥᠣᠨᡨᠣᡥᠣᠨᡤᡤᠣ ᡤᡠ",
+    "ᠶᠠᠴᡳᠨ ᡥᠣᠨᡨᠣᡥᠣᠩᡤᠣ ᡤᡠ",
     "a dark blue gem used during sacrifices in ancient times"
   ],
   "yacin samsu": [
@@ -85016,7 +85016,7 @@ const dictionary = {
     "a black panther"
   ],
   "yacingga": [
-    "ᠶᠠᠴᡳᠨᡤᡤᠠ",
+    "ᠶᠠᠴᡳᠩᡤᠠ",
     "dark, somber"
   ],
   "yacisu": [
@@ -85040,11 +85040,11 @@ const dictionary = {
     "song thrush (Garrulax canorus)"
   ],
   "yadalingge": [
-    "ᠶᠠᡩᠠᠯᡳᠨᡤᡤᡝ",
+    "ᠶᠠᡩᠠᠯᡳᠩᡤᡝ",
     "weak, feeble"
   ],
   "yadalinggu": [
-    "ᠶᠠᡩᠠᠯᡳᠨᡤᡤᡠ",
+    "ᠶᠠᡩᠠᠯᡳᠩᡤᡠ",
     "weak, soft, feeble"
   ],
   "yadambi": [
@@ -85072,7 +85072,7 @@ const dictionary = {
     "the name of a flower that blooms at the beginning of spring and resembles a swan"
   ],
   "yadana ujungga fukjingga hergen": [
-    "ᠶᠠᡩᠠᠨᠠ ᡠᠵᡠᠨᡤᡤᠠ ᡶᡠᡴᠵᡳᠨᡤᡤᠠ ᡥᡝᡵᡤᡝᠨ",
+    "ᠶᠠᡩᠠᠨᠠ ᡠᠵᡠᠩᡤᠠ ᡶᡠᡴᠵᡳᠩᡤᠠ ᡥᡝᡵᡤᡝᠨ",
     "a style of Chinese calligraphy"
   ],
   "yadarakv": [
@@ -85124,7 +85124,7 @@ const dictionary = {
     "an errand boy at a post station"
   ],
   "yafahan isibure kunggeri": [
-    "ᠶᠠᡶᠠᡥᠠᠨ ᡳᠰᡳᠪᡠᡵᡝ ᡴᡠᠨᡤᡤᡝᡵᡳ",
+    "ᠶᠠᡶᠠᡥᠠᠨ ᡳᠰᡳᠪᡠᡵᡝ ᡴᡠᠩᡤᡝᡵᡳ",
     "a section of the Board of War"
   ],
   "yafahan kvwaran i fiyenten": [
@@ -85260,15 +85260,15 @@ const dictionary = {
     "bluntly, decisively, definitely"
   ],
   "yakvngga": [
-    "ᠶᠠᡴᡡᠨᡤᡤᠠ",
+    "ᠶᠠᡴᡡᠩᡤᠠ",
     "peculiar, bizarre, out of the ordinary"
   ],
   "yakvngga mudan": [
-    "ᠶᠠᡴᡡᠨᡤᡤᠠ ᠮᡠᡩᠠᠨ",
+    "ᠶᠠᡴᡡᠩᡤᠠ ᠮᡠᡩᠠᠨ",
     "a peculiar sound, a strange melody or intonation"
   ],
   "yakvnggalambi": [
-    "ᠶᠠᡴᡡᠨᡤᡤᠠᠯᠠᠮᠪᡳ",
+    "ᠶᠠᡴᡡᠩᡤᠠᠯᠠᠮᠪᡳ",
     "1. to act in a peculiar manner 2. to sing; cf. yangkūnggalambi"
   ],
   "yala": [
@@ -85280,7 +85280,7 @@ const dictionary = {
     "truly, indeed, in fact"
   ],
   "yalanggi": [
-    "ᠶᠠᠯᠠᠨᡤᡤᡳ",
+    "ᠶᠠᠯᠠᠩᡤᡳ",
     "true, genuine"
   ],
   "yaldargan": [
@@ -85328,11 +85328,11 @@ const dictionary = {
     "meat paste, meat condiment"
   ],
   "yali monggon": [
-    "ᠶᠠᠯᡳ ᠮᠣᠨᡤᡤᠣᠨ",
+    "ᠶᠠᠯᡳ ᠮᠣᠩᡤᠣᠨ",
     "esophagus, food pipe"
   ],
   "yalihangga": [
-    "ᠶᠠᠯᡳᡥᠠᠨᡤᡤᠠ",
+    "ᠶᠠᠯᡳᡥᠠᠩᡤᠠ",
     "fleshy, fat, adipose"
   ],
   "yalinambi": [
@@ -85344,7 +85344,7 @@ const dictionary = {
     "the meat of a melon"
   ],
   "yalingga": [
-    "ᠶᠠᠯᡳᠨᡤᡤᠠ",
+    "ᠶᠠᠯᡳᠩᡤᠠ",
     "fleshy, fat"
   ],
   "yalitu": [
@@ -85352,7 +85352,7 @@ const dictionary = {
     "a fat person"
   ],
   "yalmanggi": [
-    "ᠶᠠᠯᠮᠠᠨᡤᡤᡳ",
+    "ᠶᠠᠯᠮᠠᠩᡤᡳ",
     "soot"
   ],
   "yalu": [
@@ -85444,7 +85444,7 @@ const dictionary = {
     "1. probably, seemingly 2. some"
   ],
   "yamka inenggi": [
-    "ᠶᠠᠮᡴᠠ ᡳᠨᡝᠨᡤᡤᡳ",
+    "ᠶᠠᠮᡴᠠ ᡳᠨᡝᠩᡤᡳ",
     "some day or other"
   ],
   "yamtari": [
@@ -85456,7 +85456,7 @@ const dictionary = {
     "a respiratory ailment, asthma"
   ],
   "yamtungga": [
-    "ᠶᠠᠮᡨᡠᠨᡤᡤᠠ",
+    "ᠶᠠᠮᡨᡠᠩᡤᠠ",
     "afflicted with a respiratory ailment"
   ],
   "yalulabumbi": [
@@ -85512,139 +85512,139 @@ const dictionary = {
     "to come to request"
   ],
   "yang": [
-    "ᠶᠠᠨᡤ",
+    "ᠶᠠᠩ",
     "yang, the male or positive principle"
   ],
   "yang ing": [
-    "ᠶᠠᠨᡤ ᡳᠨᡤ",
+    "ᠶᠠᠩ ᡳᠩ",
     "(onom.) the sound of insects flying"
   ],
   "yang seme": [
-    "ᠶᠠᠨᡤ ᠰᡝᠮᡝ",
+    "ᠶᠠᠩ ᠰᡝᠮᡝ",
     "see yang ing"
   ],
   "yang yang": [
-    "ᠶᠠᠨᡤ ᠶᠠᠨᡤ",
+    "ᠶᠠᠩ ᠶᠠᠩ",
     "(onom.) the sound of bells ringing"
   ],
   "yangduwan": [
-    "ᠶᠠᠨᡤᡩᡠᠸᠠᠨ",
+    "ᠶᠠᠩᡩᡠᠸᠠᠨ",
     "foreign satin"
   ],
   "yangga": [
-    "ᠶᠠᠨᡤᡤᠠ",
+    "ᠶᠠᠩᡤᠠ",
     "1. pine pitch 2. a torch made with pine pitch"
   ],
   "yanggaha": [
-    "ᠶᠠᠨᡤᡤᠠᡥᠠ",
+    "ᠶᠠᠩᡤᠠᡥᠠ",
     "carrion crow"
   ],
   "yanggali": [
-    "ᠶᠠᠨᡤᡤᠠᠯᡳ",
+    "ᠶᠠᠩᡤᠠᠯᡳ",
     "a type of dark wagtail"
   ],
   "yanggar seme": [
-    "ᠶᠠᠨᡤᡤᠠᡵ ᠰᡝᠮᡝ",
+    "ᠶᠠᠩᡤᠠᡵ ᠰᡝᠮᡝ",
     "sounding for a long time, re-echoing"
   ],
   "yanggidei": [
-    "ᠶᠠᠨᡤᡤᡳᡩᡝᡳ",
+    "ᠶᠠᠩᡤᡳᡩᡝᡳ",
     "one name for the golden pheasant; cf. junggiri coko"
   ],
   "yanggilabumbi": [
-    "ᠶᠠᠨᡤᡤᡳᠯᠠᠪᡠᠮᠪᡳ",
+    "ᠶᠠᠩᡤᡳᠯᠠᠪᡠᠮᠪᡳ",
     "caus. of yanggilambi"
   ],
   "yanggilambi": [
-    "ᠶᠠᠨᡤᡤᡳᠯᠠᠮᠪᡳ",
+    "ᠶᠠᠩᡤᡳᠯᠠᠮᠪᡳ",
     "to tease, to incite, to flirt with"
   ],
   "yanggilandumbi": [
-    "ᠶᠠᠨᡤᡤᡳᠯᠠᠨᡩᡠᠮᠪᡳ",
+    "ᠶᠠᠩᡤᡳᠯᠠᠨᡩᡠᠮᠪᡳ",
     "to tease one another"
   ],
   "yanggir iman": [
-    "ᠶᠠᠨᡤᡤᡳᡵ ᡳᠮᠠᠨ",
+    "ᠶᠠᠩᡤᡳᡵ ᡳᠮᠠᠨ",
     "a wild sheep of Shensi that resembles the female argali"
   ],
   "yanggon": [
-    "ᠶᠠᠨᡤᡤᠣᠨ",
+    "ᠶᠠᠩᡤᠣᠨ",
     "bells attached to a horse's forehead"
   ],
   "yanggvha": [
-    "ᠶᠠᠨᡤᡤᡡᡥᠠ",
+    "ᠶᠠᠩᡤᡡᡥᠠ",
     "see yanggaha"
   ],
   "yanggvwan": [
-    "ᠶᠠᠨᡤᡤᡡᠸᠠᠨ",
+    "ᠶᠠᠩᡤᡡᠸᠠᠨ",
     "gravel"
   ],
   "yangsambi": [
-    "ᠶᠠᠨᡤᠰᠠᠮᠪᡳ",
+    "ᠶᠠᠩᠰᠠᠮᠪᡳ",
     "to weed, to chop weeds"
   ],
   "yangkvnggalambi": [
-    "ᠶᠠᠨᡤᡴᡡᠨᡤᡤᠠᠯᠠᠮᠪᡳ",
+    "ᠶᠠᠩᡴᡡᠩᡤᠠᠯᠠᠮᠪᡳ",
     "to sing; cf. yakūnggalambi"
   ],
   "yangmei": [
-    "ᠶᠠᠨᡤᠮᡝᡳ",
+    "ᠶᠠᠩᠮᡝᡳ",
     "1. fruit of the plant Myrica rubra 2. a small red sore on the skin"
   ],
   "yangsabumbi": [
-    "ᠶᠠᠨᡤᠰᠠᠪᡠᠮᠪᡳ",
+    "ᠶᠠᠩᠰᠠᠪᡠᠮᠪᡳ",
     "caus. of yangsambi"
   ],
   "yangsan": [
-    "ᠶᠠᠨᡤᠰᠠᠨ",
+    "ᠶᠠᠩᠰᠠᠨ",
     "weeding"
   ],
   "yangsanambi": [
-    "ᠶᠠᠨᡤᠰᠠᠨᠠᠮᠪᡳ",
+    "ᠶᠠᠩᠰᠠᠨᠠᠮᠪᡳ",
     "to go to weed"
   ],
   "yangsangga": [
-    "ᠶᠠᠨᡤᠰᠠᠨᡤᡤᠠ",
+    "ᠶᠠᠩᠰᠠᠩᡤᠠ",
     "splendid, comely, beautiful"
   ],
   "yangsanumbi": [
-    "ᠶᠠᠨᡤᠰᠠᠨᡠᠮᠪᡳ",
+    "ᠶᠠᠩᠰᠠᠨᡠᠮᠪᡳ",
     "to weed together"
   ],
   "yangse": [
-    "ᠶᠠᠨᡤᠰᡝ",
+    "ᠶᠠᠩᠰᡝ",
     "1. form, kind, appearance, model, style 2. beauty, comeliness 3. beautiful, splendid, comely 4. yoke for an ox"
   ],
   "yangselabumbi": [
-    "ᠶᠠᠨᡤᠰᡝᠯᠠᠪᡠᠮᠪᡳ",
+    "ᠶᠠᠩᠰᡝᠯᠠᠪᡠᠮᠪᡳ",
     "caus. of yangselambi"
   ],
   "yangselambi": [
-    "ᠶᠠᠨᡤᠰᡝᠯᠠᠮᠪᡳ",
+    "ᠶᠠᠩᠰᡝᠯᠠᠮᠪᡳ",
     "to make up, to decorate"
   ],
   "yangsembi": [
-    "ᠶᠠᠨᡤᠰᡝᠮᠪᡳ",
+    "ᠶᠠᠩᠰᡝᠮᠪᡳ",
     "see yangselambi"
   ],
   "yangsimu niyehe": [
-    "ᠶᠠᠨᡤᠰᡳᠮᡠ ᠨᡳᠶᡝᡥᡝ",
+    "ᠶᠠᠩᠰᡳᠮᡠ ᠨᡳᠶᡝᡥᡝ",
     "shelldrake (Tadorna tadorna)"
   ],
   "yangxan": [
-    "ᠶᠠᠨᡤᡧᠠᠨ",
+    "ᠶᠠᠩᡧᠠᠨ",
     "1. sickly, weak (of children) 2. noisy, talkative"
   ],
   "yangxangga": [
-    "ᠶᠠᠨᡤᡧᠠᠨᡤᡤᠠ",
+    "ᠶᠠᠩᡧᠠᠩᡤᠠ",
     "noisy, overtalkative"
   ],
   "yangxarambi": [
-    "ᠶᠠᠨᡤᡧᠠᡵᠠᠮᠪᡳ",
+    "ᠶᠠᠩᡧᠠᡵᠠᠮᠪᡳ",
     "1. to be sickly and whiny (of children) 2. to be overtalkative, to be clamorous"
   ],
   "yangturi": [
-    "ᠶᠠᠨᡤᡨᡠᡵᡳ",
+    "ᠶᠠᠩᡨᡠᡵᡳ",
     "ambarella (Spondias dulcis)"
   ],
   "yar seme": [
@@ -85692,7 +85692,7 @@ const dictionary = {
     "the real and imaginary, the true and false, the full and empty"
   ],
   "yargiyangga": [
-    "ᠶᠠᡵᡤᡳᠶᠠᠨᡤᡤᠠ",
+    "ᠶᠠᡵᡤᡳᠶᠠᠩᡤᠠ",
     "true, honest"
   ],
   "yargiyvn": [
@@ -85704,7 +85704,7 @@ const dictionary = {
     "leopard (Fells pardus)"
   ],
   "yarha uncehengge girdan": [
-    "ᠶᠠᡵᡥᠠ ᡠᠨᠴᡝᡥᡝᠨᡤᡤᡝ ᡤᡳᡵᡩᠠᠨ",
+    "ᠶᠠᡵᡥᠠ ᡠᠨᠴᡝᡥᡝᠩᡤᡝ ᡤᡳᡵᡩᠠᠨ",
     "a pennant made from a leopard's tail"
   ],
   "yarhvdabumbi": [
@@ -85772,7 +85772,7 @@ const dictionary = {
     "leading"
   ],
   "yarugan i fangse": [
-    "ᠶᠠᡵᡠᡤᠠᠨ ᡳ ᡶᠠᠨᡤᠰᡝ",
+    "ᠶᠠᡵᡠᡤᠠᠨ ᡳ ᡶᠠᠩᠰᡝ",
     "a banner carried in front of the coffin in a funeral procession"
   ],
   "yarugan sejen": [
@@ -85816,7 +85816,7 @@ const dictionary = {
     "1. introduction (to a book) 2. citation 3. leading, guiding 4. a measure equaling one hundred Chinese feet"
   ],
   "yarungga mukxan": [
-    "ᠶᠠᡵᡠᠨᡤᡤᠠ ᠮᡠᡴᡧᠠᠨ",
+    "ᠶᠠᡵᡠᠩᡤᠠ ᠮᡠᡴᡧᠠᠨ",
     "a gold-lacquered staff of the imperial escort"
   ],
   "yasa": [
@@ -85872,7 +85872,7 @@ const dictionary = {
     "to look with gaping eyes"
   ],
   "yasa niowanggiyan": [
-    "ᠶᠠᠰᠠ ᠨᡳᠣᠸᠠᠨᡤᡤᡳᠶᠠᠨ",
+    "ᠶᠠᠰᠠ ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ",
     "having covetous eyes"
   ],
   "yasa sele": [
@@ -85916,11 +85916,11 @@ const dictionary = {
     "between the eyes"
   ],
   "yasai silenggi": [
-    "ᠶᠠᠰᠠᡳ ᠰᡳᠯᡝᠨᡤᡤᡳ",
+    "ᠶᠠᠰᠠᡳ ᠰᡳᠯᡝᠩᡤᡳ",
     "tears caused by the"
   ],
   "yasahangge": [
-    "ᠶᠠᠰᠠᡥᠠᠨᡤᡤᡝ",
+    "ᠶᠠᠰᠠᡥᠠᠩᡤᡝ",
     "provided with small holes or openings"
   ],
   "yasalabumbi": [
@@ -85964,23 +85964,23 @@ const dictionary = {
     "1. to make netting or screen 2. to make lanterns 3. to place in a net bag"
   ],
   "yashalaha dalangga": [
-    "ᠶᠠᠰᡥᠠᠯᠠᡥᠠ ᡩᠠᠯᠠᠨᡤᡤᠠ",
+    "ᠶᠠᠰᡥᠠᠯᠠᡥᠠ ᡩᠠᠯᠠᠩᡤᠠ",
     "a dam with filters"
   ],
   "yashangga": [
-    "ᠶᠠᠰᡥᠠᠨᡤᡤᠠ",
+    "ᠶᠠᠰᡥᠠᠩᡤᠠ",
     "provided with grillwork"
   ],
   "yashangga giyalakv": [
-    "ᠶᠠᠰᡥᠠᠨᡤᡤᠠ ᡤᡳᠶᠠᠯᠠᡴᡡ",
+    "ᠶᠠᠰᡥᠠᠩᡤᠠ ᡤᡳᠶᠠᠯᠠᡴᡡ",
     "a grillwork partition"
   ],
   "yashangga loho": [
-    "ᠶᠠᠰᡥᠠᠨᡤᡤᠠ ᠯᠣᡥᠣ",
+    "ᠶᠠᠰᡥᠠᠩᡤᠠ ᠯᠣᡥᠣ",
     "a sword with grill-work designs on the blade"
   ],
   "yashangga uce": [
-    "ᠶᠠᠰᡥᠠᠨᡤᡤᠠ ᡠᠴᡝ",
+    "ᠶᠠᠰᡥᠠᠩᡤᠠ ᡠᠴᡝ",
     "a grillwork door"
   ],
   "yasuka": [
@@ -86048,11 +86048,11 @@ const dictionary = {
     "see yebcungge"
   ],
   "yebcvngge": [
-    "ᠶᡝᠪᠴᡡᠨᡤᡤᡝ",
+    "ᠶᡝᠪᠴᡡᠩᡤᡝ",
     "pretty, likable, attractive"
   ],
   "yebcungge baita": [
-    "ᠶᡝᠪᠴᡠᠨᡤᡤᡝ ᠪᠠᡳᡨᠠ",
+    "ᠶᡝᠪᠴᡠᠩᡤᡝ ᠪᠠᡳᡨᠠ",
     "affair of the heart"
   ],
   "yebe": [
@@ -86060,7 +86060,7 @@ const dictionary = {
     "better, improved (of an illness)"
   ],
   "yebecungge": [
-    "ᠶᡝᠪᡝᠴᡠᠨᡤᡤᡝ",
+    "ᠶᡝᠪᡝᠴᡠᠩᡤᡝ",
     "one who has gotten better, convalescent"
   ],
   "yebelembi": [
@@ -86120,15 +86120,15 @@ const dictionary = {
     "1. a tube on the top of a helmet used for attaching a tassel 2. the surface of an arrowhead 3. white hemp that has been treated in lime water"
   ],
   "yehengge": [
-    "ᠶᡝᡥᡝᠨᡤᡤᡝ",
+    "ᠶᡝᡥᡝᠩᡤᡝ",
     "made of bleached linen"
   ],
   "yehengge etuku": [
-    "ᠶᡝᡥᡝᠨᡤᡤᡝ ᡝᡨᡠᡴᡠ",
+    "ᠶᡝᡥᡝᠩᡤᡝ ᡝᡨᡠᡴᡠ",
     "a mourning garment"
   ],
   "yehengge mahala": [
-    "ᠶᡝᡥᡝᠨᡤᡤᡝ ᠮᠠᡥᠠᠯᠠ",
+    "ᠶᡝᡥᡝᠩᡤᡝ ᠮᠠᡥᠠᠯᠠ",
     "a mourning hat"
   ],
   "yehere": [
@@ -86136,11 +86136,11 @@ const dictionary = {
     "porcelain, chinaware"
   ],
   "yehere fengse": [
-    "ᠶᡝᡥᡝᡵᡝ ᡶᡝᠨᡤᠰᡝ",
+    "ᠶᡝᡥᡝᡵᡝ ᡶᡝᠩᠰᡝ",
     "a porcelain tray"
   ],
   "yeherengge": [
-    "ᠶᡝᡥᡝᡵᡝᠨᡤᡤᡝ",
+    "ᠶᡝᡥᡝᡵᡝᠩᡤᡝ",
     "made of porcelain"
   ],
   "yehetun": [
@@ -86160,11 +86160,11 @@ const dictionary = {
     "lowly, debased, not upright"
   ],
   "yekengge": [
-    "ᠶᡝᡴᡝᠨᡤᡤᡝ",
+    "ᠶᡝᡴᡝᠩᡤᡝ",
     "noble, grand"
   ],
   "yekengge haha": [
-    "ᠶᡝᡴᡝᠨᡤᡤᡝ ᡥᠠᡥᠠ",
+    "ᠶᡝᡴᡝᠩᡤᡝ ᡥᠠᡥᠠ",
     "a noble man"
   ],
   "yekerakv": [
@@ -86244,39 +86244,39 @@ const dictionary = {
     "ascent, rise"
   ],
   "yendengge mudan": [
-    "ᠶᡝᠨᡩᡝᠨᡤᡤᡝ ᠮᡠᡩᠠᠨ",
+    "ᠶᡝᠨᡩᡝᠩᡤᡝ ᠮᡠᡩᠠᠨ",
     "the rising tone of"
   ],
   "yengge": [
-    "ᠶᡝᠨᡤᡤᡝ",
+    "ᠶᡝᠩᡤᡝ",
     "bird-cherry (Prunus padus)"
   ],
   "yenggehe": [
-    "ᠶᡝᠨᡤᡤᡝᡥᡝ",
+    "ᠶᡝᠩᡤᡝᡥᡝ",
     "small parrot"
   ],
   "yenggeheri": [
-    "ᠶᡝᠨᡤᡤᡝᡥᡝᡵᡳ",
+    "ᠶᡝᠩᡤᡝᡥᡝᡵᡳ",
     "bright green, parrot-green"
   ],
   "yengguhe": [
-    "ᠶᡝᠨᡤᡤᡠᡥᡝ",
+    "ᠶᡝᠩᡤᡠᡥᡝ",
     "large parrot"
   ],
   "yenggvhe": [
-    "ᠶᡝᠨᡤᡤᡡᡥᡝ",
+    "ᠶᡝᠩᡤᡡᡥᡝ",
     "see yengguhe"
   ],
   "yenghuhe": [
-    "ᠶᡝᠨᡤᡥᡠᡥᡝ",
+    "ᠶᡝᠩᡥᡠᡥᡝ",
     "a female parrot"
   ],
   "yengke menggun": [
-    "ᠶᡝᠨᡤᡴᡝ ᠮᡝᠨᡤᡤᡠᠨ",
+    "ᠶᡝᠩᡴᡝ ᠮᡝᠩᡤᡠᠨ",
     "small silver bars of about five ounces weight"
   ],
   "yengsi": [
-    "ᠶᡝᠨᡤᠰᡳ",
+    "ᠶᡝᠩᠰᡳ",
     "a banquet, a bridal banquet"
   ],
   "yenju": [
@@ -86284,7 +86284,7 @@ const dictionary = {
     "a mountain path"
   ],
   "yenmanggi": [
-    "ᠶᡝᠨᠮᠠᠨᡤᡤᡳ",
+    "ᠶᡝᠨᠮᠠᠩᡤᡳ",
     "soot on the bottom of a pot"
   ],
   "yentu": [
@@ -86444,7 +86444,7 @@ const dictionary = {
     "(-ka, -ra/ndara) 1. to form a scab 2. to pay heed to, to mind, to pay attention to"
   ],
   "yohingga": [
-    "ᠶᠣᡥᡳᠨᡤᡤᠠ",
+    "ᠶᠣᡥᡳᠩᡤᠠ",
     "whole, entire"
   ],
   "yoho": [
@@ -86492,7 +86492,7 @@ const dictionary = {
     "small and pale, petty, unimpressive"
   ],
   "yokcingga": [
-    "ᠶᠣᡴᠴᡳᠨᡤᡤᠠ",
+    "ᠶᠣᡴᠴᡳᠩᡤᠠ",
     "having a good appearance, impressive"
   ],
   "yokidun": [
@@ -86536,12 +86536,12 @@ const dictionary = {
     "pied woodpecker (Dryobates cabanisi)"
   ],
   "yolonggi": [
-    "ᠶᠣᠯᠣᠨᡤᡤᡳ",
+    "ᠶᠣᠯᠣᠩᡤᡳ",
     "sparks or cinders that fly out from a fire"
   ]
 };
 
-let selectedFont = 'sans-serif';
+let selectedFont = 'XM_BiaoHei';
 
 function showVerticalText(manchuText) {
   const popup = document.createElement('div');
