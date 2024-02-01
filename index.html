@@ -11,9 +11,13 @@
 <body>
 <header>
     <h1>ᠪᡝᡩᡠᠨ Bedun</h1>
-        <a id="GH" href="https://github.com/jbecker7" target="_blank" rel="noopener noreferrer" style="position: fixed; top: 100px; left: 5%; cursor: pointer; font-size: 24px; color: #333;">
+    <div class="github-link-container" style="position: absolute; top: 100px; left: 5%; display: flex; align-items: center; gap: 10px;">
+        <a id="GH" href="https://github.com/jbecker7" target="_blank" rel="noopener noreferrer" style="cursor: pointer; font-size: 24px; color: #333;">
             <i class="fa-brands fa-github fa-2xl" style="color: #feffff;"></i>
         </a>
+        <h5 style="color: #feffff; margin: 0; font-size: 16px;">If you like this project, please star it on GitHub!</h5>
+    </div>
+    
     <h2>Manchu Dictionary Search Tool</h2>
     <div id="settings">
         <i class="fa-solid fa-gear" style="color: #000000;"></i>        <div id="font-selector">
@@ -36,14 +40,33 @@
 </header>
 
 <div class="search-container">
+    <div class="options-container">
+        <div class="option">
+            <label>
+                <input type="checkbox" id="whole-word-toggle">
+                Search whole word only
+            </label>
+        </div>
+        
+        <div class="option" style="display: flex; align-items: center; gap: 5px;">
+            <label for="language-select" style="margin-right: 5px;">Search Language:</label>
+            <select id="language-select" style="margin-left: 5px;">
+                <option value="romanized-manchu">Romanized Manchu</option>
+                <option value="manchu-script">Manchu Script</option>
+                <option value="english">English</option>
+            </select>
+        </div>
+        
+        
+        
+    </div>
+    
     <input type="text" id="search-input" placeholder="Search for Romanized Manchu, English, or Manchu Script...">
-    <br><br>
     <button id="search-button" onclick="searchDictionary()">Search</button>
-    <label>
-        <input type="checkbox" id="whole-word-toggle">
-        Search whole word only
-    </label>
-    <br><br>
+    
+</div>
+
+    <br>
     <div id="results"></div>
 </div>
 

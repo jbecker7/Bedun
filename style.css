@@ -173,3 +173,55 @@ label {
 .popup button:hover {
     background-color: #444;
 }
+
+.search-container {
+    width: 80%;
+    margin: 20px auto;
+    padding-top: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.options-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px; /* Adjust as needed */
+    margin-bottom: 10px; /* Space between options and search input */
+}
+
+.option {
+    display: flex;
+    align-items: center;
+}
+
+#search-input {
+    width: calc(100% - 20px); /* Adjust width to compensate for padding */
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    outline: none;
+}
+
+#search-button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    width: 100%; /* Adjust if you want a different width */
+}
+
+#search-button:hover {
+    background-color: #444;
+}
+
+.search-language-selector label,
+.search-language-selector select {
+    margin-right: 5px; /* Adjust as needed */
+}
