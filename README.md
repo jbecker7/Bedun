@@ -48,5 +48,4 @@ It is essential to acknowledge that Bedun is a work in progress and far from bei
 If you have any feedback, suggestions, or contributions, please do not hesitate to reach out. Happy learning!
 
 ---
-
-**Disclaimer:** Bedun is not affiliated with Buleku or Manc.hu. All referenced trademarks and resources are the property of their respective owners. Bedun is a student project created for educational purposes, and it is not intended for commercial use. It is developed with the aim of assisting individuals in their language learning and research endeavors related to the Manchu language. The project's primary goal is to contribute to the preservation and accessibility of the Manchu language and its cultural heritage.
+**Please Note** that Bedun is not affiliated with Buleku or Manc.hu. All referenced trademarks and resources are the property of their respective owners. Bedun is a student project created for educational purposes, and it is not intended for commercial use. It is developed with the aim of assisting individuals in their language learning and research endeavors related to the Manchu language. The project's primary goal is to contribute to the preservation and accessibility of the Manchu language and its cultural heritage.
