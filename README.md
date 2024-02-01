@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Manchu language (ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ) is a critically endangered Tungusic language native to Northeast China and traditionally spoken by the Manchu ethnic group. According to the [Endangered Languages Project](https://www.endangeredlanguages.com/lang/1205?hl=en), there's less than 20 estimated native speakers of the language still alive. However, with a virtual treasure trove of sources from the Qing Dynasty that have yet to be translated, to lose the Manchu language would be a travesty. Bedun is my attempt to contribute to this preservation effort. Bedun means "sturdy" or "solidly made" in Manchu, and it's my hope that this web application can be a reliable tool for aspiring Manjurists like the name suggests.
+The Manchu language (ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ) is a critically endangered Tungusic language native to Northeast China and traditionally spoken by the Manchu ethnic group. According to the [Endangered Languages Project](https://www.endangeredlanguages.com/lang/1205?hl=en), there's less than 20 estimated native speakers of the language still alive. However, with a virtual treasure trove of sources from the Qing Dynasty that have yet to be translated, to lose the Manchu language would be a travesty. Bedun is my attempt to contribute to the preservation effort. Bedun means "sturdy" or "solidly made" in Manchu, and it's my hope that this web application can be a reliable tool for aspiring Manjurists like the name suggests.
 
 
 ## Features
