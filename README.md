@@ -34,7 +34,7 @@ You can choose from several Manchu fonts and switch between light and dark mode.
 
 ### Smarter Ranking & Highlighting
 
-Search results rank by relevance (exact, starts-with, whole-word, fuzzy). Matches are highlighted. Shortcuts: '/' focuses the current input, Enter searches, Esc clears.
+Search results rank by relevance (exact, starts-with, whole-word, fuzzy). Matches are highlighted. You can press Enter to search and Esc to clear.
 
 ### Learn
 

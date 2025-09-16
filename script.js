@@ -328,23 +328,7 @@ fontSelector.addEventListener('change', () => {
     // copy
     document.getElementById('copy-results').addEventListener('click', copyResultsCSV);
 
-    // shortcuts
-    document.addEventListener('keydown', (e) => {
-        const tag = (e.target && e.target.tagName) ? e.target.tagName.toLowerCase() : '';
-        const inEditable = tag === 'input' || tag === 'textarea' || (e.target && e.target.isContentEditable);
-        if (inEditable) return;
-        const isSlash = (e.key === '/' || e.code === 'Slash');
-        const isQuestion = (e.key === '?' || (e.shiftKey && isSlash));
-        const noMods = !e.metaKey && !e.ctrlKey && !e.altKey;
-        if (isSlash && noMods) {
-            e.preventDefault();
-            const searchHidden = document.getElementById('search-view')?.hidden;
-            const target = searchHidden ? document.getElementById('learn-romanized-input') : input;
-            target && target.focus();
-        } else if (isQuestion && noMods) {
-            alert('Shortcuts:\n/ focus input (Search or Learn)\nEnter search\nEsc clear');
-        }
-    });
+    // keyboard shortcuts removed
 
     // sidebar removed
 
