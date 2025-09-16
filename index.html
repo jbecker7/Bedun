@@ -3,26 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#111111">
     <title>ᠪᡝᡩᡠᠨ Bedun</title>
     <link rel="stylesheet" href="style.css">
-    <script src="https://kit.fontawesome.com/1787593060.js" crossorigin="anonymous"></script>
+    <script defer src="https://kit.fontawesome.com/1787593060.js" crossorigin="anonymous"></script>
     <link rel="icon" type="image/x-icon" href="aisin.svg">
+    <link rel="preload" href="fonts/XM_ZhengHei.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="fonts/XM_LiuYe.ttf" as="font" type="font/ttf" crossorigin>
+    <meta name="description" content="Bedun: a beautiful Manchu dictionary that searches English, Romanized Manchu, and Manchu script.">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Bedun">
 </head>
 <body>
-<header>
-    <h1>ᠪᡝᡩᡠᠨ Bedun</h1>
-    <div class="github-link-container" style="position: absolute; top: 100px; left: 5%; display: flex; align-items: center; gap: 10px;">
-        <a id="GH" href="https://github.com/jbecker7" target="_blank" rel="noopener noreferrer" style="cursor: pointer; font-size: 24px; color: #333;">
-            <i class="fa-brands fa-github fa-2xl" style="color: #feffff;"></i>
-        </a>
-        <!-- <h5 style="color: #feffff; margin: 0; font-size: 16px;">If you like this project, please star it on GitHub!</h5> -->
+<header class="app-header">
+    <div class="brand">
+        <div class="brand-title">ᠪᡝᡩᡠᠨ Bedun</div>
+        <div class="brand-subtitle">Manchu Dictionary Search</div>
     </div>
-    
-    <h2>Manchu Dictionary Search Tool</h2>
-    <div id="settings">
-        <i class="fa-solid fa-gear" style="color: #000000;"></i>        <div id="font-selector">
-            <label for="font-select">Select Font:</label>
-            <select id="font-select" onchange="changeFont()">
+    <nav class="header-actions">
+        <div class="view-tabs">
+            <button id="nav-search" class="ghost active" aria-pressed="true">Search</button>
+            <button id="nav-learn" class="ghost" aria-pressed="false">Learn</button>
+        </div>
+        <div class="font-picker">
+            <label for="font-select">Font</label>
+            <select id="font-select">
                 <option value="XM_BiaoHei">XM_BiaoHei</option>
                 <option value="XM_ShuKai">XM_ShuKai</option>
                 <option value="XM_XingShu">XM_XingShu</option>
@@ -30,49 +36,111 @@
                 <option value="XM_GuFeng">XM_GuFeng</option>
                 <option value="XM_WenJian">XM_WenJian</option>
                 <option value="XM_YaBai">XM_YaBai</option>
-                <option value="XM_ZhengHei">XM_ZhengHei</option>
+                <option value="XM_ZhengHei" selected>XM_ZhengHei</option>
                 <option value="XM_LiuYe">XM_LiuYe</option>
                 <option value="XM_WenQin">XM_WenQin</option>
                 <option value="XM_YingBi">XM_YingBi</option>
             </select>
         </div>
-    </div>
+        <button id="theme-toggle" class="icon-button" title="Toggle theme" aria-label="Toggle theme">
+            <i class="fa-solid fa-moon"></i>
+        </button>
+        <a id="gh-link" class="icon-button" href="https://github.com/jbecker7" target="_blank" rel="noopener noreferrer" title="GitHub">
+            <i class="fa-brands fa-github"></i>
+        </a>
+    </nav>
 </header>
 
-<div class="search-container">
-    <div class="options-container">
-        <div class="option">
-            <label>
-                <input type="checkbox" id="whole-word-toggle">
-                Search whole word only
+<main class="app-main">
+    <section id="search-view">
+    <section class="search-panel">
+        <div class="search-row">
+            <div class="search-input-wrap">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" id="search-input" placeholder="Search English, Romanized Manchu, or ᠮᠠᠨᠵᡠ script…" autocomplete="off">
+                <button id="clear-input" class="icon-button" title="Clear" aria-label="Clear">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <button id="search-button" class="primary">Search</button>
+        </div>
+        <div id="translit-preview" class="translit-preview" aria-live="polite" hidden></div>
+        <div class="search-options">
+            <div class="field">
+                <label for="language-select">Field</label>
+                <select id="language-select">
+                    <option value="romanized-manchu">Romanized</option>
+                    <option value="manchu-script">Script</option>
+                    <option value="english">English</option>
+                </select>
+            </div>
+            <label class="checkbox">
+                <input type="checkbox" id="whole-word-toggle"> Whole word
             </label>
+            <label class="checkbox">
+                <input type="checkbox" id="starts-with-toggle"> Starts with
+            </label>
+            <div class="field">
+                <label for="sort-select">Sort</label>
+                <select id="sort-select">
+                    <option value="best">Best match</option>
+                    <option value="romanized">Romanized A→Z</option>
+                </select>
+            </div>
         </div>
-        
-        <div class="option" style="display: flex; align-items: center; gap: 5px;">
-            <label for="language-select" style="margin-right: 5px;">Search Language:</label>
-            <select id="language-select" style="margin-left: 5px;">
-                <option value="romanized-manchu">Romanized Manchu</option>
-                <option value="manchu-script">Manchu Script</option>
-                <option value="english">English</option>
-            </select>
+        <div class="results-meta">
+            <div id="results-stats">Type to search.</div>
+            <div class="actions">
+                <button id="copy-results" class="ghost" title="Copy Romanized list">Copy Results</button>
+            </div>
         </div>
-        
-        
-        
+    </section>
+    <section class="layout">
+        <div class="results" id="results" aria-live="polite"></div>
+    </section>
+    </section>
+
+    <section id="learn-view" hidden>
+        <section class="learn-panel">
+            <div class="learn-header">
+                <h2>Learn the Alphabet</h2>
+                <div class="learn-actions">
+                    <a class="ghost" href="师大满语字母和语音教程.pdf" target="_blank" rel="noopener noreferrer">Open Alphabet PDF</a>
+                </div>
+            </div>
+            <p class="learn-intro">Explore Manchu letters and digraphs. Type romanized Manchu on the left to see the script render live. Click any tile to insert its romanized key. Note: some clusters map contextually; this tool uses a simple greedy mapping for quick practice.</p>
+            <div class="practice">
+                <label for="learn-romanized-input">Romanized</label>
+                <input id="learn-romanized-input" type="text" placeholder="Type romanized…" autocomplete="off">
+                <div id="learn-manchu-output" class="learn-output"></div>
+                <div class="practice-actions">
+                    <button id="learn-clear" class="ghost">Clear</button>
+                    <button id="learn-copy" class="ghost">Copy</button>
+                </div>
+            </div>
+            <h3>Letters and Digraphs</h3>
+            <div id="alphabet-grid" class="alpha-grid"></div>
+        </section>
+    </section>
+</main>
+
+<div id="overlay" class="overlay" aria-hidden="true">
+    <div class="overlay-content">
+        <div class="overlay-toolbar">
+            <button id="overlay-decrease" class="icon-button" title="Smaller"><i class="fa-solid fa-minus"></i></button>
+            <button id="overlay-increase" class="icon-button" title="Larger"><i class="fa-solid fa-plus"></i></button>
+            <button id="overlay-copy" class="icon-button" title="Copy"><i class="fa-solid fa-copy"></i></button>
+            <button id="overlay-close" class="icon-button" title="Close"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <div id="overlay-text" class="overlay-text"></div>
     </div>
-    
-    <input type="text" id="search-input" placeholder="Search for Romanized Manchu, English, or Manchu Script...">
-    <button id="search-button" onclick="searchDictionary()">Search</button>
-    
 </div>
 
-    <br>
-    <div id="results"></div>
-</div>
-
-<div class="popup">
-    <button onclick="closePopup()">Close</button>
-</div>
+<footer class="app-footer">
+    <span>Not affiliated with Manc.hu / Buleku. Press '/' to focus search, '?' for help.</span>
+    <a href="https://buleku.org/home" target="_blank" rel="noopener noreferrer">Buleku</a>
+    <a href="https://www.manchustudiesgroup.org/typing-manchu/" target="_blank" rel="noopener noreferrer">Fonts</a>
+ </footer>
 
 <script src="script.js"></script>
 </body>
